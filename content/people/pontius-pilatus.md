@@ -2,7 +2,7 @@
 
 > Romersk landshøvding i Judea 25–36 e.Kr., kjent som dommeren som dømte Jesus til døden.
 
-*Opprettet: 2025-04-18 | Kilder: 1*
+*Opprettet: 2025-04-18 | Sist oppdatert: 2025-04-25 (lint) | Kilder: 1*
 
 ---
 
@@ -29,12 +29,6 @@ Pilatus er mest kjent for å ha dømt [[people/jesus]] til korsfestelse (Matteus
 Den jødiske historikeren Josefus omtaler Pilatus og hans styre i Judea. Dette er blant de historiske kildene som indirekte bekrefter at [[people/jesus]] eksisterte som historisk person — se [[concepts/historisk-jesus]].
 
 En inskripsjonsstein funnet i Cæsarea Maritima i 1961 bærer Pilatus' navn og tittel, og er det eneste arkeologiske funnet som direkte bekrefter hans eksistens.
-
----
-
-## Bilde
-
-![Pontius Pilatus](../../../raw/articles/personer/pontus-pilatus/pontus-pilatus.jpg)
 
 ---
 
