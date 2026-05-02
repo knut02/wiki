@@ -52,7 +52,7 @@ Porete ble brent på bålet i Paris i 1310 etter en lang inkvisisjonsprosess.
 ## Sammenheng med andre artikler
 
 - [[concepts/skolastisk-teologi]] — universaliestriden er senmiddelalderens kritikk av høymiddelalderens skolastikk
-- [[concepts/mester-eckhart-mystikken]] — Eckhart og Porete representerer same mystiske strøm
+- [[concepts/mester-eckhart-mystikken]] — Eckhart og Porete representerer samme mystiske strøm
 - [[concepts/monastisk-teologi]] — vernakulær teologi vokste delvis ut av klosterteologien
 - [[concepts/luthers-teologi]] — Ockham er en direkte inspirasjon for Luther (Luther var ockhamist)
 

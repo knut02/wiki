@@ -58,7 +58,7 @@ Eckharts vekt på at Gud alene handler i frelsesprosessen — og at alle mennesk
 ## Sammenheng med andre artikler
 
 - [[concepts/monastisk-teologi]] — Eckhart vokste ut av klosterteologien (Bernards kjærlighetsmystikk)
-- [[concepts/middelaldertologi-nyplatonisme]] — Dionysios Areopagiten er Eckharts viktigste inspirasjon
+- [[concepts/middelalderteologi-nyplatonisme]] — Dionysios Areopagiten er Eckharts viktigste inspirasjon
 - [[concepts/universaliestrid-vernakulaer-teologi]] — Eckhart og Porete representerer vernakulær teologi
 - [[concepts/luthers-teologi]] — Luther leste og utgav Theologia Deutsch
 - [[concepts/skolastisk-teologi]] — Eckhart hadde en fot i skolastikken (Paris)
