@@ -1,56 +1,100 @@
-# Nikea-konsilet (325 e.Kr.)
+# Nikea-konsilet (325)
 
-> Det første store kirkemøtet — innkalt av keiser Konstantin for å løse den arianske striden og formulere Treenighetslæren.
+> Det første økumeniske kirkemøtet — innkalt av keiser Konstantin for å avgjøre Arius-striden. Resulterte i homoousios og den første felles kristne trosbekjennelsen.
 
-*Opprettet: 2025-05-01 | Kilder: 1*
+*Opprettet: 2025-05-06 | Kilder: 2*
 
 ---
 
 ## Bakgrunn
 
-Den arianske striden mellom biskop Alexander av Alexandria og hans presbyter Arius hadde spredt seg gjennom hele Romerriket og truet kirkens enhet. Keiser Konstantin, som like hadde inngitt kristendommen full religionsfrihet, ønsket en samlet kirke og innkalte til møte i **Nikea** (dagens Iznik i Tyrkia) i 325. Ca. 250–318 biskoper deltok.
+Etter at Konstantin i 312 vant ved Milviske bro og i 313 utstedte Ediktet fra Milano (religionsfrihet for alle), ble kristendommen for første gang en lovlig og keiserbeskyttet religion. Konstantin oppdaget raskt at kirken var dypt splittet av Arius-striden (se [[concepts/arianismen]]).
+
+En splitter kirke passet dårlig med keiserens drøm om et samlet rike med én religion. I 325 innkalte han biskoper fra hele imperiet til **Nikea** i Bitynia (nær dagens Iznik i Tyrkia) — opprinnelig berammet til Ankyra (Ankara), men flytet.
 
 ---
 
-## Bekjennelsen
+## Møtet
 
-Det viktigste resultatet var bekjennelsen — *Symbolum Nicaenum* — med nøkkelformuleringen:
+**Ca. 300 biskoper** deltok — antallet varierer i kildene mellom 250 og 318. De fleste kom fra øst; bare noen få fra vest (Roma var representert ved to prester på vegne av pave Sylvester I).
 
-**"Gud av Gud, lys av lys, sann Gud av sann Gud, unnfanget, ikke skapt, av samme vesen som Faderen"**
+Konstantin åpnet møtet personlig, kledd i purpur, og understreket at kirkestrid var farligere enn krig. Han hadde ingen teologisk stemmerett, men hans tilstedeværelse og autoritet preget atmosfæren.
 
-Det greske begrepet **homoousios** ("av samme vesen/substans") utelukket ariansk teologi. Arius ble forvist.
-
----
-
-## Kanonene
-
-Nikea vedtok 20 kanoner — regler for kirkens organisering og prestenes adferd, bl.a. om biskopenes jurisdiksjon og gjenopptagelse av dem som hadde falt fra under forfølgelsene.
+**Hovedspørsmålet:** Er Sønnen *homoousios* (av samme vesen) med Faderen, eller er han en skapt mellominstans som Arius hevdet?
 
 ---
 
-## De fire store konsiler
+## Nikea-bekjennelsen
 
-Nikea er det første av fire konsiler som definerte ortodoks kristologi:
+Møtet vedtok en bekjennelse — ikke et fullstendig ferdig dokument, men et tydelig teologisk svar på Arius:
 
-| Konsil | År | Vedtak |
-|--------|-----|--------|
-| Nikea | 325 | Sønnen er *homoousios* med Faderen |
-| Konstantinopel | 381 | Den hellige ånd er like guddommelig |
-| Efesus | 431 | Maria er *Theotokos*; nestorianismen avvist |
-| Kalkedon | 451 | Jesus har to naturer i én person |
+> «Vi tror på én Gud, Faderen, den Allmektige, skaper av alt synlig og usynlig. Og på én Herre Jesus Kristus, Guds Sønn, født av Faderen, enbåren — det vil si av Faderens substans — Gud av Gud, lys av lys, sann Gud av sann Gud, **født, ikke skapt, av samme vesen som Faderen** (*homoousios tō patri*) — ved ham ble alt til, i himmelen og på jorden.»
+
+Nøkkelord og hva de avviser:
+
+| Nikea-formulering | Avviser |
+|-------------------|---------|
+| «av Faderens vesen» (*ek tēs ousias*) | Arius: Sønnen er ikke av Guds vesen |
+| «sann Gud av sann Gud» | Arius: Sønnen er et lavere guddomsvesen |
+| «født, ikke skapt» (*gennēthenta, ou poiēthenta*) | Arius: Sønnen er skapt av intet |
+| «av samme vesen» (*homoousios*) | Arius: «det var en gang han ikke var» |
+
+Bekjennelsen avsluttes med en eksplisitt anathema mot arianske formuleringer.
+
+---
+
+## Kanoner
+
+I tillegg til bekjennelsen vedtok konsilet **20 kanoner** om disiplin og kirkens organisering. Blant de viktigste:
+
+- **Kanon 1** — kastrasjon av seg selv diskvalifiserer fra prestetjeneste
+- **Kanon 2** — nydøpte skal ikke ordineres
+- **Kanon 6** — patriarkatets rang bekreftes: Alexandria, Roma og Antiokia
+- **Kanon 7** — Jerusalem gis æresprioritet
+- **Kanon 19** — Paulinianere (tilhengere av Paulus av Samosata) skal gjenoppdøpes
+- **Kanon 20** — stående stilling under gudstjenesten på søndager (ikke knefall)
+
+---
+
+## Homoousios — et omdiskutert begrep
+
+*Homoousios* var ikke ukontroversielt. Ordet hadde blitt brukt av Paulus av Samosata i en form som hadde blitt fordømt. Mange biskoper, særlig i øst, var skeptiske — ikke fordi de var arianske, men fordi de fryktet at begrepet lukket teologisk diskusjon og innebar at Faderen og Sønnen var identiske (modalisme).
+
+Athanasius brukte mesteparten av livet etter Nikea på å forsvare og klargjøre begrepet. De kappadokiske fedrene (Basil, Gregor av Nazianz, Gregor av Nyssa) var de som endelig ga det sin presise form: *én ousia, tre hypostaser*.
+
+---
+
+## Etter Nikea: Striden fortsatte
+
+Nikea løste ikke striden umiddelbart. I tiårene etter 325:
+
+- Konstantin selv vaklet mellom nikenske og ikke-nikenske posisjoner
+- Athanasius ble fem ganger sendt i eksil
+- Under keiserne Konstantius II og Valens dominerte ikke-nikenske teologier
+- Gregor av Nazianz kom til Konstantinopel i 379 og fant bare én nikensk kirke
+
+Først under **Theodosius I** (keiser fra 379) fikk Nikea-teologien endelig seier. Kirkemøtet i Konstantinopel (381) bekreftet og utdypet Nikea-bekjennelsen — nå med Den Hellige Ånd inkludert i det trinitariske skjemaet.
+
+---
+
+## Nikea og statsreligionen
+
+Nikea (325) markerer begynnelsen på kirkens tette kobling til den romerske keisermakten. Keiseren innkaller, finansierer og legitimerer kirkemøtet. Dette skapte en ny type kirke: ikke lenger forfulgt minoritet, men keiserens religiøse arm. Se [[concepts/statsreligion]].
 
 ---
 
 ## Sammenheng med andre artikler
 
-- [[concepts/arianismen]] — striden Nikea skulle løse
-- [[concepts/treenigheten]] — den fullstendige læren inkl. alle fire konsiler
-- [[concepts/statsreligion]] — Konstantin og kirken
-- [[concepts/de-tre-oldkirkelige-bekjennelsene]] — bekjennelsene som vokste ut av disse møtene
-- [[timelines/kirkefedrene-tidslinje]] — Nikea plassert i kronologi
+- [[concepts/arianismen]] — striden som skapte behovet for konsilet
+- [[concepts/treenigheten]] — den fullstendige dogmatiske utviklingen
+- [[people/athanasius]] — Nikeas fremste forsvarer
+- [[concepts/statsreligion]] — Konstantin og keiserens rolle
+- [[concepts/de-tre-oldkirkelige-bekjennelsene]] — Nikea som første ledd
+- [[concepts/kirkehistorie-100-200]] — forhistorien
 
 ---
 
 ## Kilder
 
-- [[sources/batch-TEOL2310-2025-05-01]] — TEOL2310 kursmodul 5 og 7: primærtekster fra Nikea, Konstantinopel, Efesus og Kalkedon
+- [[sources/TEOL2310-teologihistorie-oldkirken]] — primærtekster: Nikeas bekjennelse og kanoner (Ehrman, *Christianity in Late Antiquity*, tekst 33)
+- [[sources/TEOL2310-teologihistorie-6]] — Athanasius' frelsesargument for homoousios

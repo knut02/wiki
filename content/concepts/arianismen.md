@@ -1,53 +1,106 @@
 # Arianismen
 
-> Den kristologiske læren fra Arius (ca. 260–336) om at Sønnen er skapt og underordnet Faderen — og den store konflikten den utløste i det fjerde århundret.
+> Striden om Kristi guddommelighet som rystet kirken i det 4. århundre: Er Sønnen av samme vesen som Faderen, eller skapt? Svaret fra Nikea (325) formet kristen tro for all ettertid.
 
-*Opprettet: 2025-05-01 | Kilder: 1*
-
----
-
-## Hva lærte Arius?
-
-Arius var presbyter i Alexandria og formulerte en teologi der Sønnen (Logos) er skapt av Faderen — guddommelig, ja, men ikke evig og ikke av samme vesen. Den mest kjente formuleringen er:
-
-> "Det var en tid da Sønnen ikke var til."
-
-I verket *Thalia* (en sang/et dikt) argumenterte Arius for at:
-- Faderen er den eneste sanne Gud, uten begynnelse og absolutt uforanderlig
-- Sønnen er skapt av Faderen fra ingenting, den første og høyeste av alle skapninger
-- Sønnen ble til i tid — han er ikke evig
+*Opprettet: 2025-05-06 | Kilder: 2*
 
 ---
 
-## Bakgrunnen for striden
+## Bakgrunn: Problemet som skapte krisen
 
-Arius kom i åpen konflikt med biskop **Alexander av Alexandria** i 319. Alexander argumenterte for at Sønnen er evig og av samme guddommelige vesen som Faderen. Arius svarte at dersom Sønnen var av samme vesen, ville Gud være sammensatt og delelig — noe som bryter med klassisk gudsforståelse.
+Allerede i det 2. og 3. århundre hadde kristne debattert forholdet mellom Faderen og Sønnen. Mange forsøk ble forkastet: *Modalisme* (at Faderen, Sønnen og Ånden bare er tre «ansikter» av én og samme person) ble avvist av Tertullian. *Subordinasjonisme* — at Sønnen er underordnet Faderen — var utbredt, men upresist formulert.
 
-Striden spredte seg gjennom hele østromerriket og ble en politisk og kirkelig krise. Keiser Konstantin innkalte til kirkemøte.
+Det var **Arius av Alexandria** (ca. 260–336) som ga debatten sin tilspissede form.
 
 ---
 
-## Nikea-konsilet (325) og etterspillet
+## Arius og hans lære
 
-Kirkemøtet vedtok bekjennelsen med nøkkelordet **homoousios** — "av samme vesen". Arius ble forvist. Men dette var ikke slutten:
+Arius var ikke en marginalisert enkeltperson, men en populær prest og teolog i Alexandria, ordinert rundt 312. Han formulerte sin teologi som en *frelsesmodell*: Hvordan kan den fullkomne, uforanderlige Gud forbinde seg med den ufullkomne skapningen?
 
-- Ariansk teologi ble støttet av keiser Konstantius II (337–361), og Nikeas vedtak ble midlertidig reversert
-- Biskop Athanasius av Alexandria ble forvist fem ganger for å forsvare Nikeas løsning
-- Striden fortsatte i over 50 år — til Konstantinopel-konsilet (381) befestet Treenighetslæren endelig
+Hans svar: Sønnen er Guds første og høyeste skapning — ikke av Guds eget vesen, men skapt av Faderen *før* all annen skapelse. Sønnen er Guds redskap for å skape og åpenbare seg, men han er ikke Gud i egentlig forstand.
 
-Selv etter 381 levde arianismen videre blant germanske folkeslag (goterne, vandalene, langobardene) som hadde blitt kristnet under en ariansk biskop. Først på 600–700-tallet forsvant ariansk kristendom fra Europa.
+Formulert i hans poetiske tekst *Thalia* (ca. 318–320):
+
+- Sønnen er skapt av Faderens vilje, ikke av hans vesen
+- Det var en tid da Sønnen **ikke eksisterte** («det var en gang han ikke var»)
+- Sønnen er foranderlig av natur, men ble valgt ut av Gud på grunn av sin fremtidige lydighet
+- Faderen alene er evig, ubegynt, uforanderlig og fullkommen
+
+Arius så dette som en fornuftig løsning: Den absolutt transcendente Gud trengte et mellomvesen for å forbinde seg med skaperverket. Sønnen er dette mellomvesenet — høyere enn alle skapninger, men lavere enn Faderen.
+
+---
+
+## Alexanders motangrep
+
+Biskop **Alexander av Alexandria** (ca. 250–328) reagerte skarpt. I 319 brøt han åpent med Arius og sendte brev til biskoper over hele kirken. Hans anklagepunkter:
+
+- Arius gjør Sønnen til en skapning, dermed kan han ikke frelse — bare Skaperen kan gjenopprette det skapte
+- Formuleringen «det var en gang han ikke var» er blasfemisk; den impliserer at Gud en gang var uten sin Logos og visdom
+- Skriftene taler om Sønnen som «i Faderens favn» (Joh 1:18), alltid hos Faderen
+- En Sønn som er skapt og foranderlig, gir oss ingen sikker kunnskap om Gud selv
+
+Alexanders brev satte tonen for all etterfølgende debatt: konstruktiv teologi *flettet sammen med* kraftig heresiologisk retorikk — Arius plasseres i en lang rekke av fortidens kjettere (Ebion, Artemas, Paulus av Samosata).
+
+---
+
+## Nicaea 325
+
+Se [[concepts/nikea-konsilet]] for detaljert gjennomgang.
+
+Kort oppsummert: Keiser Konstantin innkalte ca. 300 biskoper til Nikea for å løse striden. Resultatet ble Nikea-bekjennelsen med nøkkelordet **homoousios** («av samme vesen») — Sønnen er av Faderens eget vesen, ikke skapt av intet.
+
+---
+
+## Striden fortsatte etter Nikea
+
+Nikea løste ikke konflikten — det hardnet frontlinjene. Gjennom store deler av 300-tallet var ikke-nikenske teologier like prominente i kirken som nikenske, særlig i øst og med støtte fra vekslende keisere.
+
+**Nøkkelbetingelser for ariansk motstand:**
+
+| Posisjon | Syn | Representanter |
+|----------|-----|----------------|
+| *Homoousios* (Nikea) | Sønnen er av *samme* vesen som Faderen | Athanasius, kappadokierne |
+| *Homoiousios* | Sønnen er av *lignende* vesen | Moderat østlig posisjon |
+| *Anomoianerne* | Sønnen er *ulik* Faderen (radikal arianisme) | Eunomius, Aetius |
+
+Gregor av Nyssa beskrev den populære forvirringen: «Spørre du pengeveksleren om vekslingskurs, filosoferer han om det Fødde og det Ufødte; spørre du om brødprisen, svarer han: Faderen er større og Sønnen er underordnet.»
+
+---
+
+## Endelig avgjørelse: Konstantinopel 381
+
+Under keiser **Theodosius I** seierte det nikenske partiet. Kirkemøtet i Konstantinopel (381) bekreftet og utdypet Nikea-bekjennelsen, og inkluderte Den Hellige Ånd tydelig i trinitarisk formel. Se [[concepts/statsreligion]] for den politiske konteksten.
+
+---
+
+## Teologisk betydning
+
+**Athanasius'** soteriologiske argument var avgjørende: Hvis Sønnen er en skapning og ikke fullt ut Gud, kan han ikke frelse. Bare Skaperen kan gjenopprette det skapte. Frelseslæren krever en fullverdig guddommelighet hos Kristus.
+
+**Kappadokiernes** begrepsavklaring (Basil, Gregor av Nazianz, Gregor av Nyssa) løste det tekniske problemet: *én ousia* (vesen/substans), *tre hypostaser* (personer). Denne formelen ble normgivende.
+
+---
+
+## Arianisme etter Kalkedon
+
+Arianismen forsvant ikke med Konstantinopel 381. Gotere, vandaler og burgundere — som hadde blitt kristnet gjennom Wulfila på 300-tallet, da arianisme var kirkens dominerende form i øst — forble arianske frem til ca. 600. Arianismen var dermed i praksis «de germanske folkenes kristendom» i tidlig middelalder.
 
 ---
 
 ## Sammenheng med andre artikler
 
-- [[concepts/treenigheten]] — læren som ble formulert som svar på arianismen
-- [[concepts/nikea-konsilet]] — der arianismen ble fordømt
-- [[concepts/frelse-athanasius-augustin]] — Athanasius som Nikeas fremste forsvar
-- [[concepts/kirkehistorie-100-200]] — bakgrunnen for teologisk mangfold i oldkirken
+- [[concepts/nikea-konsilet]] — selve kirkemøtet og bekjennelsen
+- [[concepts/treenigheten]] — den fullstendige treenighetslæren
+- [[people/athanasius]] — den fremste forsvareren av Nikea
+- [[concepts/frelse-athanasius-augustin]] — frelsesargumentets kjerne
+- [[concepts/de-tre-oldkirkelige-bekjennelsene]] — Nikea og Konstantinopel
+- [[concepts/statsreligion]] — keiserens rolle i striden
+- [[concepts/apostoliske-fedre]] — Ignatius' og Tertullians forprøver
 
 ---
 
 ## Kilder
 
-- [[sources/batch-TEOL2310-2025-05-01]] — TEOL2310 kursmodul 5: primærtekster fra Arius og Alexander
+- [[sources/TEOL2310-teologihistorie-oldkirken]] — modul 5: primærtekster fra Arius, Alexander, Nikea
+- [[sources/Skarsaune-1988-inkarnasjonen]] — inkarnasjonens soteriologiske grunnlag
