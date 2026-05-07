@@ -81,7 +81,7 @@ For apostlene var utfordringen å holde fast på troen på Jesus når alt virket
 ## Sammenheng med andre artikler
 
 - [[concepts/johannes-evangeliet-studieplan]] — dette er en nøkkeltekst i uke 4
-- [[concepts/bekjennelse-og-helbredelse]] — å leve i relasjonen med Gud
+- [[concepts/bekjennelse]] — å leve i relasjonen med Gud
 - [[concepts/hellige-ånd]] — Talsmannen som fortsetter Jesu nærvær (Joh 14:16–17)
 - [[concepts/theosis]] — å være «i» Faderen og Sønnen
 - [[concepts/inaugurert-eskatologi-og-kjonn]] — riket som allerede er begynt
