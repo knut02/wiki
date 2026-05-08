@@ -60,7 +60,7 @@ Perpetuas dagbok forutsetter at visjoner og profetiske drømmer er normale — i
 Perpetua *overskred* kjønnsrollene i sine visjoner — hun ble mann, hun ledet gruppen, hun ble eksemplet. **Clark** (*Bodies and Blood*) analyserer dette: martyriet var ett av de få rommene der en kvinne kunne oppnå offentlig anerkjennelse og religiøs autoritet i antikken.
 
 ### Mor og martyr
-Det mest smertefulle i Perpetuas dagbok er ambivalensen rundt barnet. Hun ammer i fengselet. Så en dag stopper melken å renne — og hun leser det som et tegn: barnet trenger henne ikke lenger. Ambitansen mellom moderskapet og martyrkallet er åpen og ubeskyttet i teksten.
+Det mest smertefulle i Perpetuas dagbok er ambivalensen rundt barnet. Hun ammer i fengselet. Så en dag stopper melken å renne — og hun leser det som et tegn: barnet trenger henne ikke lenger. Ambivalensen mellom moderskapet og martyrkallet er åpen og ubeskyttet i teksten.
 
 ### Tertullian og montanismen
 Den sannsynlige redaktøren, Tertullian, var på dette tidspunktet på vei inn i *montanismen* — en karismatisk bevegelse som la stor vekt på profetiske visjoner. Det er mulig at han redigerte teksten nettopp fordi den passet montanistisk spiritualitet. **Price** (*Martyrdom and the Cult of the Saints*) diskuterer dette.
@@ -77,8 +77,7 @@ Augustin preket gjentatte ganger om Perpetua — han beundret henne, men var amb
 
 ## Sammenheng med andre artikler
 
-- [[concepts/martyriet]] — martyriet som oldkirkelig ideal
-- [[concepts/askese-martyrdom-klosterbevegelsen]] — den bredere konteksten
+- [[concepts/martyriet]] — martyriet, askesen og klosterbevegelsens fremvekst
 - [[concepts/hellige-ånd]] — profetiske visjoner og Åndsbegavelse
 - [[concepts/kirkehistorie-100-200]] — forfølgelsene under Septimius Severus
 - [[concepts/kvinner-i-evangeliene]] — kvinner og religiøs autoritet

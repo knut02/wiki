@@ -1,43 +1,46 @@
 # Kirkefedre
 
-> Tidlige kristne forfattere og teologer fra de første århundrene e.Kr. som la grunnlaget for kristen lære og teologi.
+> Navigasjonsoppslag over kirkefadrene fra ca. 90 til 700 e.Kr. — se individuelle artikler for dybde.
 
-*Opprettet: 2025-04-18 | Kilder: 1*
+*Opprettet: 2025-04-18 | Oppdatert: 2025-05-06*
 
 ---
 
 ## Hva er kirkefedre?
 
-Kirkefedre er betegnelsen på de tidlige kristne tenkerne som levde og virket fra ca. 100 til 700 e.Kr. De bidro til å forme kristen teologi, bekjempe kjetteri og bygge opp kirkens struktur. Deres skrifter regnes som autoritetskilder i mange kristne tradisjoner.
+Kirkefedre er betegnelsen på de tidlige kristne tenkerne fra ca. 90 til 700 e.Kr. som la grunnlaget for kristen lære, bekjempe kjetteri og bygde opp kirkens struktur. Deres skrifter er autoritative i mange kristne tradisjoner — særlig ortodoks og katolsk.
+
+Fire tradisjonelle kriterier for kirkefedrebetegnelsen: ortodoks lære, hellig liv, kirkelig godkjenning, og tilhørighet til oldkirken.
 
 ---
 
-## Sentrale kirkefedre (utvalg)
+## Navigasjon
 
-| Navn | Periode | Kjent for |
-|------|---------|-----------|
-| Ignatius av Antiokia | ca. 35–107 | Kirkens enhet, biskopenes autoritet |
-| Clement av Roma | ca. 35–99 | Kirkens enhet, tro |
-| Polycarp | ca. 69–155 | Forsvar mot kjetteri, trofasthet |
-| Justin Martyr | ca. 100–165 | Filosofi + teologi, forsvar av kristendommen |
-| Irenaeus av Lyon | ca. 130–202 | Bekjempet gnostisisme, apostolisk tradisjon |
-| Tertullian | ca. 155–240 | Formulerte "Treenigheten", konverterte til montanisme |
-| Origenes | ca. 184–253 | Bibeltolkning, platonsk filosofi |
-| Cyprian av Kartago | ca. 200–258 | Biskopens autoritet, sakramenter |
-| Gregor av Nyssa | ca. 335–395 | Treenigheten, Guds uendelige natur |
-| Jerome | ca. 347–420 | Oversatte Bibelen til latin (Vulgata) |
-| **Augustin av Hippo** | 354–430 | Arvesynd, predestinasjon, Guds nåde |
+**De apostoliske fedre (ca. 90–150):**
+→ [[concepts/apostoliske-fedre]] — Ignatius av Antiokia, Polykarp, Klemens av Roma, Didake, Hermas
+
+**Apologetene og Ireneus (ca. 150–200):**
+Justin Martyr, Tertullian, Ireneus av Lyon — se [[concepts/gnostisisme]] (Ireneus' motangrep) og [[concepts/arianismen]] (Tertullians begreper)
+
+**Alexandrinske kirkefedre (ca. 150–400):**
+→ [[people/klemens-av-alexandria]] — filosofi og tro, den sanne gnostiker
+→ [[people/gregor-av-nyssa]] — epektasis, apofatikk, Moses i mørket
+→ [[people/athanasius]] — Nikeas forsvarer, *De incarnatione*
+
+**Vestlige kirkefedre (ca. 300–430):**
+→ [[people/augustin]] — arvesynd, nåde, predestinasjon, *Confessiones*
+
+**Tematiske artikler:**
+→ [[concepts/frelse-athanasius-augustin]] — frelseslærene sammenlignet
+→ [[concepts/theosis]] — guddommeliggjørelse fra Athanasius til Gregor
+→ [[concepts/gudskunnskap-og-danning]] — Hägg: Klemens og Gregor om epektasis
+→ [[concepts/apofatisk-teologi]] — fra Klemens til Dionysios Areopagiten
+→ [[timelines/kirkefedrene-tidslinje]] — kronologisk oversikt
 
 ---
 
 ## Sammenheng med andre artikler
 
-- [[people/augustin]] — den mest innflytelsesrike vestlige kirkefaren
-- [[concepts/oldkirken]] — den historiske konteksten kirkefedre virket i
-- [[concepts/inkarnasjon]] — et sentralt tema for mange kirkefedre
-
----
-
-## Kilder
-
-- [[sources/kirkefedre]] — oversiktsartikkel med liste og stikkord
+- [[concepts/kristendommens-historie-oversikt]] — kirkefadrenes historiske kontekst
+- [[concepts/statsreligion]] — kirkefadrenes politiske ramme
+- [[concepts/treenigheten]] — det store teologiske prosjektet

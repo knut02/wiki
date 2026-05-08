@@ -20,31 +20,33 @@ Grunnlagt av Benedikt av Nursia, som regnes som klosterlivets far i Vesten. Hans
 
 ## Høymiddelalderen: Cistercienserne
 
-Oppkalt etter Citeaux i Burgund, grunnlagt av abbeden Robert av Molesme for å gjenopprette Benedikts opprinnelige enkelhet. Strukturelt nytt: hvert kloster var en "datter" av et "moderkloster", som skapte et nettverk uten å bli sentralisert. Mer balansert dagsprogram mellom gudstjeneste (*opus dei*), åndelig lesning (*lectio divina*) og fysisk arbeid. Klostrene lå gjerne mer avsides, og *lekbrødre* — rekruttert fra lavere klasser — fikk for første gang plass innenfor klostermurene.
+Oppkalt etter Citeaux i Burgund, grunnlagt av abbeden Robert av Molesme for å gjenopprette Benedikts opprinnelige enkelhet. Strukturelt nytt: hvert kloster var en «datter» av et «moderkloster», som skapte et nettverk uten å bli sentralisert. Mer balansert dagsprogram mellom gudstjeneste (*opus dei*), åndelig lesning (*lectio divina*) og fysisk arbeid. Klostrene lå gjerne mer avsides, og *lekbrødre* — rekruttert fra lavere klasser — fikk for første gang plass innenfor klostermurene.
 
 ---
 
 ## Senmiddelalderen: Tiggerordenene
 
-Knyttet til den nye bykulturen. De viktigste: fransiskanerne og dominikanerne. Viktige særtrekk: medlemmene var ikke knyttet til et spesifikt kloster, men til hele ordenen. Geografisk organisert i provinser med valgt ledelse. De gikk *ut* i verden fremfor å trekke seg tilbake. Forkynnelse, sjelesorg og fattigdomsideal. Dominikanerne la vekt på intellektuelt arbeid og studer; fransiskanerne på radikal fattigdom og mystisk fromhet.
+Knyttet til den nye bykulturen. De viktigste: fransiskanerne og dominikanerne. Viktige særtrekk: medlemmene var ikke knyttet til et spesifikt kloster, men til hele ordenen. Geografisk organisert i provinser med valgt ledelse. De gikk *ut* i verden fremfor å trekke seg tilbake. Forkynnelse, sjelesorg og fattigdomsideal. Dominikanerne la vekt på intellektuelt arbeid og studier; fransiskanerne på radikal fattigdom og mystisk fromhet.
 
 ---
 
 ## Kvinner i klosterlivet
 
-Kvinner som gikk i kloster ble kalt nonner. De levde enten i egne klostre eller i *dobbeltklostre* med felles ledelse, men separat fra munkene. Nonner ble tillagt husarbeid og hadde begrenset kontakt med omverdenen. Likevel ga klosterlivet mange kvinner muligheter for åndelig utfoldelse som ellers ikke hadde vært tilgjengelige. Den mest kjente er Hildegard av Bingen, som ble abbedisse som 38-åring og fikk sine visjoner anerkjent av paven i 1147.
+Kvinner som gikk i kloster ble kalt nonner. De levde enten i egne klostre eller i *dobbeltklostre* med felles ledelse, men separat fra munkene. Likevel ga klosterlivet mange kvinner muligheter for åndelig utfoldelse som ellers ikke hadde vært tilgjengelige. Den mest kjente er Hildegard av Bingen, som ble abbedisse som 38-åring og fikk sine visjoner anerkjent av paven i 1147.
 
 ---
 
 ## Munker og prester — to ulike kall
 
-Prester ble definert av vigslingen (*sakrament*); munker av løftene om lydighet, fattigdom og kyskhet (*vota monastica*). Disse to sporene var i prinsippet atskilte, men overlappet i praksis — noen prestestillinger rekrutterte kun fra munker.
+Prester ble definert av vigslingen (*sakrament*); munker av løftene om lydighet, fattigdom og kyskhet (*vota monastica*). Disse to sporene var i prinsippet atskilte, men overlappet i praksis.
 
 ---
 
 ## Sammenheng med andre artikler
 
-- [[concepts/oldkirken]] — statsliggjøringen av kirken som utløste klosterbevegelsen
+- [[concepts/kristendommens-historie-oversikt]] — statsliggjøringen av kirken som utløste klosterbevegelsen
+- [[concepts/martyriet]] — den monastiske bevegelsens røtter i martyrtradisjonen
+- [[concepts/monastisk-teologi]] — teologien innenfor klosterbevegelsen
 - [[concepts/kirkefedre]] — mange kirkefedre var tilknyttet klostertradisjon
 - [[people/augustin]] — augustinereremittene er en av tiggerordenene
 
