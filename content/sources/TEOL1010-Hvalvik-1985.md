@@ -1,38 +1,32 @@
 # Kilde: TEOL1010-Hvalvik-1985
-*Fil: raw/papers/TEOL1010/Hvalvik Hovedtrekk i Matteusevangeliet.md | Kompilert: 2025-05-05*
+*Fil: raw/papers/TEOL1010/Hvalvik Hovedtrekk i Matteusevangeliet.md | Kompilert: 2025-05-06*
 
-**Hvalvik, Reidar (1985/2014): *Hovedtrekk i Matteusevangeliet* (utvalgte temaer og tekster). Det teologiske Menighetsfakultet, Oslo.**
+**Hvalvik, Reidar (1985, lett revidert 2014): *Hovedtrekk i Matteusevangeliet*. Det teologiske Menighetsfakultet, Oslo.**
 
-Kompendium til studiebruk ved MF. Gjennomgang av Matteusevangeliets teologiske profil med vekt på kristologiske titler, Jesu undere og forholdet til Israel/hedningene.
+Kompendium skrevet for MF-studenter. Utmerket OCR-kvalitet. Dekker Matteus 1–2, de kristologiske titlene, Jesu undere, forholdet til GT, Israel og hedningene, og lidelseshistorien.
 
-## Innhold
+## Nøkkelinnhold
 
-**Matteus 1–2 og innledningskapitlene:**
-Ættetavlen (Matt 1,1–17) som teologisk konstruksjon — 14 slektsledd × 3 perioder, basert på Davids navns tallverdi i hebraisk. Josef som hovedperson (vs. Lukas' Maria). Oppfyllelsessitatene fra GT som Matteus' gjennomgående grep.
+**Matteus 1–2 vs. Lukas 1–2:**
+Ikke paralleller men to selvstendige fremstillinger. Matteus: Josef som hovedperson, drømmeåpenbaringer, fem GT-sitater. Lukas: Maria som hovedperson, detaljert historiografi. Ingen litterær avhengighet — samsvarer bare på Jesu overnaturlige unnfangelse.
 
-**De kristologiske titlene (seks):**
-1. *Messias/Kristus* — Davids sønn og Abrahams sønn
-2. *Herrens tjener* — fra Jesajas tjenervers
-3. *Davids sønn* — kongelig messiasforventning
-4. *Menneskesønnen* — Den av Am 7 / Dan 7-skikkelsen
-5. *Guds Sønn* — Guds spesielle representant
-6. *Immanuel* — «Gud med oss» (Matt 1:23; 28:20 som ramme)
+**GT-oppfyllelse (fem sitater):**
+Jes 7:14; Mi 5:1; Hos 11:1; Jer 31:15; og det problematiske «nasarener»-sitatet som ikke finnes ordrett i GT.
 
-**Jesu undere i Matteus:**
-Underene er ikke primært bevis for Jesu guddommelighet, men tegn på at Guds rike er kommet nær. Sammenheng med bønn og tro. Matteus' utvalg og redigering av markusfortellinger om helbredelse.
+**De seks kristologiske titlene:**
+Messias/Kristus, Davids sønn (helbredende), Abrahams sønn (løftets oppfyllelse), Herrens tjener (Jes 42), Menneskesønnen (sårbar og dommer), Guds Sønn (reservert for avgjørende øyeblikk).
 
-**Jesus, Israel og hedningene:**
-Spenning mellom «gå ikke til hedningene» (10:5) og misjonsbefalingen (28:18–20). Matteus skriver til en jødisk-kristen menighet i konflikt med synagogen.
+**Ti undere i Matt 8–9:**
+Tre grupper, bevisst komposisjon. Messiansk bevis (Matt 11:5, Jes 35:5–6 og 61:1 sitert) og Jesu medfølelse (*splanknizomai*) som motiv.
 
-**Lidelseshistorien:**
-Matteus' særlige materiale; rettergangen mot Jesus (ekskurs); oppstandelsesberetningene.
+**Israel og hedningene:**
+Narrativt mønster fra eksklusiv (Matt 10:5–6) til inklusiv (Matt 28:19). 1 Mos 12:3 oppfylt i misjonsbefalingen.
 
-**Misjonsbefalingen (Matt 28,18–20):**
-Alle nasjoner; dåp i treenighetsformelen; Immanuel-løftets oppfyllelse — «jeg er med dere alle dager».
+**Rettergang mot Jesus (ekskurs):**
+Pilatus' kone, håndvasken, «Hans blod komme over oss» — bare Matteus.
 
 ## Relevante wiki-artikler
 → [[concepts/matteus-evangeliet]]
 → [[concepts/matteus-kristologi]]
 → [[concepts/messias]]
-→ [[concepts/evangeliene]]
-→ [[concepts/dapen]]
+→ [[concepts/bergprekenen]]

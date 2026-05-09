@@ -1,37 +1,26 @@
 # Kilde: TEOL1010-Sødal-2009-NT
-*Fil: raw/papers/TEOL1010/Sødal, H. K. (2009).md | Kompilert: 2025-05-05*
+*Fil: raw/papers/TEOL1010/NT/TEOL1010 - Sødal, H. K. (2009).Bibelen-NT.md | Kompilert: 2025-05-06*
 
-**Sødal, Helje Kringlebotn; Sandnes, Karl Olav; Eidhamar, Levi Geir (2009): *Kristendommen I. Bibelen*, 2. utg. Cappelen Damm. ISBN 978-82-76347838. S. 239–276.**
+**Sødal, H. K., Sandnes, K. O. & Eidhamar, L. G. (2009): *Kristendommen I. Bibelen*, 2. utg., s. 239–276. Cappelen Damm. ISBN 978-82-763-4783-8.**
 
-Studiekompendium brukt i TEOL1010. Dekker NT-bøker fra og med Apostlenes gjerninger.
+Kapittel 13: Apostlenes gjerninger. Lærebok til TEOL1010.
 
-## Innhold
+## Nøkkelinnhold
 
-**Apostlenes gjerninger:**
-Dobbeltverk med Lukasevangeliet. Tema: Jesu virksomhet etter oppstandelsen gjennom sin Ånd; spredning av evangeliet fra Jerusalem til Roma. Forfatterspørsmål (Lukas? «Vi-avsnittene»).
+**Apostlenes gjerninger som dobbeltverk med Lukas:** Lukas 24:46–49 og Apg 1:8 binder dem teologisk. Geografisk ekspansjon: Jerusalem → Judea/Samaria → verden.
 
-**Paulusbrevene og Paulus' teologi:**
-- Paulus' bakgrunn: fariseer, Tarsus, romersk borger
-- Omvendelsesberetningens tre versjoner (Apg 9, 22, 26)
-- *Rettferdiggjørelse ved tro* som kjernelære
-- *Dåpsteologi* i Romerbrevet 6: dåpen som deltakelse i Kristi død og oppstandelse
-- *Åndens teologi* i Romerbrevet 8: livet i Ånden vs. kjødet
-- Brevenes autentisitet og rekkefølge
+**Sjanger:** Heltefortelling (*praxeis*) — men apostlene er ikke egentlige helter; Ånden og Jesus er handlingens drivkraft.
 
-**Hebreerbrevet og de katolske brev:**
-- Hebreerbrevet: Kristi yppersteprestedømme; offerteologi
-- Jakobs brev: tro og gjerninger; praktisk etikk
-- Peters brev: håp og lidelse i diaspora
-- Johannes' brev: kjærlighet, sannhet og antikrist
+**Forfatter og datering:** Lukas tradisjonelt; «vi-avsnittene» som argument. Debattert. Datering ca. 80–85 e.Kr. mest vanlig.
 
-**Johannesapokalypsen:**
-- Apokalyptisk sjanger; tallsymbolikk
-- Kontekst: forfølgelse under Domitian?
-- Sentrale bilder: Lammet, beistet, det nye Jerusalem
+**Sentrale fortellinger:** Pinsen (Apg 2), Stefanus (Apg 6–7), Filip og den etiopiske hoffmannen (Apg 8), Paulus' omvendelse (Apg 9), Kornelius (Apg 10–11), Paulus' misjonsreiser (Apg 13–21), Apg 17 (Areopagstalen), åpen slutt i Roma (Apg 28:31).
+
+**Paulus:** Skildres noe annerledes enn i Paulus' egne brev — muligens tegn på at forfatteren ikke kjente ham personlig.
+
+**Teologisk poeng:** Evangeliet sprer seg fra Jerusalem til Roma — og stopper ikke. Den åpne slutten er bevisst.
 
 ## Relevante wiki-artikler
-→ [[concepts/paulus-teologi]]
-→ [[concepts/dapen]] (Romerbrevet 6)
-→ [[concepts/hellige-ånd]] (Romerbrevet 8)
+→ [[concepts/apostlenes-gjerninger]]
 → [[concepts/evangeliene]]
-→ [[concepts/det-nye-testamentet]]
+→ [[people/paulus]]
+→ [[concepts/hellige-ånd]]
