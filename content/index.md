@@ -10,6 +10,7 @@ Innføring i bibeltolkning, tekstarbeid og bibelspråk.
 
 - [[concepts/bibelens-tilblivelse]] — fra muntlig tradisjon til kanon; oversettelseshistorie; Guds ord og menneskestemmer
 - [[concepts/bibeltolkning-innforing]] — hermeneutikk, sjangre, kontekst, eksegese vs. eisegese
+- [[concepts/kvinner-som-bibeltolkere]] — leserposisjon, feministisk hermeneutikk, Wirkungsgeschichte
 - [[concepts/visdomslitteratur-praksis]] — bibliansk visdom: hva er det, og hvordan leve etter den
 - [[concepts/hvordan-lese-narrativ]] — tradisjonslitteratur, plot, karakterer, lignelser
 - [[concepts/hvordan-lese-brev]] — kommunikasjonssituasjon, brevstruktur, indicativ/imperativ
@@ -29,6 +30,7 @@ Personlige refleksjoner over kristen tro i hverdagen.
 - [[concepts/sheol-og-oppstandelsen]] — Sheol, Hades, ventestedet og oppstandelsen
 - [[concepts/kristent-menneskesyn]] — imago Dei; relasjon vs. lydighet; menneskeverdet
 - [[concepts/kongelig-presteskap]] — 1 Pet 2:9: alle troende som kongelige prester
+- [[concepts/tidligkristen-bønnepraksis]] — orans, tidebønn, Fadervår, ørkenfadrene, Evagrius, Cassian
 
 ---
 
@@ -37,9 +39,11 @@ Personlige refleksjoner over kristen tro i hverdagen.
 Oversikter over bibelske bøker, tekster og temaer.
 
 - [[concepts/bibelens-kanon]], [[concepts/gt-kanon-og-teksthistorie]], [[concepts/nt-kanon]]
-- [[concepts/evangeliene]], [[concepts/matteus-evangeliet]], [[concepts/johannes-evangeliet-studieplan]]
+- [[concepts/evangeliene]], [[concepts/matteus-evangeliet]], [[concepts/apostlenes-gjerninger]]
+- [[concepts/exodus]], [[concepts/exodus-historisitet]] — minimalist/maximalist-debatten
+- [[concepts/johannes-evangeliet-studieplan]]
 - [[concepts/messias]], [[concepts/bergprekenen]], [[concepts/salme-22]]
-- [[concepts/hellige-ånd]], [[concepts/dapen]], [[concepts/tidligkristen-bonsspraksis]]
+- [[concepts/hellige-ånd]], [[concepts/dapen]]
 
 ---
 
@@ -59,6 +63,7 @@ Fra oldkirken via middelalderen til reformasjonen.
 ## Verdensreligioner og livssyn
 
 - [[concepts/islam]], [[concepts/jodedommen]], [[concepts/hinduisme]]
+- [[concepts/jesus-i-koranen]], [[concepts/abraham-i-tre-religioner]] — rivaliserende fortellinger
 - [[concepts/religionsteologi]], [[concepts/livssyn]], [[concepts/sekularisering]]
 
 ---
