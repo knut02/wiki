@@ -1,34 +1,34 @@
 # Kilde: TEOL2300-Stewart-2008
-*Fil: raw/papers/TEOL2300/Stewart (2008), _Prayer_, Oxford Handbook of Early Christianity, s. 744-63. OCR.md | Kompilert: 2025-05-05*
+*Fil: raw/papers/TEOL2300/Stewart (2008), _Prayer_, Oxford Handbook of Early Christianity, s. 744-63. OCR.md | Kompilert: 2025-05-06*
 
-**Stewart, Columba OSB (2008): "Prayer", i: *Oxford Handbook of Early Christianity*, s. 744–763.**
+**Stewart, Columba, OSB (2008): «Prayer», kap. 36 i: *The Oxford Handbook of Early Christianity*, s. 744–763. Oxford University Press.**
 
-Akademisk oversiktsartikkel om bønnepraksis i tidligkristen tid. Dekker den historiske utviklingen fra Jesu og Paulus' bønneteologi frem til monastisk spiritualitet på 400-500-tallet.
+Akademisk oversiktsartikkel om personlig bønn i tidlig kristendom — fra Jesus og Paulus til ørkenfadrene og Cassian. God OCR-kvalitet.
 
 ## Nøkkelinnhold
 
-**To kategorier bønn:** Liturgisk/fellesskapsbasert og individuell/privat. Begge hadde felles bibelske og liturgiske røtter.
+**To bønnkategorier:** Fellesskapsbønn (liturgisk) og personlig bønn — overlappende, begge høyt uttalt i antikken.
 
-**Jesu og Paulus' bidrag:** Fadervår som mønsterbønn. Bønn til Gud som *Abba* (Far). Paulus: bønn muliggjort av Ånden (Rom 8:15–17); oppfordring til uopphørlig bønn (1 Tess 5:17).
+**Jesus og bønn:** Bønn i skjul (Matt 6:6); Fadervår som bønnsgrammatikk; *Abba* som ny adresse til Gud; lignelsen om enken (Luk 18:1–8) — trofast, vedvarende bønn.
 
-**Tidligkirkens skribenter:** Tertullian og Kyprian: tilgjengelige katekeseskrifter om bønn. Klemens av Alexandria (Stromata 7) og Origenes: filosofisk avanserte bønneteorier for intellektuelle lesere. Origenes' bidrag: bønn som trinitarisk struktur — til Faderen, gjennom Sønnen, ved Ånden; bønn som åndelig streben og guddommeliggjørelse; allegorisk bibeltolkning som bønneforberedelse.
+**Kroppsstillinger:** Orans (stående med løftede armer) som standard; knefall ved botsbønn; østvendt bønn som symbol på Kristus og hans gjenkomst.
 
-**Kropp og retning:** Stående stilling med løftede armer (*orans*) som normalposisjon. Vending mot øst (oppstandelsens retning). Knefall som tegn på bot.
+**Tidebønn:** Morgen, middag, kveld + tredje, sjette og niende time. Tertullian og Cyprian beskriver disse som obligatoriske for alle kristne.
 
-**Monastisk tradisjon (300-500-tallet):** Athanasius' *Vita Antonii* som modell. Evagrius Ponticus: «ren bønn» hinsides alle bilder og tanker. Johannes Cassian: praktisk sammenstilling av Origenes og Evagrius for vestlige lesere. Pseudo-Macarius: varm, erfaringsorientert bønn — kontrast til Evagrius' kjølige apofatikk.
+**Klassiske kommentarer til Fadervår:** Tertullian (allment), Cyprian (fellesskapsdimensjon), Origenes (filosofisk/apofatisk).
 
-**Salmene:** Minnelæring og resitasjon av salmene som grunnlag for både liturgisk og privat bønn.
+**Evagrius Ponticus (d. 399):** Første monastiske bønntraktat. «Ren bønn» er hinsides alle tankebilder. *Antirrhétikos*: liste med bibelvers mot distraherende tanker.
 
-## Nøkkelbegreper
-- *fiery prayer* (Cassian) — ekstatisk bønn
-- *pure prayer* (Evagrius) — bønn hinsides alle forestillinger
-- *lectio divina* — bønnefull lesning av Skriften
-- *orans* — bedeposisjon med løftede armer
-- Trinitarisk bønnsgrammatikk (Origenes)
+**Johannes Cassian:** Populariserte egyptisk klostrspraksis i Vest. Fire typer bønn (1 Tim 2:1). «Fiery prayer» — ekstatisk bønn.
+
+**Athanasius om salmene:** Salmene er et speil for sjelen — de er den beste inngangen til personlig bønn fordi de uttrykker menneskelig erfaring *som om i egne ord*.
+
+**Tårer som åndelig tegn:** Syrisk munk = «den gråtende». Cassian, Diadochus, Isaac den Syriske om *compunctio*.
+
+**Mystisk bønn:** Pseudo-Macarius, Evagrius, Cassian — ecstatic experiences; fiery prayer. Institusjonell mistanke mot karismatisk bønn etter montanistkrisen.
 
 ## Relevante wiki-artikler
-→ [[concepts/tidligkristen-bonsspraksis]]
-→ [[concepts/hellige-ånd]]
-→ [[concepts/apostoliske-fedre]] (Didake om bønnetider)
-→ [[concepts/askese-martyrdom-klosterbevegelsen]]
+→ [[concepts/tidligkristen-bønnepraksis]]
 → [[concepts/monastisk-teologi]]
+→ [[concepts/apofatisk-teologi]]
+→ [[people/augustin]]
