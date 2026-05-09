@@ -11,12 +11,10 @@ Innføring i bibeltolkning, tekstarbeid og bibelspråk.
 - [[concepts/bibelens-tilblivelse]] — fra muntlig tradisjon til kanon; oversettelseshistorie; Guds ord og menneskestemmer
 - [[concepts/bibeltolkning-innforing]] — hermeneutikk, sjangre, kontekst, eksegese vs. eisegese
 - [[concepts/visdomslitteratur-praksis]] — bibliansk visdom: hva er det, og hvordan leve etter den
-- [[concepts/hvordan-lese-narrativ]] — fortellingstekster: GT og NT ⚪
-- [[concepts/hvordan-lese-brev]] — paulusbrev og NT-brev ⚪
+- [[concepts/hvordan-lese-narrativ]] — tradisjonslitteratur, plot, karakterer, lignelser
+- [[concepts/hvordan-lese-brev]] — kommunikasjonssituasjon, brevstruktur, indicativ/imperativ
+- [[concepts/hvordan-lese-profetlitteratur]] — profetens samtid, domsord/frelsesord, apokalyptikk
 - [[concepts/hvordan-lese-salmer]] — poetisk litteratur og hymner ⚪
-- [[concepts/hvordan-lese-profetlitteratur]] — profetisk sjanger og apokalyptikk ⚪
-- [[concepts/bibelsk-gresk-innforing]] — alfabet, uttale, grunnbegreper ⚪
-- [[concepts/bibelsk-hebraisk-innforing]] — alfabet, uttale, grunnbegreper ⚪
 
 ---
 
