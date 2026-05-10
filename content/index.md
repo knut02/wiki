@@ -2,7 +2,7 @@
 
 Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. Artiklene er bygget opp fra bibelstudier, teologistudier (MF Vitenskapelig Høyskole) og personlig trosrefleksjon.
 
-> **207 artikler** — sist oppdatert 2025-05-10
+> **208 artikler** — sist oppdatert 2025-05-10
 
 ---
 
@@ -16,6 +16,7 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 - [[concepts/hvordan-lese-brev]] — kommunikasjonssituasjon, brevstruktur, indicativ/imperativ
 - [[concepts/hvordan-lese-profetlitteratur]] — profetens samtid, domsord/frelsesord, apokalyptikk
 - [[concepts/hvordan-lese-salmer]] — poetisk litteratur og hymner ⚪
+- [[concepts/gt-guds-brutalitet]] — fem tilnærminger til et reelt spørsmål ⚠️
 
 ---
 
@@ -94,3 +95,4 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 ---
 
 *⚪ = planlagt artikkel, ikke skrevet ennå*
+*⚠️ = merket for utvidelse når nytt materiale foreligger*
