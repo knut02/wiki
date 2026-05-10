@@ -19,10 +19,13 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 
 ## Tro og liv
 
-- [[concepts/bekjennelse]] — Josva 7 og Jak 5:16: bekjennelse som æring av Gud og vei til helbredelse
-- [[concepts/fellesskap]] — bære hverandres byrder; Ef 4:16; alle betyr alle
+- [[concepts/guds-kjærlighet]] — Han elsket oss først; Jesu medfølelse; tollerne trakk til ham
+- [[concepts/bekjennelse]] — Josva 7: bekjennelse som æring; helbredelse ikke byrde; Kain som kontrast
+- [[concepts/fellesskap]] — *baros* og *phortion*; Ef 4:16: alle betyr alle; Gal 6:2 og 6:5
+- [[concepts/svake-baand-og-kristent-fellesskap]] — urkirken, Granovetter, Perpetua og Felicitas
 - [[concepts/min-fars-hus]] — Joh 14:1–4: relasjon med Gud nå og i evigheten
 - [[concepts/hvem-er-du-i-møtet-med-jesus]] — apostlenes fallgroper, samaritankvinnen, hvem er du?
+- [[concepts/tvil-og-tro]] — ti vanskelige spørsmål; Tomas; Guds taushet; robust tro
 - [[concepts/sheol-og-oppstandelsen]] — Sheol, Hades, ventestedet og oppstandelsen
 - [[concepts/kristent-menneskesyn]] — imago Dei; relasjon vs. lydighet; menneskeverdet
 - [[concepts/kongelig-presteskap]] — 1 Pet 2:9: alle troende som kongelige prester
@@ -34,7 +37,7 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 
 - [[concepts/bibelens-kanon]], [[concepts/gt-kanon-og-teksthistorie]], [[concepts/nt-kanon]]
 - [[concepts/evangeliene]], [[concepts/matteus-evangeliet]], [[concepts/apostlenes-gjerninger]]
-- [[concepts/exodus]], [[concepts/exodus-historisitet]] — minimalist/maximalist-debatten
+- [[concepts/exodus]], [[concepts/exodus-historisitet]]
 - [[concepts/johannes-evangeliet-studieplan]]
 - [[concepts/messias]], [[concepts/bergprekenen]], [[concepts/salme-22]]
 - [[concepts/hellige-ånd]], [[concepts/dapen]]
@@ -43,17 +46,17 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 
 ## Teologi og kirkehistorie
 
-- [[concepts/kristendommens-historie-oversikt]] — Kaufmans navigasjonstabell: 0–2000 e.Kr.
+- [[concepts/kristendommens-histoire-oversikt]] — Kaufmans navigasjonstabell: 0–2000 e.Kr.
+- [[concepts/kristendommens-tilblivelse]] — Romerriket, jødisk kontekst, apostolsk/etterapostolsk tid
 - [[concepts/treenigheten]], [[concepts/arianismen]], [[concepts/nikea-konsilet]], [[concepts/kalkedon-kristologi]]
+- [[concepts/en-gud-fader-allmektig]] — Origen og Gregor av Nyssa om treenighetsgrammatikken
 - [[concepts/frelse-athanasius-augustin]], [[concepts/theosis]], [[concepts/arvesynd]]
 - [[concepts/askese]] — *Apophthegmata Patrum*; kropp og forvandling; frelst lidenskap
+- [[concepts/martyriet]] — Perpetua, Blandina; passio til vita; kropp og vitnesbyrd
 - [[concepts/didache]] — De tolv apostlers lære: to veier, dåp, nattverd, Marana ta
-- [[concepts/tidligkristent-mangfold]] — ortodoksi og mangfold i 100–200-tallet
-- [[concepts/gnostisisme]] — Nag Hammadi, setianisme, valentinianisme, Ireneus
-- [[concepts/kirkens-ledelse-og-sakramentene]] — fra karismatisk til institusjonelt lederskap
-- [[concepts/kirken-ost-og-vest]] — Hagia Sofia, theosis, filioque-striden, skismaet 1054
-- [[concepts/martyriet]], [[concepts/statsreligion]]
-- [[concepts/luthers-teologi]], [[concepts/reformasjonen-og-doden]]
+- [[concepts/tidligkristent-mangfold]], [[concepts/gnostisisme]]
+- [[concepts/kirkens-ledelse-og-sakramentene]], [[concepts/kirken-ost-og-vest]]
+- [[concepts/statsreligion]], [[concepts/luthers-teologi]], [[concepts/reformasjonen-og-doden]]
 - [[concepts/apofatisk-teologi]], [[concepts/mester-eckhart-mystikken]]
 - [[concepts/hvem-er-jesus-for-folk]] — hva vanlige kirkegjengere faktisk tror om Jesus
 - [[concepts/historisk-relativisme-kristendom]] — har kristendommen en normativ kjerne?
@@ -65,10 +68,8 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 - [[concepts/islam]], [[concepts/jodedommen]], [[concepts/hinduisme]]
 - [[concepts/sikher]] — migrasjon til Norge fra 1969; gurdwara og langar
 - [[concepts/jesus-i-koranen]], [[concepts/abraham-i-tre-religioner]] — rivaliserende fortellinger
-- [[concepts/moskearchitektur]] — bønnerommet i Oslos første bygde moskeer
-- [[concepts/religion-i-praksis]] — hverdagsreligion og religious literacy i Norge
-- [[concepts/sekularisering]] — norsk religiøst landskap 1988–2013
-- [[concepts/unge-og-nyreligiositet]] — «Stine-tro» og individualisme
+- [[concepts/moskearchitektur]], [[concepts/religion-i-praksis]]
+- [[concepts/sekularisering]], [[concepts/unge-og-nyreligiositet]]
 - [[concepts/religionsteologi]], [[concepts/livssyn]]
 
 ---
@@ -76,9 +77,8 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 ## Personer
 
 - [[people/jesus]], [[people/moses]], [[people/paulus]]
-- [[people/antonius-den-store]] — grunnleggeren av eremittlivet; martyrlengsel; askese
-- [[people/justin-martyr]] — første kristne filosof; Logos-teologi; gudstjenestebeskrivelse
-- [[people/perpetua]], [[people/athanasius]], [[people/augustin]]
+- [[people/antonius-den-store]], [[people/justin-martyr]], [[people/perpetua]]
+- [[people/athanasius]], [[people/augustin]]
 - [[people/klemens-av-alexandria]], [[people/gregor-av-nyssa]]
 
 ---

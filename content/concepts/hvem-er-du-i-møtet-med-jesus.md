@@ -1,78 +1,79 @@
 # Hvem er du i møtet med Jesus?
 
-> «En hver situasjon er en mulighet til å vende meg til eller fra Jesus.»
+> «Hvem sier dere at jeg er?» — Matt 16:15. Det er ikke bare et spørsmål om Jesu identitet. Det er like mye et spørsmål om din.
 
-*Opprettet: 2025-05-06 | Kilder: 2*
-
----
-
-## Spørsmålet
-
-Å lese Bibelen handler om å møte Ordet — og Johannes kaller Jesus for Ordet (Joh 1:1). Dermed er spørsmålet «hvem er du i møtet med Jesus?» ikke en from frase, men et praktisk spørsmål: Hvem er jeg, akkurat nå, i denne situasjonen?
-
-Det er ikke et spørsmål med ett svar, og svaret er heller ikke endelig. Det er en invitasjon til å tenke høyt.
+*Opprettet: 2025-04-18 | Oppdatert: 2025-05-10 | Kilder: 2*
 
 ---
 
-## Apostlene: et speil vi kanskje kjenner igjen
+## Et spørsmål uten endelig svar
 
-Apostlene er lett å idealisere i ettertid. Men evangeliene er overraskende ærlige om hvem de var *i møtet med Jesus* — og det er ikke alltid flatterende:
+Det er fristende å lese evangeliene og identifisere seg med de «gode» skikkelsene — disiplene, de helbredede, de trofaste. Men et ærligere blikk viser at apostlene ofte er det vi ikke ønsker å se i oss selv.
 
-- Natanael, da Filip fortalte om Jesus fra Nasaret: **«Kan det komme noe godt fra Nasaret?»** (Joh 1:46) — fordommer om geografi og bakgrunn
-- Jakob og Johannes, da en samaritansk landsby avviste Jesus: **ville kalle ned ild over dem** (Luk 9:54) — voldsomhet og hevnlyst
-- De forsøkte å **stoppe noen utenfor gruppen** fra å drive ut demoner i Jesu navn (Mark 9:38) — gruppetilhørighet over effekt
-- Peter, rett etter å ha bekjent Jesus som Messias: **forsøkte å hindre Jesus i å dø** (Matt 16:22–23) — «Langt ifra, Herre!» Jesus svarte: «Vik bak meg, Satan»
-- I Getsemane: **sov** mens Jesus ba
-- I forhøret: **fornektet** tre ganger
-
-Dette er mennene som gikk med Jesus i tre år, hørte alt han sa, så alt han gjorde. Og likevel — i avgjørende øyeblikk — var de et sted annet enn der de trodde de var.
+Enhver situasjon er en mulighet til å vende seg *til* eller *fra* Jesus. Hva er det å lese Bibelen om det ikke handler om å møte Ordet — som Johannes kaller ham?
 
 ---
 
-## Kvinnene: et annet speil
+## Apostlenes fallgroper
 
-For apostlenes svikt finnes det et motbilde i de navngitte og navnløse kvinnene i evangeliene:
+Apostlene i evangeliene er ikke fremstilt som åndelige helter. De er mennesker med gjenkjennelige reaksjoner:
 
-- **Maria fra Betania** salver Jesu føtter med kostbar nard og tørker dem med håret — i rommet med mange tilskuere (Joh 12:3)
-- **Kvinner fra Galilea** følger Jesus hele veien til Golgata og er til stede ved korset (Luk 23:49, 55)
-- **Maria Magdalena, Maria og Salome** er de første ved den tomme graven (Mark 16:1–2)
-- **Maria Magdalena** er den første som møter den oppstandne Jesus (Joh 20:11–18)
+- «Ingenting godt kommer fra Nasaret» — forutinntatthet og kulturell arroganse (Joh 1:46)
+- «La oss kalle ned ild over dem» — sinne og hevnlyst mot en landsby som avviste Jesus (Luk 9:54)
+- «Stans ham! Han er ikke av oss» — ekskludering av noen som gjorde Jesu gjerninger men ikke tilhørte gruppen (Luk 9:49)
+- «Dette skal aldri skje deg» — Peter vil hindre Jesus fra å dø (Matt 16:22)
 
-Det er ikke tydelig at disse kvinnene *forsto* mer enn apostlene. Men de *ble der*. De dro ikke. De holdt ut gjennom det som var uforståelig og smertefullt.
-
----
-
-## Samaritankvinnen: den usannsynlige vitnen
-
-Johannes 4:7–30 er et av de mest overraskende møtene i evangeliene. En samaritansk kvinne — med en livshistorie som gjør henne til en outsider selv blant outsidere — møter Jesus ved Jakobs brønn midt på dagen (da ingen andre er der).
-
-Han ber henne om vann. Hun er forundret: jøder snakker ikke med samaritanere, og menn snakker ikke slik med ukjente kvinner. Jesus snakker om «levende vann». Hun misforstår, men hun *spør videre*. Da han nevner hennes fem ektemenn og at han hun nå er med ikke er hennes mann, sier hun ikke: «Jeg er avslørt, jeg forsvinner.» Hun sier: **«Herre, jeg ser at du er en profet»** — og fortsetter samtalen.
-
-Når hun springer tilbake til byen er det ikke med skam, men med et budskap: **«Kom og se en mann som har sagt meg alt jeg har gjort. Er ikke dette Messias?»** (Joh 4:29) Hun, den usannsynlige, er den første evangelisten i Samaria.
+Det er lett å se disse som feil i fortiden. Vanskeligere er det å kjenne igjen de samme bevegelsene i seg selv: Hvem er det jeg avskriver uten å kjenne? Hvem er det jeg vil hindre fra å nå frem? Hvem ekskluderer jeg fordi de ikke ser ut som «oss»?
 
 ---
 
-## Hva møtet avslører
+## Samaritankvinnen ved brønnen
 
-Evangeliene er ikke primært historier om Jesus — de er historier om hva som skjer med *mennesker* i møte med Jesus. Fordommer avsløres. Makttrang eksponeres. Frykt synliggjøres. Men også: sårbarhet, åpenhet og troskap får plass.
+Johannes 4:7–31 er en av evangelienes rikeste fortellinger. Jesus er alene ved Jakobsbrønnen i Samaria. En kvinne kommer for å hente vann — midt på dagen, alene, noe som antyder hun er sosialt utstøtt.
 
-Spørsmålet «hvem er du i møtet med Jesus?» er dermed ikke moralistisk — det er et kartleggingsspørsmål. Ikke for å dømme, men for å orientere seg. Petrus i Getsemane og Petrus i Apg 2 er ikke to ulike mennesker. Møtet med den oppstandne Jesus forvandles noe.
+Jesus taler til henne. Det er brudd på tre konvensjoner: Han er jøde, hun er samaritaner (historiske fiender). Han er mann, hun er kvinne (ikke tiltale). Han er rabbi, hun er synder med fem ektemenn bak seg.
 
-Hva er min Nasaret-fordom? Hvem er jeg raskt å ville kalle ild ned over? Hva er mitt Getsemane — der jeg sover i stedet for å be? Og hva er mitt brønn-møte — der jeg, mot forventning, fortsetter å spørre?
+Hun stiller de riktige spørsmålene. Hun utfordrer ham, hun lar seg utfordre, hun forstår gradvis hvem hun snakker med. Og til slutt springer hun av gårde og forteller hele landsbyen: «Kom og se en mann som fortalte meg alt jeg har gjort!» (Joh 4:29).
+
+Den mest effektive evangelisten i Johannes er en navnløs samaritansk kvinne med en belastet fortid. Det er tankevekkende.
+
+---
+
+## Kvinner i evangeliene — en motpart til apostlene
+
+Det er slående å sammenligne apostlene og kvinnene i evangeliene:
+
+**Apostlene** sov i Getsemane. Flyktet ved pågripelsen. Peter fornektet tre ganger.
+
+**Kvinnene** var til stede ved korset (Joh 19:25). De var de første til den tomme graven. Maria Magdalena var den første som møtte den oppstandne.
+
+Det er ikke sagt for å fordømme apostlene — de kom tilbake, de ble brukt, Peter ble gjenopprettet. Men det er sagt for å destabilisere antagelsen om hvem som «er av oss» og hvem som ikke er det.
+
+De som fulgte til det ytterste var ikke de åpenbare kandidatene.
+
+---
+
+## Spørsmålet vender tilbake
+
+«Hvem er du i møtet med Jesus?» er ikke et spørsmål med ett svar. Det varierer fra dag til dag, fra situasjon til situasjon. Noen dager er man Peter som bekjenner trofast. Andre dager er man Peter som fornekter.
+
+Det interessante er ikke å finne ett sted å stå permanent — det er å stille spørsmålet *nå*, i den konkrete situasjonen man er i. I samtalen, i beslutningen, i relasjonen.
+
+Hvem er jeg her? Og hvem vil jeg være?
 
 ---
 
 ## Sammenheng med andre artikler
 
-- [[concepts/min-fars-hus]] — å leve i relasjon med Jesus
-- [[concepts/bekjennelse]] — ærlighet om hvem man er som æring av Gud
-- [[concepts/kvinner-i-evangeliene]] — kvinnenes rolle i møtet med Jesus
-- [[people/maria-magdalena]] — den første vitne til oppstandelsen
-- [[concepts/johannes-evangeliet-studieplan]] — Samaritankvinnen er en nøkkeltekst i uke 1
+- [[concepts/guds-kjærlighet]] — Jesu blikk på dem som kom til ham
+- [[concepts/bekjennelse]] — Petersbekjennelsens to former (Matt 16 og Gal 2)
+- [[concepts/svake-baand-og-kristent-fellesskap]] — hvem vi inkluderer og ekskluderer
+- [[concepts/kvinner-i-evangeliene]] — en utdypet oversikt over navngitte kvinner
+- [[people/maria-magdalena]] — den første vitnen til oppstandelsen
 
 ---
 
 ## Kilder
 
-- [[sources/hvem-er-du]] — primær råtekst: gudstjenestenotater, 6. april 2025
-- [[sources/jesus-historiske-bevis]] — historisk og teologisk kontekst for Jesus-møtene i evangeliene
+- [[sources/studier-hvem-er-du]] — «Hvem er du i møtet med Jesus?» (gudstjenestenotater, april 2025)
+- [[sources/TEOL1010-bibeltolkning]] — hermeneutisk kontekst
