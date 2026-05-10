@@ -63,8 +63,13 @@ Fra oldkirken via middelalderen til reformasjonen.
 ## Verdensreligioner og livssyn
 
 - [[concepts/islam]], [[concepts/jodedommen]], [[concepts/hinduisme]]
+- [[concepts/sikher]] — migrasjon til Norge fra 1969; gurdwara og langar
 - [[concepts/jesus-i-koranen]], [[concepts/abraham-i-tre-religioner]] — rivaliserende fortellinger
-- [[concepts/religionsteologi]], [[concepts/livssyn]], [[concepts/sekularisering]]
+- [[concepts/moskearchitektur]] — bønnerommet i Oslos første bygde moskeer
+- [[concepts/religion-i-praksis]] — hverdagsreligion og religious literacy i Norge
+- [[concepts/sekularisering]] — norsk religiøst landskap 1988–2013
+- [[concepts/unge-og-nyreligiositet]] — «Stine-tro» og individualisme
+- [[concepts/religionsteologi]], [[concepts/livssyn]]
 
 ---
 

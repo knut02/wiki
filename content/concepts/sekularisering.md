@@ -1,138 +1,95 @@
-# Sekularisering
+# Sekularisering og det norske religiøse landskapet
 
-> Religionens tilbakegang i moderne samfunn — eller dens forvandling? Sekulariseringstesens fremvekst, fall og revisjon i lys av global religionsvekst og norsk livssynsmangfold.
+> Tre av fire nordmenn sier i spørreundersøkelser at de forbinder religion med konflikt. Samtidig er over 60 prosent medlemmer i Den norske kirke. Det norske religiøse landskapet er mer sammensatt enn enkle sekulariseringsteorier tilsier.
 
-*Opprettet: 2025-05-05 | Kilder: 5*
+*Opprettet: 2025-04-18 | Oppdatert: 2025-05-06 | Kilder: 2*
 
 ---
 
 ## Hva er sekularisering?
 
-Sekularisering betyr at religion mister sin offentlige, sosiale og personlige betydning i takt med moderniseringen. Begrepet rommer minst tre ulike påstander som ofte blandes:
+Sekularisering er en av de mest omdiskuterte teoriene i religionssosiologien. I sin klassiske form hevder den at modernisering fører til at religion gradvis mister sin sosiale og kulturelle betydning — at samfunn «avmagiseres» i takt med vitenskapelig og teknologisk utvikling.
 
-1. **Institusjonell sekularisering** — Kirken mister makt og innflytelse over statlige institusjoner (skole, rett, politikk). Kirke og stat skilles.
-
-2. **Sosial sekularisering** — Religion privatiseres og mister sin offentlige rolle. Religionens normative grep over samfunnet svekkes.
-
-3. **Individuell sekularisering** — Færre tror, færre praktiserer, religion spiller en mindre rolle i enkeltmenneskers liv.
-
-Disse tre trenger ikke følges ad. Norge er et godt eksempel: Kirke og stat er formelt adskilt (institusjonell sekularisering), men folkekirkemedlemskapet er høyt og ritualdeltakelsen stabil (begrenset individuell sekularisering).
+Men Furseth (2015) peker på at teorien er mer komplisert enn den umiddelbart ser ut: Religion forsvinner ikke, men den *endrer form*. Den britiske religionssosiologen Grace Davie beskriver flertallet i Nordvest-Europa som ikke sekulære, men «avkirkeliggjorte» — mange har grader av religiøse oppfatninger uten å identifisere seg med tradisjonelle religiøse fellesskap.
 
 ---
 
-## Sekulariseringstesens gullalder
+## Det norske religiøse landskapet 1988–2013
 
-Sekulariseringstesen — ideen om at modernisering nødvendigvis fører til religionens tilbakegang — dominerte sosiologien fra 1950-tallet og fremover. Den hadde røtter hos tre klassikere:
+Furseth (2015) gir en systematisk oversikt over religiøse endringer i Norge gjennom 25 år. Perioden preges av tre store bevegelser:
 
-**Max Weber** beskrev moderniseringen som *Entzauberung* — "avfortrylling" av verden. Naturvitenskapen driver mytene ut, religionen mister sin offentlige kraft og verdensbildets koherens. Det rasjonelt-byråkratiske erstatter det sakrale. Se [[concepts/moderniteten-og-opplysningen]].
+**1. Befolkningsvekst og innvandring**
+Norges befolkning vokste fra 4,2 millioner (1988) til 5,1 millioner (2013). Innvandring forklarer det meste av veksten — fra 3,5 % innvandrere i 1988 til 14 % i 2013. De tidlige arbeidsmigrantene kom fra Tyrkia, Marokko og Pakistan; de siste store bølgene fra Polen, Sverige og Litauen etter EU-utvidelsen i 2004–2007.
 
-**Émile Durkheim** mente at de tradisjonelle religionenes funksjon — å skape kollektiv solidaritet — ville bli overtatt av sekulære former for fellesskap i det moderne samfunnet.
+Innvandringen har endret det religiøse kartet dramatisk: Islam, sikhisme, hinduisme og buddhisme er ikke lenger marginale fenomener men etablerte religiøse samfunn med egne bygg, ledere og offentlig støtte.
 
-**Karl Marx** betraktet religion som ideologi og "folkets opium" — en kompensasjon for sosial nød som ville forsvinne når sosiale urettferdigheter ble eliminert.
+**2. Den norske kirkes tilbakegang**
+DNK har gjennomgått en langsom men tydelig svekkelse av institusjonell tilknytning. Dåpstall, konfirmasjonstall og gudstjenestebesøk har gått ned. Kirkeloven av 1997 og den gradvise løsrivelsen fra staten (fullstendig fra 2017) har endret kirkens rammebetingelser.
 
-Disse tre gav sekulariseringstesen akademisk autoritet: Modernitet og religion sto i et motsetningsforhold — og moderniteten ville vinne.
+Likevel: Mange nordmenn identifiserer seg kulturelt med kirken uten å være aktive. «Tilhørighet uten tro» og «tro uten tilhørighet» er begge utbredte mønstre.
 
----
-
-## Revideringen: religion forsvinner ikke
-
-Fra 1980-tallet og fremover ble sekulariseringstesen kraftig revidert. Tre observasjoner tvang seg frem:
-
-**1. USA som motkasus** — Den mest moderne og industrialiserte nasjonen i verden er også en av verdens mest religiøse. Det amerikanske frikirke-systemet hadde skapt et religiøst *konkurransemarked* der mangfold og frihet drev opp religiøs aktivitet, ikke ned. Peter Berger, som selv hadde vært en av sekulariseringens fremste talsmenn, skiftet mening på 1990-tallet.
-
-**2. Global religionsvekst** — Kristendommens dramatiske vekst i Afrika, Asia og Latin-Amerika; islams globale ekspansjon; pinsekirkenes meteoriske fremvekst. I 1900 bodde 80 % av verdens kristne i Nord-Amerika og Europa. I 2020 bor under 40 % der. Se [[concepts/global-kristendom-oversikt]].
-
-**3. Europeisk eksepsjonalisme** — Det viste seg at *Europa* var unntaket, ikke regelen. Sekulariseringstesen var en generalisering av ett kontinent til hele verden. Den typiske moderne menneskeheten er *ikke* europeisk i sitt forhold til religion.
-
-Konklusjonen: Globalisering og modernisering har ikke ført til sekularisering — men til *pluralisering*. Religion er ikke borte; den er annerledes.
+**3. Religiøse minoriteters vekst**
+I 2013 var Islam den nest største religionen i Norge, med over 140 000 registrerte muslimer. Pinsebevegelsen, Jehovas vitner, Den katolske kirke og andre frikirker har vokst — delvis gjennom innvandring, delvis gjennom aktiv rekruttering.
 
 ---
 
-## Tre former for sekularisering (Casanova)
+## Alternativ spiritualitet
 
-José Casanova skilte i 1994 mellom tre sekulariseringsteorier:
+Et felt som vokste betydelig i denne perioden er det som gjerne kalles «nyreligiøsitet», «nyåndelighet» eller «New Age». Holistisk Forbund ble etablert i 2002 som en livssynsorganisasjon på det nyreligiøse feltet. Alternativmesser, healere, meditasjonsgrupper og åndelige sirkler er en del av det norske religiøse landskapet.
 
-**Differensiering** — Statlige institusjoner (politikk, økonomi, vitenskap, utdanning) frigjøres fra religiøs kontroll og følger sin egen logikk. Dette er det Casanova mener er den holdbare kjernen i sekulariseringstesen — og den ser ut til å gjelde globalt.
-
-**Privatisering** — Religion trekker seg tilbake fra det offentlige rommet til privatsfæren. Casanova mener dette *ikke* er en nødvendig konsekvens av differensiering. Religion kan godt fungere offentlig i et differensiert samfunn.
-
-**Nedgang** — Religiøs tro og praksis avtar. Dette gjelder i Vest-Europa, men ikke globalt. Casanova mener dette er en empirisk tendens, ikke en teoretisk nødvendighet.
+Felles kjennetegn: Individuell åndelig søken, kombinasjon av elementer fra ulike tradisjoner, vekt på opplevelse og selvutvikling fremfor institusjonell tilhørighet. Se [[concepts/unge-og-nyreligiositet]].
 
 ---
 
-## Det norske bildet
+## Human-Etisk Forbund
 
-Norge er et interessant mellomtilfelle:
+HEF er et spesielt norsk fenomen. Organisasjonen beskriver sitt livssyn som *humanisme* — ikke en religion. Likevel behandles HEF som tros- og livssynssamfunn og mottar offentlig støtte tilsvarende DNK per medlem.
 
-**Høy formell tilknytning, lav praktisk deltakelse:**
-- Ca. 65 % er formelt tilknyttet Den norske kirke (2023)
-- Ca. 64 % av barn døpes (synkende trend)
-- 83 % begraves kirkelig
-- Men bare 2–4 % går jevnlig i kirke
-
-Grace Davie kaller dette "believing without belonging" i Vest-Europa — og i Skandinavia kanskje snarere "belonging without believing". Man tilhører kirken kulturelt og rituelt uten at den daglige troen er aktiv. Se [[concepts/kristendom-i-norge]].
-
-**Aktiv religionspolitikk:**
-- 2012: Statskirkeordningen konstitusjonelt opphørt
-- 2017: Den norske kirke juridisk selvstendig
-- KRL-faget (nå KRLE) og diskusjonene rundt det viser at religion fortsatt er politisk omstridt
-
-**Innvandringens effekt:**
-Innvandringen har brakt ny religiøsitet inn i Norge. Ca. 60 % av innvandrerne til Norge er kristne; de utgjør en betydelig andel av de aktive kirkegjengerene. Islam har vokst til ca. 4 % av befolkningen. Det norske livssynslandskapet er blitt reelt pluralistisk. Se [[concepts/det-livssynsapne-samfunn]].
+HEFs seremonier — humanistisk konfirmasjon, navnefest, vielse og gravferd — har stor oppslutning. Humanistisk konfirmasjon er valgt av mellom 15–20 % av årskullet i mange år. Dette tyder på at behovet for sekulære overgangsritualer er reelt og stort.
 
 ---
 
-## Sekularisering og nyreligiøsitet
+## «Levd religion» vs. normativ religion
 
-Et viktig paradoks: Institusjonell religion svekkes, mens individuell spiritualitet vokser. "Believing without belonging" kan snus til "belonging without believing" — men det finnes også en tredje form: aktiv åndelig søking utenfor institusjonene.
+Et sentralt poeng fra Horsfjord (2017) som er relevant for sekulariseringsdebatten: Det er et stort gap mellom hva religionenes normsettere foreskriver og hva folk faktisk gjør.
 
-Nyreligiøsiteten vokser der den tradisjonelle kirken svekkes: krystaller, healing, astrologi, sjamanserimonier, meditasjon. Botvar og Trysnes finner at unge nyreligiøse konstruerer en personlig "Stine-tro" eklektisk hentet fra mange tradisjoner. Se [[concepts/unge-og-nyreligiositet]].
+En norsk spørreundersøkelse fra 2006 viste at bare 30 prosent av dem som regnet seg som muslimer, deltok i religiøse ritualer i moskeen én gang i måneden eller oftere. Tilsvarende data finnes for katolikker og prevensjon, og for normkorrigering rundt kirkebesøk i USA.
 
-Liedmans begrep om modernitetens *gjenfortrylling* (*Wiederzauberung*) er relevant: Sekulariseringen driver ikke bort det overnaturlige — den omformer det. Science fiction, apokalyptikk, New Age — alle er moderne former for fortryllelse. Se [[concepts/moderniteten-og-opplysningen]].
-
----
-
-## Sekularisering og modernitet: Liedmans analyse
-
-Liedman viser at sekulariseringen er tett knyttet til modernitets *harde opplysning* (naturvitenskap, teknologi) — som er universell — versus den *myke opplysningen* (etikk, politikk, religion) — som er kulturelt variabel.
-
-Det er den myke opplysningens uniformering som den europeiske sekulariseringstesen feilaktig tok for gitt. Vitenskapens fremvekst har ikke universelt undergravd religionen — fordi religion svarer på eksistensielle spørsmål som naturvitenskapen ikke berører.
-
-Condorcets prediksjon (religion ville forsvinne med opplysningen) slo ikke til. Snarere fremstår religionen i dag som mer vital globalt enn på lenge — om enn i nye former.
+Horsfjord advarer mot å tolke avvik fra normativ religion som sekularisering. En liberal praksis kan være begrunnet i en sterk religiøs overbevisning — ikke i likegyldighet. Mange lever «friksjonsfritt» med å sette mental parentes rundt deler av religionens lære.
 
 ---
 
-## Sekularisering og politikk: religionens offentlige comeback
+## Politikk og religion
 
-Casanovas poeng om at religion *ikke* nødvendigvis er privatisert, er bekreftet empirisk. Religion er kommet tilbake i det offentlige rommet — men på nye premisser:
+Furseth viser at religiøse spørsmål gradvis ble mer politisk ladet gjennom perioden:
 
-- Islamsk politikk i Midtøsten og Sørøst-Asia
-- Evangelikalsk politisk mobilisering i USA (kultur-krigen, Trump)
-- Katolsk kirkes rolle i Polens demokratisering og senere høyrepopulisme
-- Karismatiske pinsebevegelser som samfunnsaktører i Afrika og Latin-Amerika
-- Frigjøringsteologien som politisk kraft
+- **KRL-faget** i skolen ble felt i Den europeiske menneskerettighetsdomstolen (2007) — religionsundervisningen måtte reformeres
+- **Hijab-debatten** ble en gjentakende politisk sak
+- **22. juli 2011**: Breiviks terrorangrep trakk veksler på høyreradikal kristendomsforståelse — viste at religiøs ekstremisme ikke er forbeholdt Islam
+- **Religion og innvandring** ble koblet tettere og tettere i den politiske debatten, særlig etter 11. september 2001
 
-Det er ikke religion som slik er i tilbakegang — det er en *bestemt europeisk type* religion (liberal protestantisme, statskirke) som svekkes. Se [[concepts/frigjøringsteologi]].
+---
+
+## Religiøs endring — ikke religionens død
+
+Både Furseth og Horsfjord konkluderer med at sekularisering ikke betyr religionens forsvinning — det betyr religionens transformasjon. Nye former for religiøsitet vokser frem. Nyreligiøsitet, individualisert tro og «kulturell kristendom» er alle uttrykk for dette.
+
+Spørsmålet er ikke lenger «vil religion forsvinne?» men «hvilke former vil religion ta i et pluralistisk og individualisert samfunn?»
 
 ---
 
 ## Sammenheng med andre artikler
 
-- [[concepts/det-livssynsapne-samfunn]] — Stålsetts analyse av norsk livssynslandskap
-- [[concepts/moderniteten-og-opplysningen]] — Liedman: modernitetens idéhistorie
-- [[concepts/nyreligiositet]] — spiritualitet utenfor institusjonene
-- [[concepts/unge-og-nyreligiositet]] — individualisert religion blant unge
-- [[concepts/global-kristendom-oversikt]] — religionsveksten i det globale Sør
-- [[concepts/kristendom-i-norge]] — det norske bildet
-- [[concepts/religion-i-praksis]] — Horsfjords perspektiv på hverdagsreligiøsitet
-- [[concepts/frigjøringsteologi]] — religion som offentlig og politisk kraft
+- [[concepts/religion-i-praksis]] — religion i norsk hverdagsliv
+- [[concepts/unge-og-nyreligiositet]] — nyreligiøsitet og individualisme
+- [[concepts/kristendom-i-norge]] — Den norske kirkes posisjon
+- [[concepts/islam]] — islam i norsk kontekst
+- [[concepts/livssyn]] — Human-Etisk Forbund og humanisme
+- [[concepts/moderniteten-og-opplysningen]] — sekulariseringens røtter
 
 ---
 
 ## Kilder
 
-- [[sources/RL1016-Liedman-2016]] — Liedman: moderniteten og sekulariseringens idéhistorie
-- [[sources/RL1016-Stålsett-2021]] — Stålsett: det livssynsåpne samfunn og norsk sekularisering
-- [[sources/RL1010-Horsfjord-2018]] — Horsfjord et al.: europeisk sekularisering (kap. 7)
-- [[sources/TEO2610-PP00-introduktion]] — Nikolajsen: sekularisering som europeisk særtrekk
-- [[sources/TEO2610-PP08-Norge]] — Nikolajsen: norsk sekularisering og migrantmenigheter
+- [[sources/Furseth-2015-religiøst-landskap]] — Furseth, I. (2015): *Et religiøst landskap i endring 1988–2013*, s. 21–37
+- [[sources/Horsfjord-2017-religion-i-praksis]] — Horsfjord, V. (2017): sekularisering og religiøs endring, kap. 2
