@@ -1,83 +1,88 @@
-# Kirken øst og vest — splittelse og reform (500–1100)
+# Kirken i øst og vest — splittelsen av kristendommen
 
-> Woodheads og Louths analyse av hvordan kristendommen utviklet seg ulikt i øst og vest etter Romerrikets fall — og den vestromerske reformbevegelsens fremvekst rundt år 1000.
+> «Kongen er ikke øversteprest; øverstepresten er ikke konge.» — Ambrosius av Milano til keiser Theodosius
 
-*Opprettet: 2025-05-03 | Kilder: 2*
-
----
-
-## Etter Romerrikets fall
-
-Rundt år 500 var den politiske og religiøse verdenen dramatisk endret:
-- Vestromerriket var i praksis oppløst og erstattet av germanske kongedømmer
-- Islam hadde fra 600-tallet overtatt de gamle romanske kjerneområdene i Nord-Afrika og Midtøsten
-- Den greske og latinske kristendommen begynte å utvikle seg stadig mer ulikt
-
-Begge deler av kristendommen fortsatte å drømme om universelt herredømme — men fra svært ulike utgangspunkter. Se [[concepts/fra-oldtid-til-middelalder]] for den historiske bakgrunnen.
+*Opprettet: 2025-05-10 | Kilder: 2*
 
 ---
 
-## Øst: Det bysantinske riket og ortodoks kristendom
+## To kristendommer — én religion
 
-Den bysantinske keiser betraktet seg som Kristi stedfortreder på jorden — ikke paven. Symfonilæren (*symphonia*) beskrev det ideelle forholdet: keiser og patriark i harmonisk samarbeid.
+Fra midten av 300-tallet og frem til det formelle skismaet i 1054 levde kristendommen med en vedvarende spenning mellom to modeller for forholdet mellom kirke og stat, mellom øst og vest. Woodhead (2004) viser at dette ikke primært var et kirkepolitisk stridsspørsmål, men en dyp teologisk og kulturell kløft.
 
-De store konsilene (Nikea, Konstantinopel, Efesus, Kalkedon) hadde definert ortodoks lære. Men stridene om ikonoklasme (725–843) viste at forholdet mellom keisermakt og kirkemakt var spent. Da keiser Leo III beordret ødeleggelse av ikoner, reagerte paven og de vestlige kirkene sterkt.
-
-Ikonoklasmestriden løste seg til slutt i *symfonia*: ikoner ble godkjent på det syvende økomenske konsil (Nikea II, 787), men debatten viste at den greske og latinske kirken hadde utviklet ulike teologier om bilder og hellighet.
+Sagt enkelt: I øst og vest svarte de kristne ulikt på spørsmålet om *hvor Guds makt er*.
 
 ---
 
-## Vest: Feudalisme og Eigenkirchen
+## Øst: keiseren som Guds stedfortreder
 
-I Vest ble kirkens organisering dypt preget av det føydale systemet. Lokale adelsmenn bygde kirker på sine eiendommer (*Eigenkirchen* — "eiendomskirker") og kontrollerte presteutnevnelser og inntekter. Biskoper og abbeder ble utpekt av kongelige eller adelige patroner — ikke av paven eller kirken selv.
+I det østromerske — bysantinske — riket fortsatte den konstantinske modellen: Kirke og stat var partnere, med keiseren som den øverste. Keiseren var ikke bare politisk leder men *teologisk figur* — Kristi stedfortreder på jord, ansvarlig for både den himmelske og den jordiske orden.
 
-Dette skapte enorme problemer:
-- Prestestillinger ble kjøpt og solgt (*simoni*)
-- Biskoper og prester hadde konkubiner
-- Klostere forfalt
-- Paveembetet var politisk kontrollert av romerske adelsfamilier
+**Hagia Sofias arkitektur** er symbolet på dette verdensbildet. Da Justinian (527–565) fullførte den store kirken i Konstantinopel i 537, mumlede han ifølge sagnet: «Salomo, jeg har overgått deg.» Byggverket skapte en romlig erfaring av *himmel brakt ned til jord*: den massive sentralkuppelen, mosaikker i gull, lyset fra førti vinduer — alt skapte inntrykket av et rom utenfor tid og rom.
 
----
+Liturgien i Hagia Sofia forsterket dette: Den guddommelige liturgien var dramatisk og prosesjonell, med diakoner og prester som bar skrifter og ikoner gjennom menigheten. Nattverden ble til slutt feiret skjult bak ikonostasen — et skille mellom det hellige og det profane som formidlet Guds transcendens gjennom struktur og rom.
 
-## Cluniacenserbevegelsen og fredsbevegeslen
-
-Fra Cluny i Burgund (grunnlagt 909) vokste en reformbevegelse. Cluny-klosteret var direkte underlagt paven — ikke lokale biskoper — og ble et mønster for klosterreform.
-
-Rundt år 1000 fremsto kirken som forkjemper for "Guds fred" — et forsøk på å begrense den feudale krigsvolden. Kravene var at ikke-stridende (prester, kvinner, barn, fattige) skulle ha beskyttet status, og at kirker og klostere skulle skånes. "Guds vápenehvile" (*Treuga Dei*) forsøkte å forby kamp på søndager og i fastetiden.
+**Teologisk: theosis.** Den bysantinske spiritualiteten utviklet en *nedenfra*-modell for Guds makt: Gud viser sin kraft ikke gjennom keiserens underkastelse av undersåttene, men gjennom menneskenes *guddommeliggjøring* (*theosis*). Gregor av Nyssas og Maximos Bekjenerens teologi var bærende her. Se [[concepts/theosis]].
 
 ---
 
-## Reformpavedommet og investiturstriden
+## Vest: paven som Guds representant
 
-Det store spørsmålet mot slutten av 1000-tallet: Hvem har rett til å utnevne biskoper — kongen eller paven?
+I vest skjedde det stikk motsatte av det bysantinske mønsteret. Da det vestromerske riket kollapset under germanske stammers press etter 400-tallet, mistet keisermakten sitt grep. Den eneste institusjonen som hadde kontinuitet og troverdighet var kirken — og særlig Roma.
 
-**Pave Gregor VII** (1073–1085) krevde at kirken skulle styre seg selv — fritt fra verdslig innblanding. Han ekskommuniserte keiser Henrik IV og tvang ham til det berømte "Canossa-gangen" (1077). Investiturstriden (kampen om retten til å investere biskopers embetsinsignier) endte med Worms-konkordaten (1122) der kirke og keiser delte myndigheten.
+**Biskopen av Roma** fylte det maktvakuumet som keiseren etterlot. Pave Leo I (440–461) formulerte «primatsläran»: Peter var Romas første biskop, og hans etterfølgere arver hans myndighet over hele kirken. Dette var ikke ubestridt, men det ga Roma et ideologisk grunnlag for å hevde autoritet over alle andre biskoper.
+
+**Ambrosius mot Theodosius:** Den fremste illustrasjonen på den vestlige kirkens nye selvbevissthet er Ambrosius av Milanos konfrontasjon med keiser Theodosius I i 390. Da keiseren bydde soldatene massedrap på sivilbefolkningen i Tessalonika som hevn for mordet på en general, ekskommuniserte Ambrosius ham. Keiseren måtte gjøre offentlig bot. *Keiseren under kirkens dom* — dette var utenkelig i øst, selvfølgelig i vest.
+
+**Augustin og «De civitate Dei»:** Augustins store politiske teologi formulerte to «stater» — Guds stat og den jordiske stat — som er flettet inn i hverandre i historien og bare kan skilles av Gud på dommens dag. Se [[people/augustin]]. Dette ga den vestlige kirken et teologisk grunnlag for å hevde sin selvstendighet fra staten.
 
 ---
 
-## Det store skismaet (1054)
+## Islam og den store omfordelingen
 
-Splittelsen i 1054 var ikke én hendelse men kulminasjonen av gradvis fremmedgjøring:
-- Teologisk: *filioque*-tillegget (Vest la til "og fra Sønnen" om Åndens utgang — uten et konsils samtykke)
-- Liturgisk: Brød med eller uten surdeig til nattverd
-- Politisk: Krangel om pave Nikolaus I og patriark Fotius' jurisdiksjon
+Et element som ofte undervurderes i historien om øst-vest-splittelsen er islams fremvekst på 600-tallet. Det islamske riket erobret Syria, Palestina, Egypt og Nord-Afrika — territorier som hadde tilhørt det bysantinske riket og vært sentrale for den greske kirken.
 
-Gjensidig ekskommunikasjon mellom Roma og Konstantinopel i 1054 er symbolet, men skismaet ble gjort uopprettelig av korstogenes herjinger i 1204 (plyndringen av Konstantinopel).
+Dette hadde to konsekvenser:
+
+**For øst:** Det bysantinske riket ble sterkt forminsket og truet. Konstantinopel overlevde, men imperiet tapte sine viktigste kulturelle og ressursmessige provinser. Kirken i øst ble i stigende grad identisk med det gresk-bysantinske etniske og politiske rom.
+
+**For vest:** Romas relative isolasjon fra det greske kultursentrum økte. Den vestlige kirken orienterte seg mer mot germanske konger og det frankiske riket. Pave Gregor den Store (590–604) skapte alliansen med germanerne som la grunnlaget for det middelalderlige Europa.
+
+---
+
+## Teologiske skillelinjer
+
+I tillegg til politiske spørsmål var det reelle teologiske uenigheter:
+
+**Filioque-striden:** Det latinske vest la til «og Sønnen» (*filioque*) i Nikea-bekjennelsen — Den Hellige Ånd utgår fra Faderen «og Sønnen». Øst avviste dette som et illegitimt tillegg til en konsilvedtatt bekjennelse. Det teologiske spørsmålet var om Sønnen er medprinsipp for Åndens utgåelse — et ikke-trivielt spørsmål om Treenigheten. Se [[concepts/treenigheten]].
+
+**Pavlig primat:** Øst anerkjente biskopen av Roma som «den første blant likemenn» (*primus inter pares*) — men ikke som monarkisk overhode med jurisdiksjon over andre biskoper. Vest hevdet en stadig sterkere juridisk primat.
+
+**Ikonografien:** Det bysantinske øst utviklet en rik ikonografisk tradisjon der ikoner var teologiske argumenter og liturgiske objekter. Det latinske vest var mer ambivalent; ikonoklasmestriden (726–843) — der bysantinske keisere forbød ikonbruk — skapte en dyp teologisk konflikt som vest og øst løste ulikt.
+
+---
+
+## Skismaet i 1054
+
+Det formelle bruddet skjedde i 1054 da kardinal Humbert la en ekskommunikasjonsbull på altaret i Hagia Sofia mot patriarken av Konstantinopel, Kerularios, som svarte med å ekskommunisere pavesendebudet. Teknisk sett var det en byråkratisk krangel om jurisdiksjon — men den oppsummerte to hundre år av voksende fremmedhet.
+
+Bruddet ble ikke reparert. Selv i dag eksisterer Den romersk-katolske kirke og De ortodokse kirker som separate tradisjoner uten eukaristisk fellesskap.
 
 ---
 
 ## Sammenheng med andre artikler
 
-- [[concepts/fra-oldtid-til-middelalder]] — bakgrunnen for splittelsen
-- [[concepts/middelalderteologi]] — teologiutviklingen i denne perioden
-- [[concepts/monastisk-teologi]] — Cluny-reformens teologiske kontekst
-- [[concepts/treenigheten]] — *filioque*-striden som teologisk kjernesak
-- [[concepts/kristendom-midtøsten-asia-europa]] — ortodoks kristendom i dag
-- [[concepts/kristendommens-historie-oversikt]] — den brede historiske oversikten
+- [[concepts/statsreligion]] — Konstantins modell som utgangspunkt
+- [[concepts/treenigheten]] — filioque-striden
+- [[concepts/theosis]] — østkirkens spiritualitet
+- [[concepts/kristendommens-historie-oversikt]] — den brede historiske rammen
+- [[concepts/monastisk-teologi]] — klosterlivets plass i begge tradisjoner
+- [[people/augustin]] — vestlig kirketeologi
+- [[concepts/arianismen]] — de teologiske kontroverser som formet begge tradisjoner
 
 ---
 
 ## Kilder
 
-- [[sources/TEOL2300-Woodhead]] — Woodhead, L.: Churches of east and west in the early Middle Ages, kap. 2
-- [[sources/TEOL2300-Louth]] — Louth, A.: Reform and the Papacy, s. 291–318
+- [[sources/Woodhead-2004-east-west]] — Woodhead, L. (2004): «Churches of East and West in the Early Middle Ages», kap. 2 i: *An Introduction to Christianity*. Cambridge University Press
+- [[sources/TEOL2310-teologihistorie-oldkirken]] — historisk kontekst
