@@ -2,6 +2,8 @@
 
 Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. Artiklene er bygget opp fra bibelstudier, teologistudier (MF Vitenskapelig Høyskole) og personlig trosrefleksjon.
 
+> **207 artikler** — sist oppdatert 2025-05-10
+
 ---
 
 ## Å lese og forstå Bibelen
