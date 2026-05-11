@@ -1,30 +1,29 @@
 # Kilde: Donahue-1990-lignelser
-*Fil: raw/papers/TEOL1010/NT/TEOL1010 - Donahue, J. R. (1990) 1-3.md | Kompilert: 2025-05-06*
+*Fil: raw/papers/TEOL1010/Donahue, J. R. (1990) samlet.md | Kompilert: 2025-05-11*
 
-**Donahue, John R. (1990): *The Gospel in Parable: Metaphor, Narrative, and Theology in the Synoptic Gospels*, s. 1–4. Fortress Press. ISBN 978-0-8006-2480-4.**
+**Donahue, John R. (1990): *The Gospel in Parable: Metaphor, Narrative, and Theology in the Synoptic Gospels*. Fortress Press. ISBN 9780800624804.**
 
-Innledningskapittel om lignelsenes natur som metafor og narrativ form i de synoptiske evangeliene.
+Tre utdrag: s. 1–4 (innledning), s. 126–138, s. 146–162.
 
-## Nøkkelinnhold
+**OBS: OCR-kvalitet svak** — bare sidenummer og institusjonshoder kom gjennom. Tekstinnhold i wiki-artikkelen er basert på kjent faginnhold fra verket kombinert med øvrig kildemateriale.
 
-**Lignelsene som metafor, ikke allegori:**
-Lignelsene er primært *metaforer* i narrativ form — de setter tankene i bevegelse fremfor å gi nøkkel-for-nøkkel allegoriske svar. De stiller spørsmål: «Hvem av de to var den andres neste?» (Luk 10:36)
+## Kjent innhold fra verket
 
-**Tre kjennetegn:**
-1. Hverdagsbilder (fiskere, bønder, kvinner som baker)
-2. Uventet vending som snur leserens forventninger
-3. Åpent sluttende — inviterer til refleksjon fremfor å avslutte debatten
+**Donahues hovedtese:**
+Lignelsene er ikke illustrasjoner til en lære som kan formuleres uten dem — de *er* selve budskapet. Lignelsene har en *performativ* funksjon: de vil ikke bare informere, men forandre leseren/tilhøreren.
 
-**Teologisk funksjon:**
-Lignelsene er ikke illustrasjoner av teologiske poenger — de *er* teologiske poenger i narrativ form. Guds rikes karakter kommuniseres gjennom bilder, ikke definisjoner.
+**Metafor og narrativ:**
+Donahue arbeider med lignelsene som metaforisk narrativ — de kaster noe kjent ved siden av noe ukjent for å åpne ny forståelse. Lignelsen som sjanger tvinger leseren til å ta stilling.
 
-**Synoptisk sammenlikning:**
-Matteus, Markus og Lukas forteller mange av de samme lignelsene men med ulike detaljer og kontekster. Disse forskjellene avslører hva den enkelte evangelisten vektlegger.
+**De tre avsnittene (antatt innhold):**
+- S. 1–4: Innledning om lignelsesforskning, *parabolē*-begrepet, og metodiske prinsipper
+- S. 126–138: Analyse av Lukasevangeliets lignelser (trolig Luk 15-gruppen)
+- S. 146–162: Analyse av Matteusevangeliets lignelser (trolig Matt 20 og/eller 25)
 
-## Merknad
-OCR-kvaliteten på denne kilden er svak — deler av teksten er lesbar, deler ikke. Artikkelen er rekonstruert fra det som var lesbart kombinert med faglig kunnskap om Donahues posisjon.
+## Tiltak
+Dersom bedre PDF-versjon er tilgjengelig, bør Donahue kompileres på nytt for å verifisere og utdype wiki-artikkelen.
 
 ## Relevante wiki-artikler
+→ [[concepts/lignelsene]]
 → [[concepts/hvordan-lese-narrativ]]
-→ [[concepts/evangeliene]]
 → [[concepts/matteus-evangeliet]]

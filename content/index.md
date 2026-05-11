@@ -2,7 +2,7 @@
 
 Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. Artiklene er bygget opp fra bibelstudier, teologistudier (MF Vitenskapelig Høyskole) og personlig trosrefleksjon.
 
-> **208 artikler** — sist oppdatert 2025-05-10
+> **209 artikler** — sist oppdatert 2025-05-11
 
 ---
 
@@ -43,6 +43,7 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 - [[concepts/exodus]], [[concepts/exodus-historisitet]]
 - [[concepts/johannes-evangeliet-studieplan]]
 - [[concepts/messias]], [[concepts/bergprekenen]], [[concepts/salme-22]]
+- [[concepts/lignelsene]] — den bortkomne sønnen, samaritanen, arbeiderne i vingården; performativ funksjon
 - [[concepts/hellige-ånd]], [[concepts/dapen]]
 
 ---
