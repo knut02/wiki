@@ -2,7 +2,7 @@
 
 Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. Artiklene er bygget opp fra bibelstudier, teologistudier (MF Vitenskapelig Høyskole) og personlig trosrefleksjon.
 
-> **217 artikler** — sist oppdatert 2025-05-11
+> **220 artikler** — sist oppdatert 2025-05-11
 
 ---
 
@@ -56,6 +56,7 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 
 - [[concepts/kristendommens-historie-oversikt]] — Kaufmans navigasjonstabell: 0–2000 e.Kr.
 - [[concepts/kristendommens-tilblivelse]] — Romerriket, jødisk kontekst, apostolsk/etterapostolsk tid
+- [[concepts/fra-oldtid-til-middelalder]] — Bagge 2020: tre sivilisasjoner; kristendom, Romerriket, araberne
 - [[concepts/treenigheten]], [[concepts/arianismen]]
 - [[concepts/nikea-konsilet]] — 325: bekjennelsen, *homoousios*, 20 kanoner
 - [[concepts/kalkedon-kristologi]] — Apollinaris, Nestorius, Kyril, Kalkedon 451
@@ -68,10 +69,12 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 - [[concepts/didache]] — De tolv apostlers lære: to veier, dåp, nattverd, Marana ta
 - [[concepts/tidligkristent-mangfold]], [[concepts/gnostisisme]]
 - [[concepts/kirkens-ledelse-og-sakramentene]], [[concepts/kirken-ost-og-vest]]
-- [[concepts/statsreligion]], [[concepts/luthers-teologi]], [[concepts/reformasjonen-og-doden]]
+- [[concepts/statsreligion]]
+- [[concepts/luthers-teologi]] — sola gratia/fide/scriptura; to regimenter; Bondekrigen
+- [[concepts/reformasjonen-og-doden]]
+- [[concepts/religion-og-konflikt]] — Brubaker: religion og politisk vold; partikularisering vs. generalisering
 - [[concepts/apofatisk-teologi]], [[concepts/mester-eckhart-mystikken]]
-- [[concepts/hvem-er-jesus-for-folk]] — hva vanlige kirkegjengere faktisk tror om Jesus
-- [[concepts/historisk-relativisme-kristendom]] — har kristendommen en normativ kjerne?
+- [[concepts/hvem-er-jesus-for-folk]], [[concepts/historisk-relativisme-kristendom]]
 
 ---
 

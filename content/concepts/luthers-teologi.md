@@ -1,66 +1,109 @@
 # Luthers teologi
 
-> Martin Luthers kjernebegreper — rettferdiggjørelse ved tro alene, det salige byttet og det kristne menneskets frihet og tjeneste.
+> «Et kristent menneske er en fri herre over alle ting og ikke underlagt noen. Et kristent menneske er en tjener for alle ting og underlagt alle.» — Luther, *Om et kristenmenneskes frihet*, 1520
 
-*Opprettet: 2025-05-01 | Kilder: 1*
-
----
-
-## Luthers nøkkelbegreper
-
-Luther brøt med den middelalderske frelseslæren ved å omformulere forholdet mellom lov og evangelium, tro og gjerninger, kjød og ånd.
-
-**Lov vs. evangelium** — Loven viser synden; evangeliet tilbyr nåden. Luther presiserer i fortalen til Romerbrevet:
-- *Lovgjerning* — handlinger utført for å oppfylle loven ytre sett, uten hjertets tilslutning
-- *Lovoppfyllelse* — å gjøre loven med hjertets glede, noe bare Ånden kan virke
-- *Synd* — ikke bare ytre handlinger, men hjertes grunnorientering bort fra Gud
-- *Nåde* — Guds velvilje, ikke noen kvalitet infusert i sjelen
-- *Tro* — levende tillit til Kristus, ikke bare intellektuell aksept av fakta
-- *Rettferdighet* — fremmed rettferdighet (Kristi), tilregnet den troende
-- *Kjød og ånd* — to fundamentale orienteringer, ikke kropp vs. sjel
+*Opprettet: 2025-04-18 | Oppdatert: 2025-05-11 | Kilder: 3*
 
 ---
 
-## Om den kristne frihet (1520)
+## Bakgrunn
 
-Et av Luthers programskrifter. Han formulerer et berømt paradoks:
-
-> "Et kristent menneske er en fri herre over alle ting og ingen underdanig. Et kristent menneske er en pliktskyldig tjener for alle ting og alle underdanig."
-
-**Det indre mennesket** er fritt: rettferdiggjort ved tro alene, uten gjerninger. Troen forener sjelen med Kristus som brud med brudgom — **det salige byttet** (*fröhlicher Wechsel*): Kristus tar på seg all synd og skyld, sjelen tar imot all Kristi rettferdighet.
-
-**Det ytre mennesket** er bundet til tjeneste: ikke for å bli frelst, men *fordi* man er frelst. Gjerningene følger av troen som frukt, ikke som grunnlag. Adam og Eva brukes som eksempel på det ytre menneskets disiplinering.
+Martin Luther (1483–1546) var augustinermunk og teologiprofessor i Wittenberg da han i 1517 publiserte sine 95 teser mot avlatshandelen — et akademisk debattdokument som ble sprengstoff. Den grunnleggende teologiske striden dreide seg om et spørsmål som Augustin hadde reist tusen år tidligere: Hva er forholdet mellom menneskelig anstrengelse og Guds nåde i frelsen?
 
 ---
 
-## Brudd og kontinuitet med middelalderteologien
+## Nåde alene — *sola gratia*
 
-Luther kritiserer den skolastiske teologien (Anselm, Aquinas) for å gjøre frelsen til noe delvis avhengig av menneskelig innsats. Se [[concepts/skolastisk-teologi]] og [[concepts/monastisk-teologi]] for bakgrunnen.
+Luthers teologiske gjennombrudd — beskrevet som «tårnerfaringen» i Wittenberg, trolig rundt 1515 — kom gjennom Romerbrevet 1:17: «Den rettferdige skal leve ved tro.»
 
-Kontinuitet: Luther forblir innenfor den augustinske tradisjonen — Guds nåde er altomfattende, se [[people/augustin]] og [[concepts/frelse-athanasius-augustin]].
+Den tradisjonelle lesningen var at rettferdigheten Paulus talte om, var Guds straffende rettferdighet — den som dømte syndere. Luther oppdaget at den var *Guds gaverettferdighet* — den rettferdigheten Gud gir mennesket av nåde, uten fortjeneste.
 
-Brudd: Luther avviser det sakramentale systemet som nådemiddel i middelalderkirken og insisterer på at *sola fide* (tro alene) og *sola scriptura* (Skriften alene) er tilstrekkelig.
+Frelsens logikk: Mennesket er ikke frelst fordi det gjør gode gjerninger — det gjør gode gjerninger fordi det er frelst. Rekkefølgen er avgjørende. Gjerningene er frelsens *frukt*, ikke dens *grunn*.
 
 ---
 
-## Reformasjonen i kontekst
+## De tre reformatoriske *sola*-ene
 
-Luthers 95 teser (1517) — mot avlatshandelen — utløste en prosess som ledet til fem reformasjoner: luthersk, reformert (Calvin), radikal (anabaptistene), engelsk og katolsk. Se [[concepts/kristendommens-historie-oversikt]] for den historiske oversikten.
+Luthers teologi sammenfattes i tre latinske uttrykk:
 
-I Skandinavia ble reformasjonen innført ovenfra og ned av kongemakten. I Norge ble reformasjonen vedtatt i 1536 under Christian III.
+**Sola gratia** — «nåde alene»: Frelsen er utelukkende Guds verk. Mennesket bidrar ingenting. Se [[concepts/nåde]].
+
+**Sola fide** — «tro alene»: Troen er det eneste mottakelsesinstrumentet for nåden. Ikke sakramenter, ikke gjerninger, ikke kirkemedlemskap i seg selv.
+
+**Sola scriptura** — «Skriften alene»: Bibelen er den øverste autoritet for tro og liv — ikke pavens avgjørelser, ikke konsilvedtak, ikke tradisjon. Der tradisjon og Skrift er i konflikt, vinner Skriften.
+
+---
+
+## Det kongelige prestedømmet
+
+En av Luthers mest radikale posisjoner: Alle troende er prester. Det finnes ikke et åndelig «overklasse» av klerus med særskilt tilgang til Gud — alle kristne har direkte tilgang gjennom Kristus. Se [[concepts/kongelig-presteskap]].
+
+Dette undergravde kirkestrukturen som mellommann mellom Gud og mennesket — og dermed avlatens logikk: Paven kan ikke selge nåde han ikke har kontroll over.
+
+---
+
+## To regimenter — åndelig og verdslig
+
+Et sentralt stridsspørsmål i reformasjonen var forholdet mellom kirke og stat. Luther utviklet læren om de to regimentene:
+
+**Det åndelige regiment:** Guds styre over sjelen gjennom Ord og sakrament. Ikke tvang, ikke sverd — bare Ordets makt.
+
+**Det verdslige regiment:** Guds styre over samfunnet gjennom lov, øvrighet og sverd. Nødvendig fordi verden er fallen; uten det ville kaos herske.
+
+Luther var klar: Kirkens ledere skal ikke styre staten, og statens ledere skal ikke bestemme over kirkens lære. Men det betyr ikke at troen er privatisert — kristne er kalt til å tjene i verdslige embeter som et kall fra Gud.
+
+---
+
+## Luthers fatale ambivalens: Bondekrigen 1524–26
+
+**Marius Timmann Mjaaland** (2016) analyserer Luthers stilling til Bondekrigen (1524–26) — det største bondeopprøret i Europas historie før den franske revolusjon.
+
+Bøndene i Sør-Tyskland hadde lest Luther og funnet frihet. Deres tolv artikler fra Memmingen (1525) — det første brede frihetsdokumentet i Europa — åpnet med å kreve retten til å velge og avsette sin egen prest. Argument: «Evangeliet er klart om at vi bare gjennom sann tro kan komme til Gud.» De hentet dette direkte fra Luthers *Om et kristenmenneskes frihet* (1520).
+
+Luther svarte i to etapper:
+
+**Første svar (*Formaning til fred*, 1525):** Han kritiserte fyrstene for å undertrykke bøndene og sympatiserte med deler av kravene.
+
+**Andre svar (*Mot røveriske og mordende bondehorder*, 1525):** Han fordømte opprøret i de skarpeste ordelag og ba fyrstene «stikke, slå og drepe» opprørerne. Bøndene hadde forvekslet åndelig og verdslig frihet.
+
+**Mjaalands analyse:** Denne ambivalensen er ikke tilfeldig. Den springer ut av selve strukturen i Luthers to-regiment-teologi: Evangeliets frihet er *åndelig*, ikke politisk. Bøndene blandet de to regimentene — de ville reformere det verdslige samfunnet med evangeliets logikk.
+
+Men Mjaaland peker på paradokset: Luther hadde selv bidratt til å gi bøndene et språk og en legitimitet for sine krav. Og *Om et kristenmenneskes frihet* er ikke enkel å lese uten politiske implikasjoner. Luthers reaksjon ble en del av det som svekket reformasjonens folkelige basis og styrket fyrstenes makt over den nye kirken.
+
+---
+
+## Luthers syn på nattverden
+
+Et strid som splittet reformasjonen: Zwingli i Zürich hevdet at nattverden er et minnemåltid — «dette er min kropp» betyr «dette *betyr* min kropp». Luther insisterte på *realpresensen*: Kristus er virkelig til stede i nattverden, *i, med og under* brødet og vinen. Marburg-kollokviet (1529) klarte ikke å forene dem, og den reformerte og lutherske tradisjonen ble to separate bevegelser.
+
+---
+
+## Luthers arv
+
+Luther revolusjonerte vestlig kristendom — men arven er ambivalent:
+
+- Han frigjorde samvittigheten fra kirkelig tvang
+- Han satte Bibelen i allmennhetens hender (tysk bibeloversettelse 1522/34)
+- Han legitimerte fyrstemakten over kirken — noe som ble en kilde til statskirkesystemer i Nord-Europa
+- Hans reaksjon på Bondekrigen ble brukt til å legitimere undertrykkelse av sosiale reformbevegelser
+- Hans voldelige retorikk mot jøder i sene skrifter er en mørk arv
 
 ---
 
 ## Sammenheng med andre artikler
 
-- [[concepts/arvesynd]] — Augustins lære som bakgrunn for Luthers nådelære
-- [[concepts/frelse-athanasius-augustin]] — frelsestradisjonene Luther bygget på og brøt med
-- [[concepts/skolastisk-teologi]] — den middelalderske teologien Luther kritiserte
-- [[concepts/kristendommens-historie-oversikt]] — reformasjonsperioden
-- [[people/augustin]] — Luthers viktigste teologiske forgjenger
+- [[concepts/nåde]] — nådens teologi som Luthers kjerne
+- [[concepts/arvesynd]] — Augustin-arven Luther bygde på
+- [[concepts/kongelig-presteskap]] — alle troendes prestedømme
+- [[concepts/reformasjonen-og-doden]] — reformasjonens konsekvenser for synet på døden
+- [[concepts/bekjennelser-reformasjonens-konsolidering]] — Augsburgbekjennelsen 1530
+- [[concepts/statsreligion]] — to-regiment-teologiens politiske konsekvenser
+- [[people/augustin]] — teologisk forgjenger
 
 ---
 
 ## Kilder
 
-- [[sources/TEOL2310-reformasjon-1]] — kursmodul: Luthers teologi (fortale til Romerbrevet, Om den kristne frihet 1520)
+- [[sources/Mjaaland-2016-luthers-politiske-teologi]] — Mjaaland, M.T. (2016): «Political Theology of the German Revolutions», i: *The Hidden God: Luther, Philosophy, and Political Theology*. Indiana University Press
+- [[sources/TEOL2310-teologihistorie-oldkirken]] — reformasjonens historiske kontekst
+- [[sources/studier-personlige]] — egne notater
