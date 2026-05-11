@@ -2,7 +2,7 @@
 
 Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. Artiklene er bygget opp fra bibelstudier, teologistudier (MF Vitenskapelig Høyskole) og personlig trosrefleksjon.
 
-> **209 artikler** — sist oppdatert 2025-05-11
+> **217 artikler** — sist oppdatert 2025-05-11
 
 ---
 
@@ -23,8 +23,12 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 ## Tro og liv
 
 - [[concepts/guds-kjærlighet]] — Han elsket oss først; Jesu medfølelse; tollerne trakk til ham
-- [[concepts/bekjennelse]] — Josva 7: bekjennelse som æring; helbredelse ikke byrde; Kain som kontrast
-- [[concepts/fellesskap]] — *baros* og *phortion*; Ef 4:16: alle betyr alle; Gal 6:2 og 6:5
+- [[concepts/nåde]] — *charis*; gave uten fortjeneste; billig nåde; nåde som forvandling
+- [[concepts/tilgivelse]] — den ubarmhjertige tjeneren; å gi og ta imot; tilgivelse ≠ forsoning
+- [[concepts/disippelskap]] — «ta opp ditt kors»; kostnaden; hverdagsdisippelskap; identitet
+- [[concepts/bønn]] — Fadervår som mønster; ubesvart bønn; bønn som holdning
+- [[concepts/bekjennelse]] — Josva 7: bekjennelse som æring; helbredelse ikke byrde
+- [[concepts/fellesskap]] — *baros* og *phortion*; Ef 4:16: alle betyr alle
 - [[concepts/svake-baand-og-kristent-fellesskap]] — urkirken, Granovetter, Perpetua og Felicitas
 - [[concepts/min-fars-hus]] — Joh 14:1–4: relasjon med Gud nå og i evigheten
 - [[concepts/hvem-er-du-i-møtet-med-jesus]] — apostlenes fallgroper, samaritankvinnen, hvem er du?
@@ -32,7 +36,7 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 - [[concepts/sheol-og-oppstandelsen]] — Sheol, Hades, ventestedet og oppstandelsen
 - [[concepts/kristent-menneskesyn]] — imago Dei; relasjon vs. lydighet; menneskeverdet
 - [[concepts/kongelig-presteskap]] — 1 Pet 2:9: alle troende som kongelige prester
-- [[concepts/tidligkristen-bønnepraksis]] — orans, tidebønn, Fadervår, ørkenfadrene, Evagrius, Cassian
+- [[concepts/tidligkristen-bønnepraksis]] — orans, tidebønn, Fadervår, ørkenfadrene, Cassian
 
 ---
 
@@ -43,7 +47,7 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 - [[concepts/exodus]], [[concepts/exodus-historisitet]]
 - [[concepts/johannes-evangeliet-studieplan]]
 - [[concepts/messias]], [[concepts/bergprekenen]], [[concepts/salme-22]]
-- [[concepts/lignelsene]] — den bortkomne sønnen, samaritanen, arbeiderne i vingården; performativ funksjon
+- [[concepts/lignelsene]] — den bortkomne sønnen, samaritanen, arbeiderne; performativ funksjon
 - [[concepts/hellige-ånd]], [[concepts/dapen]]
 
 ---
@@ -52,9 +56,13 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 
 - [[concepts/kristendommens-historie-oversikt]] — Kaufmans navigasjonstabell: 0–2000 e.Kr.
 - [[concepts/kristendommens-tilblivelse]] — Romerriket, jødisk kontekst, apostolsk/etterapostolsk tid
-- [[concepts/treenigheten]], [[concepts/arianismen]], [[concepts/nikea-konsilet]], [[concepts/kalkedon-kristologi]]
+- [[concepts/treenigheten]], [[concepts/arianismen]]
+- [[concepts/nikea-konsilet]] — 325: bekjennelsen, *homoousios*, 20 kanoner
+- [[concepts/kalkedon-kristologi]] — Apollinaris, Nestorius, Kyril, Kalkedon 451
+- [[concepts/de-tre-oldkirkelige-bekjennelsene]] — apostolsk, nikensk og Athanasianum med tekster
 - [[concepts/en-gud-fader-allmektig]] — Origen og Gregor av Nyssa om treenighetsgrammatikken
-- [[concepts/frelse-athanasius-augustin]], [[concepts/theosis]], [[concepts/arvesynd]]
+- [[concepts/frelse-athanasius-augustin]], [[concepts/theosis]]
+- [[concepts/arvesynd]] — Athanasius, Pelagius, Augustin; bundet vilje vs. fri vilje
 - [[concepts/askese]] — *Apophthegmata Patrum*; kropp og forvandling; frelst lidenskap
 - [[concepts/martyriet]] — Perpetua, Blandina; passio til vita; kropp og vitnesbyrd
 - [[concepts/didache]] — De tolv apostlers lære: to veier, dåp, nattverd, Marana ta
