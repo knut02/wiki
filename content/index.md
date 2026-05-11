@@ -2,7 +2,7 @@
 
 Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. Artiklene er bygget opp fra bibelstudier, teologistudier (MF Vitenskapelig Høyskole) og personlig trosrefleksjon.
 
-> **220 artikler** — sist oppdatert 2025-05-11
+> **155 artikler** — sist oppdatert 2025-05-11
 
 ---
 
@@ -72,7 +72,7 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 - [[concepts/statsreligion]]
 - [[concepts/luthers-teologi]] — sola gratia/fide/scriptura; to regimenter; Bondekrigen
 - [[concepts/reformasjonen-og-doden]]
-- [[concepts/religion-og-konflikt]] — Brubaker: religion og politisk vold; partikularisering vs. generalisering
+- [[concepts/religion-og-konflikt]] — Brubaker: religion og politisk vold
 - [[concepts/apofatisk-teologi]], [[concepts/mester-eckhart-mystikken]]
 - [[concepts/hvem-er-jesus-for-folk]], [[concepts/historisk-relativisme-kristendom]]
 
