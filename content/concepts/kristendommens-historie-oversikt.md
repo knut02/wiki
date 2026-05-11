@@ -2,7 +2,7 @@
 
 > Kronologisk navigasjon gjennom kirkens 2000-årige historie — fra de første menighetene til global kristendom i dag.
 
-*Opprettet: 2025-04-27 | Oppdatert: 2025-05-06 | Kilder: 1*
+*Opprettet: 2025-04-27 | Oppdatert: 2025-05-10 | Kilder: 1*
 
 ---
 
@@ -26,7 +26,7 @@ Romerriket var primært en bykultur. De største byene: Roma (600 000 innb.), Al
 
 Romerne var religiøst konservative og tolererte fremmede religioner så lenge tilhengerne deltok i keiserdyrkelsen. Å nekte å ofre til keiserens bilde ble sett som politisk illojalt — og ble en kilde til konflikt med kristne.
 
-De tidligste menighetene vokste frem i byene: Jerusalem ([[people/jakob-jesu-bror]]), Antiokia, ([[people/paulus]]s misjonsvirksomhet), Roma. Kirken og jødedommen skilte gradvis lag; den andre jødiske krigen (132–135 e.Kr.) markerte et klart skille.
+De tidligste menighetene vokste frem i byene: Jerusalem ([[people/jakob-jesu-bror]]), Antiokia ([[people/paulus]]s misjonsvirksomhet), Roma. Kirken og jødedommen skilte gradvis lag; den andre jødiske krigen (132–135 e.Kr.) markerte et klart skille.
 
 ---
 
@@ -38,7 +38,7 @@ De tidligste menighetene vokste frem i byene: Jerusalem ([[people/jakob-jesu-bro
 - [[concepts/gnostisisme]] — det store «kjetteriet» på 2.–3. århundre
 - [[concepts/nt-kanon]] — kanonprosessen
 - [[concepts/martyriet]] — martyrium, askese og klosterbevegelsens fremvekst
-- [[concepts/apostoliske-fedre]] — Ignatius, Polykarp, Didake
+- [[concepts/apostoliske-fedre]] — Ignatius, Polykarp, Didache
 - [[concepts/arianismen]] + [[concepts/nikea-konsilet]] — den store kristologiske striden
 - [[concepts/kalkedon-kristologi]] — fra Nikea til Kalkedon
 - [[concepts/statsreligion]] — Konstantin og Theodosius
@@ -47,7 +47,7 @@ De tidligste menighetene vokste frem i byene: Jerusalem ([[people/jakob-jesu-bro
 - [[concepts/kirken-ost-og-vest]] — skismaet 1054
 - [[concepts/klosterlivet]] + [[concepts/monastisk-teologi]] — klostervesenet
 - [[concepts/skolastisk-teologi]] — Anselm, Aquinas
-- [[concepts/mester-eckhart-mystikken]] — senmeddelaldermystikk
+- [[concepts/mester-eckhart-mystikken]] — senmiddelalder-mystikk
 
 **Reformasjonen (1500-t.):**
 - [[concepts/luthers-teologi]]

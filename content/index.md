@@ -49,7 +49,7 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 
 ## Teologi og kirkehistorie
 
-- [[concepts/kristendommens-histoire-oversikt]] — Kaufmans navigasjonstabell: 0–2000 e.Kr.
+- [[concepts/kristendommens-historie-oversikt]] — Kaufmans navigasjonstabell: 0–2000 e.Kr.
 - [[concepts/kristendommens-tilblivelse]] — Romerriket, jødisk kontekst, apostolsk/etterapostolsk tid
 - [[concepts/treenigheten]], [[concepts/arianismen]], [[concepts/nikea-konsilet]], [[concepts/kalkedon-kristologi]]
 - [[concepts/en-gud-fader-allmektig]] — Origen og Gregor av Nyssa om treenighetsgrammatikken
