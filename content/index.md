@@ -2,7 +2,7 @@
 
 Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. Artiklene er bygget opp fra bibelstudier, teologistudier (MF Vitenskapelig Høyskole) og personlig trosrefleksjon.
 
-> **155 artikler** — sist oppdatert 2025-05-11
+> **156 artikler** — sist oppdatert 2025-05-13
 
 ---
 
@@ -23,6 +23,7 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 ## Tro og liv
 
 - [[concepts/guds-kjærlighet]] — Han elsket oss først; Jesu medfølelse; tollerne trakk til ham
+- [[concepts/guds-rike]] — Jesu kjerneforkynnelse; allerede og ennå ikke; rikets omvendte logikk
 - [[concepts/nåde]] — *charis*; gave uten fortjeneste; billig nåde; nåde som forvandling
 - [[concepts/tilgivelse]] — den ubarmhjertige tjeneren; å gi og ta imot; tilgivelse ≠ forsoning
 - [[concepts/disippelskap]] — «ta opp ditt kors»; kostnaden; hverdagsdisippelskap; identitet

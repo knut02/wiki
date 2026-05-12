@@ -2,7 +2,7 @@
 
 > «Tro ikke at det er slik som Moses sier!» — Johannes' hemmelige bok. Gnostikerne tilbød en radikal alternativ fortelling: verden er skapt av en ond demiurg, menneskene er guddommeleg gnister fanget i materie, og frelse er kunnskap om hvem man egentlig er.
 
-*Opprettet: 2025-05-06 | Oppdatert: 2025-05-10 | Kilder: 3*
+*Opprettet: 2025-05-06 | Oppdatert: 2025-05-11 | Kilder: 3*
 
 ---
 
@@ -46,7 +46,7 @@ Simons mytologiske mønster kjenner vi igjen fra hele gnostisk litteratur: et gu
 - Radikale nytolkninger av 1. Mosebok
 - Jaldabaoth — en parodi på Jahve — er den onde skaperguden
 
-**Johannes' hemmelige bok** («den gnostiske bibelen *par excellence*»): Faderen skaper åndsvesener. Den laveste, Sofia (*Visdommen*), forsøker å skape uten Faderens samtykke — og produserer et misfoster, Jaldabaoth, som tror han er den eneste Gud. Han skaper verden og fanger Sofias guddommelige lysglimt i menneskenes kropper. Jesus sendes ned for å vekke menneskene til kunnskap om sin virkelige opprinnelse.
+**Johannes' hemmelige bok** — den viktigste av alle gnostiske tekster: Faderen skaper åndsvesener. Den laveste, Sofia (*Visdommen*), forsøker å skape uten Faderens samtykke — og produserer et misfoster, Jaldabaoth, som tror han er den eneste Gud. Han skaper verden og fanger Sofias guddommelige lysglimt i menneskenes kropper. Jesus sendes ned for å vekke menneskene til kunnskap om sin virkelige opprinnelse.
 
 **Herskermaktenes natur**: Morkets makter forsøker å voldta Noria (Sets søster), men engelen Eleleth redder henne og åpenbarer verdens sanne natur.
 

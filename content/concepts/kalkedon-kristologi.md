@@ -21,11 +21,11 @@ Disse spørsmålene drev fire ekumeniske konsilier mellom 325 og 451:
 
 ---
 
-## Konstantinopel 381: Apollinaris og «romdrakt-kristologi»
+## Konstantinopel 381: Apollinaris og «romdrakt-kristologien»
 
 Etter Nikea oppstod et nytt problem. **Apollinaris av Laodikea** (ca. 315–392) ville forsvare Kristi guddom mot ariansk undergravning. Hans løsning: Kristus hadde ikke menneskelig *nous* (forstand/sjel) — Guds Logos erstattet den menneskelige sjelen.
 
-Ehrman kaller dette *space-suit christology*: Ordet kledde seg i menneskekjøtt som en romdrakt — uten menneskelig sinn inni.
+Ehrman kaller dette «romdrakt-kristologi»: Ordet kledde seg i menneskekjøtt som en romdrakt — uten menneskelig sinn inni. Kristus ser menneskelig ut utenpå, men er det ikke innenfra.
 
 Problemet: Hvis Kristus ikke hadde menneskelig fornuft, er han ikke fullt menneskelig. Og et klassisk frelsesargument sier: «Det som ikke er tatt opp, er ikke helbredet» (*quod non assumptum, non sanatum* — Gregor av Nazianz). Ufullstendig menneskelig natur = ufullstendig frelse.
 
@@ -49,7 +49,7 @@ Kyril og Nestorius fremstilte gjerne hverandres posisjon som mer ekstrem enn den
 
 ## Kalkedon 451: definisjonen
 
-Det store forsoningskonsilet. 451 møttes ca. 500 biskoper i Kalkedon for å finne en formulering som inkluderte de viktigste partiene.
+Det store forsoningskonsilet. I 451 møttes ca. 500 biskoper i Kalkedon for å finne en formulering som inkluderte de viktigste partiene.
 
 **Kalkedon-definisjonen** — norsk oversettelse (Skarsaune):
 
@@ -71,11 +71,11 @@ Kalkedon ble ikke akseptert av alle. Splittelsene den skapte lever ennå:
 
 **Østkirken (øst-syrisk / «nestoriansk»):** Aksepterte ikke Efesos' fordømmelse av Nestorius. Den assyriske kirke i øst holder fortsatt at Efesos var urettferdig.
 
-**Orienten (koptisk, etiopisk, armensk, syrisk-ortodoks):** Aksepterte ikke Kalkedon. De holder en *miafysittisk* (ikke monofysittisk) kristologi: Kristus har én forenet natur av to, ikke to distinkte naturer. Disse kirkene er i dag ofte kalt «orientriske ortodokse».
+**Orienten (koptisk, etiopisk, armensk, syrisk-ortodoks):** Aksepterte ikke Kalkedon. De holder en *miafysittisk* (ikke monofysittisk) kristologi: Kristus har én forenet natur av to, ikke to distinkte naturer. Disse kirkene kalles gjerne «orientriske ortodokse».
 
 **Den gresk-ortodokse og den latinske vestkirken:** Aksepterte Kalkedon. Dette er grunnlaget for det vi i dag kaller «kalkedonsk kristologi» — standard i katolsk, ortodoks og protestantisk teologi.
 
-Jenkins (2010) *Jesus Wars* viser dramatikken: Mobs av munker terroriserte konsiler, keisere ble myrdet for sin teologi, og hærer kjempet under kristologiske bannere. Doktrinen var ikke akademisk — den var politisk og sosialt brennbar.
+Jenkins (2010) *Jesus Wars* viser dramatikken: Folkemengder av munker terroriserte konsilene, keisere ble myrdet for sin teologi, og hærer kjempet under kristologiske bannere. Doktrinen var ikke akademisk — den var politisk og sosialt brennbar.
 
 ---
 

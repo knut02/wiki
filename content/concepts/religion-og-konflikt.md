@@ -18,9 +18,9 @@ Rogers Brubaker (2015) tilbyr en nyansert analytisk ramme.
 
 ## To ytterpunkter Brubaker avviser
 
-**Partikulariserende posisjoner:** Religion er *sui generis* — unikt og usammenlignbart. Religionsmotiverte konflikter er spesielt intraktable fordi religiøse identiteter er absolutte, krever martyrdom og avviser kompromiss. Religion er *årsaken* til konflikt.
+**Særegenhetsperspektivet:** Religion er enestående og usammenlignbar (*sui generis*). Religionsmotiverte konflikter er spesielt vanskelige å løse fordi religiøse identiteter er absolutte, krever martyrdom og avviser kompromiss. Religion er *årsaken* til konflikt.
 
-**Generaliserende posisjoner:** Religionsmotiverte konflikter er i bunn og grunn like alle andre konflikter — om politisk makt, etnisk anerkjennelse, ressurser. «Religion» er bare et dekke over underliggende sekulære interesser.
+**Reduktivistperspektivet:** Religionsmotiverte konflikter er i bunn og grunn like alle andre konflikter — om politisk makt, etnisk anerkjennelse, ressurser. «Religion» er bare et dekke over underliggende sekulære interesser.
 
 Brubaker avviser begge. Begge forenkler et komplekst fenomen.
 
@@ -28,7 +28,7 @@ Brubaker avviser begge. Begge forenkler et komplekst fenomen.
 
 ## Religionens særskilte *innsatser*
 
-Noen konflikter har genuint religiøse *stakes* — de dreier seg om religionens eget innhold:
+Noen konflikter har genuint religiøse innsatser — de dreier seg om religionens eget innhold:
 
 - Retten til å praktisere sin tro
 - Kontrollen over hellige steder
@@ -39,11 +39,11 @@ Disse skiller seg fra konflikter der religion er et identitetsmerke for i bunn o
 
 ---
 
-## Religionens særskilte *modaliteter og mekanismer*
+## Religionens særskilte *virkemåter og mekanismer*
 
-Selv når konfliktenes *innsatser* ikke er særskilt religiøse, kan religion bidra til eskalering gjennom sine unike ressurser og mekanismer:
+Selv når konfliktenes innsatser ikke er særskilt religiøse, kan religion bidra til eskalering gjennom sine unike ressurser og mekanismer:
 
-**Autoritative tekster og tolkningskanoner:** Hellige tekster kan mobiliseres for radikalt ulike formål — fred og forsoning like gjerne som vold. Kampen om *hvem* som tolker teksten autoritativt, er i seg selv en konfliktkilde.
+**Autoritative tekster og tolkningskonkurranse:** Hellige tekster kan mobiliseres for radikalt ulike formål — fred og forsoning like gjerne som vold. Kampen om *hvem* som tolker teksten autoritativt, er i seg selv en konfliktkilde.
 
 **Eskatologisk motivasjon:** Forestillinger om en kosmisk kamp mellom godt og ondt, om martyrium som himmelsk belønning, om den endelige seier — disse kan skape en tidslinje og motivasjonsstruktur som sekulær politikk mangler.
 
@@ -67,11 +67,11 @@ Det er ingen metodologisk grunn til å anta at «religiøs» motivasjon er den r
 
 ## En tredje vei
 
-Brubakers løsning er verken partikularisering eller generalisering, men *spesifikasjon*:
+Brubakers løsning er verken særegenhetsperspektiv eller reduktivisme, men *konkretisering*:
 
-- Identifiser hvilke aspekter av konflikten som er genuint religiøst betinget (innsatsene, modalitetene)
+- Identifiser hvilke aspekter av konflikten som er genuint religiøst betinget (innsatser og virkemåter)
 - Identifiser hvilke aspekter som er strukturelt like andre politiske konflikter
-- Ikke anta a priori at religion enten alltid eller aldri gjør en særskilt forskjell
+- Ikke anta at religion enten alltid eller aldri gjør en særskilt forskjell
 
 ---
 
@@ -102,5 +102,5 @@ Se [[concepts/rettferdig-krig]] for den teologiske tradisjonen for å tenke på 
 
 ## Kilder
 
-- [[sources/Brubaker-2015-religion-og-konflikt]] — Brubaker, R. (2015): «Religious Dimensions of Political Conflict and Violence», *Sociological Theory* 33(1), s. 1–19. DOI: 10.1177/0735275115572153
+- [[sources/Brubaker-2015-religion-og-konflikt]] — Brubaker, R. (2015): «Religious Dimensions of Political Conflict and Violence», *Sociological Theory* 33(1), s. 1–19
 - [[sources/Mjaaland-2016-luthers-politiske-teologi]] — kontekst: reformasjonen og politisk vold
