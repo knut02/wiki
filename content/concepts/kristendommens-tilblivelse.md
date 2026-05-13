@@ -8,7 +8,7 @@
 
 ## Romerriket og den hellenistiske kultur
 
-Pedersen (2012) begynner sin kirkhistorie der Lukas begynner sitt evangelium: med keiser Augustus og det romerske riket. Det er ikke tilfeldig. Kristendommen ble til innenfor rammene av det romerske verdensriket og forblir uforståelig uten denne konteksten.
+Pedersen (2012) begynner sin kirkehistorie der Lukas begynner sitt evangelium: med keiser Augustus og det romerske riket. Det er ikke tilfeldig. Kristendommen ble til innenfor rammene av det romerske verdensriket og forblir uforståelig uten denne konteksten.
 
 Roma hadde vokst fra en liten by til verdensherredømme gjennom republikkens tid, borgerkrigene og det augusteiske keiserdømmet. Det keiserlige riket strakte seg fra Britannia i vest til Eufrat i øst — og det var ikke bare politisk men *kulturelt* samlet gjennom den greske kulturens utbredelse (*hellenisering*): ett felles administrasjonsspråk (gresk i øst, latin i vest), felles filosofisk tradisjon, felles handelsnettverk.
 
@@ -22,7 +22,7 @@ Pedersen understreker en viktig transformasjon allerede i kristendommens *først
 
 Bymenigheten var sosialt heterogen: fri og slave, mann og kvinne, jøde og hedning (jf. Gal 3:28). Den møttes i private hjem — hos de velstående nok til å ha plass. Den hadde ingen spesielle bygg, ingen presteklasse i formell forstand, ingen kanoniserte skrifter (det tok tid).
 
-Forventningen om Guds rikes snarlige gjennombrudd (jf. 1 Tess 4:13–5:11) bidro til at de første menighetene verken trengte organisasjon eller skriftfixering — Jesus kom jo snart tilbake.
+Forventningen om Guds rikes snarlige gjennombrudd (jf. 1 Tess 4:13–5:11) bidro til at de første menighetene verken trengte organisasjon eller skriftfesting — Jesus kom jo snart tilbake.
 
 ---
 
@@ -46,9 +46,9 @@ I denne perioden dominerer to spørsmål kirkehistorien:
 - Jerusalem og tempelet ble ødelagt av romerne (70 e.Kr.)
 - Urmenigheten ble spredt
 
-Dette skapte et tilbakeskuende perspektiv som ikke hadde vært mulig tidligere: Man måtte nå *skrive ned* aposteltradisjonen. Evangeliene ble til i denne perioden (Markus ca. 70, Matteus og Lukas ca. 80-90, Johannes ca. 90-100). Se [[concepts/evangeliene]].
+Dette skapte et tilbakeskuende perspektiv som ikke hadde vært mulig tidligere: Man måtte nå *skrive ned* aposteltradisjonen. Evangeliene ble til i denne perioden (Markus ca. 70, Matteus og Lukas ca. 80–90, Johannes ca. 90–100). Se [[concepts/evangeliene]].
 
-Det jødekristne og hedningekristne nærmet seg hverandre, men det ble stadig tydeligere at kristne og jøder var to *atskilte* religionssamfunn — med «gensidig modvilje og med hver deres selvforståelse».
+Det jødekristne og hedningekristne nærmet seg hverandre, men det ble stadig tydeligere at kristne og jøder var to *atskilte* religionssamfunn — med gjensidig modvilje og med hver sin selvforståelse.
 
 ---
 
@@ -58,7 +58,7 @@ Kristendommen forholdt seg til Romerriket på to måter i de første to hundre �
 
 **Apolitisk strategi:** Paulus (Rom 13) og Peter (1 Pet 2) råder de kristne til å underordne seg myndighetene. Kristne var en liten, sårbar gruppe som ikke hadde råd til konfrontasjon.
 
-**Teologisk distinksjon:** Kristne nektet å ofre til keiserens genius — det var blasfemi mot den ene Gud. Dette ble oppfattet som samfunnsfarlig ateisme. Kristendommens universelle krav («Én Herre») var i prinsippet uforenlig med det politiske romers polyteistiske toleranse.
+**Teologisk distinksjon:** Kristne nektet å ofre til keiserens genius — det var blasfemi mot den ene Gud. Dette ble oppfattet som samfunnsfarlig ateisme. Kristendommens universelle krav («Én Herre») var i prinsippet uforenlig med det politiske Romas polyteistiske toleranse.
 
 Dette spennet — lydighetsidealet og den absolutte Kristus-bekjennelsen — skapte de periodiske forfølgelsene som kulminerte under Decius (250–251) og Diokletian (303–305).
 

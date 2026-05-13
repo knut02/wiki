@@ -2,7 +2,7 @@
 
 Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. Artiklene er bygget opp fra bibelstudier, teologistudier (MF Vitenskapelig Høyskole) og personlig trosrefleksjon.
 
-> **156 artikler** — sist oppdatert 2025-05-13
+> **158 artikler** — sist oppdatert 2025-05-13
 
 ---
 
@@ -24,6 +24,7 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 
 - [[concepts/guds-kjærlighet|Guds kjærlighet]] — Han elsket oss først; Jesu medfølelse; tollerne trakk til ham
 - [[concepts/guds-rike|Guds rike]] — Jesu kjerneforkynnelse; allerede og ennå ikke; rikets omvendte logikk
+- [[concepts/hvem-døde-jesus-for|Hvem døde Jesus for?]] — fra «hele verden» til «meg» — korsets rekkevidde
 - [[concepts/nåde|Nåde]] — *charis*; gave uten fortjeneste; billig nåde; nåde som forvandling
 - [[concepts/tilgivelse|Tilgivelse]] — den ubarmhjertige tjeneren; å gi og ta imot; tilgivelse ≠ forsoning
 - [[concepts/disippelskap|Disippelskap]] — «ta opp ditt kors»; kostnaden; hverdagsdisippelskap; identitet
@@ -49,7 +50,8 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 - [[concepts/johannes-evangeliet-studieplan|Johannesevangeliet — studieplan]]
 - [[concepts/messias|Messias]], [[concepts/bergprekenen|Bergprekenen]], [[concepts/salme-22|Salme 22]]
 - [[concepts/lignelsene|Lignelsene]] — den bortkomne sønnen, samaritanen, arbeiderne; performativ funksjon
-- [[concepts/hellige-ånd|Den Hellige Ånd]], [[concepts/dapen|Dåpen]]
+- [[concepts/hellige-ånd|Den Hellige Ånd]] — fra GT til NT; Talsmannen; Åndens frukter; hverdagsliv
+- [[concepts/dapen|Dåpen]]
 
 ---
 
