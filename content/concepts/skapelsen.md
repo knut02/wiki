@@ -2,7 +2,7 @@
 
 > «I begynnelsen skapte Gud himmelen og jorden.» — 1 Mos 1:1. Ikke bare et kosmologisk faktum — en teologisk bekjennelse.
 
-*Opprettet: 2025-05-14 | Kilder: 3*
+*Opprettet: 2025-05-14 | Oppdatert: 2025-05-14 | Kilder: 4*
 
 ---
 
@@ -58,9 +58,9 @@ For Israel er sabbaten et tegn på pakten (2 Mos 31:16–17) og en minning om fr
 
 Syv ganger i 1 Mosebok 1 sier Gud at det han skapte er «godt». Etter den sjette dagen: «svært godt» (1 Mos 1:31).
 
-Det er en viktig teologisk påstand mot alle former for **dualisme** — det synet at materie er ondt og ånd er godt. Skaperverket er ikke et fengsel man skal rømme fra, men Guds verk som det er verdt å ta vare på.
+Det er en viktig teologisk påstand mot alle former for **dualisme** — det synet at materie er ondt og ånd er godt. Hvalvik (2020) understreker at Genesis 1 ble en sentral tekst i oldkirken nettopp fordi den sto i skarp kontrast til gresk filosofi, som gjennomgående betraktet materien som ond. Mot gnostiske bevegelser som fornektet skapelsens godhet, insisterte den proto-ortodokse tradisjonen på at det legemlige er Guds gode verk.
 
-Og det betyr at **kroppen** er skapt god. At verden er skapt god. At det sanselige livet — mat, hvile, vennskap, arbeid — er skapt godt. Kristendommens håp er ikke å komme ut av skaperverket, men ny skapelse — gjenopprettelse av det som ble til av Guds hender.
+Skaperverket er ikke et fengsel man skal rømme fra, men Guds verk som det er verdt å ta vare på. Kristendommens håp er ikke å komme ut av skaperverket, men ny skapelse — gjenopprettelse av det som ble til av Guds hender.
 
 ---
 
@@ -71,6 +71,18 @@ Og det betyr at **kroppen** er skapt god. At verden er skapt god. At det sanseli
 Konsekvensene er konkrete: skam, gjemsel («de gjemte seg»), ansvarsfraskrivelse («kvinnen du gav meg»), og brudd med skaperverkets gode orden. Det er ikke primært en juridisk transaksjon — det er et relasjonelt sammenbrudd.
 
 Athanasius beskriver det ontologisk: Mennesket er skapt av intet og tenderer mot intet. Fellesskap med Gud var det som holdt forgjengeligheten borte. Syndefallet er å vende seg bort fra det som er — tilbake mot intet. Se [[concepts/arvesynd]].
+
+---
+
+## Skapelse og syndefall i vestlig kunst
+
+Hvalvik (2020) viser at skapelses- og syndefallsfortellingene har hatt enorm innflytelse på vestlig billedkunst fra senantikken frem til i dag.
+
+**Eden og syndefallet** er blant kunsthistoriens mest gjentatte motiver. Michelangelos freske i Det sixtinske kapell (1508–1512) er kanskje det mest kjente — Guds skapende finger som nesten berører Adams. Men bildet er teologisk ladet: Adam er passiv mottaker, ikke aktiv skapning. Mellomrommet mellom fingrene er ikke bare estetikk — det er teologi.
+
+**Adam og Eva ved treet** finnes i tusenvis av varianter. Særlig fremhevet: Eva som den aktive, Adam som den passive. Slangen rundt treet. Skamfølelsen etterpå.
+
+**Ikonografiske tradisjoner:** I bysantinsk og romansk kunst knyttes skapelsesscener tett til påsketeologien — Adam som «begraves» i jord og Kristus som den nye Adam som stiger opp fra jord. Skapelse og forløsning leses som én bevegelse.
 
 ---
 
@@ -98,3 +110,4 @@ Paulus kaller Kristus «den siste Adam» (1 Kor 15:45) — den som gjenoppretter
 - [[sources/studier-skapelsen]] — «Det gamle testamentet» og «Nøkkelhendelser» (egne studier)
 - [[sources/Niditch-2012-Genesis]] — Niditch, S. (2012): tradisjonslitteratur og sjanger i Genesis
 - [[sources/Athanasius-om-inkarnasjonen]] — Athanasius: skapelse, forgjengelighet og frelse
+- [[sources/Hvalvik-2020-billedkunst]] — Hvalvik, R. (2020): *Fra Eden til det nye Jerusalem*. MF/KRLE1021

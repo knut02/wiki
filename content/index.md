@@ -2,7 +2,7 @@
 
 Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. Artiklene er bygget opp fra bibelstudier, teologistudier (MF Vitenskapelig Høyskole) og personlig trosrefleksjon.
 
-> **179 artikler** — sist oppdatert 2025-05-14
+> **182 artikler** — sist oppdatert 2025-05-14
 
 ---
 
@@ -46,13 +46,15 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 
 ## Bibelen
 
-- [[concepts/skapelsen|Skapelsen]] — imago Dei; sabbat; skaperverkets godhet; syndefallet
+- [[concepts/skapelsen|Skapelsen]] — imago Dei; sabbat; skaperverkets godhet; syndefall; billedkunst
 - [[concepts/pakten|Pakten]] — Noahpakten, Abrahampakten, Sinaipakten, Davidpakten, ny pakt
 - [[concepts/bibelhistorie-nokkelhendelser|Bibelhistorie — nøkkelhendelser]] — kronologisk oversikt fra skapelse til ny skapelse
 - [[concepts/bibelens-kanon|Bibelens kanon]], [[concepts/gt-kanon-og-teksthistorie|GT-kanon og teksthistorie]], [[concepts/nt-kanon|NT-kanon]]
-- [[concepts/evangeliene|Evangeliene]], [[concepts/matteus-evangeliet|Matteusevangeliet]], [[concepts/apostlenes-gjerninger|Apostlenes gjerninger]]
+- [[concepts/evangeliene|Evangeliene]], [[concepts/matteus-evangeliet|Matteusevangeliet]] — ættetavle, oppfyllelsessitater, kristologi, misjonsbefalingen
+- [[concepts/apostlenes-gjerninger|Apostlenes gjerninger]]
 - [[concepts/exodus|Exodus]], [[concepts/exodus-historisitet|Exodus — historisitet]]
-- [[concepts/johannes-evangeliet-studieplan|Johannesevangeliet — studieplan]]
+- [[concepts/daniel|Daniels bok]] — eksil i Babylon; den brennende ovnen; løvehulen; apokalyptikk
+- [[concepts/johannes-evangeliet-studieplan|Johannesevangeliet — 30 dagers studieplan]] — fem uker, tre temalinjer
 - [[concepts/messias|Messias]] — *masjiach*; Davidspakten; Peters bekjennelse som vendepunkt
 - [[concepts/bergprekenen|Bergprekenen]], [[concepts/salme-22|Salme 22]]
 - [[concepts/lignelsene|Lignelsene]] — den bortkomne sønnen, samaritanen, arbeiderne; performativ funksjon
