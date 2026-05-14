@@ -2,18 +2,18 @@
 
 Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. Artiklene er bygget opp fra bibelstudier, teologistudier (MF Vitenskapelig Høyskole) og personlig trosrefleksjon.
 
-> **164 artikler** — sist oppdatert 2025-05-13
+> **164 artikler** — sist oppdatert 2025-05-14
 
 ---
 
 ## Å lese og forstå Bibelen
 
 - [[concepts/bibelens-tilblivelse|Bibelens tilblivelse]] — fra muntlig tradisjon til kanon; oversettelseshistorie
-- [[concepts/bibeltolkning-innforing|Bibeltolkning — innføring]] — hermeneutikk, sjangre, kontekst, eksegese vs. eisegese
+- [[concepts/bibeltolkning-innforing|Bibeltolkning — innføring]] — forfatter/tekst/leser; hermeneutisk sirkel; arbeidsskjema i fire punkter
 - [[concepts/bibelsk-hebraisk-innforing|Bibelhebraisk — innføring]] — alfabet, vokalsystem, verbstammer, nomenbøying
 - [[concepts/kvinner-som-bibeltolkere|Kvinner som bibeltolkere]] — leserposisjon, feministisk hermeneutikk, Wirkungsgeschichte
 - [[concepts/visdomslitteratur-praksis|Visdomslitteratur i praksis]] — bibliansk visdom: hva er det, og hvordan leve etter den
-- [[concepts/hvordan-lese-narrativ|Hvordan lese narrativ]] — tradisjonslitteratur, plot, karakterer, lignelser
+- [[concepts/hvordan-lese-narrativ|Hvordan lese narrativ]] — plot, karakterer, setting, sjanger, forteller, ressurstekster
 - [[concepts/hvordan-lese-brev|Hvordan lese brev]] — kommunikasjonssituasjon, brevstruktur, indicativ/imperativ
 - [[concepts/hvordan-lese-profetlitteratur|Hvordan lese profetlitteratur]] — profetens samtid, domsord/frelsesord, apokalyptikk
 - [[concepts/hvordan-lese-salmer|Hvordan lese salmer]] — poetisk litteratur og hymner ⚪
