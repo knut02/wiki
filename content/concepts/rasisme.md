@@ -1,68 +1,65 @@
-# Rasisme — begrep, historie og former
+# Rasisme
 
-> Akademisk gjennomgang av rasismebegrepet: hva det er, hvordan det har utviklet seg historisk og hvilke former det tar i dag.
+> Benjamin Hermansen, 15 år, ble drept i Oslo 26. januar 2001. Ene og alene på grunn av sin mørke hudfarge. 40 000 mennesker gikk i fakkeltog.
 
-*Opprettet: 2025-05-01 | Kilder: 1*
+*Opprettet: 2025-04-18 | Oppdatert: 2025-05-14 | Kilder: 2*
 
 ---
 
 ## Hva er rasisme?
 
-Rasisme er et flertydig begrep som ikke fanger inn én enkelt handling eller holdning, men et spekter. Bangstad og Døving foreslår at tre prosesser må inngå:
+Bangstad og Døving (2015) begynner sin analyse med Benjamin Hermansen-drapet — ikke som en ekstrem unntakshendelse, men som et utgangspunkt for å stille spørsmålet: Hva er egentlig rasisme?
 
-1. Å dele inn en befolkning i kategorier der noen gis negative essensielle trekk
-2. Å redusere et individs identitet til disse negative kategoritrekkene
-3. Å bruke de negative trekkene som argument for underordning og diskriminering
+Det er et spørsmål uten ett enkelt svar. Rasisme er et begrep med mange lag og mange stridigheter. Men noen kjernekomponenter er nødvendige:
 
-En vanlig definisjon fra Store norske leksikon beskriver rasisme som oppfatninger som tar utgangspunkt i at mennesker kan deles inn i distinkte "raser" som kan rangeres som høyere eller lavere. Men denne definisjonen er for snever — den fanger ikke *kulturell rasisme*.
+**Rasebegrepet:** Rasisme forutsetter en forestilling om at mennesker kan inndeles i «raser» med biologisk bestemte egenskaper. Det er i dag bred vitenskapelig enighet om at «rase» ikke er en biologisk kategori — det finnes ikke distinkte menneskelige raser. Men den sosiale virkeligheten av rasediskriminering eksisterer uavhengig av om «raser» er biologisk reelle.
 
----
+**Hierarki:** Rasisme innebærer ikke bare at folk er ulike, men at de er *rangert* — at noen grupper er overlegne og andre underlegne.
 
-## Kulturell rasisme og "ny-rasisme"
-
-Fra 1970-80-tallet endret rasismens uttrykksform seg i Europa. I stedet for hudfarge som markør ble **religion og kultur** den dominerende begrunnelsen for å underordne grupper. "Den truende brune pakistaneren" ble "den truende fanatiske muslimen" — en rasisme uten raser.
-
-Eksempel: Drapet på Benjamin Hermansen (2001) illustrerte at rasistisk motivert vold fortsatt rammet norske minoriteter, men at motivasjonen like gjerne kunne begrunnes med opprinnelse og kultur som med hudfarge.
+**Diskriminering:** Rasisme fører til ulik behandling basert på denne rangeringen.
 
 ---
 
-## Den vitenskapelige rasismens historie
+## Individuelle og strukturelle former
 
-**Carl von Linné** (1707–1778) la grunnlaget for biologisk raseklassifisering — han inndelte *Homo sapiens* i fem varianter med tydelig hierarki, der europeeren var øverst. Dette var ikke vitenskap i moderne forstand, men la grunnlaget for det som fulgte.
+Et sentralt skille i rasismeforskning er mellom **individuell** og **strukturell** (eller institusjonell) rasisme:
 
-**Joseph Arthur de Gobineau** (1853–1855) — argumenterte for at den "germanske rasen" var overlegen, og at "raseblanding" hadde ødelagt tidligere sivilisasjoner. Flittig sitert av nazistene.
+**Individuell rasisme** er holdninger og handlinger hos enkeltpersoner — som drapet på Benjamin Hermansen eller diskriminerende ansettelsespraksis.
 
-**Houston Stewart Chamberlain** (1899) — utpekte jødene som germanernes arvefiende i et verk som hadde stor innflytelse på Adolf Hitler.
+**Strukturell rasisme** handler om at systemer, institusjoner og strukturer kan produsere diskriminerende utfall selv uten at enkeltpersoner har rasistiske intensjoner. Et eksempel: Dersom CV-er med utenlandsk-klingende navn systematisk blir silt ut, er det et strukturelt problem selv om ingen rekrutterer tenker «jeg er rasist».
 
-**Rasehygienebevegelsen** vokste frem på 1900-tallet i Europa og USA. I Norge ble steriliseringsloven vedtatt i 1934 med støtte fra Det medisinske fakultet. Mellom 1934 og 1977 ble hundrevis av taterkvinner — noen helt ned i 14-årsalderen — tvangssterilisert.
-
-Etter 1945 erklærte UNESCO at det ikke fantes vitenskapelig grunnlag for "vitenskapelig rasisme". Likevel dukker idéer om rasemessige forskjeller opp med jevne mellomrom.
+Debatten om strukturell rasisme er politisk omstridt. Konservative kritikere mener begrepet tøyer «rasisme» for langt og fritar enkeltpersoner for ansvar. Progressivt orienterte forskere mener man ikke kan forstå diskriminering uten å se på strukturene.
 
 ---
 
-## Det "ekstreme århundret"
+## Rasisme i norsk kontekst
 
-Det 20. århundret representerte rasismens klimaks som statlig politikk: Nazi-Tyskland, apartheid i Sør-Afrika og sørstatene i USA. Felles for disse regimene var offisiell rasistisk ideologi, lover mot "raseblanding", segregering, frarøvelse av stemmerett og bevisst fattigdomsholding av utgrupper.
+Bangstad og Døving (2015) skriver innenfor en norsk kontekst der rasisme lenge var noe man forbandt med Sørstatene i USA eller Apartheid-Sør-Afrika — ikke med Norge. Norsk selvforståelse har typisk vektlagt likhet og toleranse.
 
-Det tyske folkemordet på hereroene og namaene i Sørvest-Afrika (1904–1908) foregikk tiår før Holocaust, men la grunnlaget for det samme rasistiske tankesettet.
+Men drapet på Hermansen og den forskningen som fulgte, viste at rasistiske miljøer og holdninger fantes i Norge. Boot Boys, den nynazistiske grupperingen bak drapet, var ikke et isolert importfenomen — den hadde røtter i norsk ungdomskultur på 1990-tallet.
+
+Mer subtile former for diskriminering — i arbeidsmarkedet, boligmarkedet, av politiet — er dokumentert gjennom forskning selv om de sjelden blir straffet.
 
 ---
 
-## Rasisme i Norge i dag
+## Rasisme og religion
 
-Norsk hverdagsrasisme bygger oftest på referanser til religion og kultur fremfor hudfarge. Twitter-kampanjen #norskrasisme dokumenterte i 2014 en rekke erfaringer: kommentarer om lukt, hijaben og muslimer som trussel. Strukturell diskriminering — der minoriteter systematisk stoppes oftere av politiet, f.eks. — er veldokumentert.
+Rasisme og religion overlapper på kompliserte måter. Antisemittisme — hat mot jøder — er en av de eldste formene for rasisme i Europa, og den har historisk blitt legitimert med religiøse argumenter. Islamofobi — hat og frykt rettet mot muslimer — er et nyere fenomen som ofte blander religiøs og etnisk diskriminering.
+
+Kirken har en ambivalent historisk rolle: Den har bidratt til å legitimere rasisme (kolonialteologi, apartheid-teologi, antisemittisme), og den har vært en ressurs i kampen mot rasisme (Martin Luther King, Desmond Tutu, anti-apartheid-bevegelsen).
 
 ---
 
 ## Sammenheng med andre artikler
 
-- [[concepts/livssyn]] — rasisme som livssynsmessig fenomen
-- [[concepts/religion-i-praksis]] — religion og kultur som markør for "de andre"
-- [[concepts/unge-og-kristendom]] — fordommer og religion blant unge
-- [[concepts/islam]] — islam som mål for ny-rasisme i norsk offentlighet
+- [[concepts/det-livssynsapne-samfunn]] — livssynspluralisme og diskriminering i Norge
+- [[concepts/religion-og-konflikt]] — religion og vold
+- [[concepts/religionsteologi]] — kristendommens forhold til andre grupper
+- [[concepts/islam]] — islamofobi som særlig aktuell form
 
 ---
 
 ## Kilder
 
-- [[sources/RL1016-Bangstad-2015]] — Bangstad & Døving (2015): Hva er rasisme?, kap. 1 (s. 7–16) og kap. 2 (s. 49–60)
+- [[sources/Bangstad-2015-rasisme]] — Bangstad, S. & Døving, C.A. (2015): *Hva er rasisme*, kap. 1: «Hva er rasisme?», s. 7–16. Universitetsforlaget
+- [[sources/TEOL1010-bibeltolkning]] — kulturkontekst

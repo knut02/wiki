@@ -1,76 +1,91 @@
-# Det livssynsåpne samfunn og sekularisering i Norge
+# Det livssynsåpne samfunn
 
-> Stålsetts analyse av det norske livssynslandskapet: sekularisering, pluralisering og hva det vil si å bygge et livssynsåpent samfunn.
+> I 2020 var 67,7 prosent av den norske befolkningen medlemmer av Den norske kirke. I 1970 var andelen 94 prosent. Det norske livssynslandskapet er i rask endring.
 
-*Opprettet: 2025-05-01 | Kilder: 1*
-
----
-
-## Livssynslandskapet i tall
-
-I 1970 var 94 % av nordmenn medlemmer av Den norske kirke. I 2020 var andelen 67,7 %. I Oslo var den under halvparten (46,4 %).
-
-Nedgangen skyldes ikke primært utmeldelse, men **lavere innmeldelse**: færre barn døpes. Antall døpte sank fra 41 000 (2010) til 28 000 (2019). I 2020 oppga bare 47 % av alle over 16 år at de tilhørte en religion eller trosretning.
-
-Samtidig vokser andre tros- og livssynssamfunn:
-
-| Gruppe | Andel (av trossamfunn utenom DNK) |
-|--------|-----------------------------------|
-| Kristendom (andre) | 53,4 % |
-| Islam | 26,2 % |
-| Livssyn (HEF m.fl.) | 14,3 % |
-| Buddhisme | 3,1 % |
-| Hinduisme | 1,7 % |
+*Opprettet: 2025-04-18 | Oppdatert: 2025-05-14 | Kilder: 2*
 
 ---
 
-## Sekularisering, sekularitet og sekularisme
+## Et nytt livssynslandskap
 
-Stålsett skiller mellom tre begreper:
+«Det livssynsåpne samfunn» er tittelen på en norsk offentlig utredning (NOU 2013:1) som dannet grunnlaget for ny tros- og livssynspolitikk i Norge. Stålsett (2021) analyserer dette dokumentet og situasjonen det springer ut av.
 
-**Sekularisering** — en prosess der religiøse institusjoner mister innflytelse, religion blir mindre viktig for samfunnet og for den enkelte.
-
-**Sekularitet** — en tilstand der gudstro er ett valg blant flere, ikke lenger selvsagt. Charles Taylor beskriver dette som bevegelsen fra et samfunn der gudstro er enerådende, til en situasjon der den er ett av mange mulige livssyn.
-
-**Sekularisme** — en ideologi som aktivt favoriserer det ikke-religiøse og ønsker å rense offentligheten for religionsutøvelse. Stålsett skiller mellom "laicist" sekularisme (religion som motstander) og jødisk-kristen sekularisme (religion som identitetsmarkør).
+Poenget er ikke at Norge er blitt ateistisk. Det er at Norge har gått fra å være et homogent luthersk samfunn til et pluralistisk livssynssamfunn — og at dette krever en ny politisk tilnærming.
 
 ---
 
-## Det livssynsåpne samfunn
+## Tallene
 
-Norge er verken et rent sekulært eller et religiøst samfunn — det er i ferd med å bli *livssynsåpent*: et samfunn som anerkjenner og gir rom for ulike tros- og livssynstradisjoner i offentligheten, uten å favorisere noen av dem.
+Stålsett (2021) gjennomgår utviklingen i tall:
 
-Dette skiller seg fra sekularisme: det livssynsåpne samfunnet er ikke fiendtlig mot religion, men ønsker å behandle alle livssyn likeverdig.
+| År | DNK-medlemmer (andel av befolkningen) |
+|----|--------------------------------------|
+| 1970 | 94 % |
+| 1988 | 88 % |
+| 2012 | 77 % |
+| 2020 | 67,7 % |
+
+I Oslo var andelen i 2020 nede i **46,4 prosent** — under halvparten av befolkningen. I Kristiansand var den 60,7 %, i Trondheim 67,1 %. Andelen er generelt høyere i utkantstrøk.
+
+Nedgangen skyldes ikke primært utmeldelse, men:
+- Lavere dåpstall: fra 41 000 (2010) til 28 000 (2019)
+- Lavere konfirmasjonstall: fra 42 000 til 35 000 i samme periode
+- Endret befolkningssammensetning gjennom innvandring
+
+Kirkelige begravelser hadde i 2019 fortsatt høy oppslutning — 85,5 prosent — men synker jevnt, særlig i byene.
 
 ---
 
-## Fire samtidige trender
+## De nye livssynsgruppene
 
-1. **Sekularisering** — nedgang i religiøs tilhørighet og praksis
-2. **Pluralisering** — vekst i mangfoldet av religioner og livssyn
-3. **Medialisering** — religion formateres av mediene, fremstilles som konfliktskapende, og stimulerer til avstandstaking
-4. **Revitalisering** — den økte bevisstheten om livssyn som identitetsmarkør gir ny religionsengasjement, men også polarisering
+Mens DNK mister medlemmer, vokser andre grupperinger:
+
+**Islam** er blitt landets nest største trossamfunn, med ca. 180 000 registrerte medlemmer (2020-tall). Muslimsk innvandring fra Pakistan (fra 1960-tallet), Somalia, Irak og andre land har skapt en varig muslimsk befolkning.
+
+**Human-Etisk Forbund** har vokst til å bli landets nest største livssynssamfunn — med over 100 000 medlemmer.
+
+**Frikirker og pinsemenigheter** har holdt seg relativt stabile eller vokst noe.
+
+**Ingen tilhørighet** er den kategorien som vokser raskest, særlig blant unge.
 
 ---
 
-## Er Norge postsekulært?
+## Hva er «det livssynsåpne samfunn»?
 
-Jürgen Habermas åpnet seg fra 2005 for at religiøs tenkning kan bidra med innsikter den sekulære rasjonaliteten ikke alltid fanger. Men han krever at religiøse aktører "oversetter" sine overbevisninger til sekulært språk for å bli tatt alvorlig i offentligheten.
+Begrepet representerer et prinsipp: Staten skal ikke favorisere ett livssyn fremfor andre, men tilrettelegge likt for alle. Det innebærer:
 
-Ulla Schmidt konkluderer (2020) at Norge ikke er et postsekulært samfunn — sekulariseringsprosessene er for dominerende. Men det livssynsåpne samfunn kan sees som et skritt i den retningen.
+- Finansiering av tros- og livssynssamfunn ut fra lik pris per medlem
+- Religionsfrihet og livssynsfrihet som likestilte rettigheter
+- Offentlig rom der ulike livssyn kan komme til uttrykk
+- Ikke nøytralt — det livssynsåpne samfunn har egne verdier (menneskerettigheter, demokrati, likeverd)
+
+Dette er en bevegelse bort fra det konfesjonelle statskirkesystemet (der Den norske kirke hadde privilegert status) og mot et mer pluralistisk fundament.
+
+---
+
+## Utfordringer
+
+Stålsett peker på noen grunnleggende spenninger:
+
+**Religionsfrihet vs. individuelle rettigheter:** Noen religiøse praksiser utfordrer likestillingsloven eller barns rettigheter. Hvor går grensen mellom beskyttelse av religionsfriheten og individers rettigheter innad i trossamfunn?
+
+**Synlighet i offentligheten:** Er det livssynsåpne samfunnet faktisk åpent for religiøse uttrykk i det offentlige rom, eller er det i praksis sekularistisk?
+
+**Kunnskapsmangel:** KRLE-faget og religionsundervisningen er viktig for at borgere skal forstå hverandres livssyn — men er den god nok?
 
 ---
 
 ## Sammenheng med andre artikler
 
-- [[concepts/livssyn]] — livssynsbegrepet akademisk
-- [[concepts/nyreligiositet]] — nyreligiøsitet som del av pluraliseringen
-- [[concepts/religion-i-praksis]] — praktisk navigering av religiøst mangfold
-- [[concepts/islam]] — islams posisjon i det norske livssynslandskapet
-- [[concepts/jodedommen]] — jødedommens plass blant minoriteter
+- [[concepts/livssyn]] — livssynsbegrepet
+- [[concepts/sekularisering]] — sekulariseringens norske forløp
+- [[concepts/religion-i-praksis]] — hverdagsreligion i Norge
+- [[concepts/islam]] — islams vekst i Norge
+- [[concepts/kristendom-i-norge]] — Den norske kirkes situasjon
 
 ---
 
 ## Kilder
 
-- [[sources/RL1016-Stålsett-2021]] — Stålsett (2021): Det livssynsåpne samfunn, kap. 2, s. 23–35
+- [[sources/Stålsett-2021-livssynsapne]] — Stålsett, S.J. (2021): *Det livssynsåpne samfunn*, kap. 2: «Det nye livssynslandskapet i Norge», s. 23–35. Cappelen Damm akademisk
+- [[sources/TEOL1010-bibeltolkning]] — kulturkontekst
