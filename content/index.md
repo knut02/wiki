@@ -2,7 +2,7 @@
 
 Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. Artiklene er bygget opp fra bibelstudier, teologistudier (MF Vitenskapelig Høyskole) og personlig trosrefleksjon.
 
-> **164 artikler** — sist oppdatert 2025-05-14
+> **168 artikler** — sist oppdatert 2025-05-14
 
 ---
 
@@ -45,11 +45,15 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 
 ## Bibelen
 
+- [[concepts/skapelsen|Skapelsen]] — imago Dei; sabbat; skaperverkets godhet; syndefallet
+- [[concepts/pakten|Pakten]] — Noahpakten, Abrahampakten, Sinaipakten, Davidpakten, ny pakt
+- [[concepts/bibelhistorie-nokkelhendelser|Bibelhistorie — nøkkelhendelser]] — kronologisk oversikt fra skapelse til ny skapelse
 - [[concepts/bibelens-kanon|Bibelens kanon]], [[concepts/gt-kanon-og-teksthistorie|GT-kanon og teksthistorie]], [[concepts/nt-kanon|NT-kanon]]
 - [[concepts/evangeliene|Evangeliene]], [[concepts/matteus-evangeliet|Matteusevangeliet]], [[concepts/apostlenes-gjerninger|Apostlenes gjerninger]]
 - [[concepts/exodus|Exodus]], [[concepts/exodus-historisitet|Exodus — historisitet]]
 - [[concepts/johannes-evangeliet-studieplan|Johannesevangeliet — studieplan]]
-- [[concepts/messias|Messias]], [[concepts/bergprekenen|Bergprekenen]], [[concepts/salme-22|Salme 22]]
+- [[concepts/messias|Messias]] — *masjiach*; Davidspakten; Peters bekjennelse som vendepunkt
+- [[concepts/bergprekenen|Bergprekenen]], [[concepts/salme-22|Salme 22]]
 - [[concepts/lignelsene|Lignelsene]] — den bortkomne sønnen, samaritanen, arbeiderne; performativ funksjon
 - [[concepts/hellige-ånd|Den Hellige Ånd]] — fra GT til NT; Talsmannen; Åndens frukter; hverdagsliv
 - [[concepts/dapen|Dåpen]]
