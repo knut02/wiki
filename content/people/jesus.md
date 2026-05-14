@@ -1,80 +1,95 @@
 # Jesus fra Nasaret
 
-> Historisk person og religiøs skikkelse fra det første århundre e.Kr., sentral grunnlegger av kristendommen.
+> «Du er Messias, den levende Guds Sønn.» — Peters bekjennelse, Matt 16:16
 
-*Opprettet: 2025-04-18 | Sist oppdatert: 2025-04-18 (/compile) | Kilder: 4*
-
----
-
-## Hvem var han?
-
-Jesus var en jødisk predikant og lærer fra Galilea. Det er generell enighet blant historikere om at han eksisterte som historisk person, selv om ekstern dokumentasjon utenfor de kristne kildene er begrenset. Evangeliene er den viktigste kilden til informasjon om hans liv.
+*Opprettet: 2025-04-18 | Oppdatert: 2025-05-13 | Kilder: 4*
 
 ---
 
-## Navn
+## Navn og identitet
 
-Namnet Jesus er den greske formen av det hebraiske navnet Josva, som betyr "Herren er frelse".
+Navnet *Jesus* er den greske formen av det hebraiske *Jeshua* / *Josva* — som betyr «Herren er frelse». Det er ikke et tilfeldig navn: I Matteus 1:21 gir engelen Josef instruksen «du skal gi ham navnet Jesus, for han skal frelse sitt folk fra deres synder.»
 
----
-
-## Fødsel og oppvekst
-
-Fødselstidspunktet er usikkert — anslagsvis mellom år 4 f.Kr. og år 6 e.Kr. i Betlehem i Judea. Han vokste opp i Nasaret i Galilea. Det er noe ironisk at vår aksepterte tidsregning tar utgangspunkt i en tidligere antatt fødselsdato som trolig var feil.
+Han kalles også *Kristus* — det greske ordet for det hebraiske *Masjiach* (Messias): «den salvede». I GT ble konger, prester og profeter salvet til sine embeter. «Kristus» er ikke et etternavn men en tittel — en bekjennelse.
 
 ---
 
-## Familie
+## Historisk kontekst
 
-Hans mor var [[people/maria]], og hans juridiske far etter jødisk lov var [[people/josef-fosterfar]]. Gjennom Josef regnes Jesus som etterkommer av kong David, noe som var teologisk viktig i jødisk tradisjon. Han hadde også søsken — se [[people/jakob-jesu-bror]] — og var trolig fetter av [[people/johannes-doperen]].
+Jesus ble født i siste del av Herodes den stores regjeringstid, altså mellom 6 og 4 f.Kr. — ironisk nok noen år «før Kristus» i vår kalender, siden de tidlige beregningene av hans fødselsår var unøyaktige.
+
+Han ble født i Betlehem i Judea, men vokste opp i Nasaret i Galilea — et område romerne betraktet som utkanten av utkanten. Galilea var blandet etnisk, ikke rendyrket jødisk, og regnet som kulturelt suspekt av den religiøse eliten i Jerusalem.
+
+Han var jøde, taler arameisk, leser hebraisk, og lever innenfor jødisk lov og tradisjon. Han er ikke en kristen — han er Messias for det jødiske folket som åpner porten for alle folk.
+
+---
+
+## Familie og slekt
+
+Moren er Maria. Faren, etter jødisk lov, er Josef — en håndverker av Davids ætt fra Betlehem. At Josef er av Davids slekt er teologisk avgjørende: Messias skulle komme av Davids ætt (2 Sam 7:12–13), og slektsregisteret i Matteus 1 dokumenterer denne linjen.
+
+Jesus hadde brødre og søstre. Markus 6:3 nevner brødrene Jakob, Josef, Judas og Simon — og søstre (uten navn). Jakob ble leder for urmenigheten i Jerusalem etter Jesu oppstandelse. Se [[people/jakob-jesu-bror]].
 
 ---
 
 ## Den stille perioden
 
-Vi vet svært lite om Jesus sitt liv mellom fødsel og dåp. Lukas 2 nevner to hendelser: velsignelsen i tempelet som spedbarn, og en episode der den 12 år gamle Jesus ble igjen i tempelet etter påskereisen og ble funnet der av sine foreldre.
+Vi vet svært lite om Jesu liv fra han er spedbarn til han er ca. 30 år. Lukas 2 gir to glimt: presentasjonen i tempelet som spedbarn, og episoden da 12-åringen blir igjen i tempelet og diskuterer med lærerne. «Og Jesus vokste og ble sterk; han var fylt av visdom, og Guds nåde var over ham» (Luk 2:40).
 
 ---
 
-## Dåp og offentlig virke
+## Dåpen — det offentlige startpunktet
 
-Jesus ble døpt av [[people/johannes-doperen]] i elven Jordan (Matteus 3:13). Han begynte sin offentlige forkynnelse rundt 30-årsalderen og virket i om lag tre år. Johannes-evangeliet deler denne perioden grovt i tre faser: en ubemerkede tid med de første disiplene (Joh 1–4), en periode med folkelig velvilje, og en sluttfase preget av motstand og planer om å ta livet av ham (Joh 7–10).
+Jesus ble døpt av Johannes Døperen i Jordanelven. Johannes nølte — han mente det burde vært omvendt. Jesus svarte: «La det skje nå, for slik skal vi oppfylle all rettferdighet» (Matt 3:15).
 
----
-
-## Arrestasjon og død
-
-Jesus ble arrestert i Getsemane-hagen, utlevert av Judas Iskariot (Matteus 26:47). Han ble anklaget for blasfemi og dømt til døden av den romerske landshøvdingen [[people/pontius-pilatus]]. Evangeliene antyder at Pilatus var motvillig, men lot seg presse av folkemassene (Matteus 27:22–24).
+Ved dåpen åpnet himmelen seg, Ånden steg ned som en due, og en stemme lød: «Dette er min Sønn, den elskede, i ham er jeg vel tilfreds» (Matt 3:17). Det er ikke begynnelsen på Jesu guddommelige identitet — det er den offentlige bekreftelsen av den.
 
 ---
 
-## Oppstandelse
+## Det offentlige virket — tre år
 
-Ifølge de kristne evangeliene stod Jesus opp fra de døde tre dager etter sin død. Maria Magdalena og "den andre Maria" var de første som fant graven tom og møtte den oppstandne Jesus.
+Jesus begynte å forkynne da han var rundt 30 år. Virket varte i ca. tre år, primært i Galilea og Judea.
+
+Johannesevangeliet strukturerer virket i tre faser:
+- **Den ubemerkede fasen** (Joh 1–4): Samler de første disiplene; miraklet i Kana; samtalen med Nikodemus; samaritankvinnen
+- **Velvilje-fasen**: Store folkemengder; helbredelser; bergprekenen; brødunderet
+- **Motstandsfasen** (Joh 7–10): Planene om å drepe ham intensiveres; konflikten med de religiøse lederne tilspisser seg
+
+Gjennomgående kjennetegn: Han helbreder syke, driver ut onde ånder, spiser med tollere og syndere, lærer med autoritet — «ikke som de skriftlærde» — og forkynner at «Guds rike er nær».
 
 ---
 
-## Spekulative temaer
+## Arrestasjon, dom og korsfestelse
 
-En notis i kildematerialet reiser spørsmålet om Jesus kan ha hatt en kone, og trekker paralleller til egyptisk familietradisjon der kone og barn fra et første ekteskap ble absorbert inn i konas familie ved mannens gjengifte. Dette er ikke støttet av bibelske tekster og regnes ikke som troverdig i forskningsmiljøer, men er notert som et tankesprang til videre utforskning.
+Jesus ble arrestert i Getsemane-hagen, forrådt av Judas Iskariot. Han ble stilt for det jødiske rådet (Sanhedrin) og anklaget for gudsbespottelse — for å ha sagt at han var Guds Sønn (Matt 26:63–65).
+
+Han ble ført til den romerske landshøvdingen Pontius Pilatus, som ikke fant ham skyldig men gav etter for presset og dømte ham til korsfestelse. Han ble korsfestet utenfor Jerusalem på Golgata, «hodeskallenes sted», trolig i år 30 e.Kr.
 
 ---
 
-## Sammenheng med andre konsepter og personer
+## Oppstandelsen
 
-- [[people/maria]] — hans mor, sentral figur i kristendommen
-- [[people/josef-fosterfar]] — hans juridiske far, etterkommer av David
-- [[people/jakob-jesu-bror]] — bror, leder av den tidlige kirken i Jerusalem
-- [[people/johannes-doperen]] — trolig fetter, døpte Jesus
-- [[people/pontius-pilatus]] — den romerske dommeren som dømte ham til døden
-- [[concepts/evangeliene]] — primærkildene til hans liv
-- [[concepts/historisk-jesus]] — akademisk diskusjon om hans eksistens og virke
+Tre dager etter begravelsen fant Maria Magdalena og de andre kvinnene graven tom. De møtte den oppstandne Jesus — de første vitner til oppstandelsen. Deretter viste han seg for disiplene, for mer enn 500 mennesker ifølge Paulus (1 Kor 15:6), og til slutt for Paulus selv på veien til Damaskus.
+
+Oppstandelsen er ikke en epilog til historien — den er dens kjerne. Se [[concepts/jesu-oppstandelse]].
+
+---
+
+## Sammenheng med andre artikler
+
+- [[concepts/guds-rike]] — Jesu sentrale forkynnelse
+- [[concepts/lignelsene]] — Jesu undervisningsform
+- [[concepts/hvem-døde-jesus-for]] — korsets rekkevidde
+- [[concepts/jesu-oppstandelse]] — oppstandelsens betydning
+- [[people/jakob-jesu-bror]] — Jesu bror og leder i Jerusalem-menigheten
+- [[people/maria]] — Jesu mor
+- [[people/pontius-pilatus]] — dommeren som dømte ham
 
 ---
 
 ## Kilder
 
-- [[sources/jesus]] — generell oversiktsartikkel om Jesus som menneske
-- [[sources/jesus-som-menneske]] — mer detaljert gjennomgang av livsløpet
-- [[sources/jesus-sin-familie]] — grundig om familiemedlemmer
-- [[sources/jesus-familie]] — spekulativ notis om mulig ekteskap
+- [[sources/studier-jesus-som-menneske]] — «Jesus som menneske» (eget studium)
+- [[sources/TEOL1010-bibeltolkning]] — hermeneutisk kontekst
+- [[sources/Pedersen-2012-oldkirken]] — historisk kontekst
+- [[sources/Ehrman-kristologi-24-25]] — kristologisk bakgrunn

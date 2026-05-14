@@ -2,7 +2,7 @@
 
 Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. Artiklene er bygget opp fra bibelstudier, teologistudier (MF Vitenskapelig Høyskole) og personlig trosrefleksjon.
 
-> **158 artikler** — sist oppdatert 2025-05-13
+> **164 artikler** — sist oppdatert 2025-05-13
 
 ---
 
@@ -10,6 +10,7 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 
 - [[concepts/bibelens-tilblivelse|Bibelens tilblivelse]] — fra muntlig tradisjon til kanon; oversettelseshistorie
 - [[concepts/bibeltolkning-innforing|Bibeltolkning — innføring]] — hermeneutikk, sjangre, kontekst, eksegese vs. eisegese
+- [[concepts/bibelsk-hebraisk-innforing|Bibelhebraisk — innføring]] — alfabet, vokalsystem, verbstammer, nomenbøying
 - [[concepts/kvinner-som-bibeltolkere|Kvinner som bibeltolkere]] — leserposisjon, feministisk hermeneutikk, Wirkungsgeschichte
 - [[concepts/visdomslitteratur-praksis|Visdomslitteratur i praksis]] — bibliansk visdom: hva er det, og hvordan leve etter den
 - [[concepts/hvordan-lese-narrativ|Hvordan lese narrativ]] — tradisjonslitteratur, plot, karakterer, lignelser
@@ -59,33 +60,26 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 
 - [[concepts/kristendommens-historie-oversikt|Kristendommens historie — oversikt]] — Kaufmans navigasjonstabell: 0–2000 e.Kr.
 - [[concepts/kristendommens-tilblivelse|Kristendommens tilblivelse]] — Romerriket, jødisk kontekst, apostolsk/etterapostolsk tid
+- [[concepts/kirkehistorie-0-100|Kirkehistorie 0–100]] — detaljert kronologi; fra Jerusalem til Roma
 - [[concepts/fra-oldtid-til-middelalder|Fra oldtid til middelalder]] — tre sivilisasjoner; kristendom, Romerriket, araberne
+- [[concepts/jesu-oppstandelse|Jesu oppstandelse]] — graven tom; vitnene; hva slags kropp; Paulus i 1 Kor 15
 - [[concepts/treenigheten|Treenigheten]], [[concepts/arianismen|Arianismen]]
-- [[concepts/nikea-konsilet|Nikea-konsilet]] — 325: bekjennelsen, *homoousios*, 20 kanoner
-- [[concepts/kalkedon-kristologi|Kalkedon-kristologi]] — Apollinaris, Nestorius, Kyril, Kalkedon 451
-- [[concepts/de-tre-oldkirkelige-bekjennelsene|De tre oldkirkelige bekjennelsene]] — apostolsk, nikensk og Athanasianum med tekster
-- [[concepts/en-gud-fader-allmektig|Én Gud, Fader Allmektig]] — Origen og Gregor av Nyssa om treenighetsgrammatikken
+- [[concepts/nikea-konsilet|Nikea-konsilet]], [[concepts/kalkedon-kristologi|Kalkedon-kristologi]], [[concepts/de-tre-oldkirkelige-bekjennelsene|De tre oldkirkelige bekjennelsene]]
+- [[concepts/en-gud-fader-allmektig|Én Gud, Fader Allmektig]]
 - [[concepts/frelse-athanasius-augustin|Frelse — Athanasius og Augustin]], [[concepts/theosis|Theosis]]
-- [[concepts/arvesynd|Arvesynd]] — Athanasius, Pelagius, Augustin; bundet vilje vs. fri vilje
-- [[concepts/askese|Askese]] — *Apophthegmata Patrum*; kropp og forvandling; frelst lidenskap
-- [[concepts/martyriet|Martyriet]] — Perpetua, Blandina; passio til vita; kropp og vitnesbyrd
-- [[concepts/didache|Didache]] — De tolv apostlers lære: to veier, dåp, nattverd, Marana ta
-- [[concepts/tidligkristent-mangfold|Tidligkristent mangfold]], [[concepts/gnostisisme|Gnostisisme]]
+- [[concepts/arvesynd|Arvesynd]], [[concepts/askese|Askese]], [[concepts/martyriet|Martyriet]]
+- [[concepts/didache|Didache]], [[concepts/tidligkristent-mangfold|Tidligkristent mangfold]], [[concepts/gnostisisme|Gnostisisme]]
 - [[concepts/kirkens-ledelse-og-sakramentene|Kirkens ledelse og sakramentene]], [[concepts/kirken-ost-og-vest|Kirken i øst og vest]]
-- [[concepts/statsreligion|Statsreligion]]
-- [[concepts/luthers-teologi|Luthers teologi]] — sola gratia/fide/scriptura; to regimenter; Bondekrigen
-- [[concepts/reformasjonen-og-doden|Reformasjonen og døden]]
-- [[concepts/religion-og-konflikt|Religion og politisk konflikt]] — Brubaker: religion og politisk vold
-- [[concepts/apofatisk-teologi|Apofatisk teologi]], [[concepts/mester-eckhart-mystikken|Mester Eckhart og mystikken]]
-- [[concepts/hvem-er-jesus-for-folk|Hvem er Jesus for vanlige kirkegjengere?]], [[concepts/historisk-relativisme-kristendom|Historisk relativisme og kristendommen]]
+- [[concepts/statsreligion|Statsreligion]], [[concepts/luthers-teologi|Luthers teologi]], [[concepts/reformasjonen-og-doden|Reformasjonen og døden]]
+- [[concepts/religion-og-konflikt|Religion og politisk konflikt]]
+- [[concepts/apofatisk-teologi|Apofatisk teologi]], [[concepts/hvem-er-jesus-for-folk|Hvem er Jesus for vanlige kirkegjengere?]]
 
 ---
 
 ## Verdensreligioner og livssyn
 
 - [[concepts/islam|Islam]], [[concepts/jodedommen|Jødedommen]], [[concepts/hinduisme|Hinduisme]]
-- [[concepts/sikher|Sikher]] — migrasjon til Norge fra 1969; gurdwara og langar
-- [[concepts/jesus-i-koranen|Jesus i Koranen]], [[concepts/abraham-i-tre-religioner|Abraham i tre religioner]] — rivaliserende fortellinger
+- [[concepts/sikher|Sikher]], [[concepts/jesus-i-koranen|Jesus i Koranen]], [[concepts/abraham-i-tre-religioner|Abraham i tre religioner]]
 - [[concepts/moskearchitektur|Moskéarkitektur]], [[concepts/religion-i-praksis|Religion i praksis]]
 - [[concepts/sekularisering|Sekularisering]], [[concepts/unge-og-nyreligiositet|Unge og nyreligiøsitet]]
 - [[concepts/religionsteologi|Religionsteologi]], [[concepts/livssyn|Livssyn]]
@@ -94,7 +88,8 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 
 ## Personer
 
-- [[people/jesus|Jesus]], [[people/moses|Moses]], [[people/paulus|Paulus]]
+- [[people/jesus|Jesus]] — navn, liv, virke, korsfestelse, oppstandelse
+- [[people/moses|Moses]], [[people/paulus|Paulus]]
 - [[people/antonius-den-store|Antonius den store]], [[people/justin-martyr|Justin Martyr]], [[people/perpetua|Perpetua]]
 - [[people/athanasius|Athanasius]], [[people/augustin|Augustin]]
 - [[people/klemens-av-alexandria|Klemens av Alexandria]], [[people/gregor-av-nyssa|Gregor av Nyssa]]
