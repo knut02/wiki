@@ -1,1 +1,1 @@
-- [[concepts/bekjennelse|Bekjennelse]] — å ære Gud og finne helbredelse; Josva 7
+- [[concepts/tidligkristen-bønnepraksis|Tidlig kristen bønnepraksis]] — orans, tidebønn, Fadervår, ørkenfadrene, Cassian
