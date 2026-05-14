@@ -2,7 +2,7 @@
 
 Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. Artiklene er bygget opp fra bibelstudier, teologistudier (MF Vitenskapelig Høyskole) og personlig trosrefleksjon.
 
-> **168 artikler** — sist oppdatert 2025-05-14
+> **179 artikler** — sist oppdatert 2025-05-14
 
 ---
 
@@ -11,6 +11,7 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 - [[concepts/bibelens-tilblivelse|Bibelens tilblivelse]] — fra muntlig tradisjon til kanon; oversettelseshistorie
 - [[concepts/bibeltolkning-innforing|Bibeltolkning — innføring]] — forfatter/tekst/leser; hermeneutisk sirkel; arbeidsskjema i fire punkter
 - [[concepts/bibelsk-hebraisk-innforing|Bibelhebraisk — innføring]] — alfabet, vokalsystem, verbstammer, nomenbøying
+- [[concepts/bibelsk-gresk-innforing|Bibelgresk — innføring]] — alfabet, kasus, verbaspekt, koiné-gresk
 - [[concepts/kvinner-som-bibeltolkere|Kvinner som bibeltolkere]] — leserposisjon, feministisk hermeneutikk, Wirkungsgeschichte
 - [[concepts/visdomslitteratur-praksis|Visdomslitteratur i praksis]] — bibliansk visdom: hva er det, og hvordan leve etter den
 - [[concepts/hvordan-lese-narrativ|Hvordan lese narrativ]] — plot, karakterer, setting, sjanger, forteller, ressurstekster
@@ -67,7 +68,7 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 - [[concepts/kirkehistorie-0-100|Kirkehistorie 0–100]] — detaljert kronologi; fra Jerusalem til Roma
 - [[concepts/fra-oldtid-til-middelalder|Fra oldtid til middelalder]] — tre sivilisasjoner; kristendom, Romerriket, araberne
 - [[concepts/jesu-oppstandelse|Jesu oppstandelse]] — graven tom; vitnene; hva slags kropp; Paulus i 1 Kor 15
-- [[concepts/treenigheten|Treenigheten]], [[concepts/arianismen|Arianismen]]
+- [[concepts/treenigheten|Treenigheten]], [[concepts/arianismen|Arianismen]] — Arius, Alexander, Nikea og etterspillet
 - [[concepts/nikea-konsilet|Nikea-konsilet]], [[concepts/kalkedon-kristologi|Kalkedon-kristologi]], [[concepts/de-tre-oldkirkelige-bekjennelsene|De tre oldkirkelige bekjennelsene]]
 - [[concepts/en-gud-fader-allmektig|Én Gud, Fader Allmektig]]
 - [[concepts/frelse-athanasius-augustin|Frelse — Athanasius og Augustin]], [[concepts/theosis|Theosis]]
@@ -87,13 +88,16 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 - [[concepts/moskearchitektur|Moskéarkitektur]], [[concepts/religion-i-praksis|Religion i praksis]]
 - [[concepts/sekularisering|Sekularisering]], [[concepts/unge-og-nyreligiositet|Unge og nyreligiøsitet]]
 - [[concepts/religionsteologi|Religionsteologi]], [[concepts/livssyn|Livssyn]]
+- [[concepts/det-livssynsapne-samfunn|Det livssynsåpne samfunn]] — norsk livssynslandskap; DNK 94% → 67,7%
+- [[concepts/rasisme|Rasisme]] — definisjon; individuell og strukturell; norsk kontekst
+- [[concepts/moderniteten-og-opplysningen|Moderniteten og opplysningen]] — Condorcet; fornuft; fremskritt; paradokser
 
 ---
 
 ## Personer
 
 - [[people/jesus|Jesus]] — navn, liv, virke, korsfestelse, oppstandelse
-- [[people/moses|Moses]], [[people/paulus|Paulus]]
+- [[people/moses|Moses]], [[people/paulus|Paulus]] — biografi og Romerbrevet 1–8
 - [[people/antonius-den-store|Antonius den store]], [[people/justin-martyr|Justin Martyr]], [[people/perpetua|Perpetua]]
 - [[people/athanasius|Athanasius]], [[people/augustin|Augustin]]
 - [[people/klemens-av-alexandria|Klemens av Alexandria]], [[people/gregor-av-nyssa|Gregor av Nyssa]]
