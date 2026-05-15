@@ -9,12 +9,12 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 ## Å lese og forstå Bibelen
 
 - [[concepts/bibelens-tilblivelse|Bibelens tilblivelse]] — fra muntlig tradisjon til kanon; oversettelseshistorie
-- [[concepts/bibeltolkning-innforing|Bibeltolkning — innføring]] — forfatter/tekst/leser; hermeneutisk sirkel; arbeidsskjema i fire punkter
+- [[concepts/bibeltolkning-innforing|Bibeltolkning — innføring]] — alle eksgetiske metoder; seks utfordringer; hermeneutisk sirkel; arbeidsskjema
 - [[concepts/bibelsk-hebraisk-innforing|Bibelhebraisk — innføring]] — alfabet, vokalsystem, verbstammer, nomenbøying
 - [[concepts/bibelsk-gresk-innforing|Bibelgresk — innføring]] — alfabet, kasus, verbaspekt, koiné-gresk
 - [[concepts/kvinner-som-bibeltolkere|Kvinner som bibeltolkere]] — leserposisjon, feministisk hermeneutikk, Wirkungsgeschichte
 - [[concepts/visdomslitteratur-praksis|Visdomslitteratur i praksis]] — bibelens visdom: hva er det, og hvordan leve etter den
-- [[concepts/hvordan-lese-narrativ|Hvordan lese narrativ]] — plot, karakterer, setting, sjanger, forteller, ressurstekster
+- [[concepts/hvordan-lese-narrativ|Hvordan lese narrativ]] — plot, struktur, kiasme, sjanger, retoriske virkemidler, ressurstekster
 - [[concepts/hvordan-lese-brev|Hvordan lese brev]] — kommunikasjonssituasjon, brevstruktur, indicativ/imperativ
 - [[concepts/hvordan-lese-profetlitteratur|Hvordan lese profetlitteratur]] — profetens samtid, domsord/frelsesord, apokalyptikk
 - [[concepts/hvordan-lese-salmer|Hvordan lese salmer]] — poetisk litteratur og hymner ⚪
@@ -50,7 +50,8 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 - [[concepts/pakten|Pakten]] — Noahpakten, Abrahampakten, Sinaipakten, Davidpakten, ny pakt
 - [[concepts/bibelhistorie-nokkelhendelser|Bibelhistorie — nøkkelhendelser]] — kronologisk oversikt fra skapelse til ny skapelse
 - [[concepts/gt-profetene|GT-profetene]] — alle skriftprofetene med teologisk profil, organisert per periode
-- [[concepts/bibelens-kanon|Bibelens kanon]], [[concepts/gt-kanon-og-teksthistorie|GT-kanon og teksthistorie]], [[concepts/nt-kanon|NT-kanon]]
+- [[concepts/bibelens-kanon|Bibelens kanon]], [[concepts/gt-kanon-og-teksthistorie|GT-kanon og teksthistorie]] — TaNaK, tekstkritikk, MT, LXX, Dødehavsrullene
+- [[concepts/nt-kanon|NT-kanon]]
 - [[concepts/evangeliene|Evangeliene]], [[concepts/matteus-evangeliet|Matteusevangeliet]] — ættetavle, oppfyllelsessitater, kristologi, misjonsbefalingen
 - [[concepts/apostlenes-gjerninger|Apostlenes gjerninger]]
 - [[concepts/exodus|Exodus]], [[concepts/exodus-historisitet|Exodus — historisitet]]
