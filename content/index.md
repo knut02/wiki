@@ -2,7 +2,7 @@
 
 Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. Artiklene er bygget opp fra bibelstudier, teologistudier (MF Vitenskapelig Høyskole) og personlig trosrefleksjon.
 
-> **182 artikler** — sist oppdatert 2025-05-14
+> **185 artikler** — sist oppdatert 2025-05-15
 
 ---
 
@@ -49,6 +49,7 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 - [[concepts/skapelsen|Skapelsen]] — imago Dei; sabbat; skaperverkets godhet; syndefall; billedkunst
 - [[concepts/pakten|Pakten]] — Noahpakten, Abrahampakten, Sinaipakten, Davidpakten, ny pakt
 - [[concepts/bibelhistorie-nokkelhendelser|Bibelhistorie — nøkkelhendelser]] — kronologisk oversikt fra skapelse til ny skapelse
+- [[concepts/gt-profetene|GT-profetene]] — alle skriftprofetene med teologisk profil, organisert per periode
 - [[concepts/bibelens-kanon|Bibelens kanon]], [[concepts/gt-kanon-og-teksthistorie|GT-kanon og teksthistorie]], [[concepts/nt-kanon|NT-kanon]]
 - [[concepts/evangeliene|Evangeliene]], [[concepts/matteus-evangeliet|Matteusevangeliet]] — ættetavle, oppfyllelsessitater, kristologi, misjonsbefalingen
 - [[concepts/apostlenes-gjerninger|Apostlenes gjerninger]]
@@ -65,7 +66,7 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 
 ## Teologi og kirkehistorie
 
-- [[concepts/kristendommens-historie-oversikt|Kristendommens historie — oversikt]] — Kaufmans navigasjonstabell: 0–2000 e.Kr.
+- [[concepts/kristendommens-historie-oversikt|Kristendommens historie — oversikt]] — perioder og 91 nøkkeldatoer fra år 30 til vår tid
 - [[concepts/kristendommens-tilblivelse|Kristendommens tilblivelse]] — Romerriket, jødisk kontekst, apostolsk/etterapostolsk tid
 - [[concepts/kirkehistorie-0-100|Kirkehistorie 0–100]] — detaljert kronologi; fra Jerusalem til Roma
 - [[concepts/fra-oldtid-til-middelalder|Fra oldtid til middelalder]] — tre sivilisasjoner; kristendom, Romerriket, araberne
@@ -79,6 +80,7 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 - [[concepts/kirkens-ledelse-og-sakramentene|Kirkens ledelse og sakramentene]], [[concepts/kirken-ost-og-vest|Kirken i øst og vest]]
 - [[concepts/statsreligion|Statsreligion]], [[concepts/luthers-teologi|Luthers teologi]], [[concepts/reformasjonen-og-doden|Reformasjonen og døden]]
 - [[concepts/religion-og-konflikt|Religion og politisk konflikt]]
+- [[concepts/misjon-i-kontekst|Misjon i kontekst]] — forvandling, forsoning, myndiggjøring; Kirkemøtet 2012
 - [[concepts/apofatisk-teologi|Apofatisk teologi]], [[concepts/hvem-er-jesus-for-folk|Hvem er Jesus for vanlige kirkegjengere?]]
 
 ---

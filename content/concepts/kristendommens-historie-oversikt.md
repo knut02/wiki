@@ -1,75 +1,129 @@
 # Kristendommens historie — oversikt
 
-> Kronologisk navigasjon gjennom kirkens 2000-årige historie — fra de første menighetene til global kristendom i dag.
+> «Historien er ikke tilfeldig. Den beveger seg mot et mål.» — En grunnforutsetning i kristen historieteologi.
 
-*Opprettet: 2025-04-27 | Oppdatert: 2025-05-10 | Kilder: 1*
-
----
-
-## Oversiktstabellen (Kaufman 2020)
-
-| Periode | Tid | Kirke/samfunn | Teologi/skikkelser |
-|---------|-----|---------------|-------------------|
-| **Tidlig oldkirke** | Til ca. 300 | Minoritetsreligion. Bibelen, sakramentene, kirkens ledelse tar form. Monastisk bevegelse fra ca. 300 | Apostoliske fedre, Apologeter, Gnostikere, Ireneus, Tertullian, Klemens av Alexandria, Origenes |
-| **Rikskirke** | Ca. 300–500 | Konstantin (312). Nikea (325). Statsreligion (380). Konstantinopel (381). Efesos (431). Kalkedon (451) | Athanasius, Kappadokierne, Ambrosius, Hieronymus, Augustin |
-| **Tidlig middelalder** | 500–1000 | Vestromerrikets fall (476). Islam oppstår (600-t.). Kristendommen spres til Europa og Kina | Benedikt, Gregor den Store, Johannes av Damaskus |
-| **Høymiddelalder** | 1000–1300 | Skisma øst/vest (1054). Korstogene (fra 1096). Universiteter. Kristningen av Norge (ca. 950–1100) | Anselm, Aquinas, Fransiskanerne, Dominikanerne |
-| **Senmiddelalder** | 1300–1500 | Pavedømmets forfall. Reformbevegelser. Renessansen | Mystikere, Wiclif, Jan Hus |
-| **Reformasjonen** | 1500-t. | Luthers 95 teser (1517). Augsburg (1530). Reformasjonen i Norge (1536). Trient (1546–1563) | Luther, Melanchthon, Zwingli, Calvin, Ignatius av Loyola |
-| **Nytiden** | 1600–1900-t. | Baptismen, Metodismen, Pietismen, Pinsebevegelsen (ca. 1900). Øk. bevegelse | Wesley, Hauge, Luthersk ortodoksi |
+*Opprettet: 2025-04-18 | Oppdatert: 2025-05-15 | Kilder: 3*
 
 ---
 
-## Oldkirken: kontekst
+## Navigasjon i 2000 år
 
-Romerriket var primært en bykultur. De største byene: Roma (600 000 innb.), Alexandria (400 000), Efesos (200 000), Antiokia (150 000). Jerusalem hadde til sammenligning rundt 20 000 — langt nede på listen.
+Kristendommens historie er på én gang én og mangfoldig. Én fordi den springer ut av én person og én hendelse: Jesus av Nasaret, korsfestet og oppstanden rundt år 30 e.Kr. Mangfoldig fordi den siden har forgreinet seg i hundrevis av tradisjoner, kulturer og kontinenter.
 
-Romerne var religiøst konservative og tolererte fremmede religioner så lenge tilhengerne deltok i keiserdyrkelsen. Å nekte å ofre til keiserens bilde ble sett som politisk illojalt — og ble en kilde til konflikt med kristne.
-
-De tidligste menighetene vokste frem i byene: Jerusalem ([[people/jakob-jesu-bror]]), Antiokia ([[people/paulus]]s misjonsvirksomhet), Roma. Kirken og jødedommen skilte gradvis lag; den andre jødiske krigen (132–135 e.Kr.) markerte et klart skille.
+Oversikten nedenfor er en navigasjonstabell — ikke en fullstendig fremstilling, men et kart å orientere seg etter.
 
 ---
 
-## Navigasjon — detaljartikler
+## Perioder i kirkehistorien
 
-**Oldkirken (0–500):**
-- [[concepts/kirkehistorie-0-100]] — det første århundret
-- [[concepts/kirkehistorie-100-200]] — det andre århundret
-- [[concepts/gnostisisme]] — det store «kjetteriet» på 2.–3. århundre
-- [[concepts/nt-kanon]] — kanonprosessen
-- [[concepts/martyriet]] — martyrium, askese og klosterbevegelsens fremvekst
-- [[concepts/apostoliske-fedre]] — Ignatius, Polykarp, Didache
-- [[concepts/arianismen]] + [[concepts/nikea-konsilet]] — den store kristologiske striden
-- [[concepts/kalkedon-kristologi]] — fra Nikea til Kalkedon
-- [[concepts/statsreligion]] — Konstantin og Theodosius
-
-**Middelalderen (500–1500):**
-- [[concepts/kirken-ost-og-vest]] — skismaet 1054
-- [[concepts/klosterlivet]] + [[concepts/monastisk-teologi]] — klostervesenet
-- [[concepts/skolastisk-teologi]] — Anselm, Aquinas
-- [[concepts/mester-eckhart-mystikken]] — senmiddelalder-mystikk
-
-**Reformasjonen (1500-t.):**
-- [[concepts/luthers-teologi]]
-- [[concepts/bekjennelser-reformasjonens-konsolidering]]
-- [[concepts/katolsk-reformasjon]]
-
-**Global kristendom:**
-- [[concepts/global-kristendom-oversikt]]
-- [[concepts/kristendom-i-norge]]
+| Periode | Tidsrom | Kjennetegn |
+|---------|---------|-----------|
+| Urkirken | 30–325 | Apostolisk tid, forfølgelse, spredning i Middelhavsverden |
+| Kirke og stat | 325–400 | Nikea, statsreligion, doktrinestridene |
+| Middelalderkirken | 400–1400 | Roma og Konstantinopel, klostervesen, korstog, skolastikk |
+| Reformasjonen | 1500-tallet | Luther, Zwingli, Calvin, Tridentinerkonsilet |
+| Religionskrigene | 1600-tallet | Konfesjonalisme, Tredveårskrigen |
+| Moderne tid | 1700–1900 | Opplysningstid, vekkelser, misjonsbevegelsen |
+| Vår tid | 1900– | Pentekostalisme, globalkirke, sekularisering, oikoumene |
 
 ---
 
-## Tidslinjer
+## Nøkkeldatoer — år 30 til 500
 
-- [[timelines/gt-tidslinje]]
-- [[timelines/nt-tidslinje]]
-- [[timelines/kirkefedrene-tidslinje]]
-- [[timelines/mellom-testamentene]]
+| År | Hendelse |
+|----|---------|
+| **30** | Jesu korsfestelse og oppstandelse — kirkens fødsel |
+| 32 | Paulus' omvendelse på veien til Damaskus |
+| **49** | Jerusalemkonsilet — hedningenes inkludering avklares |
+| 52 | Apostelen Tomas til India (tradisjon) |
+| **64** | Neros forfølgelse i Roma |
+| **70** | Jerusalem og tempelet ødelagt av romerne |
+| 95 | Domitians forfølgelse |
+| 96 | NT-skriftene fullført |
+| **107** | Ignatius av Antiokia — det monarkiske bispedømmets fremvekst |
+| 140 | Marcion forsøker å forkorte NT |
+| 165 | Montanisme — karismatisk reformbevegelse |
+| 202 | Severus' forfølgelse |
+| **250** | «Klerus» som distinkt gruppe fremtrer |
+| 275 | Antonius den store — ørkenfedrenes bevegelse begynner |
+| 303 | Diokletians store forfølgelse |
+| **313** | Edikt om toleranse (Konstantin) |
+| **325** | Nikea-konsilet — Kristus «av samme vesen» som Faderen |
+| 367 | Athanasius' brev med alle 27 NT-bøker |
+| 381 | Kristendommen offisiell statsreligion i Romerriket |
+| **400** | Arvesynd og barnedåp blir offisiell lære; Augustin |
+| 405 | Hieronymus fullfører Vulgata (latin bibel) |
+| **431** | Efesos-konsilet — Maria som «Guds mor» (*theotokos*) |
+| 451 | Kalkedon-konsilet — to naturer, én person |
+
+---
+
+## Nøkkeldatoer — 500 til 1500
+
+| År | Hendelse |
+|----|---------|
+| 432 | Patrick til Irland |
+| 590 | Skjærsilden fullt utformet (Gregor den store) |
+| **606** | Paven med «universell» autoritet |
+| 632 | Araberne invaderer Palestina |
+| 635 | Kirken i Øst i Kina |
+| **787** | Billedstriden løst — ikoner tillatt |
+| 988 | Kristendommen til Russland |
+| **1054** | Det store skisma — Vest (katolsk) og Øst (ortodoks) skilles |
+| **1095** | Det første korstoget begynner |
+| **1232** | Inkvisjonen |
+| 1274 | De syv sakramentene bekreftet (Ravenna) |
+| 1343 | Avlat offisielt godkjent |
+| 1382 | John Wyclif oversetter Bibelen til engelsk |
+| 1415 | Konstilet i Konstanz — Jan Hus brent |
+| 1455 | Gutenberg trykker første Bibel |
+
+---
+
+## Nøkkeldatoer — 1500 til vår tid
+
+| År | Hendelse |
+|----|---------|
+| **1517** | Luthers 95 teser — reformasjonen begynner |
+| 1522 | Zwingli i Zürich |
+| 1534 | Calvin forlater den katolske kirke |
+| 1534 | Henrik VIII — Church of England |
+| 1536 | Calvins *Institutio* |
+| **1545** | Motreformasjonen — Tridentinerkonsilet |
+| 1648 | Tredveårskrigen slutter (8 mill. døde) |
+| 1730 | Første store vekkelse (Amerika) |
+| 1738 | John Wesleys omvendelse — metodismen |
+| 1800 | Andre store vekkelse |
+| **1900** | Pentekostalismens fremvekst |
+| 1910 | Edinburg-konferansen — den moderne misjons- og økumenebevegelsen |
+| 1948 | Kirkenes Verdensråd stiftet (Amsterdam) |
+| 1962 | Vatikanet II |
+
+---
+
+## Tre linjer gjennom historien
+
+**Linjen mot Vest:** Roma → den latinske kirken → Reformasjonen → protestantisme → globalkirke
+
+**Linjen mot Øst:** Konstantinopel → ortodoksi → slaviske kirker → russisk ortodoksi
+
+**Den tredje linjen:** Kirken i øst (Assyria, Syria, Egypt, Etiopia, India) — ofte glemt i vestlig kirkehistorie, men eldre enn mange vestlige kirketradisjoner
+
+---
+
+## Sammenheng med andre artikler
+
+- [[concepts/kirkehistorie-0-100]] — det første århundret i detalj
+- [[concepts/nikea-konsilet]] — konsilet som satte premissene
+- [[concepts/fra-oldtid-til-middelalder]] — overgangen fra antikk til middelalder
+- [[concepts/luthers-teologi]] — reformasjonens kjerne
+- [[concepts/statsreligion]] — overgangen under Konstantin
+- [[timelines/kirkefedrene-tidslinje]] — de sentrale skikkelsene
 
 ---
 
 ## Kilder
 
-- [[sources/TEOL2310-teologihistorie-oldkirken]] — Kaufman: «Kristendommens historie: en enkel oversikt»
-- [[sources/oldkirken]] — Hägg: kristendommens tilblivelse i Romerriket
+- [[sources/Key-Dates-Church-History]] — «Some Key Dates in Church History» (91 datoer, Jacoby 2018)
+- [[sources/Pedersen-2012-oldkirken]] — Pedersen: *Kirkens historie. Oldkirken* (dansk)
+- [[sources/TEOL2310-teologihistorie-oldkirken]] — MF Vitenskapelig Høyskole

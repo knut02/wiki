@@ -1,43 +1,21 @@
 # Kilde: The-Written-Prophets
-*Fil: raw/papers/The Written Prophets.md | Kompilert: 2025-05-06*
+*Fil: raw/papers/The Written Prophets.md | Kompilert: 2025-05-15*
 
-**The Written Prophets. Oversiktsmateriell over alle skriftlige profeter i GT, ordnet etter historisk periode.**
+**«The Written Prophets» — studiehefte, engelsk. Forfatter ukjent.**
 
-Kompakt oversikt over alle 16 skriftprofeter ordnet kronologisk etter den assyriske, babylonske, eksil- og ettereksil-perioden. Inkluderer korte karakteristikker av hver profets særpreg.
+God OCR-kvalitet. Komplett oversikt over alle skriftprofetene med strukturoversikt for hver bok.
 
-## Innhold
+## Struktur
+**Usikker datering:** Joel, Obadja
+**700-tallet (assyrisk periode):** Amos, Jona, Hosea, Jesaja, Mika
+**600-tallet (babylonsk fremvekst):** Sefanja, Habakkuk, Nahum, Jeremia
+**Eksilprofetene:** Esekiel, Daniel
+**Etteksilprofetene:** Haggai, Sakarja, Malaki
 
-**To profeter av usikker datering:**
-- Joel ben Pethuel — profeten om Sions fremtid; apokalyptisk visjon om «Herrens dag»
-- Obadja — profeten om Guds suverenitet; korteste bok i GT
-
-**800-tallets profeter (assyrisk periode):**
-- Amos — profeten om sosial rettferdighet
-- Jona ben Ammitai — profeten om Guds universelle kjærlighet
-- Hosea ben Beeri — profeten om ubetinget kjærlighet
-- Jesaja ben Amos — profeten om Guds hellighet
-- Mika av Moresjet — profeten om de fattige
-
-**700-tallets profeter (babylonsk fremvekst):**
-- Sefanja ben Kusji — profeten om *Yom Yahweh* (Herrens dag)
-- Habakkuk — filosofen; spørsmålet om Guds rettferdighet i møte med ondskap
-- Nahum fra Elkosch — poeten; dom over Ninive
-- Jeremia fra Anatot — profetenes profet
-
-**Eksilprofetene:**
-- Esekiel ben Buzi — profeten for eksilet; vognsynet; de tørre benene
-- Daniel — rettferdighetens profet; apokalyptisk litteratur (kap. 7–12)
-
-**Ettereksil:**
-- Haggai — tempelprofeten; kaller til gjenreising av tempelet
-- Sakarja — messianske visjoner; «Jubelrop, Sions datter!» (Sak 9:9)
-- Malaki — Herrens budbærer; den siste profet
-
-## Metodisk verdi
-Oversikten er nyttig for å orientere seg i profetlitteraturen historisk — hvilken profet hørte til hvilken periode og talte inn i hvilken krise. Avgjørende for å forstå hva profeten *svarte på* i sin samtid.
+## Nøkkelprofiler
+Amos: sosial rettferdighet. Jona: Guds universelle kjærlighet. Hosea: ubetinget kjærlighet. Jesaja: hellighet. Mika: de fattige. Habakkuk: «den rettferdige lever ved tro» (2:4). Jeremia: den nye pakten (31:31–34). Esekiel: eksil og gjenopprettelse. Malaki: Elia-forventningen.
 
 ## Relevante wiki-artikler
-→ [[concepts/hvordan-lese-profetlitteratur]]
 → [[concepts/gt-profetene]]
+→ [[concepts/pakten]]
 → [[concepts/messias]]
-→ [[concepts/bibelens-tilblivelse]]
