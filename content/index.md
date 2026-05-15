@@ -2,13 +2,14 @@
 
 Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. Artiklene er bygget opp fra bibelstudier, teologistudier (MF Vitenskapelig Høyskole) og personlig trosrefleksjon.
 
-> **185 artikler** — sist oppdatert 2025-05-15
+> **193 artikler** — sist oppdatert 2025-05-15
 
 ---
 
 ## Å lese og forstå Bibelen
 
-- [[concepts/bibelens-tilblivelse|Bibelens tilblivelse]] — fra muntlig tradisjon til kanon; oversettelseshistorie
+- [[concepts/bibelens-tilblivelse|Bibelens tilblivelse]] — fra muntlig tradisjon til kanon; norsk oversettelseshistorie
+- [[concepts/bibeloversettelse|Bibeloversettelse]] — konkordant vs. idiomatisk; hjemliggjøring; Bibelselskapets kristologi 1959–2011
 - [[concepts/bibeltolkning-innforing|Bibeltolkning — innføring]] — alle eksgetiske metoder; seks utfordringer; hermeneutisk sirkel; arbeidsskjema
 - [[concepts/bibelsk-hebraisk-innforing|Bibelhebraisk — innføring]] — alfabet, vokalsystem, verbstammer, nomenbøying
 - [[concepts/bibelsk-gresk-innforing|Bibelgresk — innføring]] — alfabet, kasus, verbaspekt, koiné-gresk
@@ -31,9 +32,9 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 - [[concepts/tilgivelse|Tilgivelse]] — den ubarmhjertige tjeneren; å gi og ta imot; tilgivelse ≠ forsoning
 - [[concepts/disippelskap|Disippelskap]] — «ta opp ditt kors»; kostnaden; hverdagsdisippelskap; identitet
 - [[concepts/bønn|Bønn]] — Fadervår som mønster; ubesvart bønn; bønn som holdning
-- [[concepts/bekjennelse|Bekjennelse]] — å ære Gud og finne helbredelse; Josva 7
+- [[concepts/bekjennelse|Bekjennelse]] — å ære Gud og finne helbredelse; synd som snare; Jesu medfølelse
 - [[concepts/fellesskap|Fellesskap]] — *baros* og *phortion*; Ef 4:16: alle betyr alle
-- [[concepts/svake-baand-og-kristent-fellesskap|Svake bånd og kristent fellesskap]] — urkirken, Granovetter, Perpetua og Felicitas
+- [[concepts/svake-baand-og-kristent-fellesskap|Svake bånd og kristent fellesskap]] — Granovetter, Johanna, Susanna, Perpetua og Felicitas
 - [[concepts/min-fars-hus|Min Fars hus]] — Joh 14:1–4: relasjon med Gud nå og i evigheten
 - [[concepts/hvem-er-du-i-møtet-med-jesus|Hvem er du i møtet med Jesus?]] — apostlenes fallgroper, samaritankvinnen, hvem er du?
 - [[concepts/tvil-og-tro|Tvil og tro]] — ti vanskelige spørsmål; Tomas; Guds taushet; robust tro
@@ -50,8 +51,9 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 - [[concepts/pakten|Pakten]] — Noahpakten, Abrahampakten, Sinaipakten, Davidpakten, ny pakt
 - [[concepts/bibelhistorie-nokkelhendelser|Bibelhistorie — nøkkelhendelser]] — kronologisk oversikt fra skapelse til ny skapelse
 - [[concepts/gt-profetene|GT-profetene]] — alle skriftprofetene med teologisk profil, organisert per periode
+- [[concepts/visdomslitteratur|Visdomslitteratur]] — Ordspråkene, Job, Forkynneren; bibelsk vs. verdslig visdom
 - [[concepts/bibelens-kanon|Bibelens kanon]], [[concepts/gt-kanon-og-teksthistorie|GT-kanon og teksthistorie]] — TaNaK, tekstkritikk, MT, LXX, Dødehavsrullene
-- [[concepts/nt-kanon|NT-kanon]]
+- [[concepts/nt-kanon|NT-kanon]], [[concepts/det-nye-testamentet|Det nye testamentet]] — oversikt, forfattere, kanonprosessen
 - [[concepts/evangeliene|Evangeliene]], [[concepts/matteus-evangeliet|Matteusevangeliet]] — ættetavle, oppfyllelsessitater, kristologi, misjonsbefalingen
 - [[concepts/apostlenes-gjerninger|Apostlenes gjerninger]]
 - [[concepts/exodus|Exodus]], [[concepts/exodus-historisitet|Exodus — historisitet]]
@@ -82,6 +84,7 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 - [[concepts/statsreligion|Statsreligion]], [[concepts/luthers-teologi|Luthers teologi]], [[concepts/reformasjonen-og-doden|Reformasjonen og døden]]
 - [[concepts/religion-og-konflikt|Religion og politisk konflikt]]
 - [[concepts/misjon-i-kontekst|Misjon i kontekst]] — forvandling, forsoning, myndiggjøring; Kirkemøtet 2012
+- [[concepts/kristendom-i-norge|Kristendom i Norge]] — import/eksport, migrantmenigheter, KRLE-striden
 - [[concepts/apofatisk-teologi|Apofatisk teologi]], [[concepts/hvem-er-jesus-for-folk|Hvem er Jesus for vanlige kirkegjengere?]]
 
 ---
@@ -92,17 +95,17 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 - [[concepts/sikher|Sikher]], [[concepts/jesus-i-koranen|Jesus i Koranen]], [[concepts/abraham-i-tre-religioner|Abraham i tre religioner]]
 - [[concepts/moskearchitektur|Moskéarkitektur]], [[concepts/religion-i-praksis|Religion i praksis]]
 - [[concepts/sekularisering|Sekularisering]], [[concepts/unge-og-nyreligiositet|Unge og nyreligiøsitet]]
-- [[concepts/religionsteologi|Religionsteologi]], [[concepts/livssyn|Livssyn]]
-- [[concepts/det-livssynsapne-samfunn|Det livssynsåpne samfunn]] — norsk livssynslandskap; DNK 94% → 67,7%
-- [[concepts/rasisme|Rasisme]] — definisjon; individuell og strukturell; norsk kontekst
-- [[concepts/moderniteten-og-opplysningen|Moderniteten og opplysningen]] — Condorcet; fornuft; fremskritt; paradokser
+- [[concepts/religionsteologi|Religionsteologi]] — eksklusivisme, inklusivisme, pluralisme, akseptmodellen
+- [[concepts/livssyn|Livssyn]], [[concepts/det-livssynsapne-samfunn|Det livssynsåpne samfunn]]
+- [[concepts/rasisme|Rasisme]], [[concepts/moderniteten-og-opplysningen|Moderniteten og opplysningen]]
 
 ---
 
 ## Personer
 
 - [[people/jesus|Jesus]] — navn, liv, virke, korsfestelse, oppstandelse
-- [[people/moses|Moses]], [[people/paulus|Paulus]] — biografi og Romerbrevet 1–8
+- [[people/maria|Maria]] — Jesu mor; Magnificat; ved korset; i den første kirken
+- [[people/moses|Moses]], [[people/paulus|Paulus]] — biografi, Romerbrevet, N.T. Wrights lesning
 - [[people/antonius-den-store|Antonius den store]], [[people/justin-martyr|Justin Martyr]], [[people/perpetua|Perpetua]]
 - [[people/athanasius|Athanasius]], [[people/augustin|Augustin]]
 - [[people/klemens-av-alexandria|Klemens av Alexandria]], [[people/gregor-av-nyssa|Gregor av Nyssa]]

@@ -1,67 +1,96 @@
 # Kristendom i Norge
 
-> Norge som mottaker og avsender av misjon — migrantmenigheter, det kristne høyre og kirke-stat-forholdet.
+> «Kristendommen i Norge er et resultat av importerte ideer og praksiser, som har fått et lokalt preg med tiden.» — Nikolajsen 2018
 
-*Opprettet: 2025-05-02 | Kilder: 1*
-
----
-
-## Import og eksport
-
-Kristendommen kom til Norge for over 1000 år siden. I 1536 ble luthersk konfesjon statsreligion. Metodismen kom fra USA på 1850-tallet, baptismen i 1857, pinsebevegelsen i 1906.
-
-Norge ble en misjonsormakt — Det Norske Misjonsselskap (NMS, est. 1842) var en viktig faktor i landets demokratisering og kvinners offentlige mobilisering.
-
-En ny situasjon: Det er mulig at det i dag (2018) er *flere* utenlandske misjonærer i Norge enn omvendt. Missionslandene er i stigende grad kristne, mens Norge blir en misjonmark.
+*Opprettet: 2025-04-18 | Oppdatert: 2025-05-15 | Kilder: 2*
 
 ---
 
-## Migrantmenigheter
+## En importert kristendom
 
-I 2014 fantes det over 250 migrantmenigheter som holdt gudstjeneste på over 40 ulike språk. I 2010 var ca. 60 % av innvandrerne til Norge kristne.
+Kristendommen kom til Norge utenfra. Den ble ikke utviklet her — den ble brakt hit. Det er viktig å huske: Den norske kristendommen er ikke en «original» religiøs tradisjon, men et produkt av misjonsarbeid, politiske vedtak og gradvis kulturell tilpasning over mer enn tusen år.
 
-Årsaker til egne menigheter: kontinuitet i etnisk/nasjonal identitet, felles språk, og egnsspecifikk spiritualitet. Menighetene har en viktig sosial og økonomisk rolle for migrantene.
+**Tre avgjørende historiske hendelser:**
 
-Ca. 20 % av migrantmenighetene har pinsekarismatisk profil — men har typisk lite å gjøre med tradisjonelle norske pinsemenigheter. Den katolske kirke har flest medlemmer der mange stammer fra østeuropeisk arbeidskraft.
+**Ca. 1000 e.Kr.:** Kristendommen innføres i Norge gjennom kongelig makt — Olav Tryggvason og Olav Haraldsson. Innføringen var ikke alltid frivillig.
 
-Den norske kirke har opprettet *Flerkulturelt kirkelig nettverk* som møteplass mellom migrantmenigheter og den etablerte norske kirken.
+**1536:** Reformasjonen innføres ved et dansk kongelig vedtak. Den lutherske konfesjon blir statsreligion. Kirken blir et redskap for statsmakt.
 
----
-
-## Det kristne høyre
-
-Barte Ystebø og forumet *Oslo Symposium* representerer en ny norsk "kulturkrig" inspirert av den amerikanske, med kamp for verdikonsevrvative saker. Visjon Norge TV støtter dette. Den internasjonale kristne ambassade i Jerusalem (ICEJ) er medarrangør — Norge har over 30 kristne organisasjoner rettet mot Israel.
+**1800-tallet:** Metodismen ankommer fra Amerika (1850-tall), baptismen (1857) og pinsekirken (1906). Frikirker utfordrer statskirkemodellen.
 
 ---
 
-## Økumenikk og sosialetisk engasjement
+## Eksport: Norge som misjonsstormakt
 
-Norges Kristne Råd ble etablert i 1992 og slo seg i 2006 sammen med Norges Frikirkeråd — nå er protestantiske, ortodokse og katolske kristne samlet under én paraplyorganisasjon.
+Fra 1800-tallet ble Norge et av verdens mest aktive misjonsland relativt til befolkningsstørrelse. Det Norske Misjonsselskap (NMS, grunnlagt 1842) var en sentral aktør i norsk demokratisering — misjonsforeningene organiserte kvinner og folk fra lavere klasser på en måte som ga dem politisk og sosial erfaring.
 
-En økt demokratisering i den norske kirken har ført til endrede syn på familie, ekteskap, likestilling og homofiles rettigheter. Engasjementet for fred, klima og rettigheter har fått noen til å beskylde kirken for å bevege seg politisk til venstre.
+Nikolajsen (2018) peker på en interessant forbindelse: Norsk misjonsvirksomhet og norsk selvforståelse og utenrikspolitikk har historisk hatt en dyp sammenheng. Det er en forståelse av et kall til hjelp og til å skape fred.
+
+I 1962 opprettet den norske stat *Norad* — og fra da av kunne misjonsorganisasjoner motta statsmidler til humanitært arbeid, men ikke til misjonsvirksomhet. Skillet mellom diakoni og misjon er siden gradvis oppløst, og dagens Verdensbank samarbeider aktivt med trosbaserte organisasjoner som «agents of transformation».
 
 ---
 
-## Kirke-stat-forholdet
+## Import igjen: Migrantmenigheter
 
-- 2012: Statskirkeordningen konstitusjonelt sett opphørt
-- 2017: Den norske kirke juridisk selvstendig
-- 1997: KRL-faget (*Kristendomskunnskap med religions- og livssynsorientering*) erstattet det gamle kristendomsfaget — møtte kritikk fra mange hold
-- Etter behandling i FN og EMD ble faget endret til RLE
-- 2015: KrF innførte K igjen, slik at det ble KRLE
+Fra slutten av 1900-tallet begynte bildet å snu. I 2014 fantes det over 250 migrantmenigheter i Norge som holdt gudstjeneste på over 40 ulike språk. I 2010 var ca. 60 prosent av innvandrerne til Norge kristne.
+
+Det er mulig at det i dag finnes flere utenlandske missionærer i Norge enn norske missionærer i utlandet.
+
+Migrantmenighetene er svært ulike hverandre — i konfesjon, etnisitet og organisering. De fyller viktige sosiale funksjoner: kontinuitet i kulturell og nasjonal identitet, felles språk, egenspesifikk spiritualitet. Rundt 20 prosent har pinsekariasmatisk profil.
+
+Den norske kirke har opprettet *Flerkulturelt kirkelig nettverk* som møteplass mellom migrantmenigheter og etablerte norske menigheter.
+
+---
+
+## Nye tendenser i norsk kristendom
+
+### Det nye kristne høyre
+
+En relativt ny bevegelse i norsk kristendom med røtter i amerikansk kultur-konservatisme. *Oslo Symposium* er en sentral arena — samler kristne, politikere og konservative aktører i debatter om verdispørsmål, Israel-politikk og kulturkamper. *Visjon Norge* (kristen TV-kanal) er en aktør.
+
+### Økumenisk og sosialeisk vending
+
+Parallelt har Den norske kirke beveget seg i en annen retning: Norges Kristne Råd (1992, utvidet 2006 til å inkludere ortodokse og katolske) samler alle store kirkesamfunn. Økt engasjement for klima, rettferdighet og fred har ført til at kirken av noen oppfattes som politisk venstreorientert.
+
+Engasjementet for grønne menigheter, global rettferdighet i konfirmasjonsopplæringen og urfolksteologi (Samisk Kirkeråd, 1992) vitner om en kirke i aktiv dialog med sin kulturelle kontekst.
+
+### Nyreligiøsitet og personlig erfaring
+
+Åpenheten for nyreligiøsitet i deler av norsk kristendom skyldes en bredere kulturell endring: Mange vekter personlig erfaring over autoritet og dogmer. En ny liturgi for velsignelse av hus og hjem (2013) som kan brukes ved uro og utrygghet er et eksempel — og krevde diskusjon om grensen mellom bønn og eksorsisme.
+
+Den karismatiske vekkelsen har satt varige spor: Gitarbasert lovsang er like vanlig som orgelmusik og salmesang.
+
+---
+
+## Kirkens juridiske selvstendighet
+
+I 2012 opphørte statskirkeordningen konstitusjonelt. I 2017 ble Den norske kirke juridisk selvstendig som eget rettssubjekt, atskilt fra staten. Bakgrunnen var religionsfriheten og menneskerettighetene.
+
+---
+
+## KRLE-striden — kristendom som identitetspolitikk
+
+I 1997 erstattet faget *KRL* (Kristendomskunnskap med religions- og livssynsorientering) det gamle kristendomsfaget. Begrunnelsen: Et flerreligiøst samfunn trenger bred livssynsundervisning.
+
+Human-Etisk Forbund, jøder, muslimer og buddhister anklaget staten for indoktrinering. Noen kristne mente faget ville føre til avkristning.
+
+Etter behandling i FNs menneskerettskomité og Den europeiske menneskerettsdomstol ble faget endret til *RLE*. I 2015 fikk KrF gjennomslag for å legge inn et *K* igjen — til *KRLE* — med begrunnelsen at kristendommen er spesielt viktig for å forstå det norske samfunnet.
+
+Striden avdekker noe viktig: Det er mange aktører i debatten om kristendommen i Norge, og det er ikke bare kirken som har interesse av den diskursen.
 
 ---
 
 ## Sammenheng med andre artikler
 
-- [[concepts/global-kristendom-oversikt]] — overordnet perspektiv
-- [[concepts/det-livssynsapne-samfunn]] — Stålsetts analyse av norsk livssynslandskap
-- [[concepts/nyreligiositet]] — nyreligiøsitet som alternativ religiøs praksis
-- [[concepts/misjonerende-folkekirke]] — folkekirken og misjonsoppdraget
-- [[concepts/religion-i-praksis]] — religiøst mangfold i Norge
+- [[concepts/det-livssynsapne-samfunn]] — det norske livssynslandskapet i dag
+- [[concepts/sekularisering]] — sekulariseringens forløp i Norge
+- [[concepts/misjon-i-kontekst]] — misjonsforståelse i norsk kontekst
+- [[concepts/statsreligion]] — overgangen fra statskirke til selvstendig kirke
+- [[concepts/luthers-teologi]] — luthersk arv i norsk kirkeliv
 
 ---
 
 ## Kilder
 
-- [[sources/TEO2610-PP08-Norge]] — Nikolajsen: PP 08 Global kristendom Norge
+- [[sources/Nikolajsen-PP08-Norge]] — Nikolajsen, J.B. (2018): «Global kristendom: Norge». TEO2610, MF (dansk)
+- [[sources/TEOL1010-bibeltolkning]] — kulturkontekst

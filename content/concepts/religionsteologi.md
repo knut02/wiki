@@ -1,91 +1,103 @@
-# Religionsteologi — modeller for forholdet mellom religionene
+# Religionsteologi
 
-> Systematisk oversikt over de fire hovedmodellene i kristen religionsteologi: eksklusivisme, inklusivisme, pluralisme og aksept-modellen — og de viktigste spørsmålene de reiser.
+> «Vi er alle inklusivister.» — Knitter 2002. Ingen møter en annen religion fra et nøytralt sted.
 
-*Opprettet: 2025-05-01 | Kilder: 2*
+*Opprettet: 2025-04-18 | Oppdatert: 2025-05-15 | Kilder: 3*
 
 ---
 
 ## Hva er religionsteologi?
 
-Religionsteologi er en gren av systematisk teologi som spør: Hva er forholdet mellom kristendommen og andre religioner? Er frelse mulig utenfor Kristus? Hva er religionenes sannhetsverdi?
+Religionsteologi er den teologiske disiplinen som reflekterer over kristendommens forhold til andre religioner. Spørsmålet er ikke primært «finnes det en Gud?», men «hva betyr det at det finnes mange religioner — og hvordan forholder kristne seg til dem?»
 
-Olsen (2004) beskriver feltet ved hjelp av en medisinsk metafor: det finnes tre "blodtyper" — tre grunnleggende svar. Knitter (2002) utvider til fire modeller.
-
----
-
-## De fire modellene (Knitter 2002)
-
-### A — Erstatningsmodellen (Exclusivism)
-*Kristendommen erstatter andre religioner.*
-
-Bare i Jesus Kristus finnes frelse. Andre religioner er menneskelige forsøk som, uansett hvor oppreiste de er, ikke fører til Gud. Klassisk formulering: *Extra ecclesiam nulla salus* (utenfor kirken ingen frelse). Se [[concepts/kirkens-ledelse-og-sakramentene]] for Kyprians versjon.
-
-**Styrke:** Teologisk konsistens og troskap mot NT-tekster om Jesu unike rolle.
-**Svakhet:** Vanskelig å forene med ideen om en Gud som er kjærlighet overfor *alle* mennesker. Hva med de milliarder som aldri har hørt om Jesus?
-
-### B — Oppfyllelsesmodellen (Inclusivism)
-*Andre religioner er gode, men oppfylles i Kristus.*
-
-Representert av Karl Rahner og Vatikankonsilet II (*Nostra Aetate*, 1965). Guds nåde er til stede i alle religioner, men uten Kristi navn. Rahners "anonyme kristne": mennesker som lever i samsvar med Guds nåde er implisitt kristne, selv om de ikke vet det.
-
-**Styrke:** Mer åpen og romslig enn A; respekterer andre tradisjonenes verdi.
-**Svakhet:** Kan oppleves som arrogant — å si at muslimer, buddhister o.a. egentlig er "anonyme kristne" uten å vite det, er en paternalistisk inkorporasjon av den andre.
-
-### C — Gjensidighetsmodellen (Pluralism / Mutuality)
-*Alle religioner er likeverdige veier til det guddommelige.*
-
-John Hick, Paul Knitter (tidligst). Det finnes en guddommelig realitet ("the Real") som alle religioner gir ulike tilnærminger til. Ingen religion er den definitive. Jesus er *en* av flere frelseskikkelser.
-
-**Styrke:** Ekte respekt for den andre; grunnlag for dialog på likeverdige vilkår.
-**Svakhet:** Reduserer religionenes særegenhet — å si at alle religioner i bunn og grunn er "det samme" er en ny form for imperialisme. Det empiriske er også tvilsomt: religionene er *svært* ulike i innhold og mål.
-
-### D — Akseptmodellen (Acceptance Model / Comparative Theology)
-*Religionene er virkelig ulike — og vi må akseptere disse forskjellene.*
-
-Den nyeste modellen, representert ved George Lindbeck (postliberal teologi), Francis Clooney og James Fredericks (komparativ teologi). Nøkkelpåstanden: religioner er ikke ulike veier til det samme målet — de har ulike mål (*salvations*).
-
-**Språk og erfaring:** Vi kan ikke trå ut av vår religiøse tradisjon og se nøytralt. All vår erfaring er "sprokkifisert" av vår tradisjon. Religioner er ikke universelle — de er kulturelt-lingvistiske systemer.
-
-**Konsekvens for dialog:** Ikke teorisering *før* dialog, men *gjennom* dialog. Vi kan ikke kartlegge territoriet før vi utforsker det.
+Tre grunnspørsmål er sentrale: Er frelse eksklusivt gjennom Kristus? Kan ikke-kristne ha del i Guds frelse? Hva er verdien av religionsdialog?
 
 ---
 
-## Knitters kritikk av akseptmodellen
+## Tre klassiske modeller
 
-Selv om Knitter gir akseptmodellen mye anerkjennelse, stiller han kritiske spørsmål:
+Religionsteologien organiseres gjerne rundt tre modeller (Knitter 2002, Olsen 2004):
 
-**Faren for isolasjonisme:** Dersom religionene er "inkommensurable" — umulig å oversette — kan de heller ikke kommunisere. Det virker mer som et fengsel enn et prisme.
+### 1. Eksklusivisme — erstatningsmodellen
 
-**Faren for relativisme:** Dersom sannhet bare er sann *innenfor* min tradisjon, kan ingenting stilles til ansvar utenfra.
+**Posisjon:** Frelse er eksklusivt gjennom bevisst tro på Jesus Kristus. Andre religioner er menneskelige konstruksjoner og kan ikke føre til frelse.
 
-**Mange absolutte = ingen absolutt?** Dersom vi aksepterer at alle religioner har sin absolutte sannhet, er ingen lenger absolutt. Knitter ser dette som en fruktbar spenning snarere enn et problem.
+**Bibelsk grunnlag:** «Jeg er veien, sannheten og livet. Ingen kommer til Faderen uten gjennom meg» (Joh 14:6). «Det er ikke frelse i noen annen» (Apg 4:12).
 
-**Kan lidelse skape felles grunn?** Knitter foreslår at den enorme lidelsen i verden — fattigdom, krig, miljøødeleggelse — kan danne et etisk fellesprosjekt der religionene samarbeider på tvers av teologiske forskjeller.
+**Styrke:** Tar Kristus-bekjennelsens eksklusivitet på alvor.
+
+**Utfordring:** Hva med mennesker som aldri fikk høre evangeliet? Hva med barn og de med kognitiv funksjonsnedsettelse?
+
+### 2. Inklusivisme — oppfyllelsesmodellen
+
+**Posisjon:** Frelse er mulig utenfor den bevisste Jesus-troen, men er alltid fundert på Kristus — «anonyme kristne» (Karl Rahner). Andre religioner kan bære elementer av sannhet som «oppfylles» i Kristus.
+
+**Bibelsk grunnlag:** «Gud vil at alle mennesker skal bli frelst og komme til erkjennelse av sannheten» (1 Tim 2:4).
+
+**Styrke:** Balanserer Guds universelle kjærlighet med Kristi sentralitet.
+
+**Utfordring:** Er det respektfullt å kalle buddhistene «anonyme kristne»? Det kan bli en form for teologisk imperialisme.
+
+### 3. Pluralisme — gjensidighetsmodellen
+
+**Posisjon:** Alle store religioner er likeverdige veier til det guddommelige. Kristus er én av flere «frelsende figurer».
+
+**Bibelsk grunnlag:** Guds universelle kjærlighet og omsorg for alle folk (Amos 9:7; Rom 2:6–7).
+
+**Styrke:** Respekterer andres religiøse identitet på egne premisser.
+
+**Utfordring:** Utfordrer Jesu unike rolle som frelser. Mange kristne vil si det ikke stemmer med NT.
 
 ---
 
-## Jesusspørsmålet
+## Akseptmodellen — en fjerde tilnærming
 
-Det uunngåelige spørsmålet i all kristen religionsteologi: Hva gjør vi med Jesu unike rolle? Er han den *eneste* vei til frelse?
+Knitter (2002) beskriver en fjerde modell som ikke passer helt inn i de tre ovenfor: **akseptmodellen**.
 
-Clooney og Fredericks "utsetter" spørsmålet (*patient deferral*) — det kan ikke løses teologisk, bare dialogisk. Gjennom år med virkelig dialog med hinduisme og buddhisme kan kanskje svaret vise seg.
+Den starter med en erkjennelse: **Vi er alle inklusivister.** Vi kan ikke møte andre religioner fra et nøytralt sted. Vi ser alltid fra vår egen posisjon, i lys av vår egen tradisjon. Det er ikke feil — det er virkeligheten.
 
-Knitter utfordrer dette: Dersom man begynner dialogen med den skjulte overbevisningen om at all frelse går gjennom Kristus, er man ikke helt åpen. Kanskje har den dialogiske prosessen allerede brakt mange kristne til å revurdere absoluttheten av Jesu unike rolle.
+Men det betyr ikke at vi er fanget i oss selv. Akseptmodellen hevder:
+
+**Forskjellene er verdifulle.** Der de andre modellene ønsker å komme forbi forskjellene til en dypere enhet, sier akseptmodellen: Det er i det fremmede og annerledes at Gud møter oss. Guds «annerlighet» speiles i den andres «annerlighet». Å vil redusere alt til én sannhet er nærmest en form for avgudsdyrkelse — man pakker Gud inn i noe man kan kontrollere.
+
+**Dialog har forrang over teologi.** Kristne bør møte andre religioner *før* de har låst teologien om dem. Man lærer mer av en buddhistisk venn enn av en buddhistisk tekst. Vennskapet åpner for det teksten ikke kan si.
+
+**Felles svar på felles lidelse.** Det Knitter til slutt peker på: Kanskje fellesgrunnlag ikke kan *forutsettes* før dialogen, men *skapes* i den — særlig i møte med felles problemer som fattigdom, vold og klimakrise. Lidelsen er en felles horisont der ulike religioner kan møtes uten å utslette hverandre.
+
+---
+
+## Kritikk av akseptmodellen
+
+Knitter er åpen om svakhetene:
+
+**Isolasjonisme:** Hvis man insisterer på at religiøse sannheter er uoversettelige fra tradisjon til tradisjon, ender man med selvlukkede systemer som ikke kan tale til hverandre.
+
+**Relativisme:** Fører til at alle påstander er like sanne — eller like usanne. «Anything goes» er ikke en kristen posisjon.
+
+**Fideisme:** Man velger sin religion uten å kunne begrunne det med noe utenfor den. Det er «blind tro».
+
+---
+
+## Norsk kirke og religionsteologi
+
+Den norske kirke har i sine kirkemøtevedtak valgt en posisjon som kombinerer elementer fra inklusivisme og akseptmodellen: Dialog er genuint ønsket og nødvendig. Andres trosliv respekteres. Samtidig beholdes troen på Kristus som frelseren.
+
+Bispemøtets vedtak om religionsdialog ved kirkelige handlinger og Kirkemøtets vedtak om misjon (2012) er eksempler på denne balanseringen. Se [[concepts/religionsdialog-kirkelige-handlinger]].
 
 ---
 
 ## Sammenheng med andre artikler
 
-- [[concepts/inkarnasjon]] — inkarnasjonen som det kristne særpreget i religionsdialogen
-- [[concepts/historisk-relativisme-kristendom]] — Kaufmans parallelle perspektiv på pluralisme innenfor kristendommen
-- [[concepts/islam]] — islams perspektiv på forholdet til kristendommen
-- [[concepts/jodedommen]] — jødedommens perspektiv
-- [[concepts/livssyn]] — livssynsbegrepet og religionssammenlikning
+- [[concepts/misjon-i-kontekst]] — misjonsteologi i møte med andre religioner
+- [[concepts/religionsdialog-kirkelige-handlinger]] — praktisk religionsdialog
+- [[concepts/kirken-og-islam]] — Islam som den viktigste dialogpartneren i norsk kontekst
+- [[concepts/jesus-i-koranen]] — Jesu plass i en annen religion
+- [[concepts/historisk-relativisme-kristendom]] — historisk relativisme som utfordring for eksklusivismen
 
 ---
 
 ## Kilder
 
-- [[sources/TEO2610-Knitter-2002]] — Knitter, P. F. (2002): Introducing Theologies of Religions, kap. 12 (The Acceptance Model: Insights and Questions), s. 216–235
-- [[sources/TEO2610-Olsen-2004]] — Olsen, J. (2004): Religionsteologiens tre blodtyper: A, B og C, s. 27–42
+- [[sources/Knitter-2002-religionsteologi]] — Knitter, P.F. (2002): *Introducing Theologies of Religions*, kap. 12: «The Acceptance Model». Westminster John Knox Press
+- [[sources/Olsen-2004-religionsteologi]] — Olsen, J. (2004): «Religionsteologiens tre blodtyper». Dansk Missionsråd
+- [[sources/TEOL1010-bibeltolkning]] — hermeneutisk kontekst
