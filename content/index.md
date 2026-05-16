@@ -2,7 +2,7 @@
 
 Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. Artiklene er bygget opp fra bibelstudier, teologistudier (MF Vitenskapelig Høyskole) og personlig trosrefleksjon.
 
-> **193 artikler** — sist oppdatert 2025-05-15
+> **200 artikler** — sist oppdatert 2025-05-16
 
 ---
 
@@ -81,6 +81,7 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 - [[concepts/frelse-athanasius-augustin|Frelse — Athanasius og Augustin]], [[concepts/theosis|Theosis]]
 - [[concepts/arvesynd|Arvesynd]], [[concepts/askese|Askese]], [[concepts/martyriet|Martyriet]]
 - [[concepts/didache|Didache]], [[concepts/tidligkristent-mangfold|Tidlig kristent mangfold]], [[concepts/gnostisisme|Gnostisisme]]
+- [[concepts/klosterlivet|Klosterlivet]] — fra ørkenfedrene til tiggerordenene; Benedikt, Cistercienserne, Fransiskanerne
 - [[concepts/kirkens-ledelse-og-sakramentene|Kirkens ledelse og sakramentene]], [[concepts/kirken-ost-og-vest|Kirken i øst og vest]]
 - [[concepts/statsreligion|Statsreligion]], [[concepts/luthers-teologi|Luthers teologi]], [[concepts/reformasjonen-og-doden|Reformasjonen og døden]]
 - [[concepts/religion-og-konflikt|Religion og politisk konflikt]]
@@ -92,8 +93,9 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 
 ## Verdensreligioner og livssyn
 
-- [[concepts/islam|Islam]], [[concepts/jodedommen|Jødedommen]], [[concepts/hinduisme|Hinduisme]]
-- [[concepts/sikher|Sikher]], [[concepts/jesus-i-koranen|Jesus i Koranen]], [[concepts/abraham-i-tre-religioner|Abraham i tre religioner]]
+- [[concepts/islam|Islam]], [[concepts/jodedommen|Jødedommen]], [[concepts/jodedommen-i-norge|Jødedommen i Norge]] — fra 1851-paragrafen til i dag
+- [[concepts/hinduisme|Hinduisme]], [[concepts/sikher|Sikher]]
+- [[concepts/jesus-i-koranen|Jesus i Koranen]], [[concepts/abraham-i-tre-religioner|Abraham i tre religioner]]
 - [[concepts/moskearchitektur|Moskéarkitektur]], [[concepts/religion-i-praksis|Religion i praksis]]
 - [[concepts/sekularisering|Sekularisering]], [[concepts/unge-og-nyreligiositet|Unge og nyreligiøsitet]]
 - [[concepts/religionsteologi|Religionsteologi]] — eksklusivisme, inklusivisme, pluralisme, akseptmodellen
@@ -108,7 +110,7 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 - [[people/maria|Maria]] — Jesu mor; Magnificat; ved korset; i den første kirken
 - [[people/moses|Moses]], [[people/paulus|Paulus]] — biografi, Romerbrevet, N.T. Wrights lesning
 - [[people/antonius-den-store|Antonius den store]], [[people/justin-martyr|Justin Martyr]], [[people/perpetua|Perpetua]]
-- [[people/athanasius|Athanasius]], [[people/augustin|Augustin]]
+- [[people/athanasius|Athanasius]], [[people/augustin|Augustin]] — arvesynd, nåde, forutbestemmelse, de to stadene
 - [[people/klemens-av-alexandria|Klemens av Alexandria]], [[people/gregor-av-nyssa|Gregor av Nyssa]]
 
 ---
