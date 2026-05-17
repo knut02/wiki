@@ -1,33 +1,16 @@
 # Kilde: studier-hellige-ånd
-*Fil: raw/articles/studier/hellige-ånd.md | Kompilert: 2025-05-13*
+*Fil: raw/articles/studier/hellige-ånd.md | Kompilert: 2025-05-17*
 
-**Eget bibelstudie: Referanser til Den Hellige Ånd gjennom hele Bibelen. Opprettet 17.10.2007.**
+**Personlig bibelstudie: GT- og NT-referanser til Den Hellige Ånd. Opprettet 17/10/2007.**
 
 ## Nøkkelinnhold
+Komplett oversikt over Åndens virke gjennom hele Bibelen, organisert per bibelbok.
 
-Systematisk gjennomgang av alle referanser til Den Hellige Ånd fra 1 Mos til Apg 13.
+**GT:** 1 Mos 1:2 (Ånden over vannet), 2 Mos 31:3 (Besalel), Dom 14:6 (Samson), 1 Sam 10:6 og 16:13–14 (Saul og David), Sal 51:11, 104:30, 139:7. Profetene: Jes 11:2, 32:15, 42:1, 61:1; Esek 36:26–27, 37:14; Joel 2:28–29; Sak 4:6; 7:12.
 
-**GT — mønster:**
-- Ånden *svever over* (1 Mos 1:2 — skapelsen)
-- Ånden *kommer over* bestemte personer: Mose, Josva, Samson, Saul, David, Esekiel, profeter
-- Ånden *forlater* Saul (1 Sam 16:14)
-- David ber om at Ånden ikke skal tas fra ham (Sal 51:13)
-- Fremtidsløfte: Ånden helles ut over *alle* (Joel 2:28; Esek 36:26–27)
-
-**Jesus:**
-- Unnfanget ved Ånden (Matt 1:18)
-- Ånden ved dåpen (Matt 3:16)
-- Ledet av Ånden til ørkenen (Matt 4:1)
-- Virker i Åndens kraft (Luk 4:14, 18)
-- Driver ut demoner ved Guds Ånd (Matt 12:28)
-
-**NT — menigheten:**
-- Jesu løfte om Talsmannen (Joh 14–16)
-- Pinsen: Ånden over alle (Apg 2)
-- Peter, Stefanus, Paulus fylt med Ånden
-- Den HÅ velger, sender, leder (Apg 13:2–4)
+**NT:** Luk 1:35 (unnfangelse), Matt 3:16 (dåp), Luk 4:1 og 4:18 (ørken og Nasaret), Matt 12:28 (demonutdrivelse), Joh 14:15–17, 15:26, 16:13 (Talsmannen), Apg 2 (pinsen), Apg 4:8, 4:31, 8:15–19, 10:44–47, 13:2–4.
 
 ## Relevante wiki-artikler
 → [[concepts/hellige-ånd]]
-→ [[concepts/dapen]]
 → [[concepts/guds-rike]]
+→ [[concepts/dapen]]

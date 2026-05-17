@@ -1,30 +1,24 @@
 # Kilde: studier-messias-matteus
-*Fil: raw/articles/studier/messias-i-matteus-evangeliet.md | Kompilert: 2025-05-14*
+*Fil: raw/articles/studier/messias-i-matteus-evangeliet.md | Kompilert: 2025-05-17*
 
 **«Bruk av ordet Messias i Matteusevangeliet» — eget studium, 2022.**
 
 ## Nøkkelinnhold
+*Masjiach* (hebraisk) = salvet/utvalgte. Tilsvarer *Christos* (gresk) = Kristus. Brukt om konger, prester og profeter i GT. Aron salvet til prest (3 Mos 8:12).
 
-**Ordets opprinnelse:**
-Hebraisk *masjiach* = «salvet/utvalgt». Gresk: *Christos*. Norsk: Kristus. GT-bruk: konger (Saul, David), prester (Aron), profeter. Salving = utvalgt av Gud for et spesielt formål.
+**Matteus 1:1:** Jesus presenteres som Kristus og Davidssønn fra første setning — signaliserer at han er Israels ventede frelser. Kobler til 2 Sam 7:11–16 (Guds løfte om Davids evige kongedømme).
 
-**Matteus 1:1:**
-«Jesus Kristus, Davids sønn, Abrahams sønn» — tre titler som programmatisk signaliserer Jesus som den Israel ventet på. Kildehenvisning: Senior (1998) s. 27; Hvalvik & Stordalen (1999) s. 215.
+**Slektsregisteret (Matt 1:17):** 3×14 ledd — teologisk konstruksjon, ikke nøyaktig kronologi. Historien beveger seg mot et mål.
 
-**Davidspakten (2 Sam 7:11–16):**
-Guds løfte om evig kongedømme av Davids ætt er grunnlaget for Messiasforventningen.
+**Betlehem (Matt 2):** Skriftlærde og Herodes vet at Messias skal komme fra Betlehem (Mika 5:2). Bekreftes av begivenhetene.
 
-**Slektsregisteret i Matt 1:**
-Tre ganger fjorten ledd — teologisk konstruksjon, ikke historisk kronologi. Viser historiens bevegelse mot ett mål.
+**Peters bekjennelse (Matt 16:13–19):** Vendepunktet i evangeliet. Fra dette øyeblikket begynner Jesus å tale om lidelse og død (Matt 16:21). Disiplenes erkjennelse utløser neste fase.
 
-**Peters bekjennelse (Matt 16:13–19):**
-Vendepunktet i evangeliet. Sandnes/Skarsaune (2011) og Hvalvik/Stordalen (1999): fra dette øyeblikket begynner Jesus å tale om sin forestående lidelse (Matt 16:21).
+**Matt 22:42–43:** Fariseerne bekrefter at Messias er sønn av David.
 
-**Matt 22:42–43:**
-Fariseerne bekrefter: Messias er sønn av David.
+**Kilder i studiet:** [@matthew, s. 27] og [@storefortellingen, s. 214–218].
 
 ## Relevante wiki-artikler
 → [[concepts/messias]]
 → [[concepts/matteus-evangeliet]]
 → [[concepts/pakten]]
-→ [[people/jesus]]
