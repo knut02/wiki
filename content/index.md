@@ -2,7 +2,7 @@
 
 Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. Artiklene er bygget opp fra bibelstudier, teologistudier (MF Vitenskapelig Høyskole) og personlig trosrefleksjon.
 
-> **207 artikler** — sist oppdatert 2025-05-17
+> **209 artikler** — sist oppdatert 2025-05-17
 
 ---
 
@@ -40,6 +40,7 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 - [[concepts/tvil-og-tro|Tvil og tro]] — ti vanskelige spørsmål; Tomas; Guds taushet; robust tro
 - [[concepts/gudsbevis|Gudsbevis]] — kosmologiske, design, moralske og historiske argumenter; det ondes problem
 - [[concepts/sheol-og-oppstandelsen|Sheol og oppstandelsen]] — Sheol, Hades, ventestedet og oppstandelsen
+- [[concepts/eskatologi|Eskatologi]] — tofaset håp; ny skapelse ikke himmeltur; oppstandelseslegemet; dom; etikk
 - [[concepts/kristent-menneskesyn|Kristent menneskesyn]] — imago Dei; relasjon vs. lydighet; menneskeverdet
 - [[concepts/kongelig-presteskap|Kongelig prestedømme]] — 1 Pet 2:9: alle troende som kongelige prester
 - [[concepts/tidligkristen-bønnepraksis|Tidlig kristen bønnepraksis]] — orans, tidebønn, Fadervår, ørkenfadrene, Cassian
@@ -113,7 +114,7 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 ## Personer
 
 - [[people/jesus|Jesus]] — navn, liv, virke, korsfestelse, oppstandelse
-- [[people/maria|Maria]] — Jesu mor; Magnificat; ved korset; i den første kirken
+- [[people/maria|Maria]] — Jesu mor; theotokos; evig jomfru; den andre Eva; oldtidens røtter
 - [[people/moses|Moses]], [[people/paulus|Paulus]] — biografi, Romerbrevet, N.T. Wrights lesning
 - [[people/antonius-den-store|Antonius den store]], [[people/justin-martyr|Justin Martyr]], [[people/perpetua|Perpetua]]
 - [[people/athanasius|Athanasius]], [[people/augustin|Augustin]] — arvesynd, nåde, forutbestemmelse, de to stadene
