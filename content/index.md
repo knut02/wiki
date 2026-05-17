@@ -2,7 +2,7 @@
 
 Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. Artiklene er bygget opp fra bibelstudier, teologistudier (MF Vitenskapelig Høyskole) og personlig trosrefleksjon.
 
-> **200 artikler** — sist oppdatert 2025-05-16
+> **202 artikler** — sist oppdatert 2025-05-17
 
 ---
 
@@ -38,6 +38,7 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 - [[concepts/min-fars-hus|Min Fars hus]] — Joh 14:1–4: relasjon med Gud nå og i evigheten
 - [[concepts/hvem-er-du-i-møtet-med-jesus|Hvem er du i møtet med Jesus?]] — apostlenes fallgroper, samaritankvinnen, hvem er du?
 - [[concepts/tvil-og-tro|Tvil og tro]] — ti vanskelige spørsmål; Tomas; Guds taushet; robust tro
+- [[concepts/gudsbevis|Gudsbevis]] — kosmologiske, design, moralske og historiske argumenter; det ondes problem
 - [[concepts/sheol-og-oppstandelsen|Sheol og oppstandelsen]] — Sheol, Hades, ventestedet og oppstandelsen
 - [[concepts/kristent-menneskesyn|Kristent menneskesyn]] — imago Dei; relasjon vs. lydighet; menneskeverdet
 - [[concepts/kongelig-presteskap|Kongelig prestedømme]] — 1 Pet 2:9: alle troende som kongelige prester
@@ -52,6 +53,7 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 - [[concepts/bibelhistorie-nokkelhendelser|Bibelhistorie — nøkkelhendelser]] — kronologisk oversikt fra skapelse til ny skapelse
 - [[concepts/gt-profetene|GT-profetene]] — alle skriftprofetene med teologisk profil, organisert per periode
 - [[concepts/visdomslitteratur|Visdomslitteratur]] — Ordspråkene, Job, Forkynneren; bibelsk vs. verdslig visdom
+- [[concepts/klagesangene|Klagesangene]] — fem klagedikt; alfabetisk akrostikk; datter Sion; Jahve som fiende og beskytter
 - [[concepts/nt-kanon|NT-kanon]] — Ireneus, Muratori, Athanasius; kanonprosessens tre århundrer
 - [[concepts/gt-kanon-og-teksthistorie|GT-kanon og teksthistorie]] — TaNaK, tekstkritikk, MT, LXX, Dødehavsrullene
 - [[concepts/det-nye-testamentet|Det nye testamentet]] — oversikt, forfattere, kanonprosessen
