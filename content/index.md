@@ -2,7 +2,7 @@
 
 Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. Artiklene er bygget opp fra bibelstudier, teologistudier (MF Vitenskapelig Høyskole) og personlig trosrefleksjon.
 
-> **202 artikler** — sist oppdatert 2025-05-17
+> **207 artikler** — sist oppdatert 2025-05-17
 
 ---
 
@@ -33,7 +33,7 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 - [[concepts/disippelskap|Disippelskap]] — «ta opp ditt kors»; kostnaden; hverdagsdisippelskap; identitet
 - [[concepts/bønn|Bønn]] — Fadervår som mønster; ubesvart bønn; bønn som holdning
 - [[concepts/bekjennelse|Bekjennelse]] — å ære Gud og finne helbredelse; synd som snare; Jesu medfølelse
-- [[concepts/fellesskap|Fellesskap]] — *baros* og *phortion*; Ef 4:16: alle betyr alle
+- [[concepts/fellesskap|Fellesskap]] — *baros* vs. *phortion*; Ef 4:16 alle ledd; Åndens frukter
 - [[concepts/svake-baand-og-kristent-fellesskap|Svake bånd og kristent fellesskap]] — Granovetter, Johanna, Susanna, Perpetua og Felicitas
 - [[concepts/min-fars-hus|Min Fars hus]] — Joh 14:1–4: relasjon med Gud nå og i evigheten
 - [[concepts/hvem-er-du-i-møtet-med-jesus|Hvem er du i møtet med Jesus?]] — apostlenes fallgroper, samaritankvinnen, hvem er du?
@@ -56,6 +56,7 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 - [[concepts/klagesangene|Klagesangene]] — fem klagedikt; alfabetisk akrostikk; datter Sion; Jahve som fiende og beskytter
 - [[concepts/nt-kanon|NT-kanon]] — Ireneus, Muratori, Athanasius; kanonprosessens tre århundrer
 - [[concepts/gt-kanon-og-teksthistorie|GT-kanon og teksthistorie]] — TaNaK, tekstkritikk, MT, LXX, Dødehavsrullene
+- [[concepts/comma-johanneum|Comma Johanneum]] — 1 Joh 5:7–8; tekstkritikk; treenighetsbelegg
 - [[concepts/det-nye-testamentet|Det nye testamentet]] — oversikt, forfattere, kanonprosessen
 - [[concepts/evangeliene|Evangeliene]], [[concepts/matteus-evangeliet|Matteusevangeliet]] — ættetavle, oppfyllelsessitater, kristologi, misjonsbefalingen
 - [[concepts/apostlenes-gjerninger|Apostlenes gjerninger]]
@@ -80,8 +81,9 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 - [[concepts/treenigheten|Treenigheten]], [[concepts/arianismen|Arianismen]] — Arius, Alexander, Nikea og etterspillet
 - [[concepts/nikea-konsilet|Nikea-konsilet]], [[concepts/kalkedon-kristologi|Kalkedon-kristologi]], [[concepts/de-tre-oldkirkelige-bekjennelsene|De tre oldkirkelige bekjennelsene]]
 - [[concepts/en-gud-fader-allmektig|Én Gud, Fader Allmektig]]
+- [[concepts/arvesynd|Arvesynd]] — apostolisk lære? Augustin, Jacoby, kirkefedre 100–300
 - [[concepts/frelse-athanasius-augustin|Frelse — Athanasius og Augustin]], [[concepts/theosis|Theosis]]
-- [[concepts/arvesynd|Arvesynd]], [[concepts/askese|Askese]], [[concepts/martyriet|Martyriet]]
+- [[concepts/askese|Askese]], [[concepts/martyriet|Martyriet]]
 - [[concepts/didache|Didache]], [[concepts/tidligkristent-mangfold|Tidlig kristent mangfold]], [[concepts/gnostisisme|Gnostisisme]]
 - [[concepts/klosterlivet|Klosterlivet]] — fra ørkenfedrene til tiggerordenene; Benedikt, Cistercienserne, Fransiskanerne
 - [[concepts/kirkens-ledelse-og-sakramentene|Kirkens ledelse og sakramentene]], [[concepts/kirken-ost-og-vest|Kirken i øst og vest]]
@@ -95,7 +97,9 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 
 ## Verdensreligioner og livssyn
 
-- [[concepts/islam|Islam]], [[concepts/jodedommen|Jødedommen]], [[concepts/jodedommen-i-norge|Jødedommen i Norge]] — fra 1851-paragrafen til i dag
+- [[concepts/islam|Islam]] — tro, de fem søylene, sunni/sjia, historikk
+- [[concepts/kirken-og-islam|Kirken og islam]] — tilber vi samme Gud? dialog og proklamasjon
+- [[concepts/jodedommen|Jødedommen]], [[concepts/jodedommen-i-norge|Jødedommen i Norge]]
 - [[concepts/hinduisme|Hinduisme]], [[concepts/sikher|Sikher]]
 - [[concepts/jesus-i-koranen|Jesus i Koranen]], [[concepts/abraham-i-tre-religioner|Abraham i tre religioner]]
 - [[concepts/moskearchitektur|Moskéarkitektur]], [[concepts/religion-i-praksis|Religion i praksis]]
