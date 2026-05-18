@@ -59,7 +59,7 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 - [[concepts/det-nye-testamentet|Det nye testamentet]] — oversikt, forfattere, kanonprosessen
 - [[concepts/evangeliene|Evangeliene]], [[concepts/matteus-evangeliet|Matteusevangeliet]] — ættetavle, oppfyllelsessitater, kristologi, misjonsbefalingen, global lesning
 - [[concepts/apostlenes-gjerninger|Apostlenes gjerninger]]
-- [[concepts/exodus|Exodus]], [[concepts/exodus-historisitet|Exodus — historisitet]]
+- [[concepts/exodus|Exodus]] — bok, teologi og historisitet
 - [[concepts/daniel|Daniels bok]] — eksil i Babylon; den brennende ovnen; løvehulen; apokalyptikk
 - [[concepts/johannes-evangeliet-studieplan|Johannesevangeliet — 30 dagers studieplan]] — fem uker, tre temalinjer
 - [[concepts/messias|Messias]] — *masjiach*; Davidspakten; Peters bekjennelse som vendepunkt
@@ -72,9 +72,7 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 
 ## Teologi og kirkehistorie
 
-- [[concepts/kristendommens-historie-oversikt|Kristendommens historie — oversikt]] — perioder og 91 nøkkeldatoer fra år 30 til vår tid
-- [[concepts/kristendommens-tilblivelse|Kristendommens tilblivelse]] — Romerriket, jødisk kontekst, apostolsk/etterapostolsk tid
-- [[concepts/kirkehistorie-0-100|Kirkehistorie 0–100]] — detaljert kronologi; fra Jerusalem til Roma
+- [[concepts/kristendommens-tilblivelse|Kristendommens første århundrer]] — Romerriket, kronologi 30–100, apostolisk og etterapostolsk tid
 - [[concepts/fra-oldtid-til-middelalder|Fra oldtid til middelalder]] — tre sivilisasjoner; kristendom, Romerriket, araberne
 - [[concepts/jesu-oppstandelse|Jesu oppstandelse]] — graven tom; vitnene; hva slags kropp; frelseteologisk betydning
 - [[concepts/treenigheten|Treenigheten]], [[concepts/arianismen|Arianismen]] — Arius, Alexander, Nikea og etterspillet
@@ -88,8 +86,9 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 - [[concepts/middelalderteologi|Middelalderteologi]] — monastisk (Benedikt, Bernard, Hildegard) og skolastisk (Anselm, Aquinas)
 - [[concepts/mester-eckhart-mystikken|Mester Eckhart og mystikken]], [[concepts/universaliestrid-vernakulaer-teologi|Universaliestrid og vernakulær teologi]]
 - [[concepts/kirkens-ledelse-og-sakramentene|Kirkens ledelse og sakramentene]], [[concepts/kirken-ost-og-vest|Kirken i øst og vest]]
-- [[concepts/statsreligion|Statsreligion]], [[concepts/luthers-teologi|Luthers teologi]], [[concepts/reformasjonen-og-doden|Reformasjonen og døden]]
-- [[concepts/misjon-i-kontekst|Misjon i kontekst]] — forvandling, forsoning, myndiggjøring; Kirkemøtet 2012
+- [[concepts/statsreligion|Statsreligion]], [[concepts/luthers-teologi|Luthers teologi]]
+- [[concepts/bekjennelser-reformasjonens-konsolidering|Reformasjonen — bekjennelser og motreformasjon]] — CA, Schleitheim, Wittenberg, Ignatius, Trentkonsilet
+- [[concepts/misjon-i-kontekst|Misjon i kontekst]] — forvandling, forsoning, myndiggjøring
 - [[concepts/kristendom-i-norge|Kristendom i Norge]] — import/eksport, migrantmenigheter, KRLE-striden
 - [[concepts/moderniteten-og-opplysningen|Moderniteten og opplysningen]] — Schleiermacher, Barth, apologetikk
 
@@ -108,6 +107,12 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 - [[concepts/religionsteologi|Religionsteologi]] — eksklusivisme, inklusivisme, pluralisme, akseptmodellen
 - [[concepts/livssyn|Livssyn]], [[concepts/det-livssynsapne-samfunn|Det livssynsåpne samfunn]]
 - [[concepts/rasisme|Rasisme]]
+
+---
+
+## Global kristendom
+
+- [[concepts/global-kristendom-oversikt|Global kristendom]] — det store skiftet; Afrika, Amerika, Midtøsten, Asia og Europa
 
 ---
 
