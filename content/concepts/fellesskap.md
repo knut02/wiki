@@ -1,8 +1,13 @@
+---
+title: Fellesskap — å bære hverandres byrder
+description: Kristent fellesskap som byrdebæring — gresk analyse av baros vs. phortion i Gal 6, Ef 4:16 om alle ledd, og Åndens frukter som fellesskapets livsnerve.
+date: 2025-05-03
+updated: 2025-05-17
+---
+
 # Fellesskap — å bære hverandres byrder
 
 > «Bær hverandres byrder, og oppfyll Kristi lov på den måten.» — Gal 6:2
-
-*Opprettet: 2025-05-03 | Oppdatert: 2025-05-17 | Kilder: 2*
 
 ---
 
