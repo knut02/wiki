@@ -57,7 +57,7 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 - [[concepts/gt-kanon-og-teksthistorie|GT-kanon og teksthistorie]] — TaNaK, tekstkritikk, MT, LXX, Dødehavsrullene
 - [[concepts/comma-johanneum|Comma Johanneum]] — 1 Joh 5:7–8; tekstkritikk; treenighetsbelegg
 - [[concepts/det-nye-testamentet|Det nye testamentet]] — oversikt, forfattere, kanonprosessen
-- [[concepts/evangeliene|Evangeliene]], [[concepts/matteus-evangeliet|Matteusevangeliet]] — ættetavle, oppfyllelsessitater, kristologi, misjonsbefalingen
+- [[concepts/evangeliene|Evangeliene]], [[concepts/matteus-evangeliet|Matteusevangeliet]] — ættetavle, oppfyllelsessitater, kristologi, misjonsbefalingen, global lesning
 - [[concepts/apostlenes-gjerninger|Apostlenes gjerninger]]
 - [[concepts/exodus|Exodus]], [[concepts/exodus-historisitet|Exodus — historisitet]]
 - [[concepts/daniel|Daniels bok]] — eksil i Babylon; den brennende ovnen; løvehulen; apokalyptikk
@@ -103,7 +103,8 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 - [[concepts/hinduisme|Hinduisme]], [[concepts/sikher|Sikher]]
 - [[concepts/jesus-i-koranen|Jesus i Koranen]], [[concepts/abraham-i-tre-religioner|Abraham i tre religioner]]
 - [[concepts/moskearchitektur|Moskéarkitektur]], [[concepts/religion-i-praksis|Religion i praksis]]
-- [[concepts/sekularisering|Sekularisering]], [[concepts/unge-og-nyreligiositet|Unge og nyreligiøsitet]]
+- [[concepts/sekularisering|Sekularisering]]
+- [[concepts/unge-og-nyreligiositet|Nyreligiøsitet og unge]] — «Stine-tro»; subjektiv vending; individualisme
 - [[concepts/religionsteologi|Religionsteologi]] — eksklusivisme, inklusivisme, pluralisme, akseptmodellen
 - [[concepts/livssyn|Livssyn]], [[concepts/det-livssynsapne-samfunn|Det livssynsåpne samfunn]]
 - [[concepts/rasisme|Rasisme]]
