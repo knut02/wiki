@@ -1,3 +1,10 @@
+---
+title: Wiki
+description: Kunnskapsbase om Bibelen, kristendom og verdensreligioner — bygget fra bibelstudier og teologistudier ved MF.
+date: 2025-01-01
+updated: 2025-05-18
+---
+
 # Wiki
 
 Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. Artiklene er bygget opp fra bibelstudier, teologistudier (MF Vitenskapelig Høyskole) og personlig trosrefleksjon.
