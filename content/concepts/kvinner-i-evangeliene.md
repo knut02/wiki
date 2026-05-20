@@ -1,111 +1,80 @@
+---
+title: Kvinner i evangeliene
+description: En systematisk gjennomgang av alle kvinner i evangeliene — navngitte og ikke-navngitte, med Peelers analyse av Maria som mønster for kristen tjeneste.
+date: 2025-05-15
+updated: 2025-05-18
+---
+
 # Kvinner i evangeliene
 
 > «Blant dem var Maria Magdalena, Maria som var mor til Jakob og Josef, og mor til Sebedeus-sønnene.» — Matt 27:56. Evangelienes avslutning kretser rundt kvinner som vitner.
-
-*Opprettet: 2025-05-15 | Kilder: 2*
 
 ---
 
 ## Et gjennomgående, men oversett tema
 
-Kvinner er til stede gjennom hele evangeliene — ved Jesu fødsel, i hans forkynnelsestid, ved korset og som de første vitnene til oppstandelsen. Likevel er de lett å overse, fordi de sjelden er evangelienes «hovednavn» og fordi mange av dem mangler navn.
-
-En enkel gjennomgang avslører noe slående: Nesten alle de navngitte kvinnene er til stede ved de dramatiske punktene i fortellingen — dåpen, korsfestelsen, oppstandelsen. De mannlige disiplene flykter. Kvinnene blir.
+Kvinner er til stede på nesten alle de viktigste punktene i evangeliene: ved Jesu fødsel (Maria), gjennom hans tjeneste (Maria Magdalena og de andre), ved korset (da mennene flyktet), og ved den tomme graven (de første vitnene). Likevel er de lett å overse — de har sjelden hovedrollen i samtaler om Jesus.
 
 ---
 
-## De fire Mariaene
+## Navngitte kvinner i evangeliene
 
-Det hebraiske navnet *Miriam* (gresk: *Maria*) var svært vanlig i det første århundrets Palestina. Fire ulike kvinner med dette navnet er navngitt i evangeliene:
-
-### Maria — Jesu mor
-
-Sentralfiguren i Lukas' fødselsberetning. Engelen Gabriel kommer til henne, ikke til Josef. Hun svarer: «Se, jeg er Herrens tjenerinne. La det skje meg slik du har sagt» (Luk 1:38) — en av GT-s tydeligste paralleller til profetisk kallelse.
-
-Hun er aktiv gjennom hele evangeliene: er til stede ved bryllupet i Kana (Joh 2), er bekymret for Jesus da motstanden tiltar (Matt 12), og er ved korset da disiplene er borte (Joh 19:25–27). I Apostlenes gjerninger 1 er hun med i den første menigheten.
-
-### Maria Magdalena
-
-Hun nevnes av navn 12 ganger i evangeliene — mer enn de fleste av de mannlige disiplene. Lukas forteller at sju onde ånder hadde fart ut av henne (Luk 8:2), og at hun etter dette støttet Jesus og de tolv «med det de eide».
-
-Hun er til stede ved korset (alle fire evangelier), ved graven, og er den første som møter den oppstandne Jesus (Joh 20:14–18). Jesus sier til henne: «Gå til mine brødre og si dem...» — hun er den første med et apostolisk sendingsoppdrag.
-
-Tilnavnet «Magdalena» viser trolig til hjembyen Magdala ved Galileasjøen. Middelalderens sammenblanding med «synderinnen» i Lukas 7 mangler bibelsk grunnlag.
-
-### Maria fra Betania — søster til Marta og Lasarus
-
-Hun nevnes i to scener, begge typiske:
-
-I Lukas 10 sitter hun ved Jesu føtter og lytter — den rollen som var forbeholdt mannlige skriftlærde-disipler. Jesus forsvarer valget hennes: «Maria har valgt den gode del» (Luk 10:42).
-
-I Johannes 12 salver hun Jesu føtter med dyr nardus og tørker dem med håret. Judas protesterer. Jesus svarer: «La henne være. Hun har spart det til min gravferd» (Joh 12:7).
-
-### Maria, hustru til Klopas
-
-Nevnt ved korset i Johannes 19:25. Trolig den samme som «Maria, mor til Jakob den yngre og Josef» i Markus 15:40. Beskjedent omtalt, men trofast til stede.
+| Navn | Tekst | Rolle |
+|------|-------|-------|
+| **Maria** (Jesu mor) | Matt 1–2; Luk 1–2; Joh 2; 19 | Jesu mor; bebudelsen; Magnificat; ved korset |
+| **Elisabeth** | Luk 1:5–80 | Marias slektning; Johannesbøpterens mor |
+| **Anna** (profetinne) | Luk 2:36–38 | Profetinne i tempelet; vitner om Jesusbarnet |
+| **Salome** (døperen Johanns mor) | Matt 14:3–12; Mark 6:17–29 | Ba om Johannesbøpterens hode |
+| **Herodias** | Matt 14:3–12; Mark 6:17–29 | Døperen Johanns hode |
+| **Syrofønikisk/kanaaneisk kvinne** | Matt 15:21–28; Mark 7:24–30 | Ba om datteren sin; Jesu svar om hundens brød |
+| **Svigermoren til Simon Peter** | Matt 8:14–15; Mark 1:29–31; Luk 4:38–39 | Helbredet for feber |
+| **Den bøyde kvinnen** | Luk 13:10–17 | Helbredet i synagogen på sabbaten |
+| **Maria Magdalena** | Matt 27:56.61; 28:1–10; Mark 15:40; 16:1–8; Luk 8:2; 24:10; Joh 20:1–18 | Fulgte Jesus; det første oppstandelsesvitnets |
+| **Salome** (blant de troende) | Mark 15:40; 16:1 | Var ved korset og graven |
+| **Maria** (Jakobs mor) | Matt 27:56.61; 28:1; Mark 15:40.47; 16:1; Luk 24:10 | Var ved korset og graven |
+| **Johanna** | Luk 8:3; 24:10 | Fulgte Jesus; vitne til oppstandelsen |
+| **Susanna** | Luk 8:3 | Fulgte Jesus og tjente ham |
+| **Marta** | Luk 10:38–42; Joh 11; 12:2 | Søsteren til Maria og Lasarus |
+| **Maria** (Lasarus' søster) | Luk 10:38–42; Joh 11; 12:1–8 | Satt ved Jesu føtter; salvet ham |
+| **Enken i Nain** | Luk 7:11–17 | Sønn vekket opp; «Gråt ikke» |
+| **Den blødende kvinnen** | Matt 9:20–22; Mark 5:25–34; Luk 8:43–48 | Tolv år med blødning; rørte Jesu kappe |
+| **Jairus' datter** | Matt 9:18–26; Mark 5:21–43; Luk 8:40–56 | Vekket opp fra de døde |
+| **Samaritankvinnen** | Joh 4:1–42 | Fem menn; første hedningmisjonær |
+| **Ekteskapsbrytersken** | Joh 7:53–8:11 | «Den som er uten synd...» |
+| **Maria** (ved salving i Betania) | Matt 26:6–13; Mark 14:3–9 | Salvet Jesu hode; «til minne om henne» |
+| **Enken med to skjerver** | Mark 12:41–44; Luk 21:1–4 | Ga av sin fattigdom |
+| **Pilatus' kone** | Matt 27:19 | Advarte Pilatus: «Ikke noe med den rettferdige mannen» |
 
 ---
 
-## Navngitte kvinner utover Mariaene
+## Ikke-navngitte kvinner med viktige roller
 
-**Elisabeth** (Luk 1) — Marias slektning, mor til Johannes Døperen. Den første som bekjenner det ufødte barnet som «min Herre».
-
-**Anna, profetinne** (Luk 2:36–38) — 84 år gammel, tjener i tempelet natt og dag. Gjenkjenner spedbarnet Jesus som den ventede frelseren og «talte om ham til alle som ventet på Jerusalems forløsning».
-
-**Johanna** (Luk 8:3; 24:10) — hustru til Kusa, en forvalter hos Herodes. Forlot hoffet og fulgte Jesus. Nevnes blant oppstandelsesvitnene i Lukas 24.
-
-**Susanna** (Luk 8:3) — nevnes bare én gang, men inkluderes i gruppen som støttet Jesus «med det de eide». Hennes bakgrunn er ukjent; hennes valg er dokumentert.
-
-**Marta** (Luk 10; Joh 11–12) — søster til Maria og Lasarus. Aktiv og organiserende. Hennes bekjennelse i Joh 11:27 er blant evangelienes sterkeste: «Ja, Herre, jeg tror at du er Messias, Guds Sønn, han som skal komme til verden» — en bekjennelse som ligner Peters i Matt 16:16, men sjelden sitert ved siden av den.
-
-**Herodias** (Matt 14; Mark 6; Luk 3) — giftet seg med sin svoger Herodes Antipas. Fikk sin datter til å be om Johannes Døperens hode.
-
-**Salome** (Mark 15:40; 16:1) — trolig mor til apostlene Jakob og Johannes. Til stede ved korset og ved graven.
+- **Syndig kvinne** som salvet Jesu føtter med tårer (Luk 7:36–50) — «dine synder er tilgitt»
+- **Den fortapte mynten** — Guds søken etter det tapte (Luk 15:8–10)
+- **Den iherdige enken** (Luk 18:1–8) — bønnens utholdenhet
+- **De ti brudepikene** (Matt 25:1–13) — eskatologisk beredskap
 
 ---
 
-## Ikke-navngitte kvinner — og teologisk vekt
+## Maria som mønster — Peelers analyse
 
-Mange av evangelienes sterkeste scener kretser rundt kvinner uten navn:
+Peeler (2022) argumenterer for at Maria ikke bare er Jesu mor, men et mønster for alle troende — menn og kvinner — og spesielt et mønster for kristen tjeneste.
 
-**Peters svigermor** (Matt 8:14) — helbredet av Jesus; stod «straks opp og tjente ham».
+**Fire tjenester:**
 
-**Den blodsyke kvinnen** (Mark 5:25–34) — tolv år syk, brukt opp alle midler, rørte ved kappen hans. Jesus snu seg: «Datter, din tro har frelst deg.»
+**1. Magnificat til Elisabeth (Luk 1:46–55)**
+Maria proklamerer sannheten om Guds karakter til et annet menneske. Det er et ord med teologisk innhold og dristig politisk kraft. Dette er ikke stille fromhet — det er forkynnelse.
 
-**Den kanaaneiske / syrofønikiske kvinnen** (Matt 15:22; Mark 7:25) — en ikke-jødisk kvinne som utfordrer Jesus med en kløktig replikk og vinner frem. Hennes tro roses eksplisitt.
+**2. Instruksjon ved Kana (Joh 2:5)**
+«Gjør det han sier dere.» Maria sier dette til en gruppe voksne tjenere. Peeler: Dette er en verbal tjeneste rettet mot andre — ikke bare hennes sønn. At det fører til det første tegnet, og at disiplene tror, gir Marias ord virkningsfull tyngde.
 
-**Enken med de to småmynter** (Mark 12:42; Luk 21:2) — Jesus peker ut denne fattige enken som eksempel på sann gavmildhet overfor de rike som gir av sin overflod.
+**3. Mothering som tjeneste (Luk 2)**
+Jesu lydighet «under sine foreldre» (Luk 2:51) betyr at han lærte gjennom henne. Marias stemme formet Jesu forståelse av verden — det er en tjeneste som Gud aktivt støttet.
 
-**Samaritankvinnen ved brønnen** (Joh 4) — den lengste samtalen Jesus har med ett enkelt menneske i evangeliene. Forkynner evangeliet i hele landsbyen. Se [[concepts/hvem-er-du-i-møtet-med-jesus]].
+**4. Pinsedagen (Apg 1:14; 2)**
+Maria er blant de som ber og venter. Peeler leser henne som en av de som vitnet ved Pinsedagen — del av den første kirkens proklamasjon.
 
-**Kvinnen grepet i ekteskapsbrudd** (Joh 8) — «Den av dere som er uten synd, kan kaste den første steinen».
-
-**Synderinnen i Simons hus** (Luk 7:37) — salver Jesu føtter med tårer. Jesus sier: «Hennes mange synder er tilgitt, for hun elsket mye.»
-
----
-
-## Komplett oversikt
-
-### Navngitte kvinner
-
-| Evangelium | Sted | Navn |
-|------------|------|------|
-| Matt/Mark/Luk/Joh | Gjennomgående | Maria, Jesu mor |
-| Matt/Mark/Luk/Joh | Gjennomgående | Maria Magdalena |
-| Mark 6; Matt 14; Luk 3 | Hoffet | Herodias |
-| Mark 15:40; 16:1 | Korset/graven | Salome |
-| Mark 15:40 | Korset | Maria, mor til Jakob og Josef |
-| Luk 1 | Judea | Elisabeth |
-| Luk 2:36 | Tempelet | Anna, profetinne |
-| Luk 8:3; 24:10 | Galilea/Jerusalem | Johanna |
-| Luk 8:3 | Galilea | Susanna |
-| Luk 10; Joh 11–12 | Betania | Marta |
-| Luk 10; Joh 11–12 | Betania | Maria (søster til Marta) |
-| Joh 19:25 | Korset | Maria, hustru til Klopas |
-
-### Ikke-navngitte (utvalg)
-
-Peters svigermor · Jairus' datter · Den blodsyke kvinnen · Den kanaaneiske kvinnen · Synderinnen i Simons hus · Enken i Nain · Den bøyde kvinnen · Enken med de to småmynter · Pilatus' hustru · Samaritankvinnen · Kvinnen grepet i ekteskapsbrudd · Kvinner som gråt over Jesus på veien til Golgata
+**Peelers konklusjon:** «The God of the New Testament does not silence the verbal ministry of women.» Maria er ikke bare en passiv bærer — hun er mor *og* forkynner, og begge tjenester er aktivert og æret av Gud.
 
 ---
 
@@ -119,7 +88,7 @@ Sammenstillingen av disse skikkelsene tegner et bilde av en Jesus som konsekvent
 
 ## Sammenheng med andre artikler
 
-- [[people/maria]] — Jesu mor i detalj
+- [[people/maria]] — Jesu mor i detalj, inkludert Peelers analyse
 - [[people/maria-magdalena]] — det første oppstandelsesvitnets biografi
 - [[concepts/kvinner-som-bibeltolkere]] — leserposisjon og feministisk hermeneutikk
 - [[concepts/hvem-er-du-i-møtet-med-jesus]] — samaritankvinnen og andre møter
@@ -129,5 +98,6 @@ Sammenstillingen av disse skikkelsene tegner et bilde av en Jesus som konsekvent
 
 ## Kilder
 
+- [[sources/Peeler-2022-women-and-gender-of-god]] — Peeler, A. (2022): *Women and the Gender of God*, kap. 3 og 6
 - [[sources/studier-kvinner-i-evangeliene]] — komplett navnetabell (eget studium)
 - [[sources/studier-maria-i-evangeliene]] — «Maria i evangeliene» (eget studium)

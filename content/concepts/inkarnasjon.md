@@ -1,6 +1,6 @@
 ---
 title: Inkarnasjonen — Guds Sønn som menneske
-description: Den kristne bekjennelsen om at Guds evige Sønn ble menneske — nytestamentlige røtter, kristologidebatten i oldkirken, Kalkedon og frelseteologisk betydning.
+description: Den kristne bekjennelsen om at Guds evige Sønn ble menneske — nytestamentlige røtter, kristologidebatten i oldkirken, Kalkedon, frelseteologisk betydning, og Jesu mannlighets særegenhet.
 date: 2025-05-03
 updated: 2025-05-18
 ---
@@ -33,42 +33,60 @@ McGrath (2013) strukturerer den patristiske kristologiutviklingen rundt dette sk
 
 **To skoler:**
 - **Alexandria** vektla Logosets guddommelighet og fullstendige forening med menneskeheten. Sentralt bibelsted: Joh 1:14 («Ordet ble kjøtt»). Ledet til *theosis*-teologien: «Gud ble menneske for at vi skulle bli guddommeliggjort.»
-- **Antiokia** vektla Jesu fullstendige menneskelighet og skillet mellom de to naturene — for å beskytte mot at menneskeheten ble «svelget opp» av guddommen. La vekt på Jesu moralske eksempel.
+- **Antiokia** vektla Jesu fullstendige menneskelighet og skillet mellom de to naturene — for å beskytte mot at menneskeheten ble «svelget opp» av guddommen.
 
 **To debatter:**
-- **Den arianske striden** (300-tallet): Arius hevdet at Sønnen var en skapt størrelse — den høyeste av skapningene, men ikke Gud av samme vesen. Athanasius svarte at dette gjør frelse umulig: Bare en fullt ut guddommelig Frelser kan faktisk frelse og løfte mennesket inn i Guds eget liv.
-- **Den apollinaristiske debatten**: Apollinaris (ca. 310–390), en ivrig Arius-motstander, hevdet at Kristus ikke hadde en menneskelig ånd — den var erstattet av Logos. Gregor av Nazianz tilbakeviste dette: Hva Kristus ikke tok på seg, kan han ikke ha forløst. Ufullstendig menneskelighet gir ufullstendig frelse.
+- **Den arianske striden** (300-tallet): Arius hevdet at Sønnen var en skapt størrelse. Athanasius svarte at bare en fullt ut guddommelig Frelser kan faktisk frelse og løfte mennesket inn i Guds eget liv.
+- **Den apollinaristiske debatten**: Apollinaris hevdet at Kristus ikke hadde en menneskelig ånd — den var erstattet av Logos. Gregor av Nazianz tilbakeviste: Hva Kristus ikke tok på seg, kan han ikke ha forløst.
 
 **To konsilier:**
-- **Nikea (325)** — fastslo at Sønnen er *homoousios* («av samme vesen») med Faderen. Se [[concepts/nikea-konsilet]].
-- **Kalkedon (451)** — den endelige formuleringen: Kristus er *én person i to naturer* — «uten sammenblanding, uten forandring, uten deling, uten atskillelse». En *via negativa* som avgrenser snarere enn forklarer: Ikke en blanding (avvisning av monofysittisme), ikke en splittelse (avvisning av nestorianisme).
+- **Nikea (325)** — Sønnen er *homoousios* («av samme vesen») med Faderen.
+- **Kalkedon (451)** — Kristus er *én person i to naturer* — «uten sammenblanding, uten forandring, uten deling, uten atskillelse.»
 
 ---
 
 ## Frelsens logikk
 
-Inkarnasjonen er ikke et isolert mirakel — den er frelsens nødvendige forutsetning:
+Inkarnasjonen er frelsens nødvendige forutsetning:
 
 - **Nedstigning:** Gud tar vår natur på seg i sin helhet
 - **Oppstigning:** Menneskelig natur løftes opp inn i Guds liv gjennom Kristus
 
-Athanasius' berømte formulering: «Han ble menneske for at vi skulle bli Gud» (*De incarnatione* 54:3). Dette er ikke å si at mennesker blir Gud i seg selv, men at de ved Ånden får del i Guds natur (2 Pet 1:4). Se [[concepts/theosis]].
+Athanasius' berømte formulering: «Han ble menneske for at vi skulle bli Gud» (*De incarnatione* 54:3). Se [[concepts/theosis]].
+
+---
+
+## Jesu mannlighet — unik og ikke generisk
+
+Peeler (2022) stiller et sentralt spørsmål: Betyr det at Jesus var mann, at Gud favoriserer menn?
+
+Svaret er nei — men det krever en nøyaktig analyse av *hva slags* mannlighet det er snakk om.
+
+**Jomfrufødselen som teologisk nøkkel:**
+Jesus ble ikke avlet slik menn avler. Lukas 1:35 — «Den Hellige Ånd skal komme over deg» — avviser eksplisitt biologisk mannlig avling. Faderen avler ikke som en menneskemann. Jesu mannlighet oppstod ved en skapende handling av Ånden gjennom en kvinne.
+
+**Konsekvensen:**
+Peelers argument: Jesu mannlighet er *ulik all annen mannlighet* nettopp fordi hans unnfangelse ikke fulgte den normale mannlige linjen. Å slutte fra Jesu mannlighet til at «Gud favoriserer menn» eller at «bare menn kan representere Kristus» overser det særegne ved selve inkarnasjonsberetningen.
+
+**Mot C.S. Lewis og von Balthasar:**
+Noen teologer (Lewis, von Balthasar, Hopko) har hevdet at Jesu mannlighet speiler Guds maskulinitet og at dette utelukker kvinner fra visse roller. Peeler viser at denne argumentasjonskjeden bryter sammen: Den forutsetter at Faderen er mannlig (se [[concepts/treenigheten]]) og at Jesu mannlighet er av vanlig menneskelig art — begge deler er teologisk uholdbare.
 
 ---
 
 ## Sammenheng med andre artikler
 
-- [[concepts/treenigheten]] — treenighetslæren som kontekst for Logos-kristologien
+- [[concepts/treenigheten]] — treenighetslæren og spørsmålet om Guds kjønn
 - [[concepts/nikea-konsilet]] — Nikea som avgjørende steg i kristologiutviklingen
 - [[concepts/kalkedon-kristologi]] — Kalkedons formulering utdypet
 - [[concepts/de-tre-oldkirkelige-bekjennelsene]] — bekjennelsesskriftene
 - [[concepts/frelse-athanasius-augustin]] — Athanasius' *theosis*-teologi
 - [[concepts/arianismen]] — Arius og motstanden mot Nikea
-- [[concepts/historisk-jesus]] — historisk-kritisk perspektiv på Jesus
+- [[people/maria]] — jomfrufødselen og Marias rolle
 
 ---
 
 ## Kilder
 
-- [[sources/McGrath-Historical-Theology]] — McGrath: *Historical Theology*, kap. 1 (patristisk kristologi og de to skolene)
-- [[sources/Skarsaune-1988-inkarnasjonen]] — Skarsaune, O. (1988): *Inkarnasjonen — myte eller faktum?*. Lunde Forlag
+- [[sources/Peeler-2022-women-and-gender-of-god]] — Peeler, A. (2022): *Women and the Gender of God*, kap. 1 og 5
+- [[sources/McGrath-Historical-Theology]] — McGrath: *Historical Theology*, kap. 1
+- [[sources/Skarsaune-1988-inkarnasjonen]] — Skarsaune, O. (1988): *Inkarnasjonen — myte eller faktum?*

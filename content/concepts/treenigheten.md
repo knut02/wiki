@@ -1,8 +1,13 @@
+---
+title: Treenigheten
+description: Den kristne læren om én Gud i tre distinkte personer — Nikea, Kalkedon, østlig vs. vestlig tradisjon, og spørsmålet om Guds kjønn.
+date: 2025-05-01
+updated: 2025-05-18
+---
+
 # Treenigheten
 
 > Den kristne læren om én Gud i tre distinkte personer: Faderen, Sønnen og Den hellige ånd — formulert over fire kirkemøter mellom 325 og 451 e.Kr.
-
-*Opprettet: 2025-05-01 | Oppdatert: 2025-05-17 | Kilder: 3*
 
 ---
 
@@ -24,42 +29,56 @@ Se [[concepts/comma-johanneum]] for det mest kjente, men omstridte, direkte teks
 
 ## De fire store konsiler
 
-**Nikea (325)** — Biskop **Athanasius** mot **Arius**: Er Sønnen av samme guddommelige natur som Faderen? Konsilets svar: Ja — Sønnen er *homoousios* («av samme vesen») som Faderen. Dette er kjernen i Nikea-bekjennelsen. Se [[concepts/nikea-konsilet]].
+**Nikea (325)** — Biskop **Athanasius** mot **Arius**: Er Sønnen av samme guddommelige natur som Faderen? Konsilets svar: Ja — Sønnen er *homoousios* («av samme vesen») som Faderen. Se [[concepts/nikea-konsilet]].
 
-**Konstantinopel (381)** — Utvidet Nikea-bekjennelsen og inkluderte Den hellige ånd eksplisitt: Ånden er av samme guddommelige natur som Faderen og Sønnen. Dette er den **nikeno-konstantinopolitanske trosbekjennelsen** — den som brukes i kristen gudstjeneste i dag.
+**Konstantinopel (381)** — Utvidet Nikea-bekjennelsen og inkluderte Den hellige ånd eksplisitt som av samme guddommelige natur.
 
-**Efesos (431)** — Konflikten mellom **Nestorius** (biskop i Konstantinopel) og **Kyrill** (biskop i Alexandria) om Jesu to naturer. Nestorius mente Jesu guddommelige og menneskelige natur var strengt atskilt — Maria var *Christotokos* («Kristus-bærer»), ikke *Theotokos* («Gudsbærer»). Kyrill insisterte på at de to naturene var forent i én person. Efesos dømte Nestorius.
+**Efesos (431)** — Konflikten mellom **Nestorius** og **Kyrill** om Jesu to naturer. Maria som *Theotokos* («Gudsbærer») ble bekreftet — et utsagn om Jesu identitet, ikke primært om Maria.
 
-**Kalkedon (451)** — Den endelige formuleringen: Jesus er *én person* med *to naturer* — fullt ut guddommelig og fullt ut menneskelig — «uten sammenblanding, uten forandring, uten deling, uten atskillelse.» Dette er kalkedonsk kristologi, normgivende for katolsk, ortodoks og protestantisk kristendom.
+**Kalkedon (451)** — Den endelige formuleringen: Jesus er *én person med to naturer* — «uten sammenblanding, uten forandring, uten deling, uten atskillelse.»
 
 ---
 
 ## To tradisjoner: Øst og vest
 
-McGrath (2013) peker på at treenighetsteologien utviklet seg ulikt i øst og vest — og at denne forskjellen fremdeles preger de to tradisjonene.
+McGrath (2013) peker på at treenighetsteologien utviklet seg ulikt i øst og vest.
 
 **Østlig tradisjon — de kappadokiske fedrene**
-Basil av Caesarea (ca. 330–379), Gregor av Nazianz (329–389) og Gregor av Nyssa (ca. 330–395) er de tre «kappadokiske fedrene», bosatt i det som i dag er Tyrkia. Deres treenighetsteologi begynner *nedenfra*: med de tre personenes ulike handlinger og erfaringer i frelseshistorien. Man erfarer Faderen som skaper, Sønnen som frelser, Ånden som helliggjører — og spør deretter: Hva slags guddom forutsetter disse erfaringene?
-
-Dette gir en treenighetsteologi med sterk vekt på de tre personenes distinkthet og deres konkrete virke i verden.
+Basil av Caesarea, Gregor av Nazianz og Gregor av Nyssa begynner *nedenfra*: med de tre personenes ulike handlinger i frelseshistorien. Sterk vekt på de tre personenes distinkthet.
 
 **Vestlig tradisjon — Augustin**
-Augustin begynner *ovenfra*: med Guds absolutte enhet og enkelthet (*simplicitas*). De tre personene er den *ene* Guds indre relasjoner. Analogien han bruker: I et enkelt menneskesinn finner vi minne, forstand og vilje — tre funksjoner, men ett sinn. Slik er Faderen, Sønnen og Ånden tre relasjoner i én Gud.
+Begynner *ovenfra*: med Guds absolutte enhet. De tre personene er den ene Guds indre relasjoner. Augustin var også arkitekten bak *filioque*-formuleringen: Ånden utgår fra Faderen *og Sønnen* — avvist av østkirken og én av nøkkelstridene i skismaet 1054.
 
-Augustin var også arkitekten bak *filioque*-formuleringen: Ånden utgår fra Faderen *og Sønnen* (*filioque* = «og av Sønnen»). Øst-kirken avviste dette som en unilateral endring av den felles trosbekjennelsen — og er fremdeles en av de teologiske nøkkelstridentene i det store skismaet av 1054.
+---
+
+## Er Faderen mannlig?
+
+Et spørsmål som teologer historisk har besvart for lett: Er Gud mannlig fordi han kalles «Fader»?
+
+Peeler (2022) argumenterer grundig for at svaret er nei — og at dette har store konsekvenser for synet på kvinner.
+
+**Bibelens vitnesbyrd:**
+- Gud er ånd (Joh 4:24) — ikke kroppslig og dermed ikke kjønnet i biologisk forstand
+- Gud er skapt «til mann og kvinne» som sitt *bilde* (1 Mos 1:26–27) — begge kjønn avspeiler Guds natur
+- Gud bruker feminine bilder om seg selv i GT: fødende mor (Jes 66:13), husmor (Luk 15:8–10)
+- Det nye testamentets inkarnasjonsfortelling avslører at Faderen *ikke* avler Jesus som en menneskemann avler
+
+**Jomfrufødselen som teologisk nøkkel:**
+Bebudelsen (Luk 1:35) — «Den Hellige Ånd skal komme over deg» — avviser eksplisitt at Gud Fader avlet Jesus biologisk. Faderen avler ikke som menn avler. Inkarnasjonen er en skapende handling av Ånden. At evangelistene forteller denne historien «med stor risiko for å assosiere sin Gud med vanlige myter», og likevel forteller den slik, er teologisk avgjørende: de *benekter* den mannlige avlingen eksplisitt.
+
+**Konsekvensen:**
+Peelers konklusjon: «The God revealed in the New Testament harbors no preference for males because God the Father is not male.» Å bruke Fader-språket om Gud er riktig og bibelsk — men å slutte fra «Fader» til «mannlig» er et feilsteg med store skader for synet på kvinner.
 
 ---
 
 ## Tradisjon og Skriften
 
-McGrath understreker at treenighetslæren ikke bare springer ut av enkeltbibelvers, men av kirkens *regula fidei* («sannhetens kanon») — den grunnleggende tolkningstradisjon som Ireneus formulerte mot gnostikerne. Den rette tolkning av Skriften skjer i lys av den apostoliske tradisjonen, ikke isolert fra den.
+McGrath understreker at treenighetslæren ikke bare springer ut av enkeltbibelvers, men av kirkens *regula fidei* — den grunnleggende tolkningstradisjon som Ireneus formulerte mot gnostikerne.
 
-Treenighetslæren er dermed ikke en tillegging til Skriften utenfra, men en sammenfatning av hva Skriften samlet sett sier om Faderen, Sønnen og Ånden. Dens bibelske grunnlag:
-
+Bibelske grunnlag:
 - Dåpsbefalingen (Matt 28:19) — «Faderens og Sønnens og Den hellige ånds navn»
 - Jesu dåp (Matt 3:16–17) — alle tre til stede simultant
 - Johannes-prologens Logos (Joh 1:1–14)
-- «Jeg og Faderen er ett» (Joh 10:30)
 - Avskjedstalen og Talsmannen (Joh 14–16)
 
 ---
@@ -72,12 +91,14 @@ Treenighetslæren er dermed ikke en tillegging til Skriften utenfra, men en samm
 - [[concepts/kalkedon-kristologi]] — kristologiens fullføring
 - [[concepts/inkarnasjon]] — Logos som Guds inntog i historien
 - [[concepts/kirken-ost-og-vest]] — *filioque* og skismaet 1054
+- [[people/maria]] — theotokos-tittelen og Guds kjønn
 - [[timelines/kirkefedrene-tidslinje]] — Nikea (325), Konstantinopel (381), Efesos (431), Kalkedon (451)
 
 ---
 
 ## Kilder
 
-- [[sources/McGrath-Historical-Theology]] — McGrath, A.E.: *Historical Theology*, kap. 1 (patristisk periode, treenighetslæren)
+- [[sources/Peeler-2022-women-and-gender-of-god]] — Peeler, A. (2022): *Women and the Gender of God*, kap. 1 og 4
+- [[sources/McGrath-Historical-Theology]] — McGrath, A.E.: *Historical Theology*, kap. 1
 - [[sources/TEOL2310-teologihistorie-5]] — kristologi og treenighet frem til Nikea
 - [[sources/TEOL2310-teologihistorie-7]] — fra Nikea til Kalkedon
