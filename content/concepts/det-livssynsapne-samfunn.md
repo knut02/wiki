@@ -1,65 +1,43 @@
+---
+title: Det livssynsåpne samfunn
+description: Det norske livssynslandskapet i endring — fra statskirke til livssynsåpent samfunn, med tall, trender og spenninger fra Stålsett (2021).
+date: 2025-04-18
+updated: 2025-05-18
+---
+
 # Det livssynsåpne samfunn
 
 > I 2020 var 67,7 prosent av den norske befolkningen medlemmer av Den norske kirke. I 1970 var andelen 94 prosent. Det norske livssynslandskapet er i rask endring.
-
-*Opprettet: 2025-04-18 | Oppdatert: 2025-05-14 | Kilder: 2*
 
 ---
 
 ## Et nytt livssynslandskap
 
-«Det livssynsåpne samfunn» er tittelen på en norsk offentlig utredning (NOU 2013:1) som dannet grunnlaget for ny tros- og livssynspolitikk i Norge. Stålsett (2021) analyserer dette dokumentet og situasjonen det springer ut av.
+Stålsett (2021) bruker begrepet **det livssynsåpne samfunn** om det nye grunnlaget for norsk tros- og livssynspolitikk. Det er et normativt ideal — ikke bare en beskrivelse av hva som er, men et kart for hva som bør være.
 
-Poenget er ikke at Norge er blitt ateistisk. Det er at Norge har gått fra å være et homogent luthersk samfunn til et pluralistisk livssynssamfunn — og at dette krever en ny politisk tilnærming.
-
----
-
-## Tallene
-
-Stålsett (2021) gjennomgår utviklingen i tall:
-
-| År | DNK-medlemmer (andel av befolkningen) |
-|----|--------------------------------------|
-| 1970 | 94 % |
-| 1988 | 88 % |
-| 2012 | 77 % |
-| 2020 | 67,7 % |
-
-I Oslo var andelen i 2020 nede i **46,4 prosent** — under halvparten av befolkningen. I Kristiansand var den 60,7 %, i Trondheim 67,1 %. Andelen er generelt høyere i utkantstrøk.
-
-Nedgangen skyldes ikke primært utmeldelse, men:
-- Lavere dåpstall: fra 41 000 (2010) til 28 000 (2019)
-- Lavere konfirmasjonstall: fra 42 000 til 35 000 i samme periode
-- Endret befolkningssammensetning gjennom innvandring
-
-Kirkelige begravelser hadde i 2019 fortsatt høy oppslutning — 85,5 prosent — men synker jevnt, særlig i byene.
+Utgangspunktet: Det norske livssynslandskapet har endret seg dramatisk. I 1970 var 94 % av nordmenn medlemmer av Den norske kirke. I 1988 var andelen 88 %. I 2012 var den 77 %. I 2020 er den 67,7 % — og i Oslo alene er den under halvparten (46,4 %).
 
 ---
 
-## De nye livssynsgruppene
+## Tre endringsprosesser
 
-Mens DNK mister medlemmer, vokser andre grupperinger:
+**1. Sekularisering:** Færre definerer seg som troende og praktiserende kristne. «Believing without belonging» (Grace Davie) — folk beholder kulturell tilhørighet til kirken uten trosinnhold.
 
-**Islam** er blitt landets nest største trossamfunn, med ca. 180 000 registrerte medlemmer (2020-tall). Muslimsk innvandring fra Pakistan (fra 1960-tallet), Somalia, Irak og andre land har skapt en varig muslimsk befolkning.
+**2. Pluralisering:** Innvandring har gjort Norge til et mer religiøst mangfoldig samfunn. Islam er nå den nest største religionen. Antallet tros- og livssynssamfunn utenom Den norske kirke har vokst kraftig.
 
-**Human-Etisk Forbund** har vokst til å bli landets nest største livssynssamfunn — med over 100 000 medlemmer.
-
-**Frikirker og pinsemenigheter** har holdt seg relativt stabile eller vokst noe.
-
-**Ingen tilhørighet** er den kategorien som vokser raskest, særlig blant unge.
+**3. Individualisering:** Mange konstruerer sin egen religiøse identitet på tvers av institusjonelle grenser — «Stine-tro». Se [[concepts/unge-og-nyreligiositet]].
 
 ---
 
-## Hva er «det livssynsåpne samfunn»?
+## Hva betyr «livssynsåpent»?
 
-Begrepet representerer et prinsipp: Staten skal ikke favorisere ett livssyn fremfor andre, men tilrettelegge likt for alle. Det innebærer:
+Det livssynsåpne samfunn er ikke det samme som et sekulært samfunn der religion er privatisert. Det er heller ikke et samfunn med én statlig religion. Det er et samfunn som:
 
-- Finansiering av tros- og livssynssamfunn ut fra lik pris per medlem
-- Religionsfrihet og livssynsfrihet som likestilte rettigheter
-- Offentlig rom der ulike livssyn kan komme til uttrykk
-- Ikke nøytralt — det livssynsåpne samfunn har egne verdier (menneskerettigheter, demokrati, likeverd)
+- Verdsetter og legger til rette for tros- og livssynsutøvelse i det offentlige rom
+- Behandler alle tros- og livssynssamfunn likeverdig
+- Erkjenner at livssyn — religiøst eller sekulært — er grunnleggende for menneskelig identitet og fellesskap
 
-Dette er en bevegelse bort fra det konfesjonelle statskirkesystemet (der Den norske kirke hadde privilegert status) og mot et mer pluralistisk fundament.
+Modellen innebærer at staten ikke er nøytral overfor livssyn, men *aktivt støttende* for mangfoldet. Det er et brudd med den gamle statskirkemodellen *og* med en streng sekularismemodell.
 
 ---
 
@@ -79,7 +57,7 @@ Stålsett peker på noen grunnleggende spenninger:
 
 - [[concepts/livssyn]] — livssynsbegrepet
 - [[concepts/sekularisering]] — sekulariseringens norske forløp
-- [[concepts/religion-i-praksis]] — hverdagsreligion i Norge
+- [[concepts/unge-og-nyreligiositet]] — individualisering av tro
 - [[concepts/islam]] — islams vekst i Norge
 - [[concepts/kristendom-i-norge]] — Den norske kirkes situasjon
 
@@ -87,5 +65,5 @@ Stålsett peker på noen grunnleggende spenninger:
 
 ## Kilder
 
-- [[sources/Stålsett-2021-livssynsapne]] — Stålsett, S.J. (2021): *Det livssynsåpne samfunn*, kap. 2: «Det nye livssynslandskapet i Norge», s. 23–35. Cappelen Damm akademisk
+- [[sources/Stålsett-2021-livssynsapne]] — Stålsett, S.J. (2021): *Det livssynsåpne samfunn*, kap. 2, s. 23–35. Cappelen Damm akademisk
 - [[sources/TEOL1010-bibeltolkning]] — kulturkontekst
