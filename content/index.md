@@ -9,7 +9,7 @@ updated: 2025-05-20
 
 Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. Artiklene er bygget opp fra bibelstudier, teologistudier (MF Vitenskapelig Høyskole) og personlig trosrefleksjon.
 
-> **191 artikler** — sist oppdatert 2025-05-20
+> **192 artikler** — sist oppdatert 2025-05-20
 
 ---
 
@@ -66,7 +66,7 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 - [[concepts/comma-johanneum|Comma Johanneum]] — 1 Joh 5:7–8; tekstkritikk; treenighetsbelegg
 - [[concepts/det-nye-testamentet|Det nye testamentet]] — oversikt, forfattere, kanonprosessen
 - [[concepts/evangeliene|Evangeliene]], [[concepts/matteus-evangeliet|Matteusevangeliet]] — ættetavle, oppfyllelsessitater, kristologi, misjonsbefalingen, global lesning
-- [[concepts/apostlenes-gjerninger|Apostlenes gjerninger]]
+- [[concepts/apostlenes-gjerninger|Apostlenes gjerninger]] — Lukas som antikk historiker; juridisk apologetikk
 - [[concepts/exodus|Exodus]] — bok, teologi og historisitet
 - [[concepts/daniel|Daniels bok]] — eksil i Babylon; den brennende ovnen; løvehulen; apokalyptikk
 - [[concepts/johannes-evangeliet-studieplan|Johannesevangeliet — 30 dagers studieplan]] — fem uker, tre temalinjer
@@ -99,6 +99,14 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 - [[concepts/misjon-i-kontekst|Misjon i kontekst]] — forvandling, forsoning, myndiggjøring
 - [[concepts/kristendom-i-norge|Kristendom i Norge]] — import/eksport, migrantmenigheter, KRLE-striden
 - [[concepts/moderniteten-og-opplysningen|Moderniteten og opplysningen]] — Schleiermacher, Barth, apologetikk
+
+---
+
+## Kvinner og Bibelen
+
+- [[concepts/kvinner-i-kirken|Kvinner i kirken]] — bibelske eksempler, de vanskelige tekstene, egalitarisme vs. komplementarisme
+- [[concepts/kvinner-i-evangeliene|Kvinner i evangeliene]] — alle kvinner; Maria som mønster (Peeler)
+- [[concepts/kvinner-som-bibeltolkere|Kvinner som bibeltolkere]] — leserposisjon, feministisk hermeneutikk
 
 ---
 
