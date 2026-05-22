@@ -2,14 +2,14 @@
 title: Wiki
 description: Kunnskapsbase om Bibelen, kristendom og verdensreligioner — bygget fra bibelstudier og teologistudier ved MF.
 date: 2025-01-01
-updated: 2025-05-18
+updated: 2025-05-20
 ---
 
 # Wiki
 
 Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. Artiklene er bygget opp fra bibelstudier, teologistudier (MF Vitenskapelig Høyskole) og personlig trosrefleksjon.
 
-> **190 artikler** — sist oppdatert 2025-05-18
+> **191 artikler** — sist oppdatert 2025-05-20
 
 ---
 
@@ -32,12 +32,13 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 ## Tro og liv
 
 - [[concepts/guds-kjærlighet|Guds kjærlighet]] — Han elsket oss først; Jesu medfølelse; tollerne trakk til ham
-- [[concepts/guds-rike|Guds rike]] — Jesu kjerneforkynnelse; allerede og ennå ikke; rikets omvendte logikk
+- [[concepts/guds-rike|Guds rike]] — Jesu kjerneforkynnelse; Willard: riket som Guds faktiske styre nå
 - [[concepts/hvem-døde-jesus-for|Hvem døde Jesus for?]] — fra «hele verden» til «meg» — korsets rekkevidde
 - [[concepts/nåde|Nåde]] — *charis*; gave uten fortjeneste; Augustin vs. Pelagius; *sola gratia*
 - [[concepts/tilgivelse|Tilgivelse]] — den ubarmhjertige tjeneren; å gi og ta imot; tilgivelse ≠ forsoning
-- [[concepts/disippelskap|Disippelskap]] — «ta opp ditt kors»; kostnaden; hverdagsdisippelskap; identitet
+- [[concepts/disippelskap|Disippelskap]] — Willard: åkets lethet, åndelig formasjon, de åndelige disiplinene
 - [[concepts/bønn|Bønn]] — Fadervår som mønster; ubesvart bønn; bønn som holdning
+- [[concepts/fadervår|Fadervår]] — sju bønneledd, Didache, Tertullian, Origenes, Willard: kart over virkeligheten
 - [[concepts/bekjennelse|Bekjennelse]] — å ære Gud og finne helbredelse; synd som snare; Jesu medfølelse
 - [[concepts/fellesskap|Fellesskap]] — *baros* vs. *phortion*; Ef 4:16 alle ledd; Åndens frukter
 - [[concepts/svake-baand-og-kristent-fellesskap|Svake bånd og kristent fellesskap]] — Granovetter, Johanna, Susanna, Perpetua og Felicitas
@@ -73,7 +74,7 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 - [[concepts/bergprekenen|Bergprekenen]], [[concepts/salme-22|Salme 22]]
 - [[concepts/lignelsene|Lignelsene]] — den bortkomne sønnen, samaritanen, arbeiderne; performativ funksjon
 - [[concepts/hellige-ånd|Den Hellige Ånd]] — fra GT til NT; Talsmannen; Åndens frukter; hverdagsliv
-- [[concepts/dapen|Dåpen]]
+- [[concepts/dapen|Dåpen]] — røtter, motiver, dåp og frelse, barnedåp vs. troendes dåp
 
 ---
 
@@ -126,7 +127,7 @@ Velkommen til denne kunnskapsbasen om Bibelen, kristendom og verdensreligioner. 
 ## Personer
 
 - [[people/jesus|Jesus]] — navn, liv, virke, korsfestelse, oppstandelse
-- [[people/maria|Maria]] — Jesu mor; theotokos; evig jomfru; den andre Eva; oldtidens røtter
+- [[people/maria|Maria]] — Jesu mor; theotokos; evig jomfru; den andre Eva; oldtidens røtter; Peeler
 - [[people/moses|Moses]], [[people/paulus|Paulus]] — biografi, Romerbrevet, N.T. Wrights lesning
 - [[people/antonius-den-store|Antonius den store]], [[people/justin-martyr|Justin Martyr]], [[people/perpetua|Perpetua]]
 - [[people/athanasius|Athanasius]], [[people/augustin|Augustin]] — arvesynd, nåde, forutbestemmelse, de to stadene
