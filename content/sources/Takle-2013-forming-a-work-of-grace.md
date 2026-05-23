@@ -1,6 +1,6 @@
 ---
-title: Kilde — Takle (2013) Forming: A Work of Grace
-description: Kompilert fra raw/books/Forming_ A Work of Grace - David Takle/
+title: "Kilde — Takle (2013) Forming: A Work of Grace"
+description: "Kompilert fra raw/books/Forming_ A Work of Grace - David Takle/"
 date: 2025-05-22
 updated: 2025-05-22
 ---
