@@ -1,5 +1,5 @@
 ---
-title: Kilde — Fohrman (2015) Genesis: A Parsha Companion
+title: "Kilde — Fohrman (2015) Genesis: A Parsha Companion"
 description: Kompilert fra Genesis_ A Parsha Companion
 date: 2025-05-22
 updated: 2025-05-22
