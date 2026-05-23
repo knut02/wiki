@@ -7,7 +7,7 @@ updated: 2025-05-22
 
 # Kilde: Fohrman-2015-genesis-parsha-companion
 
-*Fil: raw/books/Genesis_ A Parsha Companion - David Fohrman/text/ | Kompilert: 2025-05-22*
+*Fil: raw/books/Genesis_ A Parsha Companion - David Fohrman/text/ | Kompilert 2025-05-22*
 
 **Fohrman, David (2015): *Genesis: A Parsha Companion*. AlephBeta. Engelsk/jødisk tradisjon.**
 
