@@ -1,14 +1,15 @@
-# Kirkefedrenes tidslinje
-
-> Kirkefedre er betegnelsen på tidlige kristne forfattere og lærde som levde i de første århundrene etter Jesu tid, og som spilte en avgjørende rolle i utviklingen av kristen teologi og lære.
-
-*Opprettet: 2025-04-18 | Oppdatert: 2025-05-14 | Kilder: 2*
-
+---
+title: "Kirkefedrenes tidslinje"
+description: "Kirkefedre er betegnelsen på tidlige kristne forfattere og lærde som levde i de første århundrene etter Jesu tid, og som spilte en avgjørende rolle i utviklingen av kristen teologi og lære."
+date: 2025-04-18
+modified: 2025-05-14
+kilder: 2
 ---
 
 ## Hvem er kirkefedrene?
 
 Betegnelsen «kirkefedre» (*patres ecclesiae*) brukes tradisjonelt om kristne lærde fra ca. 100 til ca. 750 e.Kr. som oppfylte fire kriterier:
+
 1. **Ortodoks lære** — de holdt seg innenfor det som ble godkjent
 2. **Hellig liv** — eksemplarisk levned
 3. **Kirkelig godkjenning** — anerkjent av kirken

@@ -1,9 +1,9 @@
-# Apofatisk teologi
-
-> Den negative teologiens tradisjon: Gud beskrives ikke ved hva han *er*, men ved hva han *ikke er*. Fra Klemens av Alexandria og Gregor av Nyssa via Dionysios Areopagiten til Mester Eckhart.
-
-*Opprettet: 2025-05-05 | Kilder: 4*
-
+---
+title: "Apofatisk teologi"
+description: "Den negative teologiens tradisjon: Gud beskrives ikke ved hva han *er*, men ved hva han *ikke er*. Fra Klemens av Alexandria og Gregor av Nyssa via Dionysios Areopagiten til Mester Eckhart."
+date: 2025-05-05
+modified: 2025-05-05
+kilder: 4
 ---
 
 ## Hva er apofatisk teologi?

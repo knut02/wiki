@@ -1,9 +1,9 @@
-# Det nye testamente
-
-> «Se, jeg er med dere alle dager inntil verdens ende.» — Matt 28:20. Det siste ordet i Matteusevangeliet er også NT-s grunnmotiv: Den oppstandne Jesus er nærværende i sin menighet.
-
-*Opprettet: 2025-04-18 | Oppdatert: 2025-05-15 | Kilder: 2*
-
+---
+title: "Det nye testamente"
+description: "Se, jeg er med dere alle dager inntil verdens ende.» — Matt 28:20. Det siste ordet i Matteusevangeliet er også NT-s grunnmotiv: Den oppstandne Jesus er nærværende i sin menighet."
+date: 2025-04-18
+oppdatert: 2025-05-15
+kilder: 2
 ---
 
 ## En samling, ikke en bok
@@ -88,6 +88,7 @@ Kjernen er ikke spekulasjon om fremtiden, men en visjon om Guds seier: Lammet so
 Det finnes en utbredt forestilling om at NT-kanonen ble bestemt av keiser Konstantin og noen biskoper på 300-tallet. Det stemmer ikke.
 
 Bøkene ble anerkjent gradvis, basert på to kriterier:
+
 - **Apostolisk autoritet** — skrevet av en apostel eller noen i apostlenes nære krets
 - **Kirkelig anerkjennelse** — allment brukt og godkjent i menighetene
 

@@ -1,9 +1,9 @@
-# GT-tidslinje — fra skapelsen til eksilet
-
-> En oversikt over de viktigste periodene i Det gamle testamente, med nøkkelhendelser og bibellokasjon.
-
-*Opprettet: 2025-04-18 | Oppdatert: 2025-05-16 | Kilder: 2*
-
+---
+title: Tidslinje for det Gamle Testamentet — fra skapelsen til eksilet
+description: "En oversikt over de viktigste periodene i Det gamle testamente, med nøkkelhendelser og bibellokasjon."
+date: 2025-04-18
+modified: 2025-05-16
+kilder: 2
 ---
 
 ## Urperioden (før ca. 2100 f.Kr.)

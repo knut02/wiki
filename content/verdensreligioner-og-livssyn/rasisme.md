@@ -1,11 +1,10 @@
 ---
-title: Rasisme
-description: Rasismens definisjon, former og historiske utvikling — fra vitenskapelig rasisme via kolonitiden til hverdagsrasisme og rasisme i Norge i dag.
+title: "Rasisme"
+description: "Rasismens definisjon, former og historiske utvikling — fra vitenskapelig rasisme via kolonitiden til hverdagsrasisme og rasisme i Norge i dag."
 date: 2025-04-18
 updated: 2025-05-18
+kilder: 2
 ---
-
-# Rasisme
 
 > «Rasisme er holdninger og handlinger som definerer individer med antatt eller reell tilhørighet til en bestemt gruppe som så fundamentalt annerledes at de anses som kulturelt eller på annen måte mindreverdige og at de derfor bør utestenges eller kan diskrimineres.» — Bangstad & Døving 2015
 
@@ -16,6 +15,7 @@ updated: 2025-05-18
 Rasisme er ikke ett enkelt fenomen men et sammensatt og dynamisk begrep som opptrer i ulike former, retter seg mot ulike grupper og endrer seg over tid. Bangstad og Døving (2015) understreker at begrepet ikke kan fanges i én enkel definisjon.
 
 Tre prosesser inngår i det som kan kalles rasisme:
+
 1. Å dele inn en befolkning i kategorier der noen gis negative essensielle trekk
 2. Å redusere et individs identitet til de negative karaktertrekkene for en kategori
 3. Å bruke disse trekkene som argument for underordning og diskriminering
