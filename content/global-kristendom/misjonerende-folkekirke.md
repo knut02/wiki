@@ -1,9 +1,9 @@
-# Misjonerende folkekirke
-
-> Harald Hegstads analyse av spenningen mellom folkekirke og misjon — og argumentet for at en dynamisk, eskatologisk kirkeforståelse løser den opp.
-
-*Opprettet: 2025-05-02 | Kilder: 1*
-
+---
+title: Misjonerende folkekirke
+description: "Harald Hegstads analyse av spenningen mellom folkekirke og misjon — og argumentet for at en dynamisk, eskatologisk kirkeforståelse løser den opp."
+date: 2025-05-02
+modified: 2025-05-2
+Kilder: 1*
 ---
 
 ## Det tilsynelatende motsetningsforholdet

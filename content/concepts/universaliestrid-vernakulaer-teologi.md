@@ -1,9 +1,8 @@
-# Universaliestrid og vernakulær teologi
-
-> Senmiddelalderens store filosofiske strid om allmennbegrepenes natur — og lekfolksteologiens fremvekst på folkespråket.
-
-*Opprettet: 2025-05-01 | Kilder: 1*
-
+---
+title: "Universaliestrid og vernakulær teologi"
+description: "Senmiddelalderens store filosofiske strid om allmennbegrepenes natur — og lekfolksteologiens fremvekst på folkespråket."
+date:  2025-05-01
+Kilder: 1*
 ---
 
 ## Universaliestriden
@@ -11,9 +10,12 @@
 Universaliestriden handler om: Eksisterer allmennbegreper (som "rødhet", "menneskelighet") selvstendig i virkeligheten, eller er de bare navn vi bruker?
 
 Tre posisjoner:
-- **Realisme**: Allmennbegreper eksisterer virkelig (Platon, Augustin, tidlig Anselm)
-- **Konseptualisme**: Allmennbegreper eksisterer i tankens begreper (Aquinas)
-- **Nominalisme**: Allmennbegreper er bare navn (*nomina*) — kun individuelle ting eksisterer (Ockham)
+
+**Realisme**: Allmennbegreper eksisterer virkelig (Platon, Augustin, tidlig Anselm)
+
+**Konseptualisme**: Allmennbegreper eksisterer i tankens begreper (Aquinas)
+
+**Nominalisme**: Allmennbegreper er bare navn (*nomina*) — kun individuelle ting eksisterer (Ockham)
 
 Striden er ikke bare akademisk — den har store konsekvenser for teologien: Hva er kirken? Hva er synden? Hva er nåden?
 

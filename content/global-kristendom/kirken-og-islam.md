@@ -1,9 +1,9 @@
-# Kirken og islam
-
-> «En positiv og dialogisk holdning til islam kan aldri avlyse vitnesbyrdet om Jesus Kristus som verdens frelser.» — Harald Hegstad 2018
-
-*Opprettet: 2025-04-18 | Oppdatert: 2025-05-17 | Kilder: 2*
-
+---
+title: "Kirken og islam"
+description: "En positiv og dialogisk holdning til islam kan aldri avlyse vitnesbyrdet om Jesus Kristus som verdens frelser."
+date: 2025-04-18
+update: 2025-05-17
+kilder: 2*
 ---
 
 ## Et sammensatt spørsmål

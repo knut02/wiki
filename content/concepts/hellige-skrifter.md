@@ -1,9 +1,8 @@
-# Hellige skrifter — kanonbegrepet og verdensreligionene
-
-> Braarvig og Justnes' innføring i hellige skrifters kjennetegn: kanon, åpenbaring, kultisk funksjon og forholdet mellom innenfra- og utenfra-perspektiver.
-
-*Opprettet: 2025-05-04 | Kilder: 1*
-
+---
+title: "Hellige skrifter — kanonbegrepet og verdensreligionene
+description: "Braarvig og Justnes' innføring i hellige skrifters kjennetegn: kanon, åpenbaring, kultisk funksjon og forholdet mellom innenfra- og utenfra-perspektiver."
+date: 2025-05-04
+Kilder: 1*
 ---
 
 ## Hva er en hellig skrift?

@@ -1,9 +1,8 @@
-# Homo sapiens og den kognitive revolusjon
-
-> Hararis perspektiv på menneskenes utvikling — fra ubetydelig savannedyr til planetens dominerende art gjennom tre revolusjoner.
-
-*Opprettet: 2025-05-01 | Kilder: 1*
-
+---
+title: "Homo sapiens og den kognitive revolusjon"
+description: "Hararis perspektiv på menneskenes utvikling — fra ubetydelig savannedyr til planetens dominerende art gjennom tre revolusjoner."
+date: 2025-05-01
+Kilder: 1
 ---
 
 ## De tre revolusjonene

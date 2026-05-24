@@ -1,9 +1,8 @@
-# Hvem er Jesus for vanlige kirkegjengere?
-
-> «Uavhengig av hva skrift og tradisjon lærer, vil vi ikke la Jesus Kristus være noe mer eller mindre enn det vi tror vi trenger for vår frelse.» — Tyron Inbody, sitert i Christie (2007)
-
-*Opprettet: 2025-05-10 | Kilder: 2*
-
+---
+title: "Hvem er Jesus for vanlige kirkegjengere?"
+description: "Uavhengig av hva skrift og tradisjon lærer, vil vi ikke la Jesus Kristus være noe mer eller mindre enn det vi tror vi trenger for vår frelse.» — Tyron Inbody, sitert i Christie (2007)"
+date: 2025-05-10
+Kilder: 2
 ---
 
 ## Spørsmålet
@@ -21,6 +20,7 @@ Christie identifiserer tre hovedtyper:
 ### 1. Funksjonell kristologi (ca. 30 av 45)
 
 Den klart dominerende gruppen. Kjennetegn:
+
 - Jesus er ikke Gud i ontologisk forstand — han er Guds agent, representant, talerør
 - «Jesus fungerer som Gud» — han *handler* for Gud, men *er* ikke Gud
 - Ingen lære om pre-eksistens (Jesus som evig Guds Sønn før inkarnasjonen)
@@ -39,6 +39,7 @@ Christie beskriver dette som **subordinasjonistisk** og i teologisk forstand **a
 ### 2. Ontologisk kristologi (ca. 9 av 45)
 
 Disse holder den klassiske nikensk-kalkedonske tro: Jesus er Gud, i fullt ontologisk forstand. Alle seks evangelikale i utvalget faller her. Kjennetegn:
+
 - Lære om pre-eksistens: Jesus var hos Gud «fra begynnelsen»
 - «I begynnelsen var Ordet» — de identifiserer Jesus med Logos
 - Treenigheten er reell, ikke bare et symbol for «tre ting»

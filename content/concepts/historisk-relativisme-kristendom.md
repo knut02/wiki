@@ -1,9 +1,9 @@
-# Historisk relativisme og kristendommens kjerne
-
-> «Alt i den kristne troen har blitt til i løpet av historien» — John Kaufman, Vårt Land 2019. Spørsmålet er hva dette betyr for om kristendommen har noen normativ kjerne.
-
-*Opprettet: 2025-04-18 | Oppdatert: 2025-05-10 | Kilder: 2*
-
+---
+title: "Historisk relativisme og kristendommens kjerne"
+description: "Alt i den kristne troen har blitt til i løpet av historien» — John Kaufman, Vårt Land 2019. Spørsmålet er hva dette betyr for om kristendommen har noen normativ kjerne"
+date: 2025-04-18
+Oppdatert: 2025-05-10
+Kilder: 2
 ---
 
 ## Harnack og spørsmålet om essensen
@@ -26,6 +26,7 @@ Harnacks posisjon er ikke unik — den er en variant av et gjennomgripende prote
 Tradisjonen falt på ett eller annet punkt. Den normative kjernen eksisterte *før* fallet. Reformasjonen — eller NT-kirken, eller urkirken — gjenopprettet det opprinnelige.
 
 Ulike protestantiske tradisjoner plasserer fallet ulikt:
+
 - **Lutheranere/anglikanske**: Fallet kom etter de fire første konsil. Nikea-bekjennelsen er normativ.
 - **Anabaptister/pinsebevegelsen**: Fallet kom allerede i det 1. eller 2. århundre. Bare NT er normativt.
 

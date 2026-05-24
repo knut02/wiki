@@ -1,25 +1,27 @@
 ---
-title: Global kristendom
-description: Kristendommens geografiske tyngdepunktskifte fra Nord til Sør, pinsekirkenes vekst, og regional oversikt over Afrika, Amerika, Midtøsten, Asia og Europa.
-date: 2025-05-02
-updated: 2025-05-18
+title: "Global kristendom"
+description: "Kristendommens geografiske tyngdepunktskifte fra Nord til Sør, pinsekirkenes vekst, og regional oversikt over Afrika, Amerika, Midtøsten, Asia og Europa."
+date:  2025-05-02
+modified: 2025-05-18
 ---
 
-# Global kristendom
+## Global kristendom
 
 > I 1900 bodde over 80 % av verdens kristne i Nord-Amerika eller Europa. I 2050 vil trolig bare 27 % gjøre det. Kristendommens tyngdepunkt har flyttet seg dramatisk.
-
----
 
 ## Det store skiftet
 
 I 1900 var ca. 558 millioner kristne i verden — over 80 % i Europa eller Nord-Amerika. I 2010 var andelen under 40 %. Den gjennomsnittlige kirkegjengerens er ikke lenger fra Europa eller USA, men fra Afrika eller Latin-Amerika.
 
 Den raskest voksende religiøse bevegelsen i verden er karismatisk/pinsekarismatisk kristendom. Kjennetegn:
-- **Erfaring fremfor doktrine** — Den Hellige Ånd og personlig omvendelse er kjernen
-- **Urbanisering** — Pinsekirkene vokser der folk strømmer til byene
-- **Demokratisering** — Avviser tradisjonelle autoritetsstrukturer; kvinner gis ofte formelle posisjoner
-- **Fellesskap** — Kirkene tilbyr sterkt sosialt nettverk for innflyttere
+
+**Erfaring fremfor doktrine** — Den Hellige Ånd og personlig omvendelse er kjernen
+
+**Urbanisering** — Pinsekirkene vokser der folk strømmer til byene
+
+**Demokratisering** — Avviser tradisjonelle autoritetsstrukturer; kvinner gis ofte formelle posisjoner
+
+**Fellesskap** — Kirkene tilbyr sterkt sosialt nettverk for innflyttere
 
 Et nøkkelresultat fra forskningen: Globalisering har *ikke* ført til sekularisering — men til pluralisering. Sekularisering i vesteuropeisk forstand er *ikke* en global trend.
 

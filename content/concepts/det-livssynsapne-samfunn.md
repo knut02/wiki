@@ -1,6 +1,6 @@
 ---
-title: Det livssynsåpne samfunn
-description: Det norske livssynslandskapet i endring — fra statskirke til livssynsåpent samfunn, med tall, trender og spenninger fra Stålsett (2021).
+title: "Det livssynsåpne samfunn"
+description: "Det norske livssynslandskapet i endring — fra statskirke til livssynsåpent samfunn, med tall, trender og spenninger fra Stålsett (2021)."
 date: 2025-04-18
 updated: 2025-05-18
 ---

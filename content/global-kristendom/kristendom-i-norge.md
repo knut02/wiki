@@ -1,9 +1,9 @@
-# Kristendom i Norge
-
-> «Kristendommen i Norge er et resultat av importerte ideer og praksiser, som har fått et lokalt preg med tiden.» — Nikolajsen 2018
-
-*Opprettet: 2025-04-18 | Oppdatert: 2025-05-15 | Kilder: 2*
-
+---
+title: "Kristendom i Norge"
+description: "Kristendommen i Norge er et resultat av importerte ideer og praksiser, som har fått et lokalt preg med tiden. — Nikolajsen 2018"
+date: 2025-04-18
+modified: 2025-05-15
+Kilder: 2*
 ---
 
 ## En importert kristendom

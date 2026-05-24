@@ -1,9 +1,8 @@
-# Historisk Jesus
-
-> Det akademiske feltet og diskusjonen som forsøker å rekonstruere hvem Jesus var som historisk person, atskilt fra teologiske og religiøse tolkninger.
-
-*Opprettet: 2025-04-18 (lint) | Kilder: 0 — kandidat for /expand*
-
+---
+title: "Historisk Jesus"
+description: "Det akademiske feltet og diskusjonen som forsøker å rekonstruere hvem Jesus var som historisk person, atskilt fra teologiske og religiøse tolkninger."
+date: 2025-04-18
+Kilder: 0
 ---
 
 ## Hva handler dette om?

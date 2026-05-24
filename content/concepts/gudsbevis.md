@@ -1,9 +1,9 @@
-# Gudsbevis — argumenter for og mot Guds eksistens
-
-> «Hvordan kan det ha seg at det finnes noe i det hele tatt?» — Søvik & Davidsen 2022. Det er dette spørsmålet gudsbevisene forsøker å besvare.
-
-*Opprettet: 2025-05-17 | Oppdatert: 2025-05-17 | Kilder: 3*
-
+---
+title: "Gudsbevis — argumenter for og mot Guds eksistens"
+description: "Hvordan kan det ha seg at det finnes noe i det hele tatt?» — Søvik & Davidsen 2022. Det er dette spørsmålet gudsbevisene forsøker å besvare."
+date: 2025-05-17
+modified: 2025-05-17
+Kilder: 3*
 ---
 
 ## Hva er et gudsbevis?
