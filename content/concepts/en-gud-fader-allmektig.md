@@ -1,8 +1,8 @@
 ---
-title"Én Gud Fader Allmektig» — treenighetsgrammatikken"
+title: "Én Gud Fader Allmektig» — treenighetsgrammatikken"
 description: "Jeg tror ikke at den ene Gud er en Treenighet.» — tenkt elev hos Behr. Men det er det heller ikke Nikea-bekjennelsen sier."
 date: 2025-05-10
-Kilder: 2*
+Kilder: 2
 ---
 
 ## Problemet med vanen

@@ -1,9 +1,9 @@
-# Ritualer — perspektiver og dimensjoner
-
-> Catherine Bells systematiske analyse av ritualbegrepet: teorier fra 1800-tallet til i dag, seks sjangre for rituelle handlinger, og Bells eget bidrag om *ritualisering* som situert, strategisk praksis.
-
-*Opprettet: 2025-05-03 | Kilder: 1*
-
+---
+title: "Ritualer — perspektiver og dimensjoner"
+description: "Catherine Bells systematiske analyse av ritualbegrepet: teorier fra 1800-tallet til i dag, seks sjangre for rituelle handlinger, og Bells eget bidrag om *ritualisering* som situert, strategisk praksis."
+date: 2025-05-03
+modified: 2025-05-03
+Kilder: 1
 ---
 
 ## Hva er ritual?
@@ -86,6 +86,7 @@ Bell: Alle tre er svar på det samme problemet — den moderne erkjennelsen av a
 ## Relevans for religionsfaget
 
 Bell integrerer religionsteori, antropologi og praktisk teologi. Perspektivene er relevante for:
+
 - Analyse av liturgi i kristen tradisjon — se [[concepts/kirkens-ledelse-og-sakramentene]] og [[concepts/tidligkristen-bonsspraksis]]
 - Overgangsritualer i andre religioner — se [[concepts/jodedommen]] og [[concepts/islam]]
 - Religionsdidaktikk — se [[concepts/religion-i-praksis]]

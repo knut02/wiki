@@ -8,9 +8,12 @@ interface Options {
   title?: string
 }
 
-const defaultOptions = (cfg: GlobalConfiguration): Options => ({
-  title: i18n(cfg.locale).components.allTags.title,
-})
+const defaultOptions = (cfg: GlobalConfiguration): Options => {
+  const translation = i18n(cfg.locale) as unknown as { components: Record<string, { title?: string }> }
+  return {
+    title: translation.components.allTags?.title ?? "All tags",
+  }
+}
 
 export default ((userOpts?: Partial<Options>) => {
   const AllTags: QuartzComponent = ({ allFiles, fileData, cfg, displayClass }: QuartzComponentProps) => {
