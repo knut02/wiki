@@ -24,6 +24,7 @@ import Comments from "./Comments"
 import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 import DirectoryList from "./DirectoryList"
+import DirectoryNavigation from "./DirectoryNavigation"
 import Description from "./Description"
 import AllTags from "./AllTags"
 
@@ -54,6 +55,7 @@ export {
   Flex,
   ConditionalRender,
   DirectoryList,
+  DirectoryNavigation,
   Description,
   AllTags,
 }

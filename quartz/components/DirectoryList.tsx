@@ -70,8 +70,10 @@ export default (() => {
               return aTitle.localeCompare(bTitle)
             })
 
+          const sectionId = `section-${dir.name}`
+
           return (
-            <section key={dir.name} class="directory-section">
+            <section key={dir.name} id={sectionId} class="directory-section">
               <h2 class="directory-heading">{dir.title}</h2>
               <ul class="article-list">
                 {articles.map((art) => {

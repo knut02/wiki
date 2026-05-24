@@ -91,6 +91,7 @@ export const indexPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [
+    Component.DesktopOnly(Component.DirectoryNavigation()),
     Component.AllTags(),
   ],
 }
