@@ -1,11 +1,10 @@
 ---
-title: Pakten
-description: De bibelske paktene som GT-teologiens ryggrad — Noahpakten, Abrahampakten, Sinaipakten, Davidspakten og den nye pakten i Jeremias og NT.
+title: "Pakten"
+description: "De bibelske paktene som GT-teologiens ryggrad — Noahpakten, Abrahampakten, Sinaipakten, Davidspakten og den nye pakten i Jeremias og det Nye Testamentet"
 date: 2025-04-18
 updated: 2025-05-20
+kilder: 3
 ---
-
-# Pakten
 
 > «Jeg vil ta dere til mitt folk, og jeg vil være deres Gud.» — 2 Mos 6:7. Den korteste og fyldigste formuleringen av hva pakten handler om.
 
@@ -28,6 +27,7 @@ Etter syndefloden gjør Gud en pakt med Noah — og gjennom ham med *hele skaper
 Tegnet er **regnbuen** — en kosmisk påminnelse om Guds løfte om å aldri mer ødelegge jorden med vann.
 
 Tre kjennetegn ved Noahpakten:
+
 - Den er **universell** — ikke begrenset til ett folk
 - Den er **ensidig** — Gud gir løftet uten betingelser
 - Den handler om **skaperverkets bevarelse** — forutsetningen for all annen pakt
@@ -97,6 +97,7 @@ Midt i katastrofen — Jerusalem faller, tempelet brenner — taler Jeremias om 
 > «Jeg vil legge min lov i dem og skrive den i hjertet deres. Jeg vil være deres Gud, og de skal være mitt folk.» — Jer 31:33
 
 Den nye pakten skiller seg fra Sinaipakten på to måter:
+
 - Loven skrives ikke på steintavler, men i **hjertene**
 - Alle skal kjenne Herren direkte — ikke bare gjennom formidlere
 

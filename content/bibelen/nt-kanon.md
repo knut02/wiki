@@ -1,12 +1,12 @@
-# NT-kanon — kanonprosessens tre århundrer
-
-> «Da velsignet jeg dere alle i det hellige og faste håp om at dere holder fast ved det som er nedtegnet for vår instruksjon.» — Klemens av Roma, ca. 96 e.Kr., som siterer en tekst som ennå ikke har status som «Skriften»
-
-*Opprettet: 2025-05-06 | Oppdatert: 2025-05-15 | Kilder: 4*
-
+---
+title: "Det nye testamentet — kanonprosessens tre århundrer"
+description: "Da velsignet jeg dere alle i det hellige og faste håp om at dere holder fast ved det som er nedtegnet for vår instruksjon.» — Klemens av Roma, ca. 96 e.Kr., som siterer en tekst som ennå ikke har status som «Skriften"
+date: 2025-05-06
+Oppdatert: 2025-05-15
+kilder: 4
 ---
 
-## Hvordan ble NT til?
+## Hvordan ble det Nye Testamentet til?
 
 Den enkleste — og mest misvisende — versjonen av historien: Keiser Konstantin samlet biskopene i Nikea (325), og de valgte ut de 27 bøkene som skulle bli NT fra en lang liste av alternativer.
 

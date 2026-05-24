@@ -1,9 +1,9 @@
-# Askese i tidlig kristendom
-
-> «Hvis du vil, kan du helt og holdent bli til ild.» — Abba Josef til Abba Lot, *Apophthegmata Patrum*
-
-*Opprettet: 2025-05-10 | Kilder: 3*
-
+---
+title: "Askese i tidlig kristendom"
+description: "Hvis du vil, kan du helt og holdent bli til ild.» — Abba Josef til Abba Lot, *Apophthegmata Patrum*"
+date: 2025-05-10
+modified: 2025-05-10
+kilder: 3
 ---
 
 ## Hva er askese?

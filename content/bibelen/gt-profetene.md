@@ -1,9 +1,9 @@
-# GT-profetene — oversikt
-
-> «Herrens Ånd er over meg, for han har salvet meg til å forkynne godt budskap for fattige.» — Jes 61:1. Profetene er ikke først og fremst fremtidsseere — de er Guds talspersoner til sin samtid.
-
-*Opprettet: 2025-05-15 | Kilder: 2*
-
+---
+title: "Det gamle testamentet - oversikt over profetene"
+description: "Herrens Ånd er over meg, for han har salvet meg til å forkynne godt budskap for fattige.» — Jes 61:1. Profetene er ikke først og fremst fremtidsseere — de er Guds talspersoner til sin samtid."
+date: 2025-05-15
+modified: 2025-05-15
+kilder: 2
 ---
 
 ## Hvem er profetene?
