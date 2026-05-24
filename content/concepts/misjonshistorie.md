@@ -1,9 +1,8 @@
-# Misjonshistorie — lange linjer
-
-> Fra apostlene til moderne tid: kontekstualisering, misjonsbevegelsenes fremvekst og norsk misjons rolle.
-
-*Opprettet: 2025-05-02 | Kilder: 1*
-
+---
+title: "Misjonshistorie — lange linjer"
+description: "Fra apostlene til moderne tid: kontekstualisering, misjonsbevegelsenes fremvekst og norsk misjons rolle."
+datet: 2025-05-02
+kilder: 1
 ---
 
 ## Misjonens utgangspunkt
@@ -29,6 +28,7 @@ Hieronymus (ca. 345–450): "Jesus er nærværende alle steder — ved Thomas i 
 *Kontekstualisering* = Teologi i dialog med en særskilt kultur; å gi evangeliet en form og ramme som gjør det forståelig i en kulturell kontekst.
 
 Fem kontekstualiseringsmodeller (Bevans/Johnsen):
+
 1. **Antropologisk** — Mottakeren bestemmer innholdet
 2. **Oversettelsesmodellen** — Evangeliet er universelt og oversettbart
 3. **Syntetiserende** — Samtalemodellen, forutsetter samstemthet
@@ -44,6 +44,7 @@ Fem kontekstualiseringsmodeller (Bevans/Johnsen):
 **William Carey (1761–1834)** — "Father of Modern Mission." Baptist, til India 1793. Motto: "Vent store ting av Gud! Våg store ting for Gud!"
 
 **Det 19. århundre — misjonsårhundret:**
+
 - Fra kongemisjon til frivillig lekfolksmisjon
 - Angloamerikansk dominans — transnasjonale vekkelser
 - Karismatisk: misjon som "de varme hjerters sak"

@@ -1,11 +1,11 @@
 ---
-title: Jesu oppstandelse
-description: Oppstandelsen som historisk hendelse og teologisk kjerne — de fire faktaene, hva slags kropp, frelseteologisk betydning, og kirkehistorisk forståelse.
+title: "Jesus sin oppstandelse"
+description: "Oppstandelsen som historisk hendelse og teologisk kjerne — de fire faktaene, hva slags kropp, frelseteologisk betydning, og kirkehistorisk forståelse."
 date: 2025-05-13
 updated: 2025-05-18
+kilder: 3
 ---
 
-# Jesu oppstandelse
 
 > «Dersom Kristus ikke er oppstått, er vår forkynnelse ingenting, og troen deres er ingenting.» — 1 Kor 15:14
 

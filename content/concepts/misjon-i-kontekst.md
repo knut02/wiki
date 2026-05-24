@@ -1,9 +1,9 @@
-# Misjon i kontekst
-
-> «Slik vi blir døpt på grunnlag av misjonsbefalingen, blir vi også døpt til selv å ta del i den.» — Kirkemøtet 2012
-
-*Opprettet: 2025-04-18 | Oppdatert: 2025-05-15 | Kilder: 3*
-
+---
+title: "Misjon i kontekst"
+description: "Slik vi blir døpt på grunnlag av misjonsbefalingen, blir vi også døpt til selv å ta del i den.» — Kirkemøtet 2012"
+date: 2025-04-18
+modifiedt: 2025-05-15
+Kilder: 3
 ---
 
 ## Hva betyr «misjon i kontekst»?

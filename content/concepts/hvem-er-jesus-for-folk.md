@@ -9,7 +9,7 @@ Kilder: 2
 
 Akademisk kristologi handler om hva biskoper, konsil og professorer har fastslått om Jesu person. Men hva tror *vanlige* kirkegjengere — de som møter opp til søndagsgudstjeneste, sier troen, synger salmene?
 
-**Ann Christie** (2007) gjennomførte dybdeintervjuer med 45 anglikanske kirkegjengere i Yorkshire. Hun definerer «ordinær kristologi» som Jesusforståelsen hos troende uten formell teologisk utdannelse. Funnene er overraskende — og teologisk utfordrende.
+**Ann Christie** (2007) gjennomførte dybdeintervjuer med 45 anglikanske kirkegjengere i Yorkshire. Hun definerer «ordinær kristologi» som Jesus forståelsen hos troende uten formell teologisk utdannelse. Funnene er overraskende — og teologisk utfordrende.
 
 ---
 

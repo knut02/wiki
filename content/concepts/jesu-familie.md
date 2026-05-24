@@ -1,9 +1,8 @@
-# Jesu familie og slekt
-
-> Oversikt over Jesu nærmeste familie — foreldre, søsken og slektninger — slik de fremstilles i evangeliene.
-
-*Opprettet: 2025-05-02 | Kilder: 2*
-
+---
+title: Jesu familie og slekt
+description: "Oversikt over Jesu nærmeste familie — foreldre, søsken og slektninger — slik de fremstilles i evangeliene."
+date: 2025-05-02
+Kilder: 2
 ---
 
 ## Foreldre

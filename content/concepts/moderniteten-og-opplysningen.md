@@ -1,9 +1,9 @@
-# Moderniteten og opplysningen
-
-> «En dag kommer det øyeblikket da solen bare lyser over frie mennesker som ikke kjenner noen annen herre enn sin egen fornuft.» — Condorcet, 1794
-
-*Opprettet: 2025-04-18 | Oppdatert: 2025-05-17 | Kilder: 3*
-
+---
+title: "Moderniteten og opplysningen"
+description: "En dag kommer det øyeblikket da solen bare lyser over frie mennesker som ikke kjenner noen annen herre enn sin egen fornuft.» — Condorcet, 1794"
+date: 2025-04-18
+Oppdatert: 2025-05-17
+Kilder: 3
 ---
 
 ## Opplysningsprosjektet
