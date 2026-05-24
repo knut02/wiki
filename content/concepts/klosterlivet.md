@@ -1,1 +1,0 @@
-Klosterbevegelsen er ikke et positivt prosjekt i utgangspunktet — den er en *reaksjon*. Da Konstantin gjorde kristendommen tolerert (313) og Theodosius gjorde den til statsreligion (381), endret grunnvilkårene for kristen tro seg fundamentalt.

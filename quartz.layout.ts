@@ -90,5 +90,7 @@ export const indexPageLayout: PageLayout = {
     }),
     Component.Explorer(),
   ],
-  right: [],
+  right: [
+    Component.AllTags(),
+  ],
 }

@@ -1,0 +1,4 @@
+- [[concepts/tidligkristen-bønnepraksis]] — ørkenfadrenes bønneliv
+- [[personer/athanasius]] — forfatteren av *Vita Antonii*
+- [[personer/augustin]] — *Vita Antonii*s rolle i Augustins omvendelse
+- [[concepts/kirkens-ledelse-og-sakramentene]] — klosterbevegelsens plass i kirkens utvikling

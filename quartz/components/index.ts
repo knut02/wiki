@@ -25,6 +25,7 @@ import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 import DirectoryList from "./DirectoryList"
 import Description from "./Description"
+import AllTags from "./AllTags"
 
 export {
   ArticleTitle,
@@ -54,4 +55,5 @@ export {
   ConditionalRender,
   DirectoryList,
   Description,
+  AllTags,
 }
