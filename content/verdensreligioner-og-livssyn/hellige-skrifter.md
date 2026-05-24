@@ -1,8 +1,8 @@
 ---
-title: "Hellige skrifter — kanonbegrepet og verdensreligionene
+title: "Hellige skrifter — kanonbegrepet og verdensreligionene"
 description: "Braarvig og Justnes' innføring i hellige skrifters kjennetegn: kanon, åpenbaring, kultisk funksjon og forholdet mellom innenfra- og utenfra-perspektiver."
 date: 2025-05-04
-Kilder: 1*
+Kilder: 1
 ---
 
 ## Hva er en hellig skrift?
@@ -12,8 +12,6 @@ Begrepet er like vanskelig å definere som "religion" selv. Braarvig og Justnes 
 **Innenfra-perspektivet** — de troende betrakter sine egne skrifter som hellige og sanne, som bærere av guddommelige påbud. Dette skaper et skille mellom hellig og apokryft, mellom sant og usant.
 
 **Utenfra-perspektivet** — religionshistorikeren lager en større kategori som rommer alle religioners hellige skrifter. "Hellig" betyr da "hellig for den aktuelle religionens tilhengere." Forskeren er ikke primært interessert i sannhetsgehalten, men i teksten som historisk fenomen.
-
----
 
 ## Fem kjennetegn på hellige skrifter
 
@@ -27,28 +25,23 @@ Begrepet er like vanskelig å definere som "religion" selv. Braarvig og Justnes 
 
 **5. Respektfull behandling** — Hellige skrifter behandles som hellige gjenstander: bæres i prosesjoner, gis egne plasser i tempelet, trykkes på fint papir. Det finnes egne forskrifter for hva man gjør med utslitte bokruller.
 
----
-
 ## Verdensreligionene og deres skrifter
 
 Tradisjonelt: fem verdensreligioner — kristendommen, islam, jødedommen, buddhismen og hinduismen. Et nyttig skille er *universelle* (misjonerende: kristendom, islam, buddhisme) vs. *etniske* (hinduisme, jødedommen).
 
 **De abrahamittiske** (kristendom, islam, jødedom) deler den hebraiske bibelen som felles grunnlag:
+
 - Jøder leser med rabbinsk materiale (Mishna, Talmud) som nøkkel
 - Kristne leser med NT som nøkkel
 - Muslimer ser begge som forberedelser til den endelige åpenbaringen: Koranen
 
 **Hinduisme og buddhisme** har ulik holdning til oversettelse: Sanskrit er gudenes språk og skal i prinsippet ikke oversettes; buddhismens skrifter ble tidlig oversatt til kinesisk, tibetansk, mongolsk og mange andre språk.
 
----
-
 ## Kanon i kanon
 
 I alle de fem religionene er det bare et utvalg av kanon som i realiteten benyttes. Innenfor kristendommen veier protestanter og katolikker NT-tekstene ulikt. Innenfor buddhismen delte ulike sekter seg nettopp pga. uenighet om hva som var Buddhas sanne ord.
 
 Kommentarlitteratur kan vokse og nesten få kanonisk status — som muslimenes *sunna* (utlegning av Koranen). Reformbevegelser oppstår typisk ved å vende tilbake til de opprinnelige skriftene: Luther til NT, islamsk fundamentalisme til Koranen.
-
----
 
 ## Sammenheng med andre artikler
 
@@ -58,8 +51,6 @@ Kommentarlitteratur kan vokse og nesten få kanonisk status — som muslimenes *
 - [[concepts/jodedommen]] — Toraen og den muntlige tradisjonen
 - [[concepts/hinduisme]] — Vedaen og Upanishadene
 - [[concepts/ritualer]] — kultisk bruk av skrifter som ritualsjanger
-
----
 
 ## Kilder
 

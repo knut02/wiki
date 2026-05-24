@@ -5,7 +5,7 @@ date: 2025-04-18
 updated: 2025-05-18
 ---
 
-# Det livssynsåpne samfunn
+## Det livssynsåpne samfunn
 
 > I 2020 var 67,7 prosent av den norske befolkningen medlemmer av Den norske kirke. I 1970 var andelen 94 prosent. Det norske livssynslandskapet er i rask endring.
 

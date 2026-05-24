@@ -1,14 +1,14 @@
-# Messias — den salvede
-
-> «Du er Messias, den levende Guds Sønn.» — Peters bekjennelse, Matt 16:16
-
-*Opprettet: 2025-04-18 | Oppdatert: 2025-05-14 | Kilder: 3*
-
+---
+title: "Messias — den salvede"
+description: "Du er Messias, den levende Guds Sønn.» — Peters bekjennelse, Matt 16:16"
+date: 2025-04-18
+modified: 2025-05-14
+Kilder: 3
 ---
 
 ## Hva betyr ordet?
 
-Det hebraiske ordet *masjiach* betyr «salvet» eller «den salvede». Det greske ekvivalenten er *Christos* — på norsk: Kristus. Salving i GT er et tegn på at noen er utvalgt av Gud for et spesielt formål: konger, prester og profeter ble salvet.
+Det hebraiske ordet *masjiach* betyr «salvet» eller «den salvede». Det greske ekvivalenten er *Christos* — på norsk: Kristus. Salving i det Gamle Testamentet er et tegn på at noen er utvalgt av Gud for et spesielt formål: konger, prester og profeter ble salvet.
 
 Aron ble salvet til prest (3 Mos 8:12). Saul og David ble salvet til konger (1 Sam 10:1; 16:13). Men ingen av disse var «Messias» i den fulde tekniske forstand begrepet fikk: Den kommende frelseren som Guds løfter pekte frem mot.
 
