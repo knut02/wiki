@@ -26,7 +26,7 @@ De onde demonene etterlignet kristne sakramenter i hedenske mysteriekulter (Mith
 Platon leste Moses. Moses er eldre enn alle greske diktere. Korset forutsagt i Timaios' X.
 
 ## Relevante wiki-artikler
-→ [[people/justin-martyr]]
+→ [[personer/justin-martyr]]
 → [[concepts/dapen]]
 → [[concepts/tidligkristen-bønnepraksis]]
 → [[concepts/kirkehistorie-100-200]]

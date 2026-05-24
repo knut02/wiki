@@ -113,7 +113,7 @@ Se [[concepts/reformasjonen-og-doden]] og [[concepts/bekjennelser-reformasjonens
 - [[concepts/statsreligion]] — statsreligion etter reformasjonen
 - [[concepts/bekjennelser-reformasjonens-konsolidering]] — Confessio Augustana og luthersk lære
 - [[concepts/katolsk-reformasjon]] — Tridentinerkonsilets svar
-- [[people/augustin]] — Luthers teologiske far
+- [[personer/augustin]] — Luthers teologiske far
 
 ---
 

@@ -13,4 +13,4 @@ Svært kort artikkel — kun innledning. Slår fast at evangeliene er den viktig
 ## Lenker til wiki
 
 - [[concepts/evangeliene]]
-- [[people/jesus]]
+- [[personer/jesus]]

@@ -29,6 +29,6 @@ Br. Erik Varden er munk i Mount Saint Bernard Abbey i England (cistercienser). L
 
 ## Relevante wiki-artikler
 → [[concepts/askese]]
-→ [[people/antonius-den-store]]
+→ [[personer/antonius-den-store]]
 → [[concepts/monastisk-teologi]]
 → [[concepts/tidligkristen-bønnepraksis]]

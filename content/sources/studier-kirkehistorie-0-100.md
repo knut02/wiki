@@ -9,4 +9,4 @@ Detaljert kronologi fra 4 f.Kr. til ca. 96 e.Kr. Dekker: Jesu liv og virke; Paul
 ## Relevante wiki-artikler
 → [[concepts/kirkehistorie-0-100]]
 → [[concepts/martyriet]]
-→ [[people/paulus]]
+→ [[personer/paulus]]

@@ -3,4 +3,4 @@
 
 Skiller ut fire ulike Maria-personer i evangeliene: Maria fra Betania (søster til Marta), Maria Magdalena (syv demoner drevet ut), Maria hustru til Klopas (mor til Jakob den yngre), og Maria Jesu mor. Gir nøkkelreferanser for hver.
 
-→ [[claude/people/maria]], [[claude/people/maria-magdalena]], [[claude/concepts/kvinner-i-evangeliene]]
+→ [[claude/personer/maria]], [[claude/personer/maria-magdalena]], [[claude/concepts/kvinner-i-evangeliene]]

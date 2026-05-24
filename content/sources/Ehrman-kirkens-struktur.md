@@ -33,4 +33,4 @@ Historisk betydning: Forutskikkelse av Augustins kirkesyn og bakgrunn for donati
 → [[concepts/kirkens-ledelse-og-sakramentene]]
 → [[concepts/apostoliske-fedre]]
 → [[concepts/statsreligion]]
-→ [[people/augustin]]
+→ [[personer/augustin]]

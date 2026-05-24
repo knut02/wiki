@@ -13,4 +13,4 @@ Kort biografisk artikkel om Abner. Dekker hans rolle som Sauls hærfører, sideb
 
 ## Lenker til wiki
 
-- [[people/abner]]
+- [[personer/abner]]

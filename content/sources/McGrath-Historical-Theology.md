@@ -39,7 +39,7 @@ Utmerket OCR-kvalitet. Fire hoveddeler.
 → [[concepts/arianismen]]
 → [[concepts/nikea-konsilet]]
 → [[concepts/kalkedon-kristologi]]
-→ [[people/augustin]]
+→ [[personer/augustin]]
 → [[concepts/klosterlivet]]
 → [[concepts/luthers-teologi]]
 → [[concepts/middelalderteologi]]

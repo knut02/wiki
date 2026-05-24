@@ -37,4 +37,4 @@ Bagge omtaler Augustin (*Confessiones*, *De civitate Dei*) som den fremste av ki
 → [[concepts/statsreligion]]
 → [[concepts/kirken-ost-og-vest]]
 → [[concepts/islam]]
-→ [[people/augustin]]
+→ [[personer/augustin]]

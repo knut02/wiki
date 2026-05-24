@@ -14,20 +14,20 @@ Jakob, også kalt "Jakobus den rettferdige", var en av Jesu brødre nevnt i evan
 
 ## Andre søsken
 
-Jesus hadde ifølge evangeliene flere brødre: Josef (Joses), Simon og Judas (ikke å forveksle med Judas Iskariot). Søstre nevnes også, men navngis ikke. Se [[people/jesus]] for oversikt over hele familien.
+Jesus hadde ifølge evangeliene flere brødre: Josef (Joses), Simon og Judas (ikke å forveksle med Judas Iskariot). Søstre nevnes også, men navngis ikke. Se [[personer/jesus]] for oversikt over hele familien.
 
 ---
 
 ## Tolkningsdiskusjon
 
-Hvorvidt disse søsknene var biologiske barn av [[people/maria]] og [[people/josef-fosterfar]] er omdiskutert. Katolsk og ortodoks tradisjon tolker dem som halvsøsken eller fettere; protestantisk tradisjon regner dem vanligvis som biologiske helsøsken.
+Hvorvidt disse søsknene var biologiske barn av [[personer/maria]] og [[personer/josef-fosterfar]] er omdiskutert. Katolsk og ortodoks tradisjon tolker dem som halvsøsken eller fettere; protestantisk tradisjon regner dem vanligvis som biologiske helsøsken.
 
 ---
 
 ## Sammenheng med andre artikler
 
-- [[people/jesus]] — hans bror
-- [[people/maria]] — hans mor (eller stemor, avhengig av tolkning)
+- [[personer/jesus]] — hans bror
+- [[personer/maria]] — hans mor (eller stemor, avhengig av tolkning)
 - [[concepts/evangeliene]] — kildene til informasjon om ham
 
 ---

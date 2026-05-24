@@ -8,7 +8,7 @@
 
 ## Hvem var han?
 
-David var den andre kongen av Israel, etterfølger av [[people/kong-saul]]. Han regjerte ca. 1010–970 f.Kr. og er den mest omtalte enkeltpersonen i Det gamle testamentet. Han er kjent som kriger, poet, salmist og hersker — og som en mann som både sviktet grovt og søkte Gud helhjerta.
+David var den andre kongen av Israel, etterfølger av [[personer/kong-saul]]. Han regjerte ca. 1010–970 f.Kr. og er den mest omtalte enkeltpersonen i Det gamle testamentet. Han er kjent som kriger, poet, salmist og hersker — og som en mann som både sviktet grovt og søkte Gud helhjerta.
 
 ---
 
@@ -20,13 +20,13 @@ David vokste opp som den yngste sønnen til Isai fra Betlehem og arbeidet som hy
 
 ## Hærfører Abner
 
-Da David overtok makten gikk [[people/abner]] — Sauls tidligere hærfører — over til Davids side. Dette er omtalt i 2 Samuelsbok 3. Abner ble likevel drept av Davids egen hærfører [[people/joab]] som hevn for et tidligere drap.
+Da David overtok makten gikk [[personer/abner]] — Sauls tidligere hærfører — over til Davids side. Dette er omtalt i 2 Samuelsbok 3. Abner ble likevel drept av Davids egen hærfører [[personer/joab]] som hevn for et tidligere drap.
 
 ---
 
 ## Davids-løftet og Messias
 
-Det teologisk viktigste ved David er Guds løfte til ham i 2 Samuelsbok 7:11–16: at en etterkommer av David skal regjere i et kongedømme som aldri tar slutt. Dette løftet er grunnlaget for hele den jødiske og kristne [[concepts/messias]]-forventningen. Matteus-evangeliet åpner med å presentere Jesus som "Davids sønn" — en direkte kobling til dette løftet. [[people/josef-fosterfar]] var av Davids ætt, noe som etter jødisk lov gjør [[people/jesus]] til Messias-kandidat.
+Det teologisk viktigste ved David er Guds løfte til ham i 2 Samuelsbok 7:11–16: at en etterkommer av David skal regjere i et kongedømme som aldri tar slutt. Dette løftet er grunnlaget for hele den jødiske og kristne [[concepts/messias]]-forventningen. Matteus-evangeliet åpner med å presentere Jesus som "Davids sønn" — en direkte kobling til dette løftet. [[personer/josef-fosterfar]] var av Davids ætt, noe som etter jødisk lov gjør [[personer/jesus]] til Messias-kandidat.
 
 ---
 
@@ -41,11 +41,11 @@ David tilskrives tradisjonelt forfatterskap til store deler av Salmenes bok. [[c
 - [[concepts/messias]] — Davids-løftet er grunnlaget for Messias-forventningen
 - [[concepts/gamle-testamentet]] — Davids tid er en sentral periode
 - [[concepts/salme-22]] — tilskrevet David, sitert ved Jesu korsfestelse
-- [[people/kong-saul]] — hans forgjenger
-- [[people/abner]] — Sauls hærfører som gikk over til David
-- [[people/joab]] — Davids hærfører
-- [[people/jesus]] — "Davids sønn" i Matteus 1:1
-- [[people/josef-fosterfar]] — Davids etterkommer, Jesu juridiske far
+- [[personer/kong-saul]] — hans forgjenger
+- [[personer/abner]] — Sauls hærfører som gikk over til David
+- [[personer/joab]] — Davids hærfører
+- [[personer/jesus]] — "Davids sønn" i Matteus 1:1
+- [[personer/josef-fosterfar]] — Davids etterkommer, Jesu juridiske far
 
 ---
 

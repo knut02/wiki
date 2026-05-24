@@ -30,5 +30,5 @@ Moderne trinitarisk teologi har glidd bort fra denne grammatikken ved å si «de
 → [[concepts/en-gud-fader-allmektig]]
 → [[concepts/treenigheten]]
 → [[concepts/arianismen]]
-→ [[people/gregor-av-nyssa]]
+→ [[personer/gregor-av-nyssa]]
 → [[concepts/nikea-konsilet]]

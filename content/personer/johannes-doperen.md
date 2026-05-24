@@ -8,7 +8,7 @@
 
 ## Hvem var han?
 
-Johannes Døperen var sønn av Elisabeth og Sakarias. Elisabeth var kusine av [[people/maria]], noe som etter tradisjonen gjør Johannes til fetter av [[people/jesus]] (Lukas 1:36).
+Johannes Døperen var sønn av Elisabeth og Sakarias. Elisabeth var kusine av [[personer/maria]], noe som etter tradisjonen gjør Johannes til fetter av [[personer/jesus]] (Lukas 1:36).
 
 ---
 
@@ -20,8 +20,8 @@ Johannes er most kjent for å ha døpt Jesus i elven Jordan (Matteus 3:13). Ifø
 
 ## Sammenheng med andre artikler
 
-- [[people/jesus]] — trolig fetter, ble døpt av Johannes
-- [[people/maria]] — Jesu mor, kusine av Johannes' mor Elisabeth
+- [[personer/jesus]] — trolig fetter, ble døpt av Johannes
+- [[personer/maria]] — Jesu mor, kusine av Johannes' mor Elisabeth
 - [[concepts/evangeliene]] — kildene til informasjon om ham
 
 ---

@@ -8,7 +8,7 @@
 
 ## Hvem var han?
 
-Kain var den eldste sønnen av [[people/adam-og-eva]] og eldre bror av [[people/abel]]. Han var bonde og bar frem et grødeoffer for Gud. Da Guds akseperte Abels offer — et lam båret frem i tro — men ikke Kains, reagerte Kain med sinne og sjalusi.
+Kain var den eldste sønnen av [[personer/adam-og-eva]] og eldre bror av [[personer/abel]]. Han var bonde og bar frem et grødeoffer for Gud. Da Guds akseperte Abels offer — et lam båret frem i tro — men ikke Kains, reagerte Kain med sinne og sjalusi.
 
 ---
 
@@ -26,8 +26,8 @@ Kain brukes i bekjennelse-materialet (se [[concepts/bekjennelse]]) som et eksemp
 
 ## Sammenheng med andre artikler
 
-- [[people/abel]] — hans bror og offer
-- [[people/adam-og-eva]] — hans foreldre
+- [[personer/abel]] — hans bror og offer
+- [[personer/adam-og-eva]] — hans foreldre
 - [[concepts/bekjennelse]] — Kain brukes som advarende eksempel
 - [[concepts/gamle-testamentet]] — første del av GT-historien
 

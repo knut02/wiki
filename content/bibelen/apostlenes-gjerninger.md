@@ -110,7 +110,7 @@ Særlig viktig:
 - [[concepts/hellige-ånd]] — Ånden som handlende subjekt i Apg
 - [[concepts/martyriet]] — Stefanus som første martyr
 - [[concepts/kristendommens-tilblivelse]] — Apg som primærkilde til kirkens første generasjon
-- [[people/paulus]] — Apg som primær kilde til Paulus' biografi
+- [[personer/paulus]] — Apg som primær kilde til Paulus' biografi
 - [[timelines/nt-tidslinje]] — kronologisk oversikt
 
 ---

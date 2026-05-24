@@ -8,7 +8,7 @@
 
 ## Hvem var han?
 
-Josef var ektemannen til [[people/maria]] og den jordiske faren til [[people/jesus]]. Han omtales som håndverker — det greske ordet i Matteus 13:55 er *tektōn*, som kan bety både snekker og tømrer, og muligens også steinhugger eller byggmester mer generelt. Han var etterkommer av kong David, noe som etter jødisk lov gjorde Jesus til Davids ætt — en teologisk viktig detalj.
+Josef var ektemannen til [[personer/maria]] og den jordiske faren til [[personer/jesus]]. Han omtales som håndverker — det greske ordet i Matteus 13:55 er *tektōn*, som kan bety både snekker og tømrer, og muligens også steinhugger eller byggmester mer generelt. Han var etterkommer av kong David, noe som etter jødisk lov gjorde Jesus til Davids ætt — en teologisk viktig detalj.
 
 ---
 
@@ -26,8 +26,8 @@ Josef er ikke nevnt etter episoden i tempelet da Jesus var 12 år (Lukas 2). Det
 
 ## Sammenheng med andre artikler
 
-- [[people/jesus]] — hans stesønn
-- [[people/maria]] — hans kone
+- [[personer/jesus]] — hans stesønn
+- [[personer/maria]] — hans kone
 - [[concepts/evangeliene]] — kildene til informasjon om ham
 
 ---

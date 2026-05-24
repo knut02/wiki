@@ -14,4 +14,4 @@ Kort biografisk artikkel om Abel. Dekker hans rolle som hyrde, offeret som ble a
 
 ## Lenker til wiki
 
-- [[people/abel]]
+- [[personer/abel]]

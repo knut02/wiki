@@ -91,7 +91,7 @@ Bibelske grunnlag:
 - [[concepts/kalkedon-kristologi]] — kristologiens fullføring
 - [[concepts/inkarnasjon]] — Logos som Guds inntog i historien
 - [[concepts/kirken-ost-og-vest]] — *filioque* og skismaet 1054
-- [[people/maria]] — theotokos-tittelen og Guds kjønn
+- [[personer/maria]] — theotokos-tittelen og Guds kjønn
 - [[timelines/kirkefedrene-tidslinje]] — Nikea (325), Konstantinopel (381), Efesos (431), Kalkedon (451)
 
 ---

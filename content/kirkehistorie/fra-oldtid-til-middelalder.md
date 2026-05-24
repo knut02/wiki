@@ -42,7 +42,7 @@ Konstantins allianse med kirken (312 e.Kr.) og den gradvise innføringen av kris
 
 **Prisen for alliansen:** Keiseren grep inn i kirkens saker, innsatte og avsatte geistlige, og brukte kirken som et instrument for sosial og politisk ensretting. Biskopene fikk rikdom og makt — men til prisen av underordning under statsmakten. Se [[concepts/statsreligion]].
 
-**Augustin og de to stater:** Den fremste av kirkefedrene, Augustin av Hippo (354–430), besvarte dette dilemmaet i *De civitate Dei*: Historien er dypest sett en kamp mellom Guds stat og den jordiske stat — og de to kan ikke identifiseres med noe samfunn her på jorden. Se [[people/augustin]].
+**Augustin og de to stater:** Den fremste av kirkefedrene, Augustin av Hippo (354–430), besvarte dette dilemmaet i *De civitate Dei*: Historien er dypest sett en kamp mellom Guds stat og den jordiske stat — og de to kan ikke identifiseres med noe samfunn her på jorden. Se [[personer/augustin]].
 
 ---
 
@@ -104,7 +104,7 @@ Det er historisk nyttig å forstå den tidlige kirkes vekst og islams vekst som 
 - [[concepts/martyriet]] — martyriets rolle i kristendommens tiltrekningskraft
 - [[concepts/islam]] — islamsk teologi og samfunnsdannelse
 - [[concepts/monastisk-teologi]] — klostervesenets rolle i overgangen
-- [[people/augustin]] — de to stater som politisk teologi
+- [[personer/augustin]] — de to stater som politisk teologi
 
 ---
 

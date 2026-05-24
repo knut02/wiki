@@ -47,8 +47,8 @@ For jødedommen er TANAKH den fullstendige hellige skrift — det kristne NT er 
 - [[concepts/salme-22]] — eksempel på GT-tekst lest profetisk i NT
 - [[concepts/jodedommen]] — GT/TANAKH som jødisk hellig skrift
 - [[concepts/evangeliene]] — NT-tekstene som bygger på GT
-- [[people/abel]] — en av de første personene omtalt i GT
-- [[people/abner]] — fra kongetiden i GT
+- [[personer/abel]] — en av de første personene omtalt i GT
+- [[personer/abner]] — fra kongetiden i GT
 
 ---
 

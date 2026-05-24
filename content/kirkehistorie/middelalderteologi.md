@@ -109,7 +109,7 @@ Det paradoksale: Humanismens *ad fontes*-program ble *Luthers* program. Humanism
 - [[concepts/mester-eckhart-mystikken]] — senmiddelalderens mystikk
 - [[concepts/middelalderteologi-nyplatonisme]] — Augustin og Dionysios som bakgrunn
 - [[concepts/luthers-teologi]] — humanismens arv i reformasjonen
-- [[people/augustin]] — middelaldernes teologiske arv
+- [[personer/augustin]] — middelaldernes teologiske arv
 
 ---
 

@@ -16,7 +16,7 @@ updated: 2025-05-18
 Exodus deles i to hoveddeler:
 
 **Del 1: Befrielse fra Egypt (kap. 1–18)**
-Israel er slaver i Egypt. Gud hører dem og kaller [[people/moses]] til å lede dem ut. Ti plager rammer Egypt, den første påsken feires, og Gud redder Israel ved Sivsjøen.
+Israel er slaver i Egypt. Gud hører dem og kaller [[personer/moses]] til å lede dem ut. Ti plager rammer Egypt, den første påsken feires, og Gud redder Israel ved Sivsjøen.
 
 **Del 2: Åpenbaring fra Gud (kap. 19–40)**
 Ved Sinai-fjellet inngår Gud en pakt med Israel. Loven gis — de ti bud og den utvidede lovgivningen. Tabernakelet bygges som Guds bolig blant folket.
@@ -83,7 +83,7 @@ Uansett hva arkeologien sier: Israelittene *ble til* et folk ved eksodusen — d
 
 ## Sammenheng med andre artikler
 
-- [[people/moses]] — Exodus' sentrale menneskelige figur
+- [[personer/moses]] — Exodus' sentrale menneskelige figur
 - [[concepts/pakten]] — Sinai-pakten som GT-teologiens kjerne
 - [[concepts/bibeltolkning-innforing]] — diachronisk vs. synkronisk lesning
 - [[concepts/gt-kanon-og-teksthistorie]] — GT-tekstenes overlevering

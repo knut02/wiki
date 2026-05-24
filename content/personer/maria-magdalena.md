@@ -33,7 +33,7 @@ Hun skiller seg fra de andre kvinnene navngitt i evangeliene ved å dukke opp p�
 ## Ikke å forveksle med
 
 Maria Magdalena er én av flere kvinner som heter Maria i evangeliene. Hun må ikke forveksles med:
-- [[people/maria]] — Jesu mor
+- [[personer/maria]] — Jesu mor
 - Maria fra Betania — søster til Marta og Lasarus
 - Maria, hustru til Klopas — mor til Jakob den yngre
 
@@ -43,8 +43,8 @@ Se [[concepts/kvinner-i-evangeliene]] for full oversikt.
 
 ## Sammenheng med andre artikler
 
-- [[people/jesus]] — fulgte og støttet ham
-- [[people/maria]] — deler navn, men ulike personer
+- [[personer/jesus]] — fulgte og støttet ham
+- [[personer/maria]] — deler navn, men ulike personer
 - [[concepts/kvinner-i-evangeliene]] — oversikt over alle kvinner i evangeliene
 - [[concepts/apostlene]] — kontrastert med apostlene i materialet
 

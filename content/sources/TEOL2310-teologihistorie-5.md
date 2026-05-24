@@ -31,5 +31,5 @@
 → [[concepts/arianismen]]
 → [[concepts/nikea-konsilet]]
 → [[concepts/treenigheten]]
-→ [[people/athanasius]]
+→ [[personer/athanasius]]
 → [[concepts/de-tre-oldkirkelige-bekjennelsene]]

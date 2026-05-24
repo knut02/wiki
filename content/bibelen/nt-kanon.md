@@ -115,7 +115,7 @@ Men det betyr *også* at det ikke er noe «naturlig» og «selvinnlysende» ved 
 - [[concepts/bibeloversettelse]] — fra grunntekst til norsk
 - [[concepts/gnostisisme]] — gnostikernes egne skrifter og kirkens respons
 - [[concepts/tidligkristent-mangfold]] — mangfoldet som drev frem kanondebatten
-- [[people/athanasius]] — påskebrevet 367 og kanonens formelle avslutning
+- [[personer/athanasius]] — påskebrevet 367 og kanonens formelle avslutning
 - [[concepts/apostoliske-fedre]] — de tidligste kristne skriftene utenom NT
 - [[concepts/didache]] — et eksempel på en tidligkristen tekst som ikke kom med
 

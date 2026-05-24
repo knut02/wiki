@@ -29,5 +29,5 @@ Første essay: «Does Man 'Acquire' Woman?» — analyse av Adam og Evas skapels
 Oppslagsressurs for Genesis-artikler. Særlig relevant for:
 → [[concepts/skapelsen]]
 → [[concepts/pakten]]
-→ [[people/adam-og-eva]]
+→ [[personer/adam-og-eva]]
 → [[concepts/kvinner-i-kirken]] (kjønn i Genesis)

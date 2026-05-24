@@ -36,5 +36,5 @@ Sentrale primærtekster:
 → [[concepts/middelalderteologi-nyplatonisme]] (Dionysios og neoplatonisme)
 → [[concepts/monastisk-teologi]] (Benedikt, Bernard, Hildegard)
 → [[concepts/klosterlivet]] (Benedikts regel)
-→ [[people/augustin]] (Bekjennelsene)
-→ [[people/gregor-av-nyssa]] (Dionysios viderefører Gregors tradisjon)
+→ [[personer/augustin]] (Bekjennelsene)
+→ [[personer/gregor-av-nyssa]] (Dionysios viderefører Gregors tradisjon)

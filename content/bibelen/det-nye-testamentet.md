@@ -109,7 +109,7 @@ NT er ikke en erstatning for GT, men dets oppfyllelse og videreføring. Se [[con
 - [[concepts/matteus-evangeliet]] — Matteus' særlige teologiske profil
 - [[concepts/nt-kanon]] — kanonprosessens historie
 - [[concepts/apostlene]] — NT-forfatternes bakgrunn
-- [[people/paulus]] — den sentrale NT-forfatteren
+- [[personer/paulus]] — den sentrale NT-forfatteren
 - [[concepts/bibeloversettelse]] — NT på norsk
 
 ---

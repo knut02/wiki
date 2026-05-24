@@ -135,11 +135,11 @@ For protestantisk teologi er Maria primært et *forbilde* — ikke en mellommann
 ## Sammenheng med andre artikler
 
 - [[concepts/kvinner-i-evangeliene]] — oversikt over alle kvinner i evangeliene
-- [[people/jakob-jesu-bror]] — Marias sønn, leder i Jerusalem-menigheten
+- [[personer/jakob-jesu-bror]] — Marias sønn, leder i Jerusalem-menigheten
 - [[concepts/kalkedon-kristologi]] — *theotokos*-tittelen og dens teologiske bakgrunn
 - [[concepts/inkarnasjon]] — Gud som blir menneske gjennom Maria
 - [[concepts/treenigheten]] — Faderen er ikke mannlig; jomfrufødselen og Guds identitet
-- [[people/jesus]] — Jesu liv og identitet
+- [[personer/jesus]] — Jesu liv og identitet
 
 ---
 

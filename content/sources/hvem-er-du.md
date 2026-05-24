@@ -26,5 +26,5 @@ Outsider blant outsidere. Spør videre i stedet for å flykte. Sier «Herre, jeg
 ## Relevante wiki-artikler
 → [[concepts/hvem-er-du-i-møtet-med-jesus]]
 → [[concepts/kvinner-i-evangeliene]]
-→ [[people/maria-magdalena]]
+→ [[personer/maria-magdalena]]
 → [[concepts/bekjennelse]]

@@ -26,6 +26,6 @@ Akademisk artikkel som sammenligner to alexandrinske teologers forståelse av gu
 → [[concepts/apofatisk-teologi]]
 → [[concepts/theosis]]
 → [[concepts/dapen]]
-→ [[people/klemens-av-alexandria]]
-→ [[people/gregor-av-nyssa]]
+→ [[personer/klemens-av-alexandria]]
+→ [[personer/gregor-av-nyssa]]
 → [[concepts/arvesynd]] (om barns uskyld hos Klemens)

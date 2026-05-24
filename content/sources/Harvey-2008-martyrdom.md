@@ -22,6 +22,6 @@ Forhørsscene med klar martyr og forvirret dommer. Forbilledlig kroppslig ro. Bi
 
 ## Relevante wiki-artikler
 → [[concepts/martyriet]]
-→ [[people/perpetua]]
+→ [[personer/perpetua]]
 → [[concepts/apostoliske-fedre]]
 → [[concepts/askese]]

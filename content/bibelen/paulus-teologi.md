@@ -66,7 +66,7 @@ Sødals fremstilling inkluderer også Johannes' åpenbaring som eskatologisk pen
 - [[concepts/hellige-ånd]] — Åndens rolle i Paulus' teologi (Rom 8)
 - [[concepts/inaugurert-eskatologi-og-kjonn]] — Paulus om kjønn og eskatologi
 - [[concepts/misjonshistorie]] — Paulus som misjonær i historisk perspektiv
-- [[people/paulus]] — persons-artikkelen om Paulus
+- [[personer/paulus]] — persons-artikkelen om Paulus
 
 ---
 

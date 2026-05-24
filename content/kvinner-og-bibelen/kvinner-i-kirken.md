@@ -63,7 +63,7 @@ Keener (2014): At kvinner er oppstandelsesvitnene er historisk viktig — i anti
 
 **Anna (Hanna)** — Luk 2:36–38: Profetinne i tempelet, forkynner om Jesus til alle som ventet på Jerusalems forløsning.
 
-**Maria** — Peeler (2022): Magnificat er proklamasjon; instruksjonen ved Kana er verbal tjeneste; nærvær ved Pinsedagen er vitnesbyrd. Maria er mønsteret for kristent tjeneste, ikke bare for mødre. Se [[people/maria]].
+**Maria** — Peeler (2022): Magnificat er proklamasjon; instruksjonen ved Kana er verbal tjeneste; nærvær ved Pinsedagen er vitnesbyrd. Maria er mønsteret for kristent tjeneste, ikke bare for mødre. Se [[personer/maria]].
 
 ---
 
@@ -168,7 +168,7 @@ Begge posisjoner kan forsvares innenfor evangelikal ortodoksi. Begge tar Bibelen
 ## Sammenheng med andre artikler
 
 - [[concepts/kvinner-i-evangeliene]] — alle kvinner i evangeliene med Peelers analyse
-- [[people/maria]] — Maria som mønster for tjeneste (Peeler)
+- [[personer/maria]] — Maria som mønster for tjeneste (Peeler)
 - [[concepts/treenigheten]] — er Faderen maskulin? (Peeler)
 - [[concepts/inkarnasjon]] — Jesu mannlighet og dens teologiske implikasjoner
 - [[concepts/kvinner-som-bibeltolkere]] — leserposisjon og hermeneutikk

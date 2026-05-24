@@ -38,4 +38,4 @@ Daglig opplegg: morgenlesning + dypere studie + skriving/refleksjon.
 → [[concepts/inkarnasjon]]
 → [[concepts/hellige-ånd]] (Talsmannen Joh 14–16)
 → [[concepts/fellesskap]]
-→ [[people/jesus]]
+→ [[personer/jesus]]

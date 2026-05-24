@@ -32,7 +32,7 @@ Primærkilde for behandlingen av:
 ## Relevante wiki-artikler
 → [[concepts/inkarnasjon]]
 → [[concepts/apostoliske-fedre]] (Ignatius mot doketisme)
-→ [[people/athanasius]] (Nikea og inkarnasjonen)
+→ [[personer/athanasius]] (Nikea og inkarnasjonen)
 → [[concepts/theosis]] (inkarnasjonen som theosis' grunnlag)
 → [[concepts/nikea-konsilet]]
 → [[concepts/treenigheten]]

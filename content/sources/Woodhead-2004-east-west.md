@@ -34,4 +34,4 @@
 → [[concepts/statsreligion]]
 → [[concepts/treenigheten]]
 → [[concepts/theosis]]
-→ [[people/augustin]]
+→ [[personer/augustin]]

@@ -49,7 +49,7 @@ Av de religiøse grupperingene som eksisterte på Jesu tid — fariseere, sadduk
 - [[timelines/mellom-testamentene]] — Makkabeer-opprøret som bakteppe for fariseernes fremvekst
 - [[concepts/arianismen]] — tilsvarende teologisk presisering som respons på krise
 - [[concepts/nt-kanon]] — fariseisk kanonforståelse og NT-debatten
-- [[people/paulus]] — Paulus som utdannet fariseer
+- [[personer/paulus]] — Paulus som utdannet fariseer
 
 ## Kilder
 

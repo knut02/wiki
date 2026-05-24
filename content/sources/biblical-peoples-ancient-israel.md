@@ -1,7 +1,7 @@
-# Kilde: biblical-peoples-ancient-israel
-*Fil: raw/articles/bibelens_verden/biblical_peoples_the_world_of_ancient_israel.md | Kompilert: 2025-05-06*
+# Kilde: biblical-personers-ancient-israel
+*Fil: raw/articles/bibelens_verden/biblical_personers_the_world_of_ancient_israel.md | Kompilert: 2025-05-06*
 
-**Dospěl, Marek & Corbett, Glenn (red.) (2022): *Biblical Peoples — The World of Ancient Israel*. Biblical Archaeology Society, Washington DC. ©2022 BAS.**
+**Dospěl, Marek & Corbett, Glenn (red.) (2022): *Biblical personers — The World of Ancient Israel*. Biblical Archaeology Society, Washington DC. ©2022 BAS.**
 
 Populærvitenskapelig antologi fra Biblical Archaeology Society (*Biblical Archaeology Review*). Dekker folkegruppene som omgav og interagerte med Det gamle Israels folk, basert på arkeologisk og tekstlig forskning.
 

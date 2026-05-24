@@ -9,4 +9,4 @@ Største jødiske religiøse parti på Jesu tid. Navn fra *parash* («skille seg
 ## Relevante wiki-artikler
 → [[concepts/fariseerne]]
 → [[timelines/mellom-testamentene]]
-→ [[people/paulus]]
+→ [[personer/paulus]]

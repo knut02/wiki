@@ -30,5 +30,5 @@ Se også [[sources/TEOL2310-teologihistorie-middelalder-2]] som dekker modul 1�
 ## Relevante wiki-artikler
 → [[concepts/apofatisk-teologi]]
 → [[concepts/middelalderteologi-nyplatonisme]]
-→ [[people/augustin]]
+→ [[personer/augustin]]
 → [[concepts/monastisk-teologi]]

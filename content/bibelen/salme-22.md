@@ -41,7 +41,7 @@ At GT-tekster, skrevet hundrevis av år før Jesus, så presist beskriver hendel
 - [[concepts/gamle-testamentet]] — kontekst for GT som profetisk tekst
 - [[concepts/evangeliene]] — evangelistenes bruk av GT
 - [[concepts/messias]] — den bredere Messias-profetien
-- [[people/jesus]] — lidelseshistorien
+- [[personer/jesus]] — lidelseshistorien
 
 ---
 

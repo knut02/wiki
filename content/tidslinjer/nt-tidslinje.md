@@ -85,7 +85,7 @@
 - [[concepts/kirkehistorie-0-100]] — det første århundret i større detalj
 - [[timelines/mellom-testamentene]] — perioden før
 - [[timelines/kirkefedrene-tidslinje]] — perioden etter
-- [[people/paulus]] — apostlenes tidsalders sentrale skikkelse
+- [[personer/paulus]] — apostlenes tidsalders sentrale skikkelse
 - [[concepts/nt-kanon]] — NT-skriftenes kanoniseringsprosess
 
 ---

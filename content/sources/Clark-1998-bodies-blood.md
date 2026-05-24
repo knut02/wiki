@@ -23,5 +23,5 @@ Clark diskuterer seinantikkens debatter om kroppen i relasjon til oppstandelse: 
 ## Relevante wiki-artikler
 → [[concepts/martyriet]]
 → [[concepts/askese]]
-→ [[people/perpetua]]
-→ [[people/antonius-den-store]]
+→ [[personer/perpetua]]
+→ [[personer/antonius-den-store]]

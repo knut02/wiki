@@ -38,4 +38,4 @@
 → [[concepts/nikea-konsilet]]
 → [[concepts/statsreligion]]
 → [[concepts/de-tre-oldkirkelige-bekjennelsene]]
-→ [[people/gregor-av-nyssa]]
+→ [[personer/gregor-av-nyssa]]

@@ -35,7 +35,7 @@ Jesus var mann — men en mann som ble unnfanget uten biologisk mannlig avling. 
 Maria som mønster for kristent tjeneste: mor og forkynner. Fire tjenester: Magnificat, instruksjon ved Kana, mothering, Pinsedagen. «The God of the New Testament does not silence the verbal ministry of women.»
 
 ## Relevante wiki-artikler
-→ [[people/maria]]
+→ [[personer/maria]]
 → [[concepts/treenigheten]]
 → [[concepts/inkarnasjon]]
 → [[concepts/kvinner-i-evangeliene]]

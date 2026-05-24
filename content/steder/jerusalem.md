@@ -18,7 +18,7 @@ Til sammenligning: Roma hadde 600 000 innbyggere på Jesu tid; Alexandria 400 00
 
 Jerusalem kalles i de eldste kildene **Jebus** — en kanaaneisk by holdt av jebusittene. Den nevnes første gang i Josva 10:1, der jebusittkongen Adoni-Sedeq danner en koalisjon mot Israel.
 
-**David** inntok Jebus rundt 1000 f.Kr. og gjorde den til sin hovedstad — strategisk klok fordi den lå på grensen mellom Judas og Benjamins stammeområder og dermed ikke tilhørte noen av de tolv stammene. Se [[people/kong-david]].
+**David** inntok Jebus rundt 1000 f.Kr. og gjorde den til sin hovedstad — strategisk klok fordi den lå på grensen mellom Judas og Benjamins stammeområder og dermed ikke tilhørte noen av de tolv stammene. Se [[personer/kong-david]].
 
 David brakte Paktens Ark til Jerusalem (2 Sam 6) — og fra da av ble Jerusalem identifisert med Guds nærvær blant folket.
 
@@ -78,7 +78,7 @@ I Åpenbaringen er **det nye Jerusalem** det eschatologiske mål — en by som s
 
 ## Sammenheng med andre artikler
 
-- [[people/kong-david]] — Davids by
+- [[personer/kong-david]] — Davids by
 - [[concepts/messias]] — Messias-forventningene knyttet til Jerusalem
 - [[concepts/sheol-og-oppstandelsen]] — oppstandelsens geografiske kontekst
 - [[concepts/martyriet]] — kirken vokste fra Jerusalem
@@ -90,5 +90,5 @@ I Åpenbaringen er **det nye Jerusalem** det eschatologiske mål — en by som s
 
 ## Kilder
 
-- [[sources/biblical-peoples-ancient-israel]] — Biblical Archaeology Society: *Biblical Peoples — The World of Ancient Israel* (2022)
+- [[sources/biblical-personers-ancient-israel]] — Biblical Archaeology Society: *Biblical personers — The World of Ancient Israel* (2022)
 - [[sources/gt-kanon-og-teksthistorie]] — GT-kontekst for tempelets plass i Israels religion

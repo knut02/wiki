@@ -36,4 +36,4 @@ Adam og Eva er prototypen på syndefallet — fristelsen til å «bli som Gud» 
 → [[concepts/luthers-syn-paa-adam-og-eva]]
 → [[concepts/arvesynd]]
 → [[concepts/frelse-athanasius-augustin]]
-→ [[people/augustin]]
+→ [[personer/augustin]]

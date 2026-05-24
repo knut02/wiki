@@ -9,4 +9,4 @@ NT: 27 skrifter om perioden fra Jesu fødsel og ca. et århundre frem. Forfatter
 ## Relevante wiki-artikler
 → [[concepts/det-nye-testamentet]]
 → [[concepts/nt-kanon]]
-→ [[people/paulus]]
+→ [[personer/paulus]]

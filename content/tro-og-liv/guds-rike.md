@@ -85,7 +85,7 @@ Jesus bruker lignelser for å beskrive riket, fordi riket ikke kan defineres —
 
 ## Kirken og riket
 
-Kirken er ikke identisk med Guds rike. Kirken er det fellesskapet som lever inn mot riket og vitner om det — men riket er større enn kirken. Augustin skilte mellom den *synlige* kirken og den *usynlige* — der bare Gud kjenner alle som tilhører riket. Se [[people/augustin]] og [[concepts/statsreligion]].
+Kirken er ikke identisk med Guds rike. Kirken er det fellesskapet som lever inn mot riket og vitner om det — men riket er større enn kirken. Augustin skilte mellom den *synlige* kirken og den *usynlige* — der bare Gud kjenner alle som tilhører riket. Se [[personer/augustin]] og [[concepts/statsreligion]].
 
 ---
 

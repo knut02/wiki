@@ -78,7 +78,7 @@ I 367 sendte Athanasius sitt berømte **påskebrev** til de egyptiske menigheten
 
 ## Vita Antonii
 
-Athanasius forfattet også *Vita Antonii* — biografien om Antonius av Egypt, som ble mønster for alle seinere helgenbiografier og spredte den monastiske bevegelsen til Vesten. Se [[people/antonius-den-store]].
+Athanasius forfattet også *Vita Antonii* — biografien om Antonius av Egypt, som ble mønster for alle seinere helgenbiografier og spredte den monastiske bevegelsen til Vesten. Se [[personer/antonius-den-store]].
 
 ---
 
@@ -89,8 +89,8 @@ Athanasius forfattet også *Vita Antonii* — biografien om Antonius av Egypt, s
 - [[concepts/theosis]] — guddommeliggjøringen som frelsens mål
 - [[concepts/inkarnasjon]] — inkarnasjonstanken Athanasius utdyper
 - [[concepts/gnostisisme]] — påskebrevet 367 og Nag Hammadi
-- [[people/antonius-den-store]] — Athanasius som biograf
-- [[people/augustin]] — Augustins lesning av Vita Antonii
+- [[personer/antonius-den-store]] — Athanasius som biograf
+- [[personer/augustin]] — Augustins lesning av Vita Antonii
 
 ---
 

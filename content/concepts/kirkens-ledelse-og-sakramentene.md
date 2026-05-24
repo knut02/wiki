@@ -51,7 +51,7 @@ Kvinner spilte trolig en mer fremtredende rolle i de tidligste husmenighetene �
 
 En viktig legitimerende idé som vokste frem: **apostolisk suksesjon** — at biskopene stod i en åndelig nedstammelinje fra apostlene.
 
-**Ignatius av Antiokia** (d. ca. 108) er den tidligste tydelige kilden til monarkisk episkopalisme: én biskop per menighet, med absolutt autoritet. «Gjør ingenting uten biskopen», skriver han. Se [[people/justin-martyr]] og [[concepts/apostoliske-fedre]].
+**Ignatius av Antiokia** (d. ca. 108) er den tidligste tydelige kilden til monarkisk episkopalisme: én biskop per menighet, med absolutt autoritet. «Gjør ingenting uten biskopen», skriver han. Se [[personer/justin-martyr]] og [[concepts/apostoliske-fedre]].
 
 **Ireneus av Lyon** (ca. 130–202) systematiserte apostolisk suksesjonslære: For å vite hva apostlene lærte, se til biskopene i de menighetene apostlene grunnla. Rom hadde Peter og Paulus; der kan man kontrollere hva som er apostolisk lære.
 
@@ -69,7 +69,7 @@ Kyprians svar: Biskopen. Kirken er en enhet — man kan ikke skille seg fra bisk
 
 Metaforene er organiske: Kirken er som et tre med mange grener — men én rot. Som solens mange stråler — men én sol. Som mange bekker fra én kilde.
 
-Dette er bakgrunnen for donatiststriden (300-tallet) og Augustins kirkesyn. Se [[people/augustin]].
+Dette er bakgrunnen for donatiststriden (300-tallet) og Augustins kirkesyn. Se [[personer/augustin]].
 
 ---
 
@@ -97,8 +97,8 @@ Se [[concepts/statsreligion]] for konteksten rundt Konstantins omvendelse og kir
 - [[concepts/statsreligion]] — kirkens institusjonalisering etter Konstantin
 - [[concepts/gnostisisme]] — eksklusjon av gnostikere som ledd i institusjonalisering
 - [[concepts/dapen]] — dåpen som inngang til menigheten
-- [[people/augustin]] — videreføring av Kyprians kirkesyn
-- [[people/justin-martyr]] — apologetens gudstjenestebeskrivelse
+- [[personer/augustin]] — videreføring av Kyprians kirkesyn
+- [[personer/justin-martyr]] — apologetens gudstjenestebeskrivelse
 
 ---
 

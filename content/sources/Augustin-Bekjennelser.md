@@ -31,7 +31,7 @@ Skrevet ca. 397–400, da Augustin var biskop i Hippo. Formål: sjelsørgerisk �
 - Mors rolle: Monnica som bønnens forbilde
 
 ## Relevante wiki-artikler
-→ [[people/augustin]]
+→ [[personer/augustin]]
 → [[concepts/arvesynd]]
 → [[concepts/frelse-athanasius-augustin]]
 → [[concepts/bekjennelse]]

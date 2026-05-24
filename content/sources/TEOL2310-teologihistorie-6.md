@@ -25,7 +25,7 @@ Syndefallet er et juridisk problem: Adam syndet, og alle mennesker er medskyldig
 
 ## Relevante wiki-artikler
 → [[concepts/frelse-athanasius-augustin]]
-→ [[people/athanasius]]
-→ [[people/augustin]]
+→ [[personer/athanasius]]
+→ [[personer/augustin]]
 → [[concepts/theosis]]
 → [[concepts/arvesynd]]

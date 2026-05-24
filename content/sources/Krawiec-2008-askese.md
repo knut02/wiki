@@ -22,6 +22,6 @@
 
 ## Relevante wiki-artikler
 → [[concepts/askese]]
-→ [[people/antonius-den-store]]
+→ [[personer/antonius-den-store]]
 → [[concepts/martyriet]]
 → [[concepts/monastisk-teologi]]

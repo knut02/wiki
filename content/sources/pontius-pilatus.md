@@ -14,6 +14,6 @@
 
 ## Relevante wiki-artikler
 
-- [[people/pontius-pilatus]]
-- [[people/jesus]]
+- [[personer/pontius-pilatus]]
+- [[personer/jesus]]
 - [[concepts/historisk-jesus]]

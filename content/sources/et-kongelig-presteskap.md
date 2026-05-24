@@ -10,7 +10,7 @@ Kort studium av 1 Pet 2:9 med personlig omskriving til første person singular.
 > «Men dere er en utvalgt slekt, et kongelig presteskap, et hellig folk, et folk som Gud har vunnet for at dere skal forkynne Hans storverk, Han som kalte dere fra mørket og inn i Sitt underfulle lys.»
 > *(1 Pet 2:9 — Bibelselskapets 2011)*
 
-> *"But you are A CHOSEN RACE, A royal PRIESTHOOD, A HOLY NATION, A PEOPLE FOR God's OWN POSSESSION, so that you may proclaim the excellencies of Him who has called you out of darkness into His marvelous light."*
+> *"But you are A CHOSEN RACE, A royal PRIESTHOOD, A HOLY NATION, A personer FOR God's OWN POSSESSION, so that you may proclaim the excellencies of Him who has called you out of darkness into His marvelous light."*
 > *(1 Peter 2:9 — NASB 2020)*
 
 ## Personlig omskriving

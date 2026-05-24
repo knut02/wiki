@@ -18,4 +18,4 @@ Kort spekulativ notis fra Ingrid om muligheten for at Jesus hadde en kone. Trekk
 
 ## Lenker til wiki
 
-- [[people/jesus]]
+- [[personer/jesus]]

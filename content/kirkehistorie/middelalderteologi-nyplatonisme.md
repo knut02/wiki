@@ -43,7 +43,7 @@ Denne tradisjonen går rett inn i Mester Eckhart og den tyske mystikken. Se [[co
 
 ## Sammenheng med andre artikler
 
-- [[people/augustin]] — Augustins biografi og teologi
+- [[personer/augustin]] — Augustins biografi og teologi
 - [[concepts/frelse-athanasius-augustin]] — Augustins frelseslære
 - [[concepts/monastisk-teologi]] — nyplatonismen lever videre i klosterteologien
 - [[concepts/skolastisk-teologi]] — skolastikken tok opp tråden fra Augustin og Dionysios

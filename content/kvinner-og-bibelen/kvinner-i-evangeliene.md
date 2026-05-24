@@ -88,8 +88,8 @@ Sammenstillingen av disse skikkelsene tegner et bilde av en Jesus som konsekvent
 
 ## Sammenheng med andre artikler
 
-- [[people/maria]] — Jesu mor i detalj, inkludert Peelers analyse
-- [[people/maria-magdalena]] — det første oppstandelsesvitnets biografi
+- [[personer/maria]] — Jesu mor i detalj, inkludert Peelers analyse
+- [[personer/maria-magdalena]] — det første oppstandelsesvitnets biografi
 - [[concepts/kvinner-som-bibeltolkere]] — leserposisjon og feministisk hermeneutikk
 - [[concepts/hvem-er-du-i-møtet-med-jesus]] — samaritankvinnen og andre møter
 - [[concepts/apostlene]] — de tolv; sammenlign med kvinnenes rolle

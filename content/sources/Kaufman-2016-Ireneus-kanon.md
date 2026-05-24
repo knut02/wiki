@@ -29,4 +29,4 @@
 → [[concepts/nt-kanon]]
 → [[concepts/bibelens-tilblivelse]]
 → [[concepts/tidligkristent-mangfold]]
-→ [[people/athanasius]]
+→ [[personer/athanasius]]

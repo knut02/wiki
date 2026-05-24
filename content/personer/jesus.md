@@ -28,7 +28,7 @@ Han var jøde, taler arameisk, leser hebraisk, og lever innenfor jødisk lov og 
 
 Moren er Maria. Faren, etter jødisk lov, er Josef — en håndverker av Davids ætt fra Betlehem. At Josef er av Davids slekt er teologisk avgjørende: Messias skulle komme av Davids ætt (2 Sam 7:12–13), og slektsregisteret i Matteus 1 dokumenterer denne linjen.
 
-Jesus hadde brødre og søstre. Markus 6:3 nevner brødrene Jakob, Josef, Judas og Simon — og søstre (uten navn). Jakob ble leder for urmenigheten i Jerusalem etter Jesu oppstandelse. Se [[people/jakob-jesu-bror]].
+Jesus hadde brødre og søstre. Markus 6:3 nevner brødrene Jakob, Josef, Judas og Simon — og søstre (uten navn). Jakob ble leder for urmenigheten i Jerusalem etter Jesu oppstandelse. Se [[personer/jakob-jesu-bror]].
 
 ---
 
@@ -81,9 +81,9 @@ Oppstandelsen er ikke en epilog til historien — den er dens kjerne. Se [[conce
 - [[concepts/lignelsene]] — Jesu undervisningsform
 - [[concepts/hvem-døde-jesus-for]] — korsets rekkevidde
 - [[concepts/jesu-oppstandelse]] — oppstandelsens betydning
-- [[people/jakob-jesu-bror]] — Jesu bror og leder i Jerusalem-menigheten
-- [[people/maria]] — Jesu mor
-- [[people/pontius-pilatus]] — dommeren som dømte ham
+- [[personer/jakob-jesu-bror]] — Jesu bror og leder i Jerusalem-menigheten
+- [[personer/maria]] — Jesu mor
+- [[personer/pontius-pilatus]] — dommeren som dømte ham
 
 ---
 

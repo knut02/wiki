@@ -98,7 +98,7 @@ Athanasius formulerer: «Han ble menneske for at vi skulle bli guddommelige.» N
 - [[concepts/frelse-athanasius-augustin]] — nåde og frelse
 - [[concepts/theosis]] — nåde som begynnelsen på guddommeliggjøring
 - [[concepts/luthers-teologi]] — *sola gratia* i reformasjonens sammenheng
-- [[people/augustin]] — nådelærens mest innflytelsesrike teolog
+- [[personer/augustin]] — nådelærens mest innflytelsesrike teolog
 
 ---
 

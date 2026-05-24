@@ -34,7 +34,7 @@ I vest skjedde det stikk motsatte av det bysantinske mønsteret. Da det vestrome
 
 **Ambrosius mot Theodosius:** Den fremste illustrasjonen på den vestlige kirkens nye selvbevissthet er Ambrosius av Milanos konfrontasjon med keiser Theodosius I i 390. Da keiseren bydde soldatene massedrap på sivilbefolkningen i Tessalonika som hevn for mordet på en general, ekskommuniserte Ambrosius ham. Keiseren måtte gjøre offentlig bot. *Keiseren under kirkens dom* — dette var utenkelig i øst, selvfølgelig i vest.
 
-**Augustin og «De civitate Dei»:** Augustins store politiske teologi formulerte to «stater» — Guds stat og den jordiske stat — som er flettet inn i hverandre i historien og bare kan skilles av Gud på dommens dag. Se [[people/augustin]]. Dette ga den vestlige kirken et teologisk grunnlag for å hevde sin selvstendighet fra staten.
+**Augustin og «De civitate Dei»:** Augustins store politiske teologi formulerte to «stater» — Guds stat og den jordiske stat — som er flettet inn i hverandre i historien og bare kan skilles av Gud på dommens dag. Se [[personer/augustin]]. Dette ga den vestlige kirken et teologisk grunnlag for å hevde sin selvstendighet fra staten.
 
 ---
 
@@ -77,7 +77,7 @@ Bruddet ble ikke reparert. Selv i dag eksisterer Den romersk-katolske kirke og D
 - [[concepts/theosis]] — østkirkens spiritualitet
 - [[concepts/kristendommens-historie-oversikt]] — den brede historiske rammen
 - [[concepts/monastisk-teologi]] — klosterlivets plass i begge tradisjoner
-- [[people/augustin]] — vestlig kirketeologi
+- [[personer/augustin]] — vestlig kirketeologi
 - [[concepts/arianismen]] — de teologiske kontroverser som formet begge tradisjoner
 
 ---

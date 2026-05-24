@@ -30,7 +30,7 @@
 
 ## Relevante wiki-artikler
 → [[concepts/martyriet]]
-→ [[people/perpetua]]
+→ [[personer/perpetua]]
 → [[concepts/askese-martyrdom-klosterbevegelsen]]
 → [[concepts/monastisk-teologi]]
 → [[concepts/klosterlivet]]

@@ -31,4 +31,4 @@ Akademisk oversiktsartikkel om personlig bønn i tidlig kristendom — fra Jesus
 → [[concepts/tidligkristen-bønnepraksis]]
 → [[concepts/monastisk-teologi]]
 → [[concepts/apofatisk-teologi]]
-→ [[people/augustin]]
+→ [[personer/augustin]]

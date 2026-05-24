@@ -22,4 +22,4 @@ Kort svar på spontant spørsmål om Sheol/Hades — hva er det, hva er det ikke
 → [[concepts/sheol-og-oppstandelsen]]
 → [[concepts/min-fars-hus]]
 → [[concepts/inaugurert-eskatologi-og-kjonn]]
-→ [[people/jesus]]
+→ [[personer/jesus]]

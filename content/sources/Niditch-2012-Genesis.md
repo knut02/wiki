@@ -30,5 +30,5 @@ At den feminiserte Jakob vinner over den hairy Esau er litterært subversivt og 
 ## Relevante wiki-artikler
 → [[concepts/hvordan-lese-narrativ]]
 → [[concepts/bibelens-tilblivelse]]
-→ [[people/adam-og-eva]]
+→ [[personer/adam-og-eva]]
 → [[concepts/arvesynd]]

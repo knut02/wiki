@@ -23,12 +23,12 @@ Fire tradisjonelle kriterier for kirkefedrebetegnelsen: ortodoks lære, hellig l
 Justin Martyr, Tertullian, Ireneus av Lyon — se [[concepts/gnostisisme]] (Ireneus' motangrep) og [[concepts/arianismen]] (Tertullians begreper)
 
 **Alexandrinske kirkefedre (ca. 150–400):**
-→ [[people/klemens-av-alexandria]] — filosofi og tro, den sanne gnostiker
-→ [[people/gregor-av-nyssa]] — epektasis, apofatikk, Moses i mørket
-→ [[people/athanasius]] — Nikeas forsvarer, *De incarnatione*
+→ [[personer/klemens-av-alexandria]] — filosofi og tro, den sanne gnostiker
+→ [[personer/gregor-av-nyssa]] — epektasis, apofatikk, Moses i mørket
+→ [[personer/athanasius]] — Nikeas forsvarer, *De incarnatione*
 
 **Vestlige kirkefedre (ca. 300–430):**
-→ [[people/augustin]] — arvesynd, nåde, predestinasjon, *Confessiones*
+→ [[personer/augustin]] — arvesynd, nåde, predestinasjon, *Confessiones*
 
 **Tematiske artikler:**
 → [[concepts/frelse-athanasius-augustin]] — frelseslærene sammenlignet

@@ -78,7 +78,7 @@ Det betyr at tro ikke er ventetid. Det er levd relasjon, nå — med alle de ufe
 - [[concepts/hvem-er-du-i-møtet-med-jesus]] — møtet med Kristus som livets grunnbevegelse
 - [[concepts/sheol-og-oppstandelsen]] — spørsmålet om det eskatologiske perspektivet
 - [[concepts/treenigheten]] — Fader, Sønn og Ånd som relasjonell virkelighet
-- [[people/jesus]] — Kristus som vei, sannhet og liv
+- [[personer/jesus]] — Kristus som vei, sannhet og liv
 
 ---
 

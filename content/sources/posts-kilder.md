@@ -6,7 +6,7 @@ Oversikt over de 12 apostlene og hva man antar skjedde med dem. Råfilen er uful
 # Kilde: augustin.md
 *Sti: raw/articles/posts/ | Kompilert: 2025-04-18*
 
-Oversikt over Augustins teologi: arvesynd, predestinasjon, Guds suverenitet, tro og nåde, Treenigheten, integrering av platonsk filosofi. → [[people/augustin]]
+Oversikt over Augustins teologi: arvesynd, predestinasjon, Guds suverenitet, tro og nåde, Treenigheten, integrering av platonsk filosofi. → [[personer/augustin]]
 
 # Kilde: byen-korint.md
 *Sti: raw/articles/posts/ | Kompilert: 2025-04-18*
@@ -46,7 +46,7 @@ Grundig oversiktsartikkel om Islam: tro, de fem søylene, hellige skrifter, sunn
 # Kilde: kirkefedre.md
 *Sti: raw/articles/posts/ | Kompilert: 2025-04-18*
 
-Oversikt over 12 kirkefedre med periode, yrke og lærestikkord. Fra Ignatius (ca. 35 e.Kr.) til Augustin (430 e.Kr.). → [[concepts/kirkefedre]], [[people/augustin]]
+Oversikt over 12 kirkefedre med periode, yrke og lærestikkord. Fra Ignatius (ca. 35 e.Kr.) til Augustin (430 e.Kr.). → [[concepts/kirkefedre]], [[personer/augustin]]
 
 # Kilde: kvinner_i_evangeliene.md
 *Sti: raw/articles/posts/ | Kompilert: 2025-04-18*
@@ -56,12 +56,12 @@ Komplett tabelloversikt over alle kvinner i de fire evangeliene, både navngitte
 # Kilde: maria-i-evangeliene.md
 *Sti: raw/articles/posts/ | Kompilert: 2025-04-18*
 
-Skiller ut fire Maria-personer i evangeliene: Maria fra Betania, Maria Magdalena, Maria hustru til Klopas, og Maria Jesu mor. → [[people/maria]], [[people/maria-magdalena]], [[concepts/kvinner-i-evangeliene]]
+Skiller ut fire Maria-personer i evangeliene: Maria fra Betania, Maria Magdalena, Maria hustru til Klopas, og Maria Jesu mor. → [[personer/maria]], [[personer/maria-magdalena]], [[concepts/kvinner-i-evangeliene]]
 
 # Kilde: min-fars-hus.md
 *Sti: raw/articles/posts/ | Kompilert: 2025-04-18*
 
-Gudstjenestenotater om Johannes 14:1–4. Drøfter "min Fars hus" som himmelen vs. som fellesskap med Jesus. Inneholder apostelloversikten fra Johannes 20. → [[concepts/apostlene]], [[people/jesus]]
+Gudstjenestenotater om Johannes 14:1–4. Drøfter "min Fars hus" som himmelen vs. som fellesskap med Jesus. Inneholder apostelloversikten fra Johannes 20. → [[concepts/apostlene]], [[personer/jesus]]
 
 # Kilde: oldkirken.md
 *Sti: raw/articles/posts/ | Kompilert: 2025-04-18*

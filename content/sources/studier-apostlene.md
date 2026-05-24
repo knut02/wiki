@@ -9,4 +9,4 @@ Oversikt over alle tolv med bibellokasjon i alle fire evangelier og Apg. Tabellf
 ## Relevante wiki-artikler
 → [[concepts/apostlene]]
 → [[concepts/kirkehistorie-0-100]]
-→ [[people/jesus]]
+→ [[personer/jesus]]

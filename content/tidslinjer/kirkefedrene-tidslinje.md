@@ -94,9 +94,9 @@ Kristne lærde som forsvarte troen mot romersk forfølgelse og jødisk kritikk �
 - [[concepts/apostoliske-fedre]] — de tidligste kirkefedrene i detalj
 - [[concepts/arianismen]] — striden som preget 300-tallets kirkefedre
 - [[concepts/nikea-konsilet]] — konsilet de fleste 300-tallets fedre forholdt seg til
-- [[people/athanasius]] — den sentrale skikkelsen i Nikea-perioden
-- [[people/augustin]] — den mest innflytelsesrike vestlige kirkefaren
-- [[people/gregor-av-nyssa]] — apofatisk teologi og theosis
+- [[personer/athanasius]] — den sentrale skikkelsen i Nikea-perioden
+- [[personer/augustin]] — den mest innflytelsesrike vestlige kirkefaren
+- [[personer/gregor-av-nyssa]] — apofatisk teologi og theosis
 - [[concepts/monastisk-teologi]] — kirkefedrenes forbindelser til klosterbevegelsen
 
 ---

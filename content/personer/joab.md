@@ -8,20 +8,20 @@
 
 ## Hvem var han?
 
-Joab var [[people/kong-david]]s fremste hærfører gjennom store deler av hans regjeringstid. Han var Davids nevø — sønn av Davids søster Seruja.
+Joab var [[personer/kong-david]]s fremste hærfører gjennom store deler av hans regjeringstid. Han var Davids nevø — sønn av Davids søster Seruja.
 
 ---
 
 ## Drapet på Abner
 
-Joab drepte [[people/abner]] — Sauls tidligere hærfører som nettopp hadde skiftet side til David — som hevn for at Abner tidligere hadde drept Joabs bror Asael i kamp (2 Samuelsbok 3). David tok offentlig avstand fra drapet, men Joab beholdt sin stilling.
+Joab drepte [[personer/abner]] — Sauls tidligere hærfører som nettopp hadde skiftet side til David — som hevn for at Abner tidligere hadde drept Joabs bror Asael i kamp (2 Samuelsbok 3). David tok offentlig avstand fra drapet, men Joab beholdt sin stilling.
 
 ---
 
 ## Sammenheng med andre artikler
 
-- [[people/kong-david]] — hans herre og slektning
-- [[people/abner]] — hans offer
+- [[personer/kong-david]] — hans herre og slektning
+- [[personer/abner]] — hans offer
 - [[concepts/gamle-testamentet]] — Joabs tid er en del av kongetiden
 
 ---

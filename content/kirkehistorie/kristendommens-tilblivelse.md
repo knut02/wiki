@@ -111,7 +111,7 @@ Det ble stadig tydeligere at kristne og jøder var to *atskilte* religionssamfun
 - [[concepts/apostoliske-fedre]] — litteraturen fra den etterapostolske tid
 - [[concepts/martyriet]] — forfølgelsenes rolle
 - [[concepts/kirkehistorie-100-200]] — neste periode
-- [[people/paulus]] — den sentrale misjonæren
+- [[personer/paulus]] — den sentrale misjonæren
 - [[concepts/statsreligion]] — veien fra forfølgelse til statsreligion
 - [[timelines/nt-tidslinje]] — den fulle kronologien
 

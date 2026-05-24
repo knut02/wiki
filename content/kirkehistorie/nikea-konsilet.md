@@ -68,7 +68,7 @@ Nikea vedtok også 20 praktiske kanoner om kirkens ordning. Noen sentrale:
 
 **Mønstret ble satt:** Fra Nikea av ble økoumeniske konsilier det autoritative instrumentet for å avgjøre teologiske tvister. Canon 1 fra Konstantinopel 381 innleder med: «La ingen underminere troen til de 318 fedre samlet i Nikea.»
 
-**Ikke slutten på striden:** Konstantin ble mot slutten av livet favorabelt innstilt overfor arianerne. Hans sønn Konstantius II (337–361) var aktiv arianerforkjemper. Det neste halve århundret var preget av vekslende arianiserende og nikenske keisere. Athanasius ble landsforvist fem ganger. «Athanasius contra mundum» — Athanasius mot verden — ble ikke et tomt slagord. Se [[people/athanasius]].
+**Ikke slutten på striden:** Konstantin ble mot slutten av livet favorabelt innstilt overfor arianerne. Hans sønn Konstantius II (337–361) var aktiv arianerforkjemper. Det neste halve århundret var preget av vekslende arianiserende og nikenske keisere. Athanasius ble landsforvist fem ganger. «Athanasius contra mundum» — Athanasius mot verden — ble ikke et tomt slagord. Se [[personer/athanasius]].
 
 ---
 
@@ -90,7 +90,7 @@ Påskedatoen var ikke et trivielt spørsmål: Hele kirkekalenderen hang på den,
 - [[concepts/kalkedon-kristologi]] — de tre påfølgende konsiliene
 - [[concepts/de-tre-oldkirkelige-bekjennelsene]] — bekjennelsestekstene i sin helhet
 - [[concepts/en-gud-fader-allmektig]] — treenighetsgrammatikken bak homoousios
-- [[people/athanasius]] — forsvareren av Nikea-ortodoksien
+- [[personer/athanasius]] — forsvareren av Nikea-ortodoksien
 - [[concepts/statsreligion]] — Konstantins rolle og konsilets politiske dimensjon
 - [[concepts/kirken-ost-og-vest]] — de langsiktige konsekvensene
 

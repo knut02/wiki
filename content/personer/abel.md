@@ -8,7 +8,7 @@
 
 ## Hvem var han?
 
-Abel var den nest eldste sønnen av [[people/adam-og-eva]] og yngre bror av [[people/kain]]. Han er en av de første menneskene omtalt i Bibelen, og kjent for å ha blitt drept av sin bror — bibelhistoriens første mord.
+Abel var den nest eldste sønnen av [[personer/adam-og-eva]] og yngre bror av [[personer/kain]]. Han er en av de første menneskene omtalt i Bibelen, og kjent for å ha blitt drept av sin bror — bibelhistoriens første mord.
 
 ---
 
@@ -26,8 +26,8 @@ Abel brukes i Det nye testamentet som et eksempel på tro (Hebreerne 11:4). Han 
 
 ## Sammenheng med andre artikler
 
-- [[people/kain]] — hans bror og drapsmann
-- [[people/adam-og-eva]] — hans foreldre
+- [[personer/kain]] — hans bror og drapsmann
+- [[personer/adam-og-eva]] — hans foreldre
 - [[concepts/offer-og-tilbedelse]] — tematisk kontekst for ofringen
 
 ---

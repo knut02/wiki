@@ -93,7 +93,7 @@ Teorien om rettferdig krig er ikke et forsøk på å glorifisere krig — det er
 
 - [[concepts/statsreligion]] — Konstantins omvendelse og kirkens forhold til staten
 - [[concepts/luthers-teologi]] — reformasjonens to-regimentslære (stat og kirke)
-- [[people/augustin]] — Augustins politiske teologi
+- [[personer/augustin]] — Augustins politiske teologi
 - [[concepts/frigjøringsteologi]] — vold som politisk spørsmål i Latin-Amerika
 - [[concepts/kristent-menneskesyn]] — menneskeverdet som grunnlag for krigsregler
 

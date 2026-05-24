@@ -14,13 +14,13 @@ Abarim var navnet på berglandet på den andre siden av Jordan-elven, i landet M
 
 ## Historisk betydning
 
-Fra toppene Nebo og Pisga — begge plassert i Abarim-fjellene — fikk [[people/moses]] se Kanaanslandet som Gud hadde lovet Abrahams etterkommere. Han fikk se det, men fikk ikke gå inn i det. Her døde han (5 Mosebok 34:1–5).
+Fra toppene Nebo og Pisga — begge plassert i Abarim-fjellene — fikk [[personer/moses]] se Kanaanslandet som Gud hadde lovet Abrahams etterkommere. Han fikk se det, men fikk ikke gå inn i det. Her døde han (5 Mosebok 34:1–5).
 
 ---
 
 ## Sammenheng med andre artikler
 
-- [[people/moses]] — døde på Nebo-toppen etter å ha sett Kanaanslandet
+- [[personer/moses]] — døde på Nebo-toppen etter å ha sett Kanaanslandet
 - [[concepts/gamle-testamentet]] — Abarim er en del av ørkenvandringens avslutning
 - [[timelines/gt-tidslinje]] — plassert ved slutten av ørkenvandringen
 

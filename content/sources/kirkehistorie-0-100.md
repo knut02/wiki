@@ -33,5 +33,5 @@ Apostlenes lære, brorskap, brødbrytelse, bønn (Apg 2:42). Ikke humanistisk re
 → [[concepts/kirkehistorie-0-100]]
 → [[concepts/apostoliske-fedre]]
 → [[concepts/martyriet]]
-→ [[people/paulus]]
+→ [[personer/paulus]]
 → [[concepts/statsreligion]]

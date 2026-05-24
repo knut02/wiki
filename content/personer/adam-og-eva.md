@@ -8,13 +8,13 @@
 
 ## Hvem var de?
 
-Adam og Eva er de første menneskene ifølge Bibelen, skapt av Gud og plassert i Edens hage. Adam ble skapt av jord (*adamah* på hebraisk), Eva av Adams ribbein. De er foreldre til [[people/kain]], [[people/abel]] og Set.
+Adam og Eva er de første menneskene ifølge Bibelen, skapt av Gud og plassert i Edens hage. Adam ble skapt av jord (*adamah* på hebraisk), Eva av Adams ribbein. De er foreldre til [[personer/kain]], [[personer/abel]] og Set.
 
 ---
 
 ## Syndefallet
 
-Adam og Eva åt av frukten fra kunnskapens tre — det eneste Gud hadde forbudt dem. Konsekvensen var utvisning fra Paradis og en tilstand av separasjon fra Gud. Dette er bakgrunnen for det [[people/augustin]] kalte arvesynd: at alle mennesker siden er født inn i en tilstand av synd.
+Adam og Eva åt av frukten fra kunnskapens tre — det eneste Gud hadde forbudt dem. Konsekvensen var utvisning fra Paradis og en tilstand av separasjon fra Gud. Dette er bakgrunnen for det [[personer/augustin]] kalte arvesynd: at alle mennesker siden er født inn i en tilstand av synd.
 
 ---
 
@@ -26,9 +26,9 @@ Syndefallet danner premisset for hele frelsesfortellingen i Bibelen — behovet 
 
 ## Sammenheng med andre artikler
 
-- [[people/kain]] — deres sønn, drepte Abel
-- [[people/abel]] — deres sønn, drept av Kain
-- [[people/augustin]] — formulerte arvesyndslæren basert på syndefallet
+- [[personer/kain]] — deres sønn, drepte Abel
+- [[personer/abel]] — deres sønn, drept av Kain
+- [[personer/augustin]] — formulerte arvesyndslæren basert på syndefallet
 - [[concepts/gamle-testamentet]] — syndefallet er en av de første fortellingene
 - [[concepts/messias]] — frelsesbehovet springer fra syndefallet
 

@@ -11,7 +11,7 @@ God OCR-kvalitet. Foredragstekst, ca. 20 sider.
 
 **Fire vinkler:**
 
-**1. En verden av leed:** Rettferdiggjørelse ikke som privat frelsesbrev, men som grunnlag for et folk som er ydmyke nok til å forandre verden. Formel: «God puts people right so that through them he can put the world right.»
+**1. En verden av leed:** Rettferdiggjørelse ikke som privat frelsesbrev, men som grunnlag for et folk som er ydmyke nok til å forandre verden. Formel: «God puts personer right so that through them he can put the world right.»
 
 **2. En fortelling:** Moderniteten mister sin fremskrittsfortelling (opplysningstiden → 9/11). Postmoderniteten avviser alle store fortellinger. Paulus forkynner den bibliske fortellingen om Gud–Israel–Jesus–ny skapelse som en fortelling man kan leve i.
 
@@ -24,6 +24,6 @@ God OCR-kvalitet. Foredragstekst, ca. 20 sider.
 **Rom 8:** Skaperverket selv skal frigjøres fra forgjengelighet (8:21). Glorifisering = å bli satt i ansvar, ikke å komme til himmelen.
 
 ## Relevante wiki-artikler
-→ [[people/paulus]]
+→ [[personer/paulus]]
 → [[concepts/guds-rike]]
 → [[concepts/nåde]]

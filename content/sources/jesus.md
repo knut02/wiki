@@ -17,7 +17,7 @@ Oversiktsartikkel om Jesus som historisk person. Dekker fødsel og oppvekst, fam
 
 ## Lenker til wiki
 
-- [[people/jesus]]
-- [[people/maria]]
-- [[people/josef-fosterfar]]
-- [[people/johannes-doperen]]
+- [[personer/jesus]]
+- [[personer/maria]]
+- [[personer/josef-fosterfar]]
+- [[personer/johannes-doperen]]

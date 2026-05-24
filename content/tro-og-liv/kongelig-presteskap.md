@@ -33,7 +33,7 @@ Svaret er ja — fordi en kristen kan gifte seg, og alle kristne er del av det k
 - [[concepts/gamle-testamentet]] — GT-presteskapets bakgrunn
 - [[concepts/evangeliene]] — NT som grunnlag for presteskapslæren
 - [[concepts/oldkirken]] — tidlig kristen praksis rundt tjenesterollene
-- [[people/moses]] — ledet det levittiske presteskapet som del av loven på Sinai
+- [[personer/moses]] — ledet det levittiske presteskapet som del av loven på Sinai
 
 ---
 

@@ -87,7 +87,7 @@ Jenkins (2010) *Jesus Wars* viser dramatikken: Folkemengder av munker terroriser
 - [[concepts/frelse-athanasius-augustin]] — frelseslogikken bak kristologidebatten
 - [[concepts/kirken-ost-og-vest]] — konsekvensene for kirkens splittelse
 - [[concepts/de-tre-oldkirkelige-bekjennelsene]] — bekjennelsestekstene i sin helhet
-- [[people/athanasius]] — forsvareren av Nikea-ortodoksien
+- [[personer/athanasius]] — forsvareren av Nikea-ortodoksien
 
 ---
 

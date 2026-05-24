@@ -12,5 +12,5 @@ Råmaterialet er svært begrenset — bare en stub. Wiki-artikkelen er primært 
 ## Relevante wiki-artikler
 → [[timelines/kirkefedrene-tidslinje]]
 → [[concepts/apostoliske-fedre]]
-→ [[people/athanasius]]
-→ [[people/augustin]]
+→ [[personer/athanasius]]
+→ [[personer/augustin]]

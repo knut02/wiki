@@ -69,7 +69,7 @@ Hvem er jeg her? Og hvem vil jeg være?
 - [[concepts/bekjennelse]] — Petersbekjennelsens to former (Matt 16 og Gal 2)
 - [[concepts/svake-baand-og-kristent-fellesskap]] — hvem vi inkluderer og ekskluderer
 - [[concepts/kvinner-i-evangeliene]] — en utdypet oversikt over navngitte kvinner
-- [[people/maria-magdalena]] — den første vitnen til oppstandelsen
+- [[personer/maria-magdalena]] — den første vitnen til oppstandelsen
 
 ---
 

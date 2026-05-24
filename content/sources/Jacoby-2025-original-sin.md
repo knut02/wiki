@@ -22,5 +22,5 @@ Justin Martyr, Melito, Theophilus, Klemens av Alexandria (alle 160–195): samme
 
 ## Relevante wiki-artikler
 → [[concepts/arvesynd]]
-→ [[people/augustin]]
+→ [[personer/augustin]]
 → [[concepts/nåde]]

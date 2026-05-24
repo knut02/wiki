@@ -21,8 +21,8 @@ Skrevet av Athanasius av Alexandria kort etter Antonius' død i 356. Ikke primæ
 Ble straks oversatt til latin — spredte asketisk ideal raskt til Vesten. Mønster for seinere helgenbiografier.
 
 ## Relevante wiki-artikler
-→ [[people/antonius-den-store]]
-→ [[people/athanasius]]
-→ [[people/augustin]]
+→ [[personer/antonius-den-store]]
+→ [[personer/athanasius]]
+→ [[personer/augustin]]
 → [[concepts/martyriet]]
 → [[concepts/monastisk-teologi]]

@@ -53,7 +53,7 @@ Krawiec og Varden er enige om én historisk kobling: Klosterbevegelsens fremveks
 
 Da Konstantin gjorde kristendommen lovlig i 313, forsvant muligheten for martyrdød. Og martyriet — å dø for troen — hadde vært den fremste formen for radikal kristen overgivelse. Ørkeneremittlivet ble den nye veien: et daglig martyrium innenfra, der man ikke kjempet mot dyr i arenaen men mot demonene i sitt eget hjerte.
 
-Se [[people/antonius-den-store]] for dette motivet utdypet.
+Se [[personer/antonius-den-store]] for dette motivet utdypet.
 
 ---
 
@@ -79,12 +79,12 @@ Abba Josefs svar til Abba Lot er programmets kulminasjon: Han reiste seg, strakt
 
 ## Sammenheng med andre artikler
 
-- [[people/antonius-den-store]] — grunnleggeren av eremittlivet; askesens mønster
+- [[personer/antonius-den-store]] — grunnleggeren av eremittlivet; askesens mønster
 - [[concepts/martyriet]] — martyriet som askesens forgjenger
 - [[concepts/monastisk-teologi]] — den strukturerte asketiske tradisjonen
 - [[concepts/tidligkristen-bønnepraksis]] — bønn som asketisk praksis
 - [[concepts/theosis]] — guddommeliggjøring som askesens mål
-- [[people/gregor-av-nyssa]] — asketisk teologi og epektasis
+- [[personer/gregor-av-nyssa]] — asketisk teologi og epektasis
 
 ---
 

@@ -90,7 +90,7 @@ Mange andre evangelier sirkulerte i de første kristne generasjonene — Tomasev
 - [[concepts/historisk-jesus]] — historisk-kritisk perspektiv
 - [[concepts/bibelens-kanon]] — hvordan evangeliene ble kanonisert
 - [[concepts/paulus-teologi]] — Paulus og Lukas som dobbeltverk
-- [[people/jesus]] — den historiske Jesus i evangeliene
+- [[personer/jesus]] — den historiske Jesus i evangeliene
 
 ---
 

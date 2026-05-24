@@ -26,4 +26,4 @@ Skille mellom normativt ortodoksi-begrep (teologisk evaluering) og historisk mai
 → [[concepts/tidligkristent-mangfold]]
 → [[concepts/gnostisisme]]
 → [[concepts/nt-kanon]]
-→ [[people/justin-martyr]]
+→ [[personer/justin-martyr]]

@@ -22,14 +22,14 @@ I Johannes 11 reiser Jesus til Betania etter at Lasarus har dødd, og vekker ham
 
 ## Dåpsstedet
 
-Johannes 1:28 nevner Betania som stedet hvor [[people/johannes-doperen]] døpte — noe som plasserer dette stedet som viktig også i innledningen til Jesu offentlige virke. Merk: dette er trolig et annet Betania enn landsbyen ved Oljeberget — noen manuskripter leser "Betabara" for dette stedet.
+Johannes 1:28 nevner Betania som stedet hvor [[personer/johannes-doperen]] døpte — noe som plasserer dette stedet som viktig også i innledningen til Jesu offentlige virke. Merk: dette er trolig et annet Betania enn landsbyen ved Oljeberget — noen manuskripter leser "Betabara" for dette stedet.
 
 ---
 
 ## Sammenheng med andre artikler
 
-- [[people/jesus]] — oppholdt seg her jevnlig
-- [[people/johannes-doperen]] — knyttet til stedet via Johannes 1:28
+- [[personer/jesus]] — oppholdt seg her jevnlig
+- [[personer/johannes-doperen]] — knyttet til stedet via Johannes 1:28
 - [[concepts/kvinner-i-evangeliene]] — Marta og Maria fra Betania
 - [[timelines/nt-tidslinje]] — Betania er relevant i evangelienes siste uke
 

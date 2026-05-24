@@ -14,5 +14,5 @@
 
 ## Relevante wiki-artikler
 → [[concepts/johannes-evangeliet-studieplan]]
-→ [[people/jesus]]
+→ [[personer/jesus]]
 → [[concepts/disippelskap]]

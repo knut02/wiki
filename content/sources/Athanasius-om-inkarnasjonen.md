@@ -29,7 +29,7 @@ Den berømte formuleringen. Gjerningene hans beviser hans guddommelighet. Altern
 Avgudsdyrkelsen avtar der Kristi lære sprer seg. Uten hellig liv kan ingen forstå de helliges ord. Kap. 57: «Et rent sinn og etterfølgelse av de helliges liv» er forutsetning for skriftforståelse.
 
 ## Relevante wiki-artikler
-→ [[people/athanasius]]
+→ [[personer/athanasius]]
 → [[concepts/inkarnasjon]]
 → [[concepts/theosis]]
 → [[concepts/arvesynd]]

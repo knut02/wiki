@@ -107,7 +107,7 @@ Vestkirken har ikke kanonisert ham (han ble fjernet fra martyrologiet i 1586 av 
 - [[concepts/arvesynd]] — barn som uskyldige i Klemens' syn
 - [[concepts/tidligkristen-bonsspraksis]] — bønn og kontemplasjon
 - [[concepts/inkarnasjon]] — Logos inkarnert som åpenbaringens fullendelse
-- [[people/gregor-av-nyssa]] — Klemens' mest betydningsfulle teologiske arving
+- [[personer/gregor-av-nyssa]] — Klemens' mest betydningsfulle teologiske arving
 - [[concepts/apostoliske-fedre]] — Klemens av Roma (annen person, annen tid)
 
 ---

@@ -17,6 +17,6 @@ Mer detaljert gjennomgang av Jesu livsløp enn oversiktsartikkelen. Bidrar særl
 
 ## Lenker til wiki
 
-- [[people/jesus]]
-- [[people/maria]]
+- [[personer/jesus]]
+- [[personer/maria]]
 - [[concepts/evangeliene]]

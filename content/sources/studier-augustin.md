@@ -7,6 +7,6 @@
 Arvesynd og syndefallet — Adams synd arves. Guds nåde og forutbestemmelse — frelse helt avhengig av Guds initiativ. Guds suverenitet over alle hendelser. Tro og nåde — ikke ved gjerninger. Treenigheten — bidrag til vestlig treenighetsteologi. Filosofi og teologi — platonisme integrert med kristendom.
 
 ## Relevante wiki-artikler
-→ [[people/augustin]]
+→ [[personer/augustin]]
 → [[concepts/arvesynd]]
 → [[concepts/frelse-athanasius-augustin]]

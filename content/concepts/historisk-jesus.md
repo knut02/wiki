@@ -35,9 +35,9 @@ Ingen kilder fra Jesu egen levetid omtaler ham. All dokumentasjon er skrevet ti�
 
 ## Sammenheng med andre artikler
 
-- [[people/jesus]] — hovedartikkelen om Jesus som person
+- [[personer/jesus]] — hovedartikkelen om Jesus som person
 - [[concepts/evangeliene]] — primærkildene og deres begrensninger
-- [[people/jakob-jesu-bror]] — Josefus' omtale regnes som et av de sterkeste eksterne bevisene
+- [[personer/jakob-jesu-bror]] — Josefus' omtale regnes som et av de sterkeste eksterne bevisene
 
 ---
 

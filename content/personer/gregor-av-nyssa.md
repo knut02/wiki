@@ -118,8 +118,8 @@ Hans epektasis-tanke er blitt viktig i moderne teologi som et alternativ til sta
 - [[concepts/gudskunnskap-og-danning]] — Häggs analyse av Gregor
 - [[concepts/treenigheten]] — Gregor og de kappadokiske fedre
 - [[concepts/dapen]] — Gregors dåpsteologi
-- [[people/klemens-av-alexandria]] — Gregors store forgjenger i Alexandria-tradisjonen
-- [[people/athanasius]] — den alexandrinske tradisjonen Gregor videreførte
+- [[personer/klemens-av-alexandria]] — Gregors store forgjenger i Alexandria-tradisjonen
+- [[personer/athanasius]] — den alexandrinske tradisjonen Gregor videreførte
 - [[concepts/mester-eckhart-mystikken]] — Eckharts arv fra den gregorianske tradisjonen
 
 ---

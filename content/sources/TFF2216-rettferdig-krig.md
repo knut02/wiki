@@ -37,6 +37,6 @@ Hentet fra TFF2216-pensumkilder (ikke spesifisert med full bibliografisk referan
 
 ## Relevante wiki-artikler
 → [[concepts/rettferdig-krig]]
-→ [[people/augustin]]
+→ [[personer/augustin]]
 → [[concepts/luthers-teologi]] (to-regimentslæren)
 → [[concepts/statsreligion]]

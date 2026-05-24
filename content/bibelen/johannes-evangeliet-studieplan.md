@@ -130,7 +130,7 @@ Johannesevangeliet er ikke først og fremst en historiebok, men en teologisk for
 
 ## Sammenheng med andre artikler
 
-- [[people/jesus]] — Jesu liv og identitet
+- [[personer/jesus]] — Jesu liv og identitet
 - [[concepts/hellige-ånd]] — Talsmannen i Joh 14–16
 - [[concepts/disippelskap]] — disippelskapets vilkår og kostnad
 - [[concepts/guds-kjærlighet]] — «Gud er kjærlighet» som johanneisk kjerne

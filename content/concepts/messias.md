@@ -66,7 +66,7 @@ I NT skjer det en gradvis glidning: «Kristus» (*Christos*) er opprinnelig en t
 
 ## Sammenheng med andre artikler
 
-- [[people/jesus]] — Messiasens person og liv
+- [[personer/jesus]] — Messiasens person og liv
 - [[concepts/matteus-evangeliet]] — Matteus' gjennomgående kristologi
 - [[concepts/pakten]] — paktsløftene Messias oppfyller
 - [[concepts/bibelhistorie-nokkelhendelser]] — den historiske linjen frem til Messias

@@ -22,7 +22,7 @@ Utmerket OCR-kvalitet. 16 kapitler i to deler + prolog og epilog.
 **Kjønn og makt:** Koblingen mellom Marias totale kyskhet og «instrument for feminin underkastelse» (Warner 1976) — men Næss mener dette er for enkelt. Forestillingene er mer komplekse og eldre.
 
 ## Relevante wiki-artikler
-→ [[people/maria]]
+→ [[personer/maria]]
 → [[concepts/kalkedon-kristologi]]
 → [[concepts/inkarnasjon]]
 → [[concepts/kvinner-i-evangeliene]]

@@ -8,5 +8,5 @@
 
 ## Relevante wiki-artikler
 → [[concepts/kvinner-i-evangeliene]]
-→ [[people/maria]]
-→ [[people/maria-magdalena]]
+→ [[personer/maria]]
+→ [[personer/maria-magdalena]]

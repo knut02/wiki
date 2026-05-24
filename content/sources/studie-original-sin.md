@@ -23,6 +23,6 @@ Kilden er populærvitenskapelig og konfesjonelt motivert (restaurasjonsbevegelse
 ## Relevante wiki-artikler
 → [[concepts/arvesynd]]
 → [[concepts/apostoliske-fedre]]
-→ [[people/klemens-av-alexandria]]
-→ [[people/augustin]]
+→ [[personer/klemens-av-alexandria]]
+→ [[personer/augustin]]
 → [[concepts/dapen]]

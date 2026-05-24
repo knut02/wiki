@@ -14,15 +14,15 @@ Abner var hærfører for kong Saul, og hadde tidligere også tjent under Sauls f
 
 ## Sidebytte og død
 
-Etter Sauls fall skiftet Abner side og gikk over til David. Overgangen er beskrevet i 2 Samuelsbok kapittel 3. Skiftet ble imidlertid kortvarig — [[people/joab]], Davids hærfører, drepte Abner som hevn for at Abner hadde drept Joabs bror.
+Etter Sauls fall skiftet Abner side og gikk over til David. Overgangen er beskrevet i 2 Samuelsbok kapittel 3. Skiftet ble imidlertid kortvarig — [[personer/joab]], Davids hærfører, drepte Abner som hevn for at Abner hadde drept Joabs bror.
 
 ---
 
 ## Sammenheng med andre artikler
 
-- [[people/kong-saul]] — hans opprinnelige herre
-- [[people/kong-david]] — den han gikk over til
-- [[people/joab]] — hans drapsmann
+- [[personer/kong-saul]] — hans opprinnelige herre
+- [[personer/kong-david]] — den han gikk over til
+- [[personer/joab]] — hans drapsmann
 
 ---
 

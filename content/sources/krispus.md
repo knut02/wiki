@@ -14,4 +14,4 @@ Kort artikkel om Krispus, synagogeforstander i Korint som ble omvendt av Paulus.
 
 ## Lenker til wiki
 
-- [[people/krispus]]
+- [[personer/krispus]]

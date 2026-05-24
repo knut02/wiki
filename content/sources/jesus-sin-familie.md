@@ -17,8 +17,8 @@ Grundig artikkel om Jesu jordiske familie. Dekker Josef og Maria i detalj, alle 
 
 ## Lenker til wiki
 
-- [[people/jesus]]
-- [[people/maria]]
-- [[people/josef-fosterfar]]
-- [[people/jakob-jesu-bror]]
-- [[people/johannes-doperen]]
+- [[personer/jesus]]
+- [[personer/maria]]
+- [[personer/josef-fosterfar]]
+- [[personer/jakob-jesu-bror]]
+- [[personer/johannes-doperen]]

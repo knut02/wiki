@@ -11,6 +11,6 @@ Fire ulike Mariaer skilles fra hverandre:
 - Maria, Jesu mor: Luk 1–2 (bebudelse, fødsel), Joh 2 (Kana), Joh 19 (korset), Apg 1 (første menighet)
 
 ## Relevante wiki-artikler
-→ [[people/maria]]
-→ [[people/maria-magdalena]]
+→ [[personer/maria]]
+→ [[personer/maria-magdalena]]
 → [[concepts/kvinner-i-evangeliene]]

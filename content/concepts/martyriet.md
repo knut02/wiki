@@ -44,7 +44,7 @@ Tertullian (ca. 155–240) utviklet konseptet om at martyriet er en «annen dåp
 
 ### Direkte tilgang til Gud
 
-Martyrene ble trodd å gå direkte til Guds nærvær uten å vente på den generelle oppstandelse. Perpetuas visjon av sin avdøde bror (se [[people/perpetua]]) og hennes egne opplevelser i fengselet ble forstått som forsmak på dette direkte nærværet.
+Martyrene ble trodd å gå direkte til Guds nærvær uten å vente på den generelle oppstandelse. Perpetuas visjon av sin avdøde bror (se [[personer/perpetua]]) og hennes egne opplevelser i fengselet ble forstått som forsmak på dette direkte nærværet.
 
 ### Eksorsisme og åndskamp
 
@@ -98,7 +98,7 @@ Martyrkult var kontroversielt — noen biskoper fryktet overskridelse mot avguds
 
 ## Sammenheng med andre artikler
 
-- [[people/perpetua]] — den viktigste enkeltkilden
+- [[personer/perpetua]] — den viktigste enkeltkilden
 - [[concepts/askese-martyrdom-klosterbevegelsen]] — kontinuiteten
 - [[concepts/kirkehistorie-0-100]] — forfølgelsenes første periode
 - [[concepts/kirkehistorie-100-200]] — de store martyrperiodene

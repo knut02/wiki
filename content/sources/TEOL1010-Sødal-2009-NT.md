@@ -22,5 +22,5 @@ Kapittel 13: Apostlenes gjerninger. Lærebok til TEOL1010.
 ## Relevante wiki-artikler
 → [[concepts/apostlenes-gjerninger]]
 → [[concepts/evangeliene]]
-→ [[people/paulus]]
+→ [[personer/paulus]]
 → [[concepts/hellige-ånd]]

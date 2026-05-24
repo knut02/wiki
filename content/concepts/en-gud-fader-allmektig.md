@@ -68,7 +68,7 @@ For Origen og Gregor av Nyssa: Man ber til Faderen, gjennom Sønnen, i Ånden. D
 - [[concepts/treenigheten]] — den store konsilariske debatten
 - [[concepts/arianismen]] — Arius' distinksjon mellom Fader og Sønn
 - [[concepts/nikea-konsilet]] — bekjennelsens ordlyd og dens kontekst
-- [[people/gregor-av-nyssa]] — Gregors apofatiske og trinitariske tenkning
+- [[personer/gregor-av-nyssa]] — Gregors apofatiske og trinitariske tenkning
 - [[concepts/apofatisk-teologi]] — parallell: Guds uutsigelige natur
 - [[concepts/theosis]] — frelse som deltakelse i guddommelig natur (Gregors frelsesforståelse)
 
