@@ -1,9 +1,9 @@
-# Betania
-
-> Liten landsby øst for Oljeberget, nær Jerusalem — et av Jesu hyppigste oppholdsstedene.
-
-*Opprettet: 2025-04-18 | Sist oppdatert: 2025-04-23 (lint) | Kilder: 1*
-
+---
+title: "Betania"
+date: 2025-04-18
+updated: 2025-04-23
+description: "Liten landsby øst for Oljeberget, nær Jerusalem — et av Jesu hyppigste oppholdsstedene."
+Kilder: 1*
 ---
 
 ## Hva er dette?

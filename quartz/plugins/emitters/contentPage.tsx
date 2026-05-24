@@ -6,7 +6,7 @@ import BodyConstructor from "../../components/Body"
 import { pageResources, renderPage } from "../../components/renderPage"
 import { FullPageLayout } from "../../cfg"
 import { pathToRoot } from "../../util/path"
-import { defaultContentPageLayout, sharedPageComponents } from "../../../quartz.layout"
+import { defaultContentPageLayout, sharedPageComponents, indexPageLayout } from "../../../quartz.layout"
 import { Content } from "../../components"
 import { styleText } from "util"
 import { write } from "./helpers"
@@ -81,6 +81,14 @@ export const ContentPage: QuartzEmitterPlugin<Partial<FullPageLayout>> = (userOp
         const slug = file.data.slug!
         if (slug === "index") {
           containsIndex = true
+          // Render index page with custom layout
+          const indexOpts: FullPageLayout = {
+            ...sharedPageComponents,
+            ...indexPageLayout,
+            pageBody: Content(),
+          }
+          yield processContent(ctx, tree, file.data, allFiles, indexOpts, resources)
+          continue
         }
 
         // only process home page, non-tag pages, and non-index pages

@@ -1,9 +1,9 @@
-# Antonius av Egypt (ca. 251–356)
-
-> «Han var daglig martyr for sin samvittighet og kjempet troens kamper.» — Athanasius om Antonius etter at forfølgelsen tok slutt
-
-*Opprettet: 2025-05-10 | Kilder: 2*
-
+---
+title: "Antonius av Egypt (ca. 251–356)"
+description: "«Han var daglig martyr for sin samvittighet og kjempet troens kamper.» — Athanasius om Antonius etter at forfølgelsen tok slutt"
+date: 2025-05-10
+updated: 
+Kilder: 2*
 ---
 
 ## Hvem var Antonius?
@@ -68,6 +68,7 @@ Augustin forteller i *Bekjennelsene* at det var *Vita Antonii* som utløste hans
 Antonius regnes som «monastikkens far» — ikke fordi han grunnla et kloster (det er Pachomius' bidrag) men fordi han etablerte *idéen* om at man kan leve et fullt kristent liv i radikal isolasjon og askese.
 
 Fra ham stammer:
+
 - Det egyptiske eremittlivet
 - De senere **ørkenfadrene** (*Apophthegmata Patrum* — «Ørkenfadrenes ord»)
 - Via Cassian og Benedikt: det vestlige klosterlivet

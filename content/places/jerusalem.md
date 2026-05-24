@@ -1,9 +1,9 @@
-# Jerusalem
-
-> Ingen by er viktigere i Bibelen. Jerusalem er Davids by, Salomos tempelby, profetenes by, Jesu by — og i NT det sted der kirken ble født på Pinsedagen.
-
-*Opprettet: 2025-05-06 | Kilder: 2*
-
+---
+title: "Jerusalem"
+description: "Ingen by er viktigere i Bibelen. Jerusalem er Davids by, Salomos tempelby, profetenes by, Jesu by — og i NT det sted der kirken ble født på Pinsedagen."
+date: 2025-05-06
+update: 
+Kilder: 2*
 ---
 
 ## Geografi og beliggenhet

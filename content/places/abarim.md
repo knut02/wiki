@@ -3,12 +3,7 @@ title: Abarim
 date: 2025-02-18
 updated: 2025-04-23
 Kilder: "1"
----
-
-
-> Fjellområde øst for Jordan i landet Moab, kjent som stedet der Moses fikk se Kanaanslandet.
-
-
+description: "Fjellområde øst for Jordan i landet Moab, kjent som stedet der Moses fikk se Kanaanslandet"
 ---
 
 ## Hva er dette?
