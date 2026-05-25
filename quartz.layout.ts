@@ -91,6 +91,11 @@ export const indexPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [
+    Component.Graph({
+      localGraph: {
+        depth: 1,
+      },
+    }),
     Component.DesktopOnly(Component.DirectoryNavigation()),
     Component.AllTags(),
   ],
