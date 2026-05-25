@@ -1,12 +1,10 @@
 ---
 title: "Romerne 8:28 — alt tjener til det gode"
-description: "Eksegetisk og teologisk gjennomgang av Rom 8:28 — hva verset faktisk sier, hva det ikke sier, konteksten i Romerne 8, og pastoral bruk og misbruk."
+description: "Eksegetisk og teologisk gjennomgang av Rom 8:28 — hva verset sier, hva det ikke sier, konteksten i Romerne 8, og pastoral bruk og misbruk."
 date: 2025-05-25
 updated: 2025-05-25
 sources: 4
 ---
-
-# Romerne 8:28 — alt tjener til det gode
 
 > «Vi vet at alt tjener til det gode for dem som elsker Gud, dem som er kalt etter hans forsett.» — Rom 8:28
 
@@ -18,7 +16,7 @@ Romerne 8:28 er ett av de mest siterte og mest misforståtte versene i NT. Det b
 
 ---
 
-## Hva verset faktisk sier
+## Hva verset sier
 
 **«Vi vet»** — ikke «vi håper» eller «vi tror». Paulus skriver med en ro som kommer fra erfaring og teologisk overbevisning. Konteksten er ikke gode tider — det er lidelse, sukk og forfølgelse (v. 17–18, 35–36). «Vi vet» er et ankerfestet midt i stormen, ikke en naiv solskinssetning.
 
