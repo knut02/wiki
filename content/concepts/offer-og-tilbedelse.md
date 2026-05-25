@@ -1,9 +1,9 @@
-# Offer og tilbedelse
-
-> Praksis med å bringe gaver eller offerdyr til Gud — sentralt i GT og grunnlag for NT-teologi om Jesu soningsdød.
-
-*Opprettet: 2025-04-18 (lint) | Sist oppdatert: 2025-04-23 (lint) | Kilder: 1*
-
+---
+title: "Offer og tilbedelse"
+description: "Praksis med å bringe gaver eller offerdyr til Gud — sentralt i GT og grunnlag for NT-teologi om Jesu soningsdød."
+date: 2025-04-18
+modified: 2025-04-23
+kilder: 1
 ---
 
 ## I Det gamle testamentet
