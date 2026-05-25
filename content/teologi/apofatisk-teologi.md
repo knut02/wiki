@@ -4,6 +4,7 @@ description: "Den negative teologiens tradisjon: Gud beskrives ikke ved hva han 
 date: 2025-05-05
 modified: 2025-05-05
 kilder: 4
+tags: teologi
 ---
 
 ## Hva er apofatisk teologi?

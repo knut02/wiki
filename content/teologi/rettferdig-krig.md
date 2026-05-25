@@ -47,6 +47,7 @@ Likevel: da kristendommen ble statsreligion på 300-tallet, ble Rom 13 brukt til
 **Augustin av Hippo** (354–430) var den første store kristne tenkeren som utviklet en systematisk teori om rettferdig krig. Hans kontekst var det vestromske imperiets kollaps og barbarenes invasjoner.
 
 Augustins grunnbetingelser:
+
 1. **Rettferdig årsak** — krig kan føres for å straffe urettferdighet eller forsvare det gode
 2. **Riktig intensjon** — målet er fred og rettferdighet, ikke hevn eller vinning
 3. **Legitim autoritet** — bare de som har politisk myndighet kan erklære krig

@@ -1,9 +1,9 @@
-# Bibeltolkning — innføring
-
-> «Bibelen er antakelig den mest leste, brukte og drøftede skriftsamlingen gjennom hele verdenshistorien.» — Tveito 2021
-
-*Opprettet: 2025-04-18 | Oppdatert: 2025-05-15 | Kilder: 4*
-
+---
+title: "Bibeltolkning — innføring"
+description: "Bibelen er antakelig den mest leste, brukte og drøftede skriftsamlingen gjennom hele verdenshistorien.» — Tveito 2021"
+date: 2025-04-18
+modified: 2025-05-15
+kilder: 4
 ---
 
 ## Å lese tekster fra en annen tid
@@ -43,6 +43,7 @@ Men prosessen er sjelden rettlinjet. Forfatteren er ofte ukjent, utilgjengelig e
 Tveito (2021) formulerer det slik: Det eneste man er enige om i dag, er at budskapsformidling gjennom en skriftlig tekst ikke er en rettlinjet prosess der alle lesere oppfatter nøyaktig det forfatteren ville ha frem.
 
 Spørsmålet om hvor tekstens *mening* egentlig befinner seg, har fått tre klassiske svar:
+
 - **Bak teksten** — hos forfatterens intensjon
 - **I teksten** — i de litterære strukturene og ordene selv
 - **Foran teksten** — i møtet mellom tekst og leser
@@ -84,6 +85,7 @@ Tekstkritikk analyserer disse variantene for å rekonstruere den mest opprinneli
 ### Historisk kritikk — teksten i sin tid og sitt sted
 
 Historisk kritikk undersøker tre spørsmål:
+
 - *Historie i teksten* — er det historiske referanser i teksten som kan verifiseres?
 - *Tekstens tilblivelseshistorie* — når, hvor og av hvem ble den skrevet?
 - *Resepsjonshistorie* — hvordan er teksten blitt tolket gjennom historien?
@@ -91,6 +93,7 @@ Historisk kritikk undersøker tre spørsmål:
 ### Grammatisk kritikk — tekstens språk
 
 Ord betyr ikke det samme på tvers av tid, kultur og sjanger. Grammatisk kritikk undersøker:
+
 - Enkeltords semantiske felt — hva *kan* ordet bety, og hva betyr det i denne konteksten?
 - Syntaks — hvordan henger setningene sammen?
 - Bruk av konkordans og leksika
@@ -100,6 +103,7 @@ En advarsel fra Hayes og Holladay: «Word studies» kan misbrukes. Et ords etymo
 ### Litterær kritikk — tekstens komposisjon og stil
 
 Litterær kritikk undersøker:
+
 - **Litterær kontekst og avgrensning** — hvor befinner teksten seg i det større verket?
 - **Litterær struktur** — hvordan er teksten bygget opp?
 - **Retoriske virkemidler** — parallelisme, kiasme, inclusio, ironi, metafor
@@ -111,6 +115,7 @@ Formkritikk identifiserer tekstens sjanger og spør etter dens «livssetting» (
 **Form og innhold henger uløselig sammen.** En annonse i avisen bruker overstating som konvensjon; en rettslig beskrivelse av samme eiendom gjør ikke det. Det er den samme eiendommen, men sjangeren bestemmer hvordan vi leser og forstår innholdet.
 
 Bibelske sjangere har sine egne *Sitz im Leben*:
+
 - **Klagesalmen** — tempeltilbedelse; den troende som klager til Gud
 - **Kallelsesberetningen** — profetisk litteratur; et bestemt mønster (kall → innvending → forsikring)
 - **Lignelsen** — undervisningskontekst; hverdagsbilder som snur forventningene
@@ -141,16 +146,19 @@ Leserorientert kritikk fokuserer på møtet mellom tekst og leser — og anerkje
 MF Vitenskapelig Høyskole bruker et praktisk arbeidsskjema (Tveito 2021) som organiserer tekstanalyse i fire punkter:
 
 ### 1. Tekstens tilblivelse
+
 - Hvem kan ha skrevet teksten?
 - Bygger den på eldre kilder?
 - Hva vet vi om konteksten den ble til i?
 
 ### 2. Tekstens form
+
 - **Litterær kontekst og avgrensning** — forgrense, bakgrense, plassering i skriftet
 - **Sjanger** — hvilken sjanger, kjennetegn
 - **Oppbygning** — sceniske skiller, tematiske skifter
 
 ### 3. Tekstens innhold
+
 - Litterære virkemidler
 - Teologisk viktige ord og uttrykk
 - Ressurstekster — GT i NT, eldre GT-stoff i yngre GT-tekster
@@ -158,6 +166,7 @@ MF Vitenskapelig Høyskole bruker et praktisk arbeidsskjema (Tveito 2021) som or
 - Oppsummering: hva kan teksten ha kommunisert i sin opprinnelige situasjon?
 
 ### 4. Resepsjonshistorie
+
 - Troslære, liturgi, kunst, salmer?
 - Reformasjon, splittelse?
 - For GT: bruk i NT og i jødisk tradisjon?
