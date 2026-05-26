@@ -2,8 +2,8 @@
 title: "Johannes-evangeliet — oversikt"
 description: "Tematisk oversikt over Johannes-evangeliet — prologen, tegnene, jeg-er-utsagnene, avskjedstalen, den Hellige Ånd, kjærlighetsbudet og oppstandelsen."
 date: 2025-05-25
-updated: 2025-05-25
-sources: 2
+updated: 2025-05-26
+sources: 3
 ---
 
 # Johannes-evangeliet — oversikt
@@ -18,7 +18,7 @@ sources: 2
 
 Johannes-evangeliet er på mange måter annerledes enn de tre synoptiske evangeliene (Matteus, Markus og Lukas). Der de synoptiske beskriver mange korte episoder, mirakler og lignelser, bygger Johannes på et lite antall lengre fortellinger med inngående samtaler og dyptgående refleksjon.
 
-**Forfatterskap og datering:** Evangeliet er tradisjonelt tilskrevet apostelen Johannes, Sebedeus' sønn. De fleste daterer det til ca. 90–100 e.Kr., trolig skrevet i Efesos. Evangeliet er skrevet til en kontekst der troen utfordres — av jødiske synagoger som ekskluderer Jesus-troende, og av tidlig gnostisisme.
+**Forfatterskap og datering:** Evangeliet er tradisjonelt tilskrevet apostelen Johannes, Sebedeus' sønn, som ifølge Ireneus (ca. 175 e.Kr.) virket i Efesos til høy alder. Polycarp av Smyrna, som Ireneus kjente personlig, hevdet selv å ha blitt undervist av Johannes. Den endelige utgaven er trolig redigert av Johannes' disippelkrets og dateres til 80–100 e.Kr., mens de underliggende tradisjonene kan være fra ca. 60–65 e.Kr. Burge (1999) påpeker at evangeliets kulturelle kontekst er jødisk og palestinsk, ikke primært gresk — Qumran-tekstene har vist at Johannes' dualisme (lys/mørke, sannhet/løgn) har direkte paralleller i palestinsk jødedom.
 
 **Hensikt (20:31):** Johannes er eksplisitt om sitt formål: «Dette er skrevet for at dere skal *tro* at Jesus er Messias, Guds Sønn, og for at dere ved troen skal ha liv i hans navn.» Evangeliet er apologetisk og misjonerende — det vil skape og styrke tro.
 
@@ -28,7 +28,7 @@ Johannes-evangeliet er på mange måter annerledes enn de tre synoptiske evangel
 
 Johannes er tradisjonelt delt i to hoveddeler:
 
-**Tegnenes bok (kap. 1–12):** Jesu offentlige virke — syv tegn, offentlige diskusjoner og Jesus' selvåpenbaring.
+**Tegnenes bok (kap. 1–12):** Jesu offentlige virke — syv tegn, offentlige diskusjoner og Jesus' selvåpenbaring. Burge bemerker at kap. 2–4 handler om Jesus og jødiske *institusjoner*, mens kap. 5–10 er organisert rundt jødiske *fester* (sabbat, påske, løvhyttefest, tempelinnvielsesfest).
 
 **Herlighetens bok (kap. 13–21):** Avskjedstalen til disiplene, lidelseshistorien, oppstandelsen og epilogen.
 
@@ -49,6 +49,8 @@ Prologens åpningsord er bevisst speilende mot 1 Mos 1:1 — «I begynnelsen». 
 *Alt ble skapt ved ham* (1:3) — Logos er ikke en skapt størrelse men skaperens instrument.
 
 *Logos ble kjøtt og tok bolig blant oss* (1:14) — inkarnasjonen som historisk hendelse. Det greske *skēnoō* («tok bolig») gjenklanger av GT's telthelligdom (*mishkan*) — Guds herlighet som slo leir blant sitt folk.
+
+Burge påpeker at prologen sannsynligvis ble tilføyd i en seinere redaksjonsfase — trolig omtrent samtidig med at 1. Johannesbrev ble skrevet — som en eksplisitt forankring av inkarnasjonsläran mot doketistisk misbruk av evangeliet. Prologen til Johannes-evangeliet og åpningen av 1. Johannesbrev er nesten parallelle i sitt vitnesbyrd om det legemlige, historiske Ordet.
 
 **Lys og mørke** — prologen introduserer ett av evangeliets gjennomgående motiv: lys som skinner i mørket, men mørket fattet det ikke.
 
@@ -97,7 +99,6 @@ Troen (*pistis/pisteuō*) er ett av evangeliets sentrale temaer. Det greske verb
 **Tro er ikke primært intellektuell tilslutning.** Den innebærer å *komme til* Jesus (6:35), *ta imot* ham (1:12), *bli i* ham (15:4–7). Tro er en relasjonell orientering mot Jesus som person.
 
 **Tegn og tro — et spenningsforhold:** Johannes viser to sider:
-
 - Tegnene kan skape og styrke tro (2:11; 20:30–31)
 - Tro som er avhengig av tegn kritiseres (4:48; 20:29 — «Salige er de som tror uten å ha sett»)
 
@@ -114,7 +115,6 @@ Troen (*pistis/pisteuō*) er ett av evangeliets sentrale temaer. Det greske verb
 Johannes' kristologi er den høyeste i NT. Evangeliet begynner med Logos-teologien og slutter med Tomas' bekjennelse: «Min Herre og min Gud» (20:28).
 
 **Sønnen og Faderen:** Forholdet mellom Jesus og Faderen er evangeliets kristologiske hjerte. Nøkkelutsagn:
-
 - «Jeg og Faderen er ett» (10:30)
 - «Den som har sett meg, har sett Faderen» (14:9)
 - «Faderen er større enn jeg» (14:28) — underordning i sending, ikke i vesen
@@ -122,6 +122,8 @@ Johannes' kristologi er den høyeste i NT. Evangeliet begynner med Logos-teologi
 **Sendelsesmotivet:** Jesus er konsekvent den *sendte* — *apostellō* og *pempō* gjentas gjennom hele evangeliet. Han er sendt av Faderen, utfører Faderens vilje, og sender selv disiplene (20:21).
 
 **Jesu pre-eksistens:** 1:1–18; 8:58; 17:5 («den herligheten jeg hadde hos deg før verden ble til»). Jesus er ikke bare en historisk skikkelse, men evig.
+
+Burge understreker at evangeliet holder begge sider fast: Jesus er fullstendig guddommelig *og* fullstendig menneskelig. Det var nettopp dette balanserte vitnesbyrdet som gjorde evangeliet til en uvurderlig ressurs i kampen mot arianisme (Nikea 325) og doketisme.
 
 ---
 
@@ -136,6 +138,8 @@ Johannes er den eneste evangelisten som bruker tittelen *Paraklētos* om Ånden 
 3. **Å vitne om Jesus** (15:26) — Ånden er ikke et selvstendig prosjekt, men peker mot Jesus
 4. **Å overbevise verden om synd, rettferdighet og dom** (16:8–11)
 5. **Å veilede i all sannhet og forkynne det som kommer** (16:13–15)
+
+Burge bemerker at den johanneiske menigheten var en *pneumatisk/karismatisk* menighet — sterkt orientert mot Åndens nærvær og erfaring. Dette kan ha bidratt til at dissideneter (som ble til de proto-gnostiske grupperingene i Johannesbrevene) brukte løfter om Ånden i evangeliet til å legitimere ny «åpenbaring» utover apostolisk lære.
 
 **Pinseberetningen i Johannes (20:22):** Jesus puster på disiplene og sier «Ta imot Den Hellige Ånd» — en kortere, mer intim hendelse enn Apostlenes gjerningers pinse. De to beskrivelsene utfyller hverandre.
 
@@ -158,26 +162,22 @@ I avskjedstalen (kap. 13–17) gir Jesus et «nytt bud»: «Elsk hverandre slik 
 Avskjedstalen er Johannesevangeliets teologiske sentrum — Jesu lengste sammenhengende tale i NT. Den dekker:
 
 **Kap. 14 — Trøst og løfter:**
-
 - «I min Fars hus er det mange rom» (14:1–3)
 - Jesus som «veien, sannheten og livet» (14:6)
 - «Den som tror på meg, skal gjøre de gjerningene jeg gjør» (14:12)
 - Løftet om Den Hellige Ånd
 
 **Kap. 15 — Vintreet og kjærligheten:**
-
 - Å bli i Jesus som gren i vintre (15:1–8) — frukt er avhengig av forbindelsen
 - «Bli i min kjærlighet» (15:9)
 - «Dere er mine venner» (15:14) — disiplene løftes fra tjenere til venner
 
 **Kap. 16 — Sorgen som vendes til glede:**
-
 - Ånden som overbeviser verden
 - Jesu bortgang som nødvendig for Åndens komme
 - «Sorg vil bli til glede» — forsoningsbilde fra fødselssmerter
 
 **Kap. 17 — Den yppersteprestlige bønnen:**
-
 - Jesus ber for seg selv: herliggjøring (17:1–5)
 - Jesus ber for disiplene: beskyttelse og helligholdelse (17:6–19)
 - Jesus ber for alle troende: enhet «slik du, Far, er i meg» (17:20–26)
@@ -206,7 +206,7 @@ Johannes' lidelsesberetning har et særegent preg: Jesus fremstår ikke primært
 
 **Misjonsbefalingen (20:21):** «Slik Faderen har sendt meg, sender jeg dere.» Sendelsesmotivet som har gått gjennom hele evangeliet, videreføres nå til disiplene.
 
-**Epilogen (kap. 21):** Peter rehabiliteres — den trefoldige benektelsens sår leges av det trefoldige kjærlighetsspørsmålet («Elsker du meg?» — 21:15–17). Peter kalles til å «vokte sauene». Johannes' discipel («Den disippelen Jesus elsket») fremheves som vitne.
+**Epilogen (kap. 21):** Peter rehabiliteres — den trefoldige benektelsens sår leges av det trefoldige kjærlighetsspørsmålet («Elsker du meg?» — 21:15–17). Peter kalles til å «vokte sauene». Burge påpeker at kap. 21 trolig ble tilføyd av Johannes' disippelkrets etter hans død — de ordene «Vi vet at hans vitnesbyrd er sant» (21:24) avslører et annet forfatter-«vi» som ærer den elskede disippelen.
 
 ---
 
@@ -225,16 +225,18 @@ Johannes' lidelsesberetning har et særegent preg: Jesus fremstår ikke primært
 
 ## Sammenheng med andre artikler
 
+- [[Bibelen - det Nye Testamentet/johannesbrevene]] — den johanneiske krisen og brevene som kommentar til evangeliet
 - [[kirkehistorie/inkarnasjon]] — Logos-teologiens videre historie
+- [[kirkehistorie/gnostisisme]] — doketistisk misbruk av Johannes
 - [[tro-og-liv/guds-kjærlighet]] — Joh 3:16 og Guds kjærlighet som fundament
 - [[tro-og-liv/disippelskap]] — disippelskap i Johannes
 - [[tro-og-liv/bønn]] — den yppersteprestlige bønnen (Joh 17)
-- [[bibelen/evangeliene]] — Johannes og de synoptiske evangeliene
-- [[bibelen/paulus-teologi]] — Logos-teologi og Paulus' kristologi
+- [[Bibelen - det Nye Testamentet/evangeliene]] — Johannes og de synoptiske evangeliene
 
 ---
 
 ## Kilder
 
+- [[sources/Burge-1999-john-nivacc]] — Burge, G.M. (1999): *John*, NIV Application Commentary. Zondervan
 - [[sources/studier-personlige]] — egne studier og notater
 - [[sources/Keener-2014-IVP-background-commentary]] — Keener, C.S. (2014): *IVP Bible Background Commentary: NT*, Johannes-kommentaren
