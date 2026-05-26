@@ -86,11 +86,13 @@ Dette er et pastoralt poeng, ikke et kalkulasjonssystem.
 ## Pastoral bruk og misbruk
 
 **Misbruk:**
+
 - Som avvisning av andres smerte: «Alt skjer jo til det beste»
 - Som naiv optimisme løsrevet fra virkeligheten
 - Som begrunnelse for passivitet: «Gud ordner alt»
 
 **Rett bruk:**
+
 - Som anker i lidelse — ikke forklaring, men forankring
 - Som grunnlag for vedvarende engasjement: Det vi gjør teller, fordi Gud arbeider gjennom det
 - Som trøst som *anerkjenner* smerten fremfor å avvise den — Paulus sier «vi sukker», ikke «vi smiler»
