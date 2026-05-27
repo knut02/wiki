@@ -33,6 +33,7 @@ Begge religionene er monoteistiske, har faste bønnetider (jødedommen tre dagli
 ## Retninger
 
 Jødedommen er ikke én enhetlig bevegelse. Hoveddelen i moderne sammenheng:
+
 - **Ortodoks** — streng overholdelse av halacha (jødisk lov)
 - **Konservativ** — tradisjonell, men åpner for tolkningstilpasninger
 - **Reform/liberal** — sterk vekt på individets valg
