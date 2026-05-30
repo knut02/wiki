@@ -5,8 +5,6 @@ date: 2025-04-18
 updated: 2025-05-18
 ---
 
-# Matteusevangeliet
-
 > «Jesus Kristus, Davids sønn, Abrahams sønn.» — Matt 1:1. Første setning i Matteus er allerede en fullstendig kristologi.
 
 ---
@@ -93,6 +91,7 @@ I ikke-vestlig teologisk lesning er saligprisningene ikke primært et individuel
 «La ditt rike komme, la din vilje skje på jorden som i himmelen» er i mange ikke-vestlige kontekster en *politisk* bønn: Guds rike er et alternativ til eksisterende maktstrukturer. «Gi oss i dag vårt daglige brød» peker på faktisk brødbehov.
 
 **Hva globale lesere bidrar med:**
+
 - Umiddelbar gjenkjennelse av urettferdighetsstrukturene Matteus beskriver
 - Kroppsnær erfaring av hva sult, sykdom og forfølgelse faktisk er
 - En hermeneutikk fra «undersiden» av historien

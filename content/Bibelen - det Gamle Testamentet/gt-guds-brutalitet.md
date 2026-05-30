@@ -1,9 +1,8 @@
-# GT-Guds tilsynelatende brutalitet
-
-> «Dreper, straffer, sender plager, utsletter folk... Er dette samme Gud som 'elsker alle'?» — Et av de vanligste spørsmålene unge stiller om kristendommen
-
-*Opprettet: 2025-05-10 | Kilder: 3 | Merket for utvidelse når nytt materiale foreligger*
-
+---
+title: "GT-Guds tilsynelatende brutalitet"
+description: "«Dreper, straffer, sender plager, utsletter folk... Er dette samme Gud som 'elsker alle'?» — Et av de vanligste spørsmålene unge stiller om kristendommen"
+date: 2025-05-10
+kilder: 3
 ---
 
 ## Problemet er reelt

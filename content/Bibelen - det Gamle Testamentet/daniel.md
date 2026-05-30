@@ -1,9 +1,8 @@
-# Daniels bok
-
-> «Ikke noe menneske kan gjøre det. Bare gudene kan — men de har ikke sin bolig blant mennesker.» — Babylons vismenn til Nebukadnesar (Dan 2:11). Det som er umulig for mennesker, er mulig for Gud.
-
-*Opprettet: 2025-05-14 | Kilder: 2*
-
+---
+title: "Daniels bok"
+description: "«Ikke noe menneske kan gjøre det. Bare gudene kan — men de har ikke sin bolig blant mennesker.» — Babylons vismenn til Nebukadnesar (Dan 2:11). Det som er umulig for mennesker, er mulig for Gud."
+date: 2025-05-14
+kilder: 2
 ---
 
 ## To deler — én bok

@@ -1,9 +1,8 @@
-# Bibeloversettelse — metode, ideologi og norsk historie
-
-> «Det er oversetterne som har makten til å definere hvilken Jesus som presenteres i Bibelen.» — Morten Beckmann 2019
-
-*Opprettet: 2025-05-15 | Kilder: 2*
-
+---
+title: "Bibeloversettelse — metode, ideologi og norsk historie"
+description: "Det er oversetterne som har makten til å definere hvilken Jesus som presenteres i Bibelen.» — Morten Beckmann 2019"
+date: 2025-05-15
+kilder: 2
 ---
 
 ## Oversettelse er alltid tolkning
@@ -51,15 +50,19 @@ Beckmann er tydelig: Dette betyr ikke nødvendigvis at oversetterne hadde en skj
 ## Norsk bibeloversettelseshistorie
 
 ### NO04 og NO04/30
+
 Den første norske bibeloversettelsen på riksmål kom i 1904, revidert i 1930. Allerede på 1930-tallet begynte arbeidet med nye oversettelser fordi språkdrakten ble oppfattet som gammelmodig og utilgjengelig for unge.
 
 ### Ungdomsoversettelsen 1959 (UO59)
+
 Biskop Eivind Berggrav tok initiativet i 1939 til en to-trinns plan: Først en raskt gjennomført «språkfornyelse» av eksisterende oversettelse, deretter en ny oversettelse fra grunnteksten. UO59 er resultatet av første trinn — en modernisert og idiomatisk gjengivelse, primært for unge lesere. Alle involvert tilhørte Den norske kirke.
 
 ### Norsk Oversettelse 1978/85 (NO78/85)
+
 Det store oversettelsesprosjektet «fra grunnteksten av» — kirkebibelen. Idiomatisk prinsipp: Oversetteren forklarer teksten. Basert på dynamisk ekvivalens (*mening for mening*). Ulltveit-Moe, primæroversetter for NT, koblet eksplisitt den idiomatiske metoden til konfesjonelle hensyn.
 
 ### Bibel 2011
+
 Den seneste kirkebibelen. Mer konkordant tilnærming — bevarer kildetekstens form i større grad. Mer respekt for tekstens fremmedhet. Gir leseren større fortolkningsmyndighet. Ligner mer den protestansistiske idealet om «et myndig lekfolk» som selv tolker Bibelen.
 
 ---
@@ -69,14 +72,17 @@ Den seneste kirkebibelen. Mer konkordant tilnærming — bevarer kildetekstens f
 Beckmann analyserer en rekke tekster der oversettelsesvalgene direkte berører spørsmålet om Jesu identitet:
 
 **Sønnens opprinnelse:**
+
 - Ordspr 8:22 — er Visdommen «skapt» (*qānāh*) eller «eid» fra begynnelsen? Direkte knyttet til Nikea-debatten.
 - Kol 1:15 — «Den førstefødte av hele skaperverket» — *prōtotokos* kan bety «den første som ble født» (skapt, ariansk tolkning) eller «med høyest rang over skaperverket» (ortodoks tolkning)
 - Åp 3:14 — «begynnelsen til Guds skaperverk» — *archē* som opprinnelse (= skapt) eller opphav (= hersker)?
 
 **Jesu sendelse:**
+
 - Joh 8:42; 13:3; 16:27–30; 17:8 — ble Jesus «sendt» fra himmelen (pre-eksistens) eller «kom» fra Gud i en mer generell forstand?
 
 **Jesus som gud/Gud:**
+
 - Joh 1:18 — «Den enbårne Gud» eller «Den enbårne Sønn»? En av NT-s mest omstridte tekstkritiske spørsmål.
 - Rom 9:5 — «Kristus, som er over alle ting, Gud, velsignet i all evighet» — er «Gud» et predikat for Kristus, eller begynner en ny doksologi her?
 

@@ -1,9 +1,9 @@
-# Jesus fra Nasaret
-
-> «Du er Messias, den levende Guds Sønn.» — Peters bekjennelse, Matt 16:16
-
-*Opprettet: 2025-04-18 | Oppdatert: 2025-05-13 | Kilder: 4*
-
+---
+title: "Jesus fra Nasaret"
+description: "«Du er Messias, den levende Guds Sønn.» — Peters bekjennelse, Matt 16:16"
+date: 2025-04-18
+modified: 2025-05-13
+kilder: 4
 ---
 
 ## Navn og identitet
@@ -51,6 +51,7 @@ Ved dåpen åpnet himmelen seg, Ånden steg ned som en due, og en stemme lød: �
 Jesus begynte å forkynne da han var rundt 30 år. Virket varte i ca. tre år, primært i Galilea og Judea.
 
 Johannesevangeliet strukturerer virket i tre faser:
+
 - **Den ubemerkede fasen** (Joh 1–4): Samler de første disiplene; miraklet i Kana; samtalen med Nikodemus; samaritankvinnen
 - **Velvilje-fasen**: Store folkemengder; helbredelser; bergprekenen; brødunderet
 - **Motstandsfasen** (Joh 7–10): Planene om å drepe ham intensiveres; konflikten med de religiøse lederne tilspisser seg
