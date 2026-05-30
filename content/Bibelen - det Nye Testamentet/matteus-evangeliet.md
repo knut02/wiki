@@ -63,7 +63,7 @@ Et av Matteusevangeliets mest karakteristiske trekk er de såkalte *oppfyllelses
 
 ## Jesu undere
 
-Matteus samler helbredelsesberetningene tematisk (kap. 8–9 etter Bergprekenen). Hvalvik understreker at underene i Matteus primært er *messianske tegn* som oppfyller Jesajas løfter: blinde ser, lamme går, spedalske renses, døde reises opp (Matt 11:4–5 = Jes 35:5–6; 61:1).
+Matteus samler helbredelsesberetningene tematisk (kap. 8–9 etter Bergprekenen). Hvalvik understreker at underne i Matteus primært er *messianske tegn* som oppfyller Jesajas løfter: blinde ser, lamme går, spedalske renses, døde reises opp (Matt 11:4–5 = Jes 35:5–6; 61:1).
 
 ---
 
@@ -71,7 +71,7 @@ Matteus samler helbredelsesberetningene tematisk (kap. 8–9 etter Bergprekenen)
 
 > «Meg er gitt all makt i himmel og på jord. Gå derfor og gjør alle folkeslag til disipler, idet dere døper dem til Faderens og Sønnens og Den Hellige Ånds navn, og lærer dem å holde alt det jeg har befalt dere. Og se, jeg er med dere alle dager inntil verdens ende.»
 
-**Disippelgjøring** (*mathēteuō*) er kjerneordet — ikke bare «omvendelse», men lærende som lever under en mester. Dåp og undervisning er midlene — ikke enten/eller, men begge. Se [[concepts/disippelskap]].
+**Disippelgjøring** (*mathēteuō*) er kjerneordet — ikke bare «omvendelse», men lærende som lever under en mester. Dåp og undervisning er midlene — ikke enten/eller, men begge. Se [[tro-og-liv/disippelskap]].
 
 ---
 

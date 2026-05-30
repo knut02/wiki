@@ -6,8 +6,6 @@ updated: 2025-05-25
 sources: 5
 ---
 
-# Guds vilje for mitt liv — om valg og retning
-
 > «Omform dere ved at sinnet fornyes, så dere kan prøve hva som er Guds vilje: det gode, det som er til glede for ham, det fullkomne.» — Rom 12:2
 
 ---
@@ -44,7 +42,7 @@ Matt 11:29–30: «Ta mitt åk på dere og *lær av meg*.» Åket er ikke byrden
 
 ---
 
-## Tre feil måter å søke Guds vilje på
+## Tre uheldige måter å søke Guds vilje på
 
 ### 1. Tegn og under — å vente på et himmelskrift
 
@@ -148,7 +146,7 @@ Og paradokset: Jo mer vi er i ferd med å bli slike personer, jo mindre dramatis
 
 ## Sammenheng med andre artikler
 
-- [[tro-og-liv/disippelskap]] — å være Jesu lærjenge som grunnlag for å leve i Guds vilje
+- [[tro-og-liv/disippelskap]] — å være Jesu etterfølger som grunnlag for å leve i Guds vilje
 - [[bibelen/romerne-8-28]] — Guds forsett og løftet om at alt tjener til det gode
 - [[tro-og-liv/bønn]] — bønn som å orientere seg mot Guds virkelighet
 - [[tro-og-liv/fadervår]] — «la din vilje skje» som en aktiv bønn om Guds herredømme nå
