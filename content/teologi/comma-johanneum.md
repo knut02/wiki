@@ -1,9 +1,9 @@
-# Comma Johanneum
-
-> «For det er tre som vitner: Ånden, vannet og blodet, og disse tre samstemmer.» — 1 Joh 5:7–8 (Bibel 2011). Den lengre versjonen legger til: «i himmelen: Far, Ordet og Den Hellige Ånd, og disse tre er ett.» — 1 Joh 5:7 (eldre latinske manuskripter).
-
-*Opprettet: 2025-05-03 | Oppdatert: 2025-05-17 | Kilder: 2*
-
+---
+title: "Comma Johanneum"
+description: " «For det er tre som vitner: Ånden, vannet og blodet, og disse tre samstemmer.» — 1 Joh 5:7–8 (Bibel 2011). Den lengre versjonen legger til: «i himmelen: Far, Ordet og Den Hellige Ånd, og disse tre er ett.» — 1 Joh 5:7 (eldre latinske manuskripter)."
+date: 2025-05-03
+modified: 2025-05-17
+kilder: 2
 ---
 
 ## Hva er Comma Johanneum?

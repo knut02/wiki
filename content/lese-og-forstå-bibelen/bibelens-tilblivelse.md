@@ -1,9 +1,9 @@
-# Bibelens tilblivelse
-
-> En tykk bok, innbundet i svart skinn med gullbokstaver. Inntrykket er av autoritet, tradisjon og enhet. Men åpner man den, ser man fort hvor sammensatt og mangfoldig den er — et bibliotek av 66 bøker, skrevet over 1500 år, på tre språk, i et dusin sjangre.
-
-*Opprettet: 2025-05-06 | Oppdatert: 2025-05-15 | Kilder: 3*
-
+---
+title: "Bibelens tilblivelse"
+description: "En tykk bok, innbundet i svart skinn med gullbokstaver. Inntrykket er av autoritet, tradisjon og enhet. Men åpner man den, ser man fort hvor sammensatt og mangfoldig den er — et bibliotek av 66 bøker, skrevet over 1500 år, på tre språk, i et dusin sjangre."
+date: 2025-05-06
+modified: 2025-05-15
+kilder: 3
 ---
 
 ## Biblioteket, ikke boka

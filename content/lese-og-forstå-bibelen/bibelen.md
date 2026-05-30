@@ -1,9 +1,8 @@
-# Bibelen — oversikt
-
-> Kristendommens hellige bok, bestående av 66 bøker skrevet over 1400 år av over 40 forfattere, og betraktet av kristne som Guds ord til mennesker.
-
-*Opprettet: 2025-04-27 | Kilder: 1*
-
+---
+title: Bibelen — oversikt"
+description: "Kristendommens hellige bok, bestående av 66 bøker skrevet over 1400 år av over 40 forfattere, og betraktet av kristne som Guds ord til mennesker."
+date: 2025-04-27
+kilder: 1
 ---
 
 ## Hva er Bibelen?

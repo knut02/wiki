@@ -5,8 +5,6 @@ date: 2025-05-20
 updated: 2025-05-20
 ---
 
-# Kvinner i kirken — roller og tjeneste
-
 > «Det er ikke lenger forskjell på jøde og greker, på slave og fri, på mann og kvinne. Dere er alle én i Kristus Jesus.» — Gal 3:28
 
 ---
@@ -18,6 +16,7 @@ Spørsmålet om kvinner i kirkelig ledelse og tjeneste er ett av de mest omdisku
 Blomberg (red., 2005) presiserer at debatten i dag i stor grad dreier seg om én ting: **kvinner i lederskap**, ikke kvinner i tjeneste generelt.
 
 De to hovedposisjonene kaller seg selv:
+
 - **Egalitarister** — hevder at kjønn ikke er relevant for hvem som kan ha hvilke roller i kirken
 - **Komplementarister** (tradisjonalister) — hevder at Gud har skapt menn og kvinner til komplementære roller, der de øverste lederrollene er forbeholdt menn
 
@@ -122,6 +121,7 @@ Paulus' begrunnelse er skaperordenen («Adam ble skapt først»), ikke kulturell
 ### Komplementarisme
 
 **Bibelsk begrunnelse:**
+
 - Skapelsesorden: Adam ble skapt *først* — Paulus bruker dette som teologisk argument (1 Tim 2:13; 1 Kor 11:8–9)
 - Mannlige apostler: Jesus valgte 12 mannlige apostler — i en kultur der han ellers var radikal mot konvensjoner
 - Øverste lederskap alltid mannlig: GT-prestedømme, apostlene, alle pastorale brev adresserer menn som eldste
@@ -136,6 +136,7 @@ Paulus' begrunnelse er skaperordenen («Adam ble skapt først»), ikke kulturell
 Blomberg-volumets redaktør: Majoriteten av kirken gjennom historien har ikke ordinert kvinner til det øverste pastorale embete. Men Keener svarer: Kirkens ledermodell har heller ikke konsekvent fulgt Jesu undervisning om at den største skal være alles tjener (Luk 22:25–26). Kirkens historiske praksis er ikke alltid normgivende.
 
 Det er dokumentert:
+
 - Kvinner som prophētissai (profetinner) og lærere i oldkirken
 - Abbedisser med reell religiøs autoritet over blandede klostre i middelalderen
 - Kvekerkvinner med full likestilling fra 1600-tallet

@@ -1,9 +1,8 @@
-# Bibelhebraisk — innføring
-
-> «I begynnelsen skapte Gud himmelen og jordens.» — 1 Mos 1:1 på hebraisk: *Bereschit bara Elohim et hashamajim ve'et ha'aretz*
-
-*Opprettet: 2025-05-13 | Kilder: 1*
-
+---
+title: "Bibelhebraisk — innføring"
+description: "I begynnelsen skapte Gud himmelen og jordens.» — 1 Mos 1:1 på hebraisk: *Bereschit bara Elohim et hashamajim ve'et ha'aretz*"
+date: 2025-05-13
+kilder: 1
 ---
 
 ## Hvorfor lære bibelhebraisk?

@@ -1,9 +1,8 @@
-# Frigjøringsteologi
-
-> Teologi fra Latin-Amerika, Afrika og Asia som setter de fattiges perspektiv i sentrum: Guds preferanse for de marginaliserte, og kirkens kall til sosial handling.
-
-*Opprettet: 2025-05-05 | Kilder: 4*
-
+---
+title: "Frigjøringsteologi"
+description: "Teologi fra Latin-Amerika, Afrika og Asia som setter de fattiges perspektiv i sentrum: Guds preferanse for de marginaliserte, og kirkens kall til sosial handling."
+date: 2025-05-05
+kilder: 4
 ---
 
 ## Hva er frigjøringsteologi?
@@ -31,6 +30,7 @@ Frigjøringsteologene fant ikke på et nytt evangelium — de hevdet å ha gjeno
 ## Den historiske konteksten
 
 Frigjøringsteologien vokste frem i et Latin-Amerika preget av:
+
 - Massiv fattigdom og sosial ulikhet — 2–3 % av befolkningen eide mesteparten av jorda
 - Militærjuntaer støttet av USA under den kalde krigen
 - En katolsk kirke som historisk hadde støttet makteliten
@@ -55,7 +55,9 @@ I Brasilia i de mest aktive tiårene (1970–90-tallet) fantes det over 70 000 s
 ## Gutiérrez og de klassiske temaene
 
 ### Frigjøring på tre nivåer
+
 Gutiérrez skiller mellom tre sammenvevde dimensjoner av frigjøring:
+
 1. **Politisk-sosial frigjøring** — fra fattigdom, undertrykkelse, urettferdige strukturer
 2. **Frigjøring av mennesket** — fra historisk og kulturell fremmedgjøring; aktøren i sin egen historie
 3. **Frigjøring fra synd** — som roten til alt brudd i relasjoner; fellesskap med Gud
@@ -63,6 +65,7 @@ Gutiérrez skiller mellom tre sammenvevde dimensjoner av frigjøring:
 Disse tre er ikke konkurrerende — de er uatskillelige dimensjoner av én virkelighet.
 
 ### "Preferansielt valg for de fattige"
+
 Kirken er ikke nøytral. Det finnes et bibelsk mønster der Gud særlig identifiserer seg med de marginaliserte. Det betyr ikke at Gud ikke bryr seg om de rike — det betyr at de fattiges perspektiv er det privilegerte sted for å forstå evangeliet.
 
 ---
@@ -102,6 +105,7 @@ Det lutherske verdensforbundets misjonsdokument (2011) er tydelig påvirket av f
 ## Pave Frans og revitaliseringen
 
 Pave Frans (Jorge Bergoglio, fra Argentina) representerer en slags moderert frigjøringsteologi:
+
 - *Evangelii Gaudium* (2013): Kirkens oppdrag inkluderer "utvetydig nei til en økonomi som dreper"
 - Begrepet "preferansielt valg for de fattige" er integrert i hans pontifikat
 - Han har rehabilitert Gutiérrez og møtt ham offisielt
