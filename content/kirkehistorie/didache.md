@@ -1,9 +1,8 @@
-# Didache — De tolv apostlers lære
-
-> «Det finnes to veier; den ene er livets vei, den andre dødens. Og det er stor forskjell mellom de to veiene.» — Didache 1,1
-
-*Opprettet: 2025-05-10 | Kilder: 2*
-
+---
+title: "Didache — De tolv apostlers lære"
+description: " «Det finnes to veier; den ene er livets vei, den andre dødens. Og det er stor forskjell mellom de to veiene.» — Didache 1,1"
+date: 2025-05-10
+kilder: 2
 ---
 
 ## Hva er Didache?
@@ -29,11 +28,13 @@ Opprinnelsesstedet er med stor sannsynlighet et **jødekristent miljø i Palesti
 Didache har en klar tredeling:
 
 **Kap. 1–6: De to veier** (katekumenundervisning)
+
 - Livets vei (1,2–4,14): Det dobbelte kjærlighetsbudet, Bergprekenen-tradisjon, nestekjærlighet, etiske forbud
 - Dødens vei (kap. 5): Lastekatalog
 - Avsluttende formaning (kap. 6)
 
 **Kap. 7–15: Den rette orden** (liturgiske og kirkelige forskrifter)
+
 - Dåp (kap. 7)
 - Faste og bønn (kap. 8)
 - Nattverdsbønner (kap. 9–10)
@@ -68,6 +69,7 @@ Didache kapittel 7 er den eldste bevarte instruksen for kristen dåp utenom NT:
 Dåpskandidaten skal ha gjennomgått undervisningen om «de to veier» (kap. 1–6). Forut for dåpen: én til to dagers faste for **både** den som skal døpes **og** den som utfører dåpen.
 
 **Tre grader av aksept:**
+
 1. Rennende vann (*«levende vann»*) — foretrukket
 2. Stillestående vann — akseptabelt
 3. Øse vann tre ganger over hodet — tillatt dersom de to første ikke er tilgjengelig
@@ -116,6 +118,7 @@ Et av de mest fascinerende kapitlene i Didache er instruksene om omreisende apos
 **Profeter**: Skal ikke prøves eller dømmes mens de taler «i Ånden» — dette er den utilgivelige synd å gjøre. Men på *adferden* skal man kjenne dem: «Ikke enhver som taler i Ånden, er en profet, bare den som har Herren som forbilde for sin ferd.»
 
 **Konkrete tegn på en falsk profet:**
+
 - Ber om penger for seg selv mens han taler i Ånden
 - Vil ikke selv arbeide for sitt brød dersom han slår seg ned i menigheten
 - Bestemmer i Ånden at det skal dekkes bord, men spiser selv av maten

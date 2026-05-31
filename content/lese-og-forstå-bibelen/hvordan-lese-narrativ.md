@@ -1,9 +1,9 @@
-# Hvordan lese narrativ
-
-> «En tekst er en komponent i en kommunikasjonsprosess.» — Tveito 2021. Og en bibelfortelling er en bevisst konstruert tekst der ingenting er tilfeldig.
-
-*Opprettet: 2025-04-18 | Oppdatert: 2025-05-15 | Kilder: 4*
-
+---
+title: "Hvordan lese narrativ"
+description: "«En tekst er en komponent i en kommunikasjonsprosess.» — Tveito 2021. Og en bibelfortelling er en bevisst konstruert tekst der ingenting er tilfeldig."
+date: 2025-04-18
+modified: 2025-05-15
+kilder: 4
 ---
 
 ## Hva er narrativ i Bibelen?

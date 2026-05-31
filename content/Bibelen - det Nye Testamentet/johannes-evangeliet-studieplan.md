@@ -1,9 +1,8 @@
-# Johannesevangeliet — 30 dagers studieplan
-
-> «I begynnelsen var Ordet, og Ordet var hos Gud, og Ordet var Gud.» — Joh 1:1. Johannesevangeliet er kristologiens evangelium — en meditasjon over hvem Jesus er, fra evighet til oppstandelse.
-
-*Opprettet: 2025-05-14 | Kilder: 1*
-
+---
+title: "Johannesevangeliet — 30 dagers studieplan"
+description: "«I begynnelsen var Ordet, og Ordet var hos Gud, og Ordet var Gud.» — Joh 1:1. Johannesevangeliet er kristologiens evangelium — en meditasjon over hvem Jesus er, fra evighet til oppstandelse."
+date: 2025-05-14
+kilder: 1
 ---
 
 ## Slik brukes planen
@@ -33,6 +32,7 @@ Johannesevangeliet er ikke først og fremst en historiebok, men en teologisk for
 | 7 | Joh 4:1–26 | Samtalen med samaritankvinnen — evangeliet krysser grenser |
 
 **Spørsmål til refleksjon:**
+
 - Hva betyr det at Jesus er fullt Gud og fullt menneske?
 - Hvordan begynner disippelskap — hva sier de første kallelsesfortellingene?
 - Hva kjennetegner evangelisering som krysser kulturelle og sosiale grenser?
@@ -54,6 +54,7 @@ Johannesevangeliet er ikke først og fremst en historiebok, men en teologisk for
 | 14 | Joh 7:1–24 | Jesu undervisning og folkets reaksjon |
 
 **Spørsmål til refleksjon:**
+
 - Hva er forholdet mellom tro og tegn i Johannesevangeliet?
 - Hvorfor tar noen imot evangeliet og andre avviser det?
 - Hva betyr Jesu autoritet for et moderne, kritisk sinn?
@@ -75,6 +76,7 @@ Johannesevangeliet er ikke først og fremst en historiebok, men en teologisk for
 | 21 | Joh 10:22–42 | Jesus og Faderens enhet |
 
 **Spørsmål til refleksjon:**
+
 - Hva betyr Jesu eksklusivitet i møte med religiøst mangfold?
 - Hvordan samvirker tilgivelse, nåde og sannhet i praksis?
 - Hva kjennetegner en sann disippel ifølge Johannesevangeliet?
@@ -96,6 +98,7 @@ Johannesevangeliet er ikke først og fremst en historiebok, men en teologisk for
 | 28 | Joh 14:1–31 | Jesus forbereder disiplene på sin avskjed |
 
 **Spørsmål til refleksjon:**
+
 - Hva betyr tjenerskap i kirken? Hva er konsekvensene av å følge Jesu eksempel?
 - Hvordan forholder tro og lidelse seg til hverandre?
 - Hva betyr Jesu kommende død og avskjed for disiplene da — og for oss i dag?
@@ -112,6 +115,7 @@ Johannesevangeliet er ikke først og fremst en historiebok, men en teologisk for
 | 30 | Joh 17–21 | Jesu bønn, korsfestelse, oppstandelse og misjonsbefalingen |
 
 **Spørsmål til refleksjon:**
+
 - Hva er Den Hellige Ånds rolle i helliggjørelse og disippelskap?
 - Hva betyr oppstandelsen for kirkens selvforståelse?
 - Hvordan lever man som en oppstandelsens disippel i dag?

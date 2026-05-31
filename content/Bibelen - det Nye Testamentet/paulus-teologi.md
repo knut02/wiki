@@ -1,9 +1,8 @@
-# Paulus — apostel, misjonær og teolog
-
-> Paulus' biografi og teologi: fra jødisk fariseer og kristenforfølger til hedningemisjonens fremste apostel. Romerbrevets kjerne.
-
-*Opprettet: 2025-05-03 | Kilder: 1*
-
+---
+title: "Paulus — apostel, misjonær og teolog"
+description: "Paulus' biografi og teologi: fra jødisk fariseer og kristenforfølger til hedningemisjonens fremste apostel. Romerbrevets kjerne."
+date: 2025-05-03
+kilder: 1
 ---
 
 ## Biografi
@@ -39,6 +38,7 @@ Romerbrevet (ca. 56–58 e.Kr.) er Paulus' mest systematiske fremstilling av teo
 **Kjerneutsagnet** (Rom 3:21–26): De som tror, blir "ufortjent og av hans nåde erklært rettferdige, frikjøpt i Kristus Jesus." Rettferdiggjørelse er ikke en moralsk prestasjon, men et rettslig frifinnesle av nåde.
 
 **Strukturen:**
+
 - 1–3: Alle er syndere — jøder og hedninger likt
 - 3:21–5: Rettferdighet ved tro — forankret i Abraham
 - 6–8: Forvandling av menneskenaturen ved Ånden

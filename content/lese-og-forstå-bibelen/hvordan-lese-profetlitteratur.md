@@ -1,9 +1,8 @@
-# Hvordan lese profetlitteratur
-
-> Profetene er ikke primært spåmenn som forutser fremtiden. De er Guds talsmenn i sin egen samtid — og å forstå dem krever å forstå den samtiden de taler inn i.
-
-*Opprettet: 2025-05-06 | Kilder: 2*
-
+---
+title: "Hvordan lese profetlitteratur"
+description: "Profetene er ikke primært spåmenn som forutser fremtiden. De er Guds talsmenn i sin egen samtid — og å forstå dem krever å forstå den samtiden de taler inn i."
+date: 2025-05-06
+kilder: 2
 ---
 
 ## Hva er en profet?
@@ -21,10 +20,12 @@ Misforståelsen om profetene som primære fremtidsforutsigere er gammel og seig.
 *The Written Prophets* gir en kronologisk oversikt som er nyttig som orienteringsramme:
 
 **To profeter av usikker datering:**
+
 - **Joel** ben Pethuel — profeten om Sions fremtid; apokalyptisk visjon om «Herrens dag»
 - **Obadja** — profeten om Guds suverenitet; korteste bok i GT
 
 **800-tallets profeter (assyrisk periode):**
+
 - **Amos** — sosial rettferdighet; dom over Israel som svikter de fattige
 - **Jona** ben Amittai — Guds universelle kjærlighet (inkludert fiender)
 - **Hosea** ben Beeri — ubetinget kjærlighet; ekteskapsmetaforen om Gud og Israel
@@ -32,16 +33,19 @@ Misforståelsen om profetene som primære fremtidsforutsigere er gammel og seig.
 - **Mika** av Moresjet — de fattiges profet; «Hva krever Herren av deg?» (Mi 6:8)
 
 **700-tallets profeter (babylonsk fremvekst):**
+
 - **Sefanja** ben Kusji — «Herrens dag»
 - **Habakkuk** — filosofen; spørsmålet om Guds rettferdighet i møte med ondskap
 - **Nahum** fra Elkosch — poeten; dom over Ninive
 - **Jeremia** fra Anatot — «profetenes profet»; den nye pakten (Jer 31); han som led for sitt kall
 
 **Eksilprofetene (587–538 f.Kr.):**
+
 - **Esekiel** ben Buzi — eksilprofet; vognsynet; de tørre benene; det nye tempelet
 - **Daniel** — rettferdighetens profet; apokalyptisk litteratur (kap. 7–12)
 
 **Ettereksil (etter 538 f.Kr.):**
+
 - **Haggai** — tempelprofeten; kaller til å gjenreise tempelet
 - **Sakarja** — messianske visjoner; «Jubelrop, Sions datter!» (Sak 9:9)
 - **Malaki** — den siste profeten; «Herrens budbærer»
@@ -53,6 +57,7 @@ Misforståelsen om profetene som primære fremtidsforutsigere er gammel og seig.
 Det viktigste tolkningsgrepet for profetlitteratur er å spørre: **Hva var situasjonen da dette ble sagt?**
 
 Profetene talte inn i spesifikke historiske kriser:
+
 - Amos talte under Jeroboam II (ca. 760 f.Kr.) da Israel var velstående — men de fattige ble undertrykt
 - Jesaja talte under den assyriske trussel mot Jerusalem (701 f.Kr.)
 - Jeremia talte i tiårene før Babels conquest og under selve fallet (586 f.Kr.)
@@ -67,6 +72,7 @@ Uten denne historiske konteksten kan profetiene lett misforstås. «Jomfruen ska
 De fleste profetbøkene er *poesi*, ikke prosa. Det er avgjørende for lesningen.
 
 **Hebraisk poetisk parallelisme** er det viktigste kjennetegnet:
+
 - **Synonym parallelisme:** Andre linje gjentar første med andre ord: «Herrens lov er fullkommen, / den gjenoppretter sjelen.» (Salme 19:8)
 - **Antitetisk parallelisme:** Andre linje kontrasterer første: «En vis sønn gleder faren, / men en dårlig sønn er mors sorg.» (Ordsp 10:1)
 - **Syntetisk parallelisme:** Andre linje utdyper eller bygger videre på første
@@ -104,6 +110,7 @@ Denne vekslingen er ikke tilfeldig og ikke inkonsekvent. Den speiler en grunnleg
 Apokalyptikk er en undersjanger av profetlitteraturen som dukker opp tydelig i Daniel (kap. 7–12) og Åpenbaringen — men finnes i frøform også hos Esekiel, Sakarja og Joel.
 
 **Kjennetegn:**
+
 - En himmelsk budbærer åpenbarer skjulte ting for en menneskelig mottaker
 - Symbolsk og billedtungt språk: dyr, tall, farger bærer mening
 - Fokus på kosmisk kamp mellom gode og onde makter
@@ -111,6 +118,7 @@ Apokalyptikk er en undersjanger av profetlitteraturen som dukker opp tydelig i D
 - Skrevet gjerne under forfølgelse — teksten er kodet som et forsvarsmiddel
 
 **Tallsymbolikk i apokalyptikken:**
+
 - 7 = fullkommenhet/helhet
 - 12 = Guds folk (12 stammer, 12 apostler)
 - 666 = et tall for ufullkommenhet (under 777)

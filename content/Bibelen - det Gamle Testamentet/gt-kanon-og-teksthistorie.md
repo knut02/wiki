@@ -1,9 +1,9 @@
-# GT-kanon og teksthistorie — oppbygging og struktur
-
-> GT's inndeling i tre deler (Torah, Profeter, Skrifter) og tekstens overlevering — fra hebraisk originalspråk til Septuaginta og tekstkritikk.
-
-*Opprettet: 2025-05-03 | Oppdatert: 2025-05-15 | Kilder: 3*
-
+---
+title: "GT-kanon og teksthistorie — oppbygging og struktur"
+description: "GT's inndeling i tre deler (Torah, Profeter, Skrifter) og tekstens overlevering — fra hebraisk originalspråk til Septuaginta og tekstkritikk."
+date: 2025-05-03
+modified: 2025-05-15
+kilder: 3
 ---
 
 ## GT's tredelte kanon (TaNaK)
@@ -33,6 +33,7 @@ Hva vi har er kopier av kopier — skrevet på papyrus, pergament og lær, kopie
 Tekstkritikk sammenligner alle tilgjengelige vitner om en tekst — hebraiske manuskripter, oversettelser, siteringer i andre verk — og spør: Hvilken lesemåte er mest sannsynlig opprinnelig?
 
 **Hva som sammenlignes for GT:**
+
 - **Masoretisk tekst (MT)** — den standardiserte hebraiske teksten fra 500–900 e.Kr., fastlagt av jødiske skriftlærde. Grunnlaget for moderne GT-oversettelser.
 - **Septuaginta (LXX)** — gresk oversettelse fra ca. 250 f.Kr., laget for jøder i Alexandria. Inneholder noen ganger kortere eller lengre tekster enn MT (Jeremia i LXX er ca. 1/8 kortere enn i MT; hebraisk Job er 1/6 lengre enn gresk Job).
 - **Dødehavsrullene** — manuskripter funnet 1947–1956, ca. 1000 år eldre enn de eldste MT-manuskriptene. Bekrefter MT i stor grad (særlig Jesajaboken), men avslører også alternative teksttradisjoner.
@@ -41,6 +42,7 @@ Tekstkritikk sammenligner alle tilgjengelige vitner om en tekst — hebraiske ma
 - **Vulgata** — Hieronymus' latinske oversettelse (405 e.Kr.)
 
 **Typer av tekstvarianter:**
+
 - Utilsiktet: stavefeil, hoppet linje, gjentatt ord
 - Bevisst: harmonisering med parallelle tekster, teologisk «forbedring», klargjøring av tvetydigheter
 
@@ -53,6 +55,7 @@ Tekstkritikk sammenligner alle tilgjengelige vitner om en tekst — hebraiske ma
 **Septuaginta** («de sytti», forkortet LXX) er den greske oversettelsen av GT, laget fra ca. 250 f.Kr. og utover, primært for jødene i Alexandria som ikke lenger behersket hebraisk.
 
 Septuaginta er av stor betydning for NT:
+
 - NT-forfatterne siterer overveiende fra LXX, ikke den hebraiske grunnteksten
 - LXX inneholder deuterokanoniske bøker (Tobit, Judit, Siraks bok m.fl.) som ikke finnes i den hebraiske kanon — dette er bakgrunnen for forskjellen mellom katolsk og protestantisk GT-kanon
 
@@ -65,6 +68,7 @@ Eksempel: Jes 7:14 — Matteus siterer «jomfru» (*parthenos* i LXX) der den he
 **Masoretisk tekst (MT)** er den standardiserte hebraiske teksten fra ca. 500–900 e.Kr., fastlagt av jødiske skriftlærde (*masoreterne*) som også la til vokaltegn (*niqqud*) i den opprinnelig konsonanante teksten.
 
 **Dødehavsrullene** (funnet 1947–1956) inneholder hebraiske og arameiske manuskripter fra ca. 250 f.Kr.–68 e.Kr. Funnene:
+
 - Bekrefter overraskende overensstemmelse med MT (særlig for Jesajaboken)
 - Avslører at det fantes alternative teksttradisjoner — særlig for 5 Mosebok og Jeremia
 - Inneholder noen tekster som er nærmere LXX enn MT — noe som viser at LXX noen ganger oversatte en annen hebraisk tekst enn MT

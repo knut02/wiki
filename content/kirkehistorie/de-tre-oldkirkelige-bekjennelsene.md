@@ -1,9 +1,9 @@
-# De tre oldkirkelige bekjennelsene
-
-> Bekjennelsene er ikke sammendrag av hele den kristne lære. De er grensestener — de markerer hva som er innenfor og utenfor, og gjør det i negativer like mye som i positiver.
-
-*Opprettet: 2025-04-18 | Oppdatert: 2025-05-11 | Kilder: 3*
-
+---
+title: "De tre oldkirkelige bekjennelsene"
+description: "Bekjennelsene er ikke sammendrag av hele den kristne lære. De er grensestener — de markerer hva som er innenfor og utenfor, og gjør det i negativer like mye som i positiver."
+date: 2025-04-18
+modified: 2025-05-11
+kilder: 3
 ---
 
 ## Tre bekjennelser — tre funksjoner

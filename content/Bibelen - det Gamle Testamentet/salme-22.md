@@ -1,9 +1,8 @@
-# Salme 22
-
-> En klagesalme fra Det gamle testamentet som evangeliene siterer direkte i beretningen om Jesu korsfestelse.
-
-*Opprettet: 2025-04-18 | Kilder: 1*
-
+---
+title: "Salme 22"
+description: "En klagesalme fra Det gamle testamentet som evangeliene siterer direkte i beretningen om Jesu korsfestelse."
+date: 2025-04-18
+kilder: 1
 ---
 
 ## Hva er salmen?
