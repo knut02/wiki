@@ -5,8 +5,6 @@ date: 2025-05-01
 modified: 2025-05-18
 ---
 
-# Reformasjonen — bekjennelser og motreformasjon
-
 > «Rettferdiggjort ved tro alene — dette er artikkelen som kirken står og faller med.» — Luther. Trentkonsilet svarte: Ved tro *og* gjerninger.
 
 ---

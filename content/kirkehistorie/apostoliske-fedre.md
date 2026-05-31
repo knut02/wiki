@@ -5,8 +5,6 @@ date: 2025-05-06
 updated: 2025-05-24
 ---
 
-# Apostoliske fedre
-
 > «Jeg er Guds hvete, og jeg males av dyrs tenner, slik at jeg kan bli funnet å være rent brød.» — Ignatius av Antiokia, på vei til martyrdøden i Roma, ca. 107 e.Kr.
 
 ---
@@ -18,6 +16,7 @@ updated: 2025-05-24
 Disse skriftene er ikke kanoniske NT-skrifter, men de er de eldste kristne dokumentene vi har utenfor NT — og de gir et unikt innblikk i hva den første generasjonen etter apostlene trodde og praktiserte.
 
 Skriftsamlingen inkluderer vanligvis:
+
 - **Klemens' første brev** (1 Klem) — ca. 96 e.Kr.
 - **Ignatius' syv brev** — ca. 107–110 e.Kr.
 - **Polykarp av Smyrna** — brev og martyrberetning
@@ -34,6 +33,7 @@ Klemens var biskop i Roma mot slutten av det første århundret. Hans brev til m
 **Bakgrunnen:** En fraksjonskamp i Korint hadde ført til at de eldste ble avsatt. Klemens skriver på vegne av den romerske menigheten for å gjenopprette orden — og gjør det med en autoritet som antyder at Roma allerede på dette tidspunktet hadde en viss særstilling.
 
 **Teologisk innhold:**
+
 - Sterk vekt på orden og hierarki i menigheten — biskoper og diakoner er innsatt av apostlene
 - Tidlig formulering av *apostolisk suksesjon*: apostlene utpekte etterfølgere, som igjen utpekte sine
 - Bruker både GT og Paulus aktivt som autoritative skrifter

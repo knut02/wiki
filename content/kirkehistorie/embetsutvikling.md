@@ -6,8 +6,6 @@ updated: 2025-05-26
 sources: 3
 ---
 
-# Embetsutvikling i oldkirken
-
 > «Uten biskop, presbytere og diakoner kan det ikke kalles noen kirke.» — Ignatius av Antiokia, ca. 110 e.Kr.
 
 ---
