@@ -1,9 +1,8 @@
-# Kirken i øst og vest — splittelsen av kristendommen
-
-> «Kongen er ikke øversteprest; øverstepresten er ikke konge.» — Ambrosius av Milano til keiser Theodosius
-
-*Opprettet: 2025-05-10 | Kilder: 2*
-
+---
+title: "Kirken i øst og vest — splittelsen av kristendommen"
+description: "«Kongen er ikke øversteprest; øverstepresten er ikke konge.» — Ambrosius av Milano til keiser Theodosius"
+date: 2025-05-10
+kilder: 2
 ---
 
 ## To kristendommer — én religion

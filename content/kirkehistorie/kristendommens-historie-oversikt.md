@@ -1,9 +1,9 @@
-# Kristendommens historie — oversikt
-
-> «Historien er ikke tilfeldig. Den beveger seg mot et mål.» — En grunnforutsetning i kristen historieteologi.
-
-*Opprettet: 2025-04-18 | Oppdatert: 2025-05-15 | Kilder: 3*
-
+---
+title: "Kristendommens historie — oversikt"
+description: "«Historien er ikke tilfeldig. Den beveger seg mot et mål.» — En grunnforutsetning i kristen historieteologi."
+date: 2025-04-18
+modified: 2025-05-15
+kilder: 3
 ---
 
 ## Navigasjon i 2000 år

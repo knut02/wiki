@@ -1,11 +1,9 @@
 ---
-title: Kristendommens første århundrer
-description: Kristendommens historiske kontekst og kronologi fra Romerriket og Galilea, gjennom grunnleggelsen og ekspansjonen, til templets fall og rekonstruksjonen.
+title: "Kristendommens første århundrer"
+description: "Kristendommens historiske kontekst og kronologi fra Romerriket og Galilea, gjennom grunnleggelsen og ekspansjonen, til templets fall og rekonstruksjonen."
 date: 2025-04-18
 updated: 2025-05-18
 ---
-
-# Kristendommens første århundrer
 
 > Kristendommen oppstod ikke i et vakuum. Den ble til innenfor det jødiske folk, i en landlig palestinsk kontekst, og spredte seg lynraskt til byene i det romerske riket — der den forandret seg underveis.
 

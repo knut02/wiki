@@ -6,15 +6,13 @@ updated: 2025-05-30
 sources: 2
 ---
 
-# Fra oldtid til middelalder — ca. 300–750
-
 > «Med etableringen av det arabiske imperiet i løpet av 600- og første halvdel av 700-tallet var overgangen fra det dominerende romerske imperium til middelalderens tredelte verden fullført.» — Sverre Bagge (2020)
 
 ---
 
 ## Grensen mellom to epoker
 
-Skiljet mellom oldtid og middelalder er ikke én hendelse men en lang prosess. Vanligvis knyttes det til Vestromerrikets fall — som kan dateres til ulike tidspunkt mellom slutten av 300-tallet og slutten av 400-tallet. Men Bagge (2020) peker på at dette bare er en del av en mer omfattende, verdenshistorisk prosess: I tiden ca. 200–650 brøt *alle* de store oldtidsimperiene sammen — fra Kina i øst til Romerriket i vest.
+Skillet mellom oldtid og middelalder er ikke én hendelse men en lang prosess. Vanligvis knyttes det til Vestromerrikets fall — som kan dateres til ulike tidspunkt mellom slutten av 300-tallet og slutten av 400-tallet. Men Bagge (2020) peker på at dette bare er en del av en mer omfattende, verdenshistorisk prosess: I tiden ca. 200–650 brøt *alle* de store oldtidsimperiene sammen — fra Kina i øst til Romerriket i vest.
 
 Det som skjedde etterpå, var svært ulikt. I øst — Kina, India, Sørøst-Asia — ble sivilisasjonen i hovedsak gjenopprettet. I vest innledet krisen en ny epoke, preget av to avgjørende nyvinninger:
 
@@ -28,7 +26,7 @@ Overgangsfasen begynner med kristendommens gjennombrudd som statsreligion under 
 
 ## Kristendommens gjennombrudd
 
-Romerriket var tradisjonelt holdt sammen av verdslige institusjoner — hær, byråkrati, lovverk, handel og felles sprog. Det romde en rekke religioner som i det store og hele ble tolerert. Men dette var ikke en «sekulær» stat i moderne forstand — den romerske religion var dennesidig og knyttet til familien, byen og staten.
+Romerriket var tradisjonelt holdt sammen av verdslige institusjoner — hær, byråkrati, lovverk, handel og felles sprog. Det rommet en rekke religioner som i det store og hele ble tolerert. Men dette var ikke en «sekulær» stat i moderne forstand — den romerske religion var dennesidig og knyttet til familien, byen og staten.
 
 **Frelsesreligionenes vekst.** Det store skiftet kom på 200-tallet. Frelsesreligioner — som lovte personlig frelse og hinsides fellesskap — vant kraftig frem. Mysteriereligioner (Isis-dyrkelsen, Mithra), jødedommen og til slutt kristendommen appellerte i en tid preget av politisk krise, oppløsning av tradisjonelle sosiale enheter og en skjerpet bevissthet om skillet mellom det åndelige og det materielle.
 

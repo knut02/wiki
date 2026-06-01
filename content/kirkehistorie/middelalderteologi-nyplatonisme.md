@@ -1,9 +1,8 @@
-# Middelalderens teologi — nyplatonisme og apofatisk teologi
-
-> Augustins møte med nyplatonismen og Dionysios Areopagitens negative teologi som grunnlag for middelalderens spirituelle tenkning.
-
-*Opprettet: 2025-05-01 | Kilder: 1*
-
+---
+title: "Middelalderens teologi — nyplatonisme og apofatisk teologi"
+description: "Augustins møte med nyplatonismen og Dionysios Areopagitens negative teologi som grunnlag for middelalderens spirituelle tenkning."
+date: 2025-05-01
+kilder: 1
 ---
 
 ## Augustin og nyplatonismen
@@ -23,6 +22,7 @@ I *Om Genesis mot manikeerne* (388–389) bruker Augustin nyplatonsk-inspirert t
 En viktig distinksjon for å forstå middelalderens teologi: den jødisk-kristne tradisjonen forstår Gud primært som *subjekt* — en som handler, velger, elsker, taler. Den greske filosofitradisjonen forstår det høyeste virkelighetsprinsipp primært som *substans* — det ultimate underlaget for all eksistens.
 
 Denne spenningen preger hele middelalderteologien:
+
 - Spørsmålet om Guds vilje (har Gud en vilje, og er den fri?)
 - Jesu to naturer (hadde han også to *viljer*?)
 - Skolastikkens debatt om intellekt vs. vilje som primært i Gud

@@ -1,11 +1,9 @@
 ---
-title: Frelse — Athanasius og Augustin
-description: To av oldkirkens viktigste frelseslærer — Athanasius' inkarnasjonsbaserte theosis fra øst, og Augustins nådelære fra vest — samt Bercots fremstilling av oldkirkens to-stegs frelsesforståelse.
+title: "Frelse — Athanasius og Augustin"
+description: "To av oldkirkens viktigste frelseslærer — Athanasius' inkarnasjonsbaserte theosis fra øst, og Augustins nådelære fra vest — samt Bercots fremstilling av oldkirkens to-stegs frelsesforståelse."
 date: 2025-05-01
 updated: 2025-05-24
 ---
-
-# Frelse: Athanasius og Augustin
 
 > To av oldkirkens viktigste frelseslærer sett opp mot hverandre — Athanasius' inkarnasjonsbaserte *theosis* fra øst, og Augustins nådelære fra vest.
 

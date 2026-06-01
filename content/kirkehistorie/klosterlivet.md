@@ -1,9 +1,8 @@
-# Klosterlivet i middelalderen
-
-> Klostervesenet som oppsto på 300-tallet som en reaksjon på kirkens statsliggjøring, og utviklet seg gjennom tre hovedfaser i middelalderen.
-
-*Opprettet: 2025-04-18 | Kilder: 1*
-
+---
+title: "Klosterlivet i middelalderen"
+description: "Klostervesenet som oppsto på 300-tallet som en reaksjon på kirkens statsliggjøring, og utviklet seg gjennom tre hovedfaser i middelalderen."
+date: 2025-04-18
+kilder: 1
 ---
 
 ## Opprinnelse

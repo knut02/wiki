@@ -1,9 +1,9 @@
-# Luthers teologi
-
-> «Et kristent menneske er en fullkommen fri herre over alle ting og ingen underdanig. Et kristent menneske er en fullkommen pliktskyldig tjener for alle ting og alle underdanig.» — Martin Luther, *Om et kristenmenneskes frihet*, 1520
-
-*Opprettet: 2025-04-18 | Oppdatert: 2025-05-17 | Kilder: 3*
-
+---
+title: "Luthers teologi"
+description: "«Et kristent menneske er en fullkommen fri herre over alle ting og ingen underdanig. Et kristent menneske er en fullkommen pliktskyldig tjener for alle ting og alle underdanig.» — Martin Luther, *Om et kristenmenneskes frihet*, 1520"
+date: 2025-04-18
+modified: 2025-05-17
+kilder: 3
 ---
 
 ## Mannen og konteksten
@@ -39,6 +39,7 @@ Han hadde lest «Guds rettferdighet» som Guds straffende dom over syndere — n
 McGrath (2013) sammenfatter: Luther formulerte dette mot det han oppfattet som en ufrivillig pelagianisme i samtidskirken — tanken om at mennesket kan bidra til sin egen frelse ved gjerninger og bønn. Luthers svar: Rettferdiggjørelse er *utelukkende* Guds verk.
 
 **Fire slagsord oppsummerer reformasjonen:**
+
 - *Sola fide* — ved tro alene
 - *Sola gratia* — ved nåde alene
 - *Sola scriptura* — ved Skriften alene

@@ -1,9 +1,8 @@
-# Mester Eckhart og den tyske mystikken
-
-> Mester Eckhart (ca. 1260–1328) og Rhinlandsmystikken — Guds fødsel i sjelen, sjelens forening med Guddommen og den negative teologiens praktiske konsekvenser.
-
-*Opprettet: 2025-05-01 | Kilder: 1*
-
+---
+title: "Mester Eckhart og den tyske mystikken"
+description: "Mester Eckhart (ca. 1260–1328) og Rhinlandsmystikken — Guds fødsel i sjelen, sjelens forening med Guddommen og den negative teologiens praktiske konsekvenser."
+date: 2025-05-01
+kilder: 1
 ---
 
 ## Hvem var Mester Eckhart?

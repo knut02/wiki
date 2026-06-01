@@ -1,9 +1,9 @@
-# Fra oldtid til middelalder — ca. 300–750
-
-> «Med etableringen av det arabiske imperiet i løpet av 600- og første halvdel av 700-tallet var overgangen fra det dominerende romerske imperiet og til middelalderens tredelte verden fullført.» — Bagge 2020
-
-*Opprettet: 2025-05-11 | Oppdatert: 2025-05-11 | Kilder: 2*
-
+---
+title: "Fra oldtid til middelalder — ca. 300–750"
+description: "«Med etableringen av det arabiske imperiet i løpet av 600- og første halvdel av 700-tallet var overgangen fra det dominerende romerske imperiet og til middelalderens tredelte verden fullført.» — Bagge 2020"
+date: 2025-05-11
+modified: 2025-05-11
+kilder: 2
 ---
 
 ## En tredelt verden

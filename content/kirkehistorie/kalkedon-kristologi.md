@@ -1,9 +1,9 @@
-# Kalkedon-kristologi — fra Nikea til Kalkedon
-
-> «Vi bekjenner den éne og samme Kristus, Sønn, Herre, enbåren, som erkjennes i to naturer, uten sammenblanding og uforvandlet, uoppdelt og uten atskillelse.» — Kalkedon 451 e.Kr.
-
-*Opprettet: 2025-04-18 | Oppdatert: 2025-05-11 | Kilder: 4*
-
+---
+title: "Kalkedon-kristologi — fra Nikea til Kalkedon"
+description: "«Vi bekjenner den éne og samme Kristus, Sønn, Herre, enbåren, som erkjennes i to naturer, uten sammenblanding og uforvandlet, uoppdelt og uten atskillelse.» — Kalkedon 451 e.Kr."
+date: 2025-04-18
+modified: 2025-05-11
+kilder: 4
 ---
 
 ## Fra Nikea til Kalkedon: tre konsilier på 126 år
@@ -56,6 +56,7 @@ Det store forsoningskonsilet. I 451 møttes ca. 500 biskoper i Kalkedon for å f
 > «I troskap mot de hellige fedre [...] lærer og bekjenner vi samstemmig: den éne og samme Sønn, vår Herre Jesus Kristus, fullkommen i guddom, fullkommen i menneskelighet, sann Gud og sant menneske med en fornuftig sjel og et legeme, etter sin guddom vesensett (*homoousios*) med Faderen, etter sin menneskelighet vesensett (*homoousios*) med oss, lik oss i alt uten synden.»
 
 Fire negative avgrensninger — de fire berømte *adverbene*:
+
 - **Uten sammenblanding** (*asynchytōs*) — mot monofysittene: naturene smelter ikke sammen
 - **Uforvandlet** (*atreptōs*) — mot monofysittene: den ene naturen endrer ikke den andre
 - **Uoppdelt** (*adiairetōs*) — mot nestorianerne: de to naturene deler ikke Kristus i to

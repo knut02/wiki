@@ -1,11 +1,9 @@
 ---
-title: Middelalderteologi
-description: Middelalderens to hovedteologiske strømninger — monastisk teologi (Benedikt, Bernard, Hildegard) og skolastisk teologi (Anselm, Aquinas, Bonaventura) — med nøkkelskikkelser og overgang til reformasjonen.
+title: "Middelalderteologi"
+description: "Middelalderens to hovedteologiske strømninger — monastisk teologi (Benedikt, Bernard, Hildegard) og skolastisk teologi (Anselm, Aquinas, Bonaventura) — med nøkkelskikkelser og overgang til reformasjonen."
 date: 2025-05-01
 updated: 2025-05-18
 ---
-
-# Middelalderteologi
 
 > «Tro som søker forståelse.» — Anselm av Canterbury (*fides quaerens intellectum*)
 
@@ -26,6 +24,7 @@ Middelalderteologien er i stor grad et prosjekt om å *konsolidere og utvide* de
 Begrepet ble etablert av Jean Leclercq (1911–1993) — han viste at klosterteologien på 1100-tallet ikke bare er «førskolastisk» men må forstås på sine egne premisser.
 
 Monastisk teologi kjennetegnes av:
+
 - Utvikling innenfor klosterlivets rammer, knyttet til liturgi og kontemplasjon
 - Fokus på *erfaring* av trosinnholdet, ikke bare intellektuell forståelse
 - Bibellesning som *lectio divina* — langsom, kontemplativ lesning der teksten «spises» innenfra
