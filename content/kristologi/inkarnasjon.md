@@ -5,8 +5,6 @@ date: 2025-05-03
 updated: 2025-05-24
 ---
 
-# Inkarnasjonen — Guds Sønn som menneske
-
 > Den kristne bekjennelsen om at Guds evige Sønn ble menneske — historisk bakgrunn, nytestamentlige røtter, tidligkirkens formuleringer og Kalkedon.
 
 ---

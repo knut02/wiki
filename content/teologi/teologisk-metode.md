@@ -6,8 +6,6 @@ updated: 2025-05-26
 sources: 2
 ---
 
-# Teologisk metode — diskurs om Gud
-
 > «Teologisk metode er måten, modus og midlene for å delta i diskurs om Gud, hans verk og hans veier.» — Kreider (2024)
 
 ---

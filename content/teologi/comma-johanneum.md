@@ -25,6 +25,7 @@ Formuleringen «Far, Ordet og Den Hellige Ånd, og disse tre er ett» er den ene
 Tekstkritikken er nesten unison: Comma Johanneum er med stor sannsynlighet ikke en del av den opprinnelige teksten til 1 Johannesbrev.
 
 **Manuskriptbevisene:**
+
 - Setningen finnes *ikke* i noen greske manuskripter før 1400-tallet
 - Den finnes *ikke* i de tidligste latinske manuskriptene
 - Den finnes *ikke* i de viktigste gamle oversettelsene (Peshitta, koptisk, etiopisk)

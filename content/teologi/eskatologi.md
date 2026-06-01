@@ -1,11 +1,9 @@
 ---
-title: Eskatologi — kristent fremtidshåp
-description: Det kristne håpet om fremtiden — sheol som mellomstadium, det tofasede håpet, oppstandelseslegemet, ny skapelse, dom og etikk.
+title: "Eskatologi — kristent fremtidshåp"
+description: "Det kristne håpet om fremtiden — sheol som mellomstadium, det tofasede håpet, oppstandelseslegemet, ny skapelse, dom og etikk."
 date: 2025-05-17
 updated: 2025-05-18
 ---
-
-# Eskatologi — kristent fremtidshåp
 
 > «Oppstandelsen er ikke liv etter døden. Det er liv etter livet etter døden.» — N.T. Wright 2008
 
@@ -68,6 +66,7 @@ Romerbrevet 8 er Wrights nøkkeltekst: Skaperverket selv «stønner og lengter»
 Hva slags kropp får vi i oppstandelsen? 1 Kor 15 er det sentrale stedet. Paulus bruker bildet av et frø og en plante — kontinuitet og transformasjon på én gang.
 
 Oppstandelseslegemet er:
+
 - **Reelt og kroppslig** — ikke en ånd eller et spøkelse
 - **Transformert** — ikke gjenopplivet gammelt kjøtt, men fornyet
 - **Åndelig drevet** (*pneumatikon*) — i motsetning til det naturlige legemet

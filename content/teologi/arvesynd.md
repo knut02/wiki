@@ -1,9 +1,9 @@
-# Arvesynd
-
-> «For likesom alle dør i Adam, skal alle bli gjort levende i Kristus.» — 1 Kor 15:22
-
-*Opprettet: 2025-04-18 | Oppdatert: 2025-05-17 | Kilder: 3*
-
+---
+title: "Arvesynd"
+description: " «For likesom alle dør i Adam, skal alle bli gjort levende i Kristus.» — 1 Kor 15:22"
+date: 2025-04-18
+modified: 2025-05-17
+kilder: 3
 ---
 
 ## Hva er arvesynd?
@@ -60,11 +60,13 @@ Augustin var dessuten sterkt påvirket av sin bakgrunn i **manikéismen** — en
 ## Bibelske tekster
 
 **For arvet syndighet:**
+
 - Rom 5:12: «Synden kom inn i verden gjennom ett menneske, og med synden fulgte døden.»
 - 1 Kor 15:22: «Likesom alle dør i Adam...»
 - Sal 51:7: «Jeg er jo født skyldig, til synd ble jeg unnfanget» (Davids klage, ikke et dogmatisk utsagn)
 
 **For individuelt ansvar:**
+
 - Esek 18:20: «Den som synder, skal dø. Sønnen skal ikke bære farens skyld.»
 - 5 Mos 24:16: «Fedre skal ikke lide døden for barns skyld.»
 - Matt 18:3: Jesus fremhever barn som modell for riket — ikke som skyldige som trenger frelse fra Adamssyndets fordømmelse.

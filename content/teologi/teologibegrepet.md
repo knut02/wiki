@@ -1,9 +1,8 @@
-# Hva er teologi?
-
-> Klassiske definisjoner fra Aquinas til Gutierrez — og spørsmålet om forholdet mellom teologi som vitenskapsfag og kirken.
-
-*Opprettet: 2025-05-03 | Kilder: 1*
-
+---
+title: "Hva er teologi?"
+description: "Klassiske definisjoner fra Aquinas til Gutierrez — og spørsmålet om forholdet mellom teologi som vitenskapsfag og kirken."
+date: 2025-05-03
+kilder: 1
 ---
 
 ## Fire klassiske definisjoner

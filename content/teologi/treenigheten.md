@@ -1,11 +1,9 @@
 ---
-title: Treenigheten
-description: Den kristne læren om én Gud i tre distinkte personer — Nikea, Kalkedon, østlig vs. vestlig tradisjon, og spørsmålet om Guds kjønn.
+title: "Treenigheten"
+description: "Den kristne læren om én Gud i tre distinkte personer — Nikea, Kalkedon, østlig vs. vestlig tradisjon, og spørsmålet om Guds kjønn."
 date: 2025-05-01
 updated: 2025-05-18
 ---
-
-# Treenigheten
 
 > Den kristne læren om én Gud i tre distinkte personer: Faderen, Sønnen og Den hellige ånd — formulert over fire kirkemøter mellom 325 og 451 e.Kr.
 

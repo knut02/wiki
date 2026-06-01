@@ -5,8 +5,6 @@ date: 2025-05-24
 updated: 2025-05-24
 ---
 
-# Hellige skrifter i verdensreligionene
-
 > «I svært mange religioner er det den hellige tekst som gir religionen sin grunnleggende identitet.» — Braarvig og Justnes (2011)
 
 ---

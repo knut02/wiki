@@ -6,8 +6,6 @@ updated: 2025-05-26
 sources: 3
 ---
 
-# Jesus i Johannes-evangeliet — Gud og Messias
-
 > «I begynnelsen var Ordet, og Ordet var hos Gud, og Ordet var Gud.» — Joh 1:1
 
 > «Min Herre og min Gud!» — Tomas, Joh 20:28

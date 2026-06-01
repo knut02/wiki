@@ -6,7 +6,6 @@ updated: 2025-05-18
 kilder: 3
 ---
 
-
 > «Dersom Kristus ikke er oppstått, er vår forkynnelse ingenting, og troen deres er ingenting.» — 1 Kor 15:14
 
 ---

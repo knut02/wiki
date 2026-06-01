@@ -1,9 +1,9 @@
-# Religionsteologi
-
-> «Vi er alle inklusivister.» — Knitter 2002. Ingen møter en annen religion fra et nøytralt sted.
-
-*Opprettet: 2025-04-18 | Oppdatert: 2025-05-15 | Kilder: 3*
-
+---
+title: "Religionsteologi"
+description: "«Vi er alle inklusivister.» — Knitter 2002. Ingen møter en annen religion fra et nøytralt sted."
+date: 2025-04-18
+modified: 2025-05-15
+kilder: 3
 ---
 
 ## Hva er religionsteologi?

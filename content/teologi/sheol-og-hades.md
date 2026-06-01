@@ -6,8 +6,6 @@ updated: 2025-05-26
 sources: 2
 ---
 
-# Sheol og Hades — dødsriket i Bibelen
-
 ---
 
 ## Hva er Sheol?
@@ -15,6 +13,7 @@ sources: 2
 *Sheol* er det hebraiske ordet for dødsriket i Det gamle testamentet. Det tilsvarende greske begrepet i Det nye testamentet er *Hades*. Begge betegner stedet eller tilstanden der de døde befinner seg — ikke som evig dom, men som en mellomtilstand mellom døden og den endelige oppstandelsen.
 
 I Bibelen beskrives virkeligheten i tre lag:
+
 - **Himmelen** — Guds bosted
 - **Jorden** — den fysiske verden
 - **Under jorden / Sheol** — de dødes oppholdssted (ikke forstått som et fysisk sted i jordens indre, men som en åndelig sfære)

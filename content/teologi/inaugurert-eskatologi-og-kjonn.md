@@ -1,9 +1,8 @@
-# Inaugurert eskatologi og kjønn
-
-> Glenn Giles' akademiske analyse av sentrale NT-tekster om kjønn lest gjennom eskatologiens linse: det "allerede og ennå ikke" som nøkkel til Ef 5, 1 Kor 11, 1 Tim 2 og Gal 3.
-
-*Opprettet: 2025-05-03 | Kilder: 1*
-
+---
+title: "Inaugurert eskatologi og kjønn"
+description: "Glenn Giles' akademiske analyse av sentrale NT-tekster om kjønn lest gjennom eskatologiens linse: det "allerede og ennå ikke" som nøkkel til Ef 5, 1 Kor 11, 1 Tim 2 og Gal 3."
+date: 2025-05-03
+kilder: 1
 ---
 
 ## Hva er inaugurert eskatologi?
@@ -13,6 +12,7 @@ Inaugurert eskatologi er den dominerende posisjonen blant NT-forskere i dag. Den
 Denne spenningen kalles "det allerede og ennå ikke." Frelsen er *allerede* begynt (vi er frelst), men *ikke ennå* fullført (vi skal frelses). Det gjelder sønnekår, forløsning, arv — alle de sentrale frelseskategoriene i NT.
 
 To feilsporinger:
+
 - **Overrealisert eskatologi** — å leve som om fullbyrdet fremtid er nåtid. Falske lærere i Tessalonika hevdet f.eks. at "Herrens dag" allerede hadde kommet (2 Tess 2:2)
 - **Underrealisert eskatologi** — å nekte å la det kommende riket utfordre nåtiden. Judaistene som tvang hedningene til omskjæring er eksempel
 

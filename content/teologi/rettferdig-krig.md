@@ -1,9 +1,8 @@
-# Rettferdig krig
-
-> Kan en kristen gå til krig? Og om svaret er ja — under hvilke betingelser? Disse spørsmålene har preget kristen teologi fra Augustin til i dag.
-
-*Opprettet: 2025-05-06 | Kilder: 2*
-
+---
+title: "Rettferdig krig"
+description: "Kan en kristen gå til krig? Og om svaret er ja — under hvilke betingelser? Disse spørsmålene har preget kristen teologi fra Augustin til i dag."
+date: 2025-05-06
+kilder: 2
 ---
 
 ## Opprinnelse: ikke et kristent begrep
