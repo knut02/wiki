@@ -1,9 +1,8 @@
-# Gudskunnskap og religiøs danning — Klemens og Gregor av Nyssa
-
-> Henny Fiskå Häggs analyse av to oldkirkelige tenkeres syn på gudserkjennelse og religiøs danning: Klemens av Alexandria og Gregor av Nyssa. Begge beskriver frelsen som en prosess av gradvis likhet med Gud (*theosis*).
-
-*Opprettet: 2025-05-04 | Kilder: 1*
-
+---
+title: "Gudskunnskap og religiøs danning — Klemens og Gregor av Nyssa"
+description: "Henny Fiskå Häggs analyse av to oldkirkelige tenkeres syn på gudserkjennelse og religiøs danning: Klemens av Alexandria og Gregor av Nyssa. Begge beskriver frelsen som en prosess av gradvis likhet med Gud (*theosis*)."
+date: 2025-05-04
+kilder: 1
 ---
 
 ## Kontekst: Dannelse og gudskunnskap

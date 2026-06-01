@@ -5,8 +5,6 @@ date: 2025-05-11
 updated: 2025-05-20
 ---
 
-# Bønn
-
 > «Herren, hør min bønn, la mitt rop nå frem til deg!» — Salme 102:2. Ikke en velformulert henvendelse. Et rop.
 
 ---

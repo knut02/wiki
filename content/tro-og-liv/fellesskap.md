@@ -1,11 +1,9 @@
 ---
-title: Fellesskap — å bære hverandres byrder
-description: Kristent fellesskap som byrdebæring — gresk analyse av baros vs. phortion i Gal 6, Ef 4:16 om alle ledd, og Åndens frukter som fellesskapets livsnerve.
+title: "Fellesskap — å bære hverandres byrder"
+description: "Kristent fellesskap som byrdebæring — gresk analyse av baros vs. phortion i Gal 6, Ef 4:16 om alle ledd, og Åndens frukter som fellesskapets livsnerve."
 date: 2025-05-03
 updated: 2025-05-17
 ---
-
-# Fellesskap — å bære hverandres byrder
 
 > «Bær hverandres byrder, og oppfyll Kristi lov på den måten.» — Gal 6:2
 
@@ -37,7 +35,7 @@ Tre observasjoner:
 
 **«Hvert enkelt lem»:** Paulus setter ingen begrensninger — ikke bare de erfarne, de modne, de med lederansvar. Den som nettopp begynte sin tro, er like nødvendig som den som har trodd i tjue år. Den som er usikker, er et ledd. Den som sjelden sier noe, er et ledd.
 
-**«Den kraft som er tilmålt»:** Hvert lem gir ut fra det det har — ikke ut fra hva det burde ha.
+**«Den kraft som er tilmålt»:** Hvert lem gir ut fra det har — ikke ut fra hva det burde ha.
 
 **«Bygger seg selv opp i kjærlighet»:** Vekst skjer ikke gjennom enkeltpersoners prestasjon, men gjennom en organisk prosess der alle ledd gjør sin del.
 

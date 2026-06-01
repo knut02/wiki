@@ -5,8 +5,6 @@ date: 2025-05-05
 updated: 2025-05-20
 ---
 
-# Dåpen
-
 > Dåpens teologi og praksis fra NT til i dag: innsettelse i Kristus, syndsforlatelse, Den hellige ånd, og spørsmålet om barnedåp vs. troendes dåp.
 
 ---

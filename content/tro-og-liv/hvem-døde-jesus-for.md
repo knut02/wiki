@@ -1,9 +1,8 @@
-# Hvem døde Jesus for?
-
-> «Han som ikke sparte sin egen Sønn, men gav ham for oss alle — hvordan kan han annet enn å gi oss alt med ham?» — Rom 8:32
-
-*Opprettet: 2025-05-13 | Kilder: 2*
-
+---
+title: "Hvem døde Jesus for?"
+description: "«Han som ikke sparte sin egen Sønn, men gav ham for oss alle — hvordan kan han annet enn å gi oss alt med ham?» — Rom 8:32"
+date: 2025-05-13
+kilder: 2
 ---
 
 ## Et spørsmål med mange svar

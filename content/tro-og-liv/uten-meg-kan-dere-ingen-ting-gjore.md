@@ -6,8 +6,6 @@ updated: 2025-05-31
 sources: 4
 ---
 
-# Uten meg kan dere ingen ting gjøre — Joh 15:5
-
 > «Jeg er vintreet, dere er grenene. Den som blir i meg, og jeg i ham, han bærer mye frukt. For uten meg kan dere ingen ting gjøre.» — Joh 15:5
 
 ---

@@ -1,9 +1,9 @@
-# Min Fars hus — relasjon med Gud nå og i evigheten
-
-> «I min Fars hus er det mange rom.» — Joh 14:2. Men hva er Fars hus, og er det bare et fremtidig løfte?
-
-*Opprettet: 2025-04-18 | Oppdatert: 2025-05-10 | Kilder: 2*
-
+---
+title: "Min Fars hus — relasjon med Gud nå og i evigheten"
+description: "«I min Fars hus er det mange rom.» — Joh 14:2. Men hva er Fars hus, og er det bare et fremtidig løfte?"
+date: 2025-04-18
+modified: 2025-05-10
+kilder: 2
 ---
 
 ## Konteksten: Nattverdsalen, timer før korset

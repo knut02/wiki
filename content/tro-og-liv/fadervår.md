@@ -5,8 +5,6 @@ date: 2025-05-20
 updated: 2025-05-20
 ---
 
-# Fadervår
-
 > «Slik skal dere be: Vår Far i himmelen! La ditt navn holdes hellig. La ditt rike komme. La din vilje skje på jorden som i himmelen. Gi oss i dag vårt daglige brød. Tilgi oss vår skyld, slik vi også tilgir våre skyldnere. Led oss ikke inn i fristelse, men frels oss fra det onde. For riket er ditt og makten og æren i evighet. Amen.» — Matt 6:9–13
 
 ---

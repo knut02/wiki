@@ -1,9 +1,8 @@
-# Presterollen og kongelig presteskap
-
-> Bibelsk gjennomgang av prestebegrepet — fra GT-prester av Levis stamme til NT-læren om alle troende som et kongelig presteskap.
-
-*Opprettet: 2025-04-27 | Kilder: 2*
-
+---
+title: "Presterollen og kongelig presteskap"
+description: "Bibelsk gjennomgang av prestebegrepet — fra GT-prester av Levis stamme til NT-læren om alle troende som et kongelig presteskap."
+date: 2025-04-27
+kilder: 2
 ---
 
 ## Prester i Det gamle testamentet

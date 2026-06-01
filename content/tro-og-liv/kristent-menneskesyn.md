@@ -1,9 +1,8 @@
-# Kristent menneskesyn
-
-> Hva er et menneske? Det bibelske svaret handler ikke primært om natur eller funksjon, men om relasjon — skapt i Guds bilde, kalt til fellesskap med sin skaper.
-
-*Opprettet: 2025-05-06 | Kilder: 2*
-
+---
+title: "Kristent menneskesyn"
+description: "Hva er et menneske? Det bibelske svaret handler ikke primært om natur eller funksjon, men om relasjon — skapt i Guds bilde, kalt til fellesskap med sin skaper."
+date: 2025-05-06
+kilder: 2
 ---
 
 ## Hva er et menneskesyn?

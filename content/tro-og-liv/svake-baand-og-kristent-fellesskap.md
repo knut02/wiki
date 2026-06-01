@@ -1,9 +1,9 @@
-# Svake bånd og kristent fellesskap
-
-> «Tro spredde seg gjennom svake bånd.» — Ikke gjennom de nære og trygge relasjonene, men gjennom de perifere.
-
-*Opprettet: 2025-05-03 | Oppdatert: 2025-05-15 | Kilder: 3*
-
+---
+title: "Svake bånd og kristent fellesskap"
+description: "«Tro spredde seg gjennom svake bånd.» — Ikke gjennom de nære og trygge relasjonene, men gjennom de perifere."
+date: 2025-05-03
+modified: 2025-05-15
+kilder: 3
 ---
 
 ## Granovetter og de svake båndene

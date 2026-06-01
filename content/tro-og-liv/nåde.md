@@ -1,11 +1,9 @@
 ---
-title: Nåde
-description: Guds gave uten fortjeneste — charis, Paulus' rettferdiggjørelseslære, billig vs. kostbar nåde, og nådens kirkehistoriske debatt fra Augustin til Luther.
+title: "Nåde"
+description: "Guds gave uten fortjeneste — charis, Paulus' rettferdiggjørelseslære, billig vs. kostbar nåde, og nådens kirkehistoriske debatt fra Augustin til Luther."
 date: 2025-05-11
 updated: 2025-05-18
 ---
-
-# Nåde
 
 > «Nåden ble sannhet ved Jesus Kristus.» — Joh 1:17. Ikke prinsipp, men person.
 

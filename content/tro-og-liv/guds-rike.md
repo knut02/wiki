@@ -1,11 +1,9 @@
 ---
-title: Guds rike
-description: Guds rike som Jesu kjerneforkynnelse — «allerede og ennå ikke», rikets omvendte logikk, og Willards forståelse av riket som Guds faktiske styrevelde tilgjengelig nå.
+title: "Guds rike"
+description: "Guds rike som Jesu kjerneforkynnelse — «allerede og ennå ikke», rikets omvendte logikk, og Willards forståelse av riket som Guds faktiske styrevelde tilgjengelig nå."
 date: 2025-05-13
 updated: 2025-05-20
 ---
-
-# Guds rike
 
 > «Tiden er inne, og Guds rike er nær. Vend om og tro på evangeliet!» — Mark 1:15. Det første Jesus sier i Markusevangeliet.
 

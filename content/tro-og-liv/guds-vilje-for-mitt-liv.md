@@ -10,7 +10,7 @@ sources: 5
 
 ---
 
-## Det vanligste misforståtte spørsmålet
+## Det vanligste miksforståtte spørsmålet
 
 «Hva er Guds vilje for mitt liv?» er kanskje det spørsmålet kristne stiller hyppigst — og kanskje det spørsmålet som oftest stilles feil.
 

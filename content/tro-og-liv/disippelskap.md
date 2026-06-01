@@ -5,8 +5,6 @@ date: 2025-04-18
 updated: 2025-05-24
 ---
 
-# Disippelskap
-
 > «Ta mitt åk på dere og lær av meg, for jeg er mild og ydmyk av hjertet, og dere skal finne hvile for sjelene deres. For mitt åk er godt og min byrde lett.» — Matt 11:29–30
 
 ---
