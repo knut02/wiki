@@ -1,11 +1,9 @@
 ---
-title: Bergprekenen (Matt 5–7)
-description: Jesu mest systematiske etiske undervisning — saligprisningene, tora-antitesene, Fadervår, bekymringer og den kloke byggmester.
+title: "Bergprekenen (Matt 5–7)"
+description: "Jesu mest systematiske etiske undervisning — saligprisningene, tora-antitesene, Fadervår, bekymringer og den kloke byggmester."
 date: 2025-05-05
 updated: 2025-05-20
 ---
-
-# Bergprekenen (Matt 5–7)
 
 > Jesu mest systematiske etiske undervisning — saligprisningene, kjærlighetens radikalitet og Guds rikes innbydelse. Kjernen i Matteus' bilde av Jesus som ny Moses.
 

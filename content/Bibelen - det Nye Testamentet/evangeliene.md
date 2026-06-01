@@ -1,5 +1,5 @@
 ---
-title: Det nye testamentet - Evangeliene
+title: "Det nye testamentet - Evangeliene"
 description: "De fire bibelske skriftene om Jesu liv og virke — deres tilblivelse, særpreg, det synoptiske problemet og historisk pålitelighet."
 date: 2025-04-18
 modified: 2025-05-05

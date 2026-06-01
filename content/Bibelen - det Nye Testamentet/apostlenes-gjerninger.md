@@ -1,11 +1,9 @@
 ---
-title: Apostlenes gjerninger
-description: Lukas-dobbelverkets andre del — sjanger, forfatter, datering, Lukas som antikk historiker, juridisk apologetikk, og evangeliets spredning fra Jerusalem til Roma.
+title: "Apostlenes gjerninger"
+description: "Lukas-dobbelverkets andre del — sjanger, forfatter, datering, Lukas som antikk historiker, juridisk apologetikk, og evangeliets spredning fra Jerusalem til Roma."
 date: 2025-05-06
 updated: 2025-05-20
 ---
-
-# Apostlenes gjerninger
 
 > «Uhindret og med stor frimodighet forkynte han Guds rike og underviste om Herren Jesus Kristus.» — Siste vers i Apostlenes gjerninger (28:31). En åpen slutt som bekrefter bokens egentlige poeng: budskapet stopper ikke.
 

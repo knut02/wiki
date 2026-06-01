@@ -6,8 +6,6 @@ updated: 2025-05-26
 sources: 3
 ---
 
-# Johannes-evangeliet — oversikt
-
 > «I begynnelsen var Ordet, og Ordet var hos Gud, og Ordet var Gud.» — Joh 1:1
 
 > «Dette er skrevet for at dere skal tro at Jesus er Messias, Guds Sønn, og for at dere ved troen skal ha liv i hans navn.» — Joh 20:31

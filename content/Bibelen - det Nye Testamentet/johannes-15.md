@@ -6,8 +6,6 @@ updated: 2025-05-31
 sources: 3
 ---
 
-# Johannes 15 — vintreet, kjærligheten og verden
-
 > «Jeg er det sanne vintreet, og min Far er vingårdsmannen.» — Joh 15:1
 
 > «Dette er mitt bud: Elsk hverandre slik jeg har elsket dere.» — Joh 15:12
@@ -129,6 +127,7 @@ v. 25 siterer Sal 35:19 / 69:4: «De hatet meg uten grunn.» Ved å bruke dette 
 Jesu tredje løfte om Paraklet i avskjedstalen (jf. 14:16, 26). Her er Åndens rolle å *vitne* — i en rettslig, konfliktfylt kontekst. Burge understreker at det greske *paraklētos* («talsmann/advokat») er en juridisk tittel; Ånden er ikke bare en trøster, men en forsvarsadvokat i den pågående prosessen verden fører mot Jesu disipler.
 
 Vitnesbyrdet er dobbelt:
+
 - **Åndens vitnesbyrd** — fra innsiden, gjennom de troende
 - **Disiplenes vitnesbyrd** — fra utsiden, som øyenvitner («dere har vært med meg fra begynnelsen»)
 

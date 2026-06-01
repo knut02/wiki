@@ -6,8 +6,6 @@ updated: 2025-05-26
 sources: 2
 ---
 
-# Johannesbrevene — oversikt
-
 > «Den som sier: 'Jeg kjenner ham', men ikke holder hans bud, er en løgner, og sannheten er ikke i ham.» — 1 Joh 2:4
 
 > «Den som ikke elsker, kjenner ikke Gud, for Gud er kjærlighet.» — 1 Joh 4:8

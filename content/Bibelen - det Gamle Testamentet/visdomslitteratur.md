@@ -1,11 +1,9 @@
 ---
-title: Visdomslitteratur — sjanger, bøker og praksis
-description: Bibelsk visdom som sjanger og livspraksis — Ordspråkene, Job og Forkynneren, visdomslitteraturens kjennetegn, og visdom som hverdagslig valg i lys av Guds sannhet.
+title: "Visdomslitteratur — sjanger, bøker og praksis"
+description: "Bibelsk visdom som sjanger og livspraksis — Ordspråkene, Job og Forkynneren, visdomslitteraturens kjennetegn, og visdom som hverdagslig valg i lys av Guds sannhet."
 date: 2025-04-18
 updated: 2025-05-18
 ---
-
-# Visdomslitteratur — sjanger, bøker og praksis
 
 > «Frykt for Herren er opphav til visdom; å kjenne Den Hellige er forstand.» — Ordsp 9:10
 

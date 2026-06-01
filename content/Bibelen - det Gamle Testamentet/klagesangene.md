@@ -6,8 +6,6 @@ updated: 2025-05-25
 sources: 3
 ---
 
-# Klagesangene
-
 > «Akk! Hun sitter ensom. Byen var folkerik. Hun ble lik en enke. Hun var stor blant folkeslagene.» — Klag 1:1
 
 ---

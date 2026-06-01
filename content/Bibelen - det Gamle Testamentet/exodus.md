@@ -5,8 +5,6 @@ date: 2025-04-27
 updated: 2025-05-18
 ---
 
-# Exodus — bok, teologi og historisitet
-
 > «Jeg er Herren din Gud, som førte deg ut av Egypt, ut av slavehuset.» — 2 Mos 20:2. Dekalogen begynner ikke med et bud, men med en identitetserklæring.
 
 ---

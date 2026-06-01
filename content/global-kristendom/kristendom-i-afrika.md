@@ -6,8 +6,6 @@ updated: 2025-05-26
 sources: 2
 ---
 
-# Global kristendom — Afrika
-
 ---
 
 ## Vekst i tall
