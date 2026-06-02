@@ -1,6 +1,6 @@
 ---
 title: "Inaugurert eskatologi og kjønn"
-description: "Glenn Giles' akademiske analyse av sentrale NT-tekster om kjønn lest gjennom eskatologiens linse: det "allerede og ennå ikke" som nøkkel til Ef 5, 1 Kor 11, 1 Tim 2 og Gal 3."
+description: "Glenn Giles' akademiske analyse av sentrale NT-tekster om kjønn lest gjennom eskatologiens linse: det allerede og ennå ikke som nøkkel til Ef 5, 1 Kor 11, 1 Tim 2 og Gal 3."
 date: 2025-05-03
 kilder: 1
 ---
