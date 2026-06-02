@@ -1,9 +1,9 @@
-# Tidlig kristent mangfold — ortodoksi og heterodoksi
-
-> Var den tidlige kristendommen én bevegelse med avvikere i utkanten — eller et mangfold av bevegelser der «ortodoksien» er én av mange? Dette er ikke bare et historisk spørsmål, men et teologisk.
-
-*Opprettet: 2025-05-10 | Oppdatert: 2025-05-14 | Kilder: 2*
-
+---
+title: "Tidlig kristent mangfold — ortodoksi og heterodoksi"
+description: "Var den tidlige kristendommen én bevegelse med avvikere i utkanten — eller et mangfold av bevegelser der «ortodoksien» er én av mange? Dette er ikke bare et historisk spørsmål, men et teologisk."
+date: 2025-05-10
+modified: 2025-05-14
+kilder: 2
 ---
 
 ## Spørsmålet
@@ -19,6 +19,7 @@ Men var det alltid slik? Kaufman stiller spørsmålet skarpt: Kan man snakke om 
 **Bart Ehrman** (og lignende forskere som Walter Bauer og Elaine Pagels) argumenterer for at den tidlige kristendommen var et **bredt mangfold av vidt ulike grupper** — med ulike kristologier, gudsforståelser og frelseslærer. Det eneste de hadde felles var en form for tilknytning til Jesus Kristus.
 
 Ehrman beskriver tre grove posisjoner:
+
 - **«Ortodokse»** (*proto-ortodokse*): trodde på én Gud, Jesus som både guddommelig og menneskelig
 - **Markionitter**: trodde på to guder — skapergudens og frelsesgudens
 - **Gnostikere**: trodde på mange guddommelige vesener — gjerne 30 eller flere

@@ -1,9 +1,9 @@
-# Augustin av Hippo
-
-> «Vårt hjerte er urolig inntil det finner ro i deg.» — Augustin, *Bekjennelsene* I.1
-
-*Opprettet: 2025-04-18 | Oppdatert: 2025-05-16 | Kilder: 3*
-
+---
+title: "Augustin av Hippo"
+description: "«Vårt hjerte er urolig inntil det finner ro i deg.» — Augustin, *Bekjennelsene* I.1"
+date: 2025-04-18
+modified: 2025-05-16
+kilder: 3
 ---
 
 ## Hvem var Augustin?

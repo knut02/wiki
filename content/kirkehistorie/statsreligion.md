@@ -1,14 +1,13 @@
-# Statsreligion
-
-> Da kristendommen gikk fra forfulgt minoritet til romersk riksreligion — og hva det gjorde med kirken.
-
-*Opprettet: 2025-05-06 | Kilder: 2*
-
+---
+title: "Statsreligion"
+description: "Da kristendommen gikk fra forfulgt minoritet til romersk riksreligion — og hva det gjorde med kirken."
+date: 2025-05-06
+kilder: 2
 ---
 
 ## Fra forfølgelse til frihet: 312–313
 
-I **312** vant Konstantin ved Milviske bro over medkeiseren Maxentius. Ifølge den kristne historikeren Eusebius av Cæsarea hadde Konstantin sett et kors i himmelen med inskripsjonen «ved dette tegn seier» (*in hoc signo vinces*) — og etter seieren tilskrev han den den kristne Guden.
+I **312** vant Konstantin ved Milviske bro over medkeiseren Maxentius. Ifølge den kristne historikeren Eusebius av Cæsarea hadde Konstantin sett et kors i himmelen med inskripsjonen «ved dette tegn seier» (*in hoc signo vinces*) — og etter seieren tilskrev han den  kristne Guden.
 
 I **313** utstedte Konstantin og Licinius **Ediktet fra Milano**: full religionsfrihet i hele imperiet, tilbakelevering av konfiskert kirkegods, og anerkjennelse av kristne menigheter som juridiske enheter. Dette er ikke kristendommens offisielle statsreligion ennå — men begynnelsen på keiserens aktive støtte.
 
@@ -35,6 +34,7 @@ Det avgjørende steget kom under **Theodosius I**. Den 27. februar **380** utste
 > «Vi vil at alle folk som er under vår myndighets styre, skal bekjenne den religion som den guddommelige apostel Peter overga til romerne [...] det vil si at vi tror på én guddom, Faderen, Sønnen og Den Hellige Ånd i like stor ære og i den hellige treenighets enhet. Vi beordrer at de som følger denne lov, skal ha betegnelsen katolske kristne.»
 
 Med dette ble:
+
 - **Nikensk kristendom** (ikke bare kristendom generelt) gjort til den eneste lovlige statsreligion
 - Alle andre religiøse praksiser gjort ulovlige — herunder «kjetterske» kristne og tradisjonell romersk religion
 - Ikke-nikenske kristne (arianere m.fl.) fratatt kirkene sine
@@ -62,11 +62,13 @@ Statsreligionen og det teologiske vedtaket gikk hånd i hånd: Theodosius brukte
 Kristendommens overgang til statsreligion hadde store konsekvenser:
 
 **Gevinster:**
+
 - Massiv vekst i kirkemedlemskap (nå politisk og sosialt fordelaktig å være kristen)
 - Materielle ressurser — keiserlig finansiering av kirker, kloster, diakoni
 - Juridisk anerkjennelse og innflytelse
 
 **Tap:**
+
 - Martyriet som kristent ideal mistet sin kontekst
 - Kirkens profetiske uavhengighet ble utfordret av keisermaktens forventninger
 - Massiv innflod av «konvensjonsmedlemmer» som utfordret menighetskultur

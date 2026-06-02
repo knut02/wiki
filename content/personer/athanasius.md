@@ -1,9 +1,9 @@
-# Athanasius av Alexandria (ca. 296–373)
-
-> «Athanasius contra mundum» — Athanasius mot verden. Biskop, teolog og forsvarer av Nikea-bekjennelsen gjennom fem eksilperioder.
-
-*Opprettet: 2025-05-05 | Oppdatert: 2025-05-10 | Kilder: 3*
-
+---
+title: "Athanasius av Alexandria (ca. 296–373)"
+description: "«Athanasius contra mundum» — Athanasius mot verden. Biskop, teolog og forsvarer av Nikea-bekjennelsen gjennom fem eksilperioder."
+date: 2025-05-05
+modified: 2025-05-10
+kilder: 3
 ---
 
 ## Biografi

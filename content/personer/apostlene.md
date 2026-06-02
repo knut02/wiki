@@ -1,9 +1,9 @@
-# Apostlene — de tolv
-
-> «Kom og følg meg, så vil jeg gjøre dere til menneskefiskere.» — Matt 4:19
-
-*Opprettet: 2025-04-18 | Oppdatert: 2025-05-13 | Kilder: 2*
-
+---
+title: "Apostlene — de tolv"
+description: "«Kom og følg meg, så vil jeg gjøre dere til menneskefiskere.» — Matt 4:19"
+date: 2025-04-18
+modified: 2025-05-13
+kilder: 2
 ---
 
 ## Hvem var apostlene?

@@ -1,9 +1,8 @@
-# Reformasjonen og døden
-
-> Luther forandret ikke bare teologien — han forandret hva kristne *gjør* med de døde, hvordan de trøster de sørgende, og hva de tror skjer i timene mellom siste åndedrag og oppstandelsen.
-
-*Opprettet: 2025-05-06 | Kilder: 2*
-
+---
+title: "Reformasjonen og døden"
+description: "Luther forandret ikke bare teologien — han forandret hva kristne *gjør* med de døde, hvordan de trøster de sørgende, og hva de tror skjer i timene mellom siste åndedrag og oppstandelsen."
+date: 2025-05-06
+kilder: 2
 ---
 
 ## Middelalderens dødspraksis

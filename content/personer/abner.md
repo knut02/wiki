@@ -1,9 +1,8 @@
-# Abner
-
-> Israels hærfører under kong Saul, senere alliert med David, drept av Joab som hevn.
-
-*Opprettet: 2025-04-18 | Kilder: 1*
-
+---
+title: "Abner"
+description: "Israels hærfører under kong Saul, senere alliert med David, drept av Joab som hevn."
+date: 2025-04-18
+kilder: 1
 ---
 
 ## Hvem var han?

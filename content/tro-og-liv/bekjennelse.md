@@ -1,6 +1,6 @@
 ---
 title: "Bekjennelse — å ære Gud og finne helbredelse"
-description; "«Da sa Josva til Akan: Min sønn! Gi Herren, Israels Gud, ære og pris. Si meg hva du har gjort, skjul det ikke for meg!» — Josva 7:19"
+description: "«Da sa Josva til Akan: Min sønn! Gi Herren, Israels Gud, ære og pris. Si meg hva du har gjort, skjul det ikke for meg!» — Josva 7:19"
 date: 2025-04-27
 modified: 2025-05-15
 kilder: 2

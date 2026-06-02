@@ -1,9 +1,8 @@
-# Abel
-
-> Andreeldste sønn av Adam og Eva, offer i bibelhistoriens første drap, kjent for sin tro og sitt offer som ble akseptert av Gud.
-
-*Opprettet: 2025-04-18 | Kilder: 1*
-
+---
+title: "Abel"
+description: "Andre eldste sønn av Adam og Eva, offer i bibelhistoriens første drap, kjent for sin tro og sitt offer som ble akseptert av Gud."
+date: 2025-04-18
+kilder: 1
 ---
 
 ## Hvem var han?
@@ -20,7 +19,7 @@ Abel var hyrde og bar frem et førstefødt lam som offer for Gud. Kain, som var 
 
 ## Teologisk betydning
 
-Abel brukes i Det nye testamentet som et eksempel på tro (Hebreerne 11:4). Han regnes i kristen tradisjon som den første martyren — den første som led for sin tro på Gud. Se [[concepts/offer-og-tilbedelse]] for den bredere offertematikken.
+Abel brukes i Det nye testamentet som et eksempel på tro (Hebreerne 11:4). Han regnes i kristen tradisjon som den første martyren — den første som led for sin tro på Gud. Se [[concepts/offer-og-tilbedelse]] for den bredere offer tematikken.
 
 ---
 
