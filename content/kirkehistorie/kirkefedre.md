@@ -2,7 +2,7 @@
 title: "Kirkefedre"
 description: "Navigasjonsoppslag over kirkefadrene fra ca. 90 til 700 e.Kr. — se individuelle artikler for dybde."
 date: 2025-04-18
-modified: : 2025-05-06
+modified: 2025-05-06
 ---
 
 ## Hva er kirkefedre?
