@@ -1,11 +1,9 @@
 ---
-title: Maria — Jesu mor
-description: Maria som teologisk nøkkelfigur — bebudelsen, Magnificat, ved korset, theotokos-tittelen, evig jomfru, den andre Eva, oldtidens røtter, og Peelers analyse av hennes tjeneste.
+title: "Maria — Jesu mor"
+description: "Maria som teologisk nøkkelfigur — bebudelsen, Magnificat, ved korset, theotokos-tittelen, evig jomfru, den andre Eva, oldtidens røtter, og Peelers analyse av hennes tjeneste."
 date: 2025-04-18
 updated: 2025-05-18
 ---
-
-# Maria — Jesu mor
 
 > «Se, jeg er Herrens tjenerinne. La det skje meg slik du har sagt.» — Luk 1:38
 
