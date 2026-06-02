@@ -1,9 +1,8 @@
-# Adam og Eva
-
-> De første menneskene i bibelsk tradisjon, skapt av Gud og plassert i Paradis — og utvist etter syndefallet.
-
-*Opprettet: 2025-04-18 (lint) | Kilder: 1*
-
+---
+title: "Adam og Eva"
+description: "De første menneskene i bibelsk tradisjon, skapt av Gud og plassert i Paradis — og utvist etter syndefallet."
+date: 2025-04-18
+kilder: 1
 ---
 
 ## Hvem var de?
