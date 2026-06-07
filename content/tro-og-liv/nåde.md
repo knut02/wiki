@@ -90,8 +90,8 @@ Athanasius formulerer: «Han ble menneske for at vi skulle bli guddommelige.» N
 
 ## Sammenheng med andre artikler
 
-- [[concepts/tilgivelse]] — nåde som grunnlag for tilgivelse
-- [[concepts/bekjennelse]] — å ta imot nåde gjennom bekjennelse
+- [[tro-og-liv/tilgivelse]] — nåde som grunnlag for tilgivelse
+- [[tro-og-liv/bekjennelse]] — å ta imot nåde gjennom bekjennelse
 - [[concepts/arvesynd]] — Augustins nådelære i teologisk kontekst
 - [[concepts/frelse-athanasius-augustin]] — nåde og frelse
 - [[concepts/theosis]] — nåde som begynnelsen på guddommeliggjøring

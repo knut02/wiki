@@ -191,7 +191,7 @@ I praksis er skillet ikke alltid enkelt å holde klart — forforståelsen er al
 - [[concepts/hvordan-lese-narrativ]] — litterær analyse i praksis
 - [[concepts/hvordan-lese-brev]] — brevanalyse og retorisk metode
 - [[concepts/hvordan-lese-profetlitteratur]] — profetlitteraturens særtrekk
-- [[concepts/kvinner-som-bibeltolkere]] — leserposisjon og feministisk hermeneutikk
+- [[kvinner-og-bibelen/kvinner-som-bibeltolkere]] — leserposisjon og feministisk hermeneutikk
 - [[concepts/comma-johanneum]] — tekstkritikk: et konkret eksempel
 
 ---
