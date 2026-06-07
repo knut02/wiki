@@ -30,14 +30,17 @@ Likevel: Kirken bekjente nettopp dette.
 McGrath (2013) strukturerer den patristiske kristologiutviklingen rundt dette skjemaet:
 
 **To skoler:**
+
 - **Alexandria** vektla Logosets guddommelighet og fullstendige forening med menneskeheten. Sentralt bibelsted: Joh 1:14 («Ordet ble kjøtt»). Ledet til *theosis*-teologien: «Gud ble menneske for at vi skulle bli guddommeliggjort.»
 - **Antiokia** vektla Jesu fullstendige menneskelighet og skillet mellom de to naturene — for å beskytte mot at menneskeheten ble «svelget opp» av guddommen.
 
 **To debatter:**
+
 - **Den arianske striden** (300-tallet): Arius hevdet at Sønnen var en skapt størrelse. Athanasius svarte at bare en fullt ut guddommelig Frelser kan faktisk frelse og løfte mennesket inn i Guds eget liv.
 - **Den apollinaristiske debatten**: Apollinaris hevdet at Kristus ikke hadde en menneskelig ånd — den var erstattet av Logos. Gregor av Nazianz tilbakeviste: Hva Kristus ikke tok på seg, kan han ikke ha forløst.
 
 **To konsilier:**
+
 - **Nikea (325)** — Sønnen er *homoousios* («av samme vesen») med Faderen.
 - **Kalkedon (451)** — Kristus er *én person i to naturer* — «uten sammenblanding, uten forandring, uten deling, uten atskillelse.»
 

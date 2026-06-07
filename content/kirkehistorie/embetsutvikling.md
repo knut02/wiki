@@ -176,7 +176,7 @@ Gregorius den store bygget en bro: Han var munk som ble pave, og fremmet det mon
 
 ---
 
-## Sammendrag: Embetsstrukturens utvikling 1–900 e.Kr.
+## Sammendrag: Embetsstrukturens utvikling 1–900 e.Kr
 
 | Periode | Nøkkelutvikling |
 |---------|----------------|
