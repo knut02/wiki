@@ -1,39 +1,31 @@
-# Kilde: Beckmann-2019-jesus-i-oversettelsen
-*Fil: raw/books/Jesus i oversettelsen/xhtml/ | Kompilert: 2025-05-15*
+---
+title: "Beckmann-2019-jesus-i-oversettelsen"
+description: "Source-fil: Morten Beckmann, Jesus i oversettelsen — Bibelselskapets kristologi: ideologi og oversettelse, 2019"
+date: 2025-06-07
+---
 
-**Beckmann, Morten (2019): *Jesus i oversettelsen: Bibelselskapets kristologi: Ideologi og oversettelse*. Kristiansand: Universitetet i Agder. Basert på doktoravhandling 2017.**
+# Beckmann (2019) — Jesus i oversettelsen
 
-Svært god OCR-kvalitet. Norsk. 17 kapitler + appendiks.
+**Forfatter:** Morten Beckmann
+**Tittel:** Jesus i oversettelsen — Bibelselskapets kristologi: ideologi og oversettelse
+**Utgiver:** Portal forlag
+**År:** 2019
+**Emne:** Bibeloversettelse og kristologi — ideologiske valg bak Bibel 2011, kristologisk profil, oversettelse av hebraiske og greske messianske tekster
 
-## Nøkkelinnhold
+## Bokens bakgrunn
 
-**Hovedspørsmål:** I hvilken grad er kirkens lære om Jesus reflektert i oversettelsesvalgene i kristologiske tekster i Bibelselskapets oversettelser 1959–2011?
+Basert på Beckmanns doktoravhandling ved Universitetet i Agder (2017). Boken undersøker hvilke kristologiske valg som ligger bak Bibelselskapets oversettelse av messianske og kristologisk ladede tekster, og stiller spørsmål ved om Bibelselskapet har en bevisst ideologisk profil som reduserer det kristologiske potensialet i tekstene.
 
-**Begrepsapparat:**
-- Ideologi (verdinøytralt) — antakelser og verdisystemer som preger oversettelse
-- Konkordant vs. idiomatisk oversettelse
-- Hjemliggjøring vs. fremmedgjøring (Venuti/Schleiermacher)
+## Nøkkelbidrag
 
-**Norsk oversettelseshistorie:**
-- NO04/30: riksmål-oversettelsen, gammelmodig språk
-- Berggravs initiativ 1939: to-trinns plan
-- UO59: idiomatisk, språklig fornyelse, DNK-dominert prosess
-- NO78/85: idiomatisk, «fra grunnteksten av», Ulltveit-Moe primæroversetter
-- Bibel 2011: mer konkordant, fremmedgjørende, større rom for leserens tolkning
+**Kristologisk profil i Bibel 2011:** Beckmann analyserer mer enn 70 bibelutgaver og viser at Bibel 2011 konsekvent velger oversettelsesalternativer som toner ned kristologiske lesninger — særlig i GT-tekster som klassisk har blitt lest som messianske profetier.
 
-**Kristologiske nøkkeltekster analysert:**
-- Sønnens opprinnelse: Ordspr 8:22; Kol 1:15.18; Åp 3:14
-- Jesu sendelse: Joh 8:42; 13:3; 16:27–30; 17:8
-- Jesus som gud/Gud: Joh 1:18; Rom 9:5
+**Eksempel — Sal 22:17:** Det kontroversielle verset om «de pierte mine hender og føtter» — der hebraisk tekst er usikker og manuskripter spriker. Beckmann analyserer hvordan Bibelselskapet velger den jødiske lesningen fremfor den kristne.
 
-**Historisk kontekst:**
-- Bibelselskapet stiftet 1816, luthersk profil
-- Frem til 1960: kun DNK-medlemmer i sentralstyret
-- 1960: første representant fra protestantisk frikirke (Ragnar Horn, metodist)
+**Metodisk poeng:** Enhver bibeloversettelse innebærer tolkningsvalg. Spørsmålet er ikke om man tolker, men *hvordan* og med hvilke forutsetninger.
 
-## Relevante wiki-artikler
-→ [[concepts/bibeloversettelse]]
-→ [[concepts/bibelens-tilblivelse]]
-→ [[concepts/bibeltolkning-innforing]]
-→ [[concepts/kalkedon-kristologi]]
-→ [[concepts/arianismen]]
+**Debatten:** Boken utløste debatt om Bibelselskapets nøytralitetsideal — kan et kristent bibelselskap ha et krav om ideologisk nøytralitet mellom jødisk og kristen lesning av GT?
+
+## Wiki-relevans
+
+Direkte relevant for `lese-og-forstå-bibelen/bibeloversettelse.md`, `Bibelen - det Nye Testamentet/nt-kanon.md` og eventuelle artikler om GT og kristologi. Relevant for diskusjonen om hermeneutikk og fortolkningstradisjon.
