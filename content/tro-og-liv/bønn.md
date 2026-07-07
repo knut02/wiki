@@ -38,7 +38,7 @@ Det bibelske materialet viser en rik bredde i bønn. Det er ikke én enkelt akti
 
 ### Klage (*lament*)
 
-Den vanligste bønnssjangeren i Salmenes bok er klagen — ikke takken, ikke lovprisningen, men den ærlige nødskriken. Omtrent en tredjedel av Salmene er klagepsalmer.
+Den vanligste bønnsjangeren i Salmenes bok er klagen — ikke takken, ikke lovprisningen, men den ærlige nødskriken. Omtrent en tredjedel av Salmene er klagesalmer.
 
 Klagen retter seg mot Gud med ærlig smerte: «Herre, hvor lenge?» (Sal 13). Den setter to ting på spill: Den tror at Gud kan gjøre noe, og den nekter å late som om alt er bra. Klagen er ikke det motsatte av tro — det er tro som nekter å gi slipp.
 
