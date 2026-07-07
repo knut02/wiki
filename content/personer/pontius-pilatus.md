@@ -2,7 +2,7 @@
 
 > Romersk landshøvding i Judea 25–36 e.Kr., kjent som dommeren som dømte Jesus til døden.
 
-*Opprettet: 2025-04-18 | Sist oppdatert: 2025-04-25 (lint) | Kilder: 1*
+*Opprettet: 2025-04-18 | Sist oppdatert: 2025-06-13 | Kilder: 1*
 
 ---
 
@@ -20,13 +20,13 @@ Historisk sett beskrives Pilatus som hensynsløs og likegyldig overfor jødenes 
 
 ## Rollen i Jesu dom
 
-Pilatus er mest kjent for å ha dømt [[personer/jesus]] til korsfestelse (Matteus 27). Evangeliene fremstiller ham som en mann som forstod at Jesus var uskyldig og ikke ønsket å dømme ham, men som lot seg presse av folkemassene. En tilleggsdriver var frykten for å bli anklaget hos keiseren dersom han friet en mann folket betraktet som en opprører (Johannes 19:12).
+Pilatus er mest kjent for å ha dømt [[personer/jesus]] til korsfestelse (Matt 27). Evangeliene fremstiller ham som en mann som forstod at Jesus var uskyldig og ikke ønsket å dømme ham, men som lot seg presse av folkemassene. En tilleggsdriver var frykten for å bli anklaget hos keiseren dersom han friet en mann folket betraktet som en opprører (Joh 19:12).
 
 ---
 
 ## Ikke-bibelske kilder
 
-Den jødiske historikeren Josefus omtaler Pilatus og hans styre i Judea. Dette er blant de historiske kildene som indirekte bekrefter at [[personer/jesus]] eksisterte som historisk person — se [[concepts/historisk-jesus]].
+Den jødiske historikeren Josefus omtaler Pilatus og hans styre i Judea. Dette er blant de historiske kildene som indirekte bekrefter at [[personer/jesus]] eksisterte som historisk person — se [[kristologi/historisk-jesus]].
 
 En inskripsjonsstein funnet i Cæsarea Maritima i 1961 bærer Pilatus' navn og tittel, og er det eneste arkeologiske funnet som direkte bekrefter hans eksistens.
 
@@ -35,8 +35,8 @@ En inskripsjonsstein funnet i Cæsarea Maritima i 1961 bærer Pilatus' navn og t
 ## Sammenheng med andre artikler
 
 - [[personer/jesus]] — den mest kjente personen Pilatus dømte
-- [[concepts/historisk-jesus]] — Josefus og Tacitus som kilder; Pilatus-inskripsjonen
-- [[concepts/evangeliene]] — primærkildene til fremstillingen av Pilatus
+- [[kristologi/historisk-jesus]] — Josefus og Tacitus som kilder; Pilatus-inskripsjonen
+- [[Bibelen - det Nye Testamentet/evangeliene]] — primærkildene til fremstillingen av Pilatus
 
 ---
 

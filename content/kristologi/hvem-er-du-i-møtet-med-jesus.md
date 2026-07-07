@@ -2,7 +2,7 @@
 title: "Hvem er du i møtet med Jesus?"
 description: "«Hvem sier dere at jeg er?» — Matt 16:15. Det er ikke bare et spørsmål om Jesu identitet. Det er like mye et spørsmål om din."
 date: 2025-04-18
-modified: 2025-05-10
+updated: 2025-06-13
 kilder: 2
 ---
 
@@ -65,10 +65,12 @@ Hvem er jeg her? Og hvem vil jeg være?
 
 ## Sammenheng med andre artikler
 
-- [[concepts/guds-kjærlighet]] — Jesu blikk på dem som kom til ham
-- [[concepts/bekjennelse]] — Petersbekjennelsens to former (Matt 16 og Gal 2)
-- [[concepts/svake-baand-og-kristent-fellesskap]] — hvem vi inkluderer og ekskluderer
-- [[concepts/kvinner-i-evangeliene]] — en utdypet oversikt over navngitte kvinner
+- [[tro-og-liv/guds-kjærlighet]] — Jesu blikk på dem som kom til ham
+- [[tro-og-liv/bekjennelse]] — Petersbekjennelsens to former (Matt 16 og Gal 2)
+- [[tro-og-liv/svake-baand-og-kristent-fellesskap]] — hvem vi inkluderer og ekskluderer
+- [[kvinner-og-bibelen/kvinner-i-evangeliene]] — en utdypet oversikt over navngitte kvinner
+- [[tro-og-liv/min-fars-hus]] — å leve i relasjon med Jesus
+- [[Bibelen - det Nye Testamentet/johannes-evangeliet-studieplan]] — Samaritankvinnen som nøkkeltekst
 - [[personer/maria-magdalena]] — den første vitnen til oppstandelsen
 
 ---

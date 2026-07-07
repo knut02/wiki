@@ -2,6 +2,7 @@
 title: "Det gamle testamentet"
 description: "Den første og eldste delen av Bibelen, som dekker perioden fra skapelsen til noen hundre år før Jesus — og er grunnlaget for både jødedommen og kristendommen."
 date: 2025-04-18
+updated: 2025-06-13
 Kilder: 1
 ---
 
@@ -31,27 +32,27 @@ Til tross for den historiske bredden er hovedfokus i GT Guds ønske om relasjon 
 
 ## Forholdet til Det nye testamente
 
-Kristendommen leser GT i lys av Jesus. Særlig profetiene om en kommende Messias — Guds salvede — knyttes til Jesus. Se [[concepts/messias]] og [[concepts/salme-22]] for konkrete eksempler. Se også [[concepts/evangeliene]] for hvordan NT-forfatterne bruker GT som bakgrunnsteppe.
+Kristendommen leser GT i lys av Jesus. Særlig profetiene om en kommende Messias — Guds salvede — knyttes til Jesus. Se [[kristologi/messias]] og [[Bibelen - det Gamle Testamentet/salme-22]] for konkrete eksempler. Se også [[Bibelen - det Nye Testamentet/evangeliene]] for hvordan NT-forfatterne bruker GT som bakgrunnsteppe.
 
 ---
 
 ## Forholdet til jødedommen
 
-For jødedommen er TANAKH den fullstendige hellige skrift — det kristne NT er ikke del av dette. Se [[concepts/jodedommen]] for jødedommens eget forhold til disse tekstene.
+For jødedommen er TANAKH den fullstendige hellige skrift — det kristne NT er ikke del av dette. Se [[verdensreligioner-og-livssyn/jodedommen]] for jødedommens eget forhold til disse tekstene.
 
 ---
 
 ## Sammenheng med andre artikler
 
-- [[concepts/messias]] — det sentrale frelserhåpet i GT
-- [[concepts/salme-22]] — eksempel på GT-tekst lest profetisk i NT
-- [[concepts/jodedommen]] — GT/TANAKH som jødisk hellig skrift
-- [[concepts/evangeliene]] — NT-tekstene som bygger på GT
-- [[personer/abel]] — en av de første personene omtalt i GT
-- [[personer/abner]] — fra kongetiden i GT
+- [[kristologi/messias]] — det sentrale frelserhåpet i GT
+- [[Bibelen - det Gamle Testamentet/salme-22]] — eksempel på GT-tekst lest profetisk i NT
+- [[verdensreligioner-og-livssyn/jodedommen]] — GT/TANAKH som jødisk hellig skrift
+- [[Bibelen - det Nye Testamentet/evangeliene]] — NT-tekstene som bygger på GT
+- [[Bibelen - det Gamle Testamentet/skapelsen]] — skapelsesfortellingene
+- [[Bibelen - det Gamle Testamentet/pakten]] — paktsteologi i GT
 
 ---
 
 ## Kilder
 
-- [[sources/gamle-testamentet]] — oversiktsartikkel om GT
+- [[sources/studier-personlige]] — egne studier og notater

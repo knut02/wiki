@@ -2,7 +2,7 @@
 title: "Min Fars hus — relasjon med Gud nå og i evigheten"
 description: "«I min Fars hus er det mange rom.» — Joh 14:2. Men hva er Fars hus, og er det bare et fremtidig løfte?"
 date: 2025-04-18
-modified: 2025-05-10
+updated: 2025-06-13
 kilder: 2
 ---
 
@@ -48,7 +48,7 @@ Johannes 5:24–25 er eksplisitt: Den som tror er allerede gått fra døden til 
 
 ## Veien er en person
 
-Tomas spør: «Herre, vi vet ikke hvor du går. Hvordan kan vi vite veien?» (Joh 14:5). Jesus svarer ikke med en kart. Han sier: «Jeg er veien, sannheten og livet» (Joh 14:6).
+Tomas spør: «Herre, vi vet ikke hvor du går. Hvordan kan vi vite veien?» (Joh 14:5). Jesus svarer ikke med et kart. Han sier: «Jeg er veien, sannheten og livet» (Joh 14:6).
 
 Det er ikke en regelbok for å komme til himmelen. Det er en relasjonsbeskrivelse. Tilgangen til Fars hus går gjennom en person — ikke gjennom en prestasjon.
 
@@ -74,11 +74,14 @@ Det betyr at tro ikke er ventetid. Det er levd relasjon, nå — med alle de ufe
 
 ## Sammenheng med andre artikler
 
-- [[concepts/guds-kjærlighet]] — Guds ønske om relasjon som frelseens kjerne
-- [[concepts/hvem-er-du-i-møtet-med-jesus]] — møtet med Kristus som livets grunnbevegelse
-- [[concepts/sheol-og-oppstandelsen]] — spørsmålet om det eskatologiske perspektivet
-- [[concepts/treenigheten]] — Fader, Sønn og Ånd som relasjonell virkelighet
-- [[personer/jesus]] — Kristus som vei, sannhet og liv
+- [[tro-og-liv/guds-kjærlighet]] — Guds ønske om relasjon som frelsens kjerne
+- [[kristologi/hvem-er-du-i-møtet-med-jesus]] — møtet med Kristus som livets grunnbevegelse
+- [[teologi/sheol-og-hades]] — spørsmålet om det eskatologiske perspektivet
+- [[teologi/treenigheten]] — Fader, Sønn og Ånd som relasjonell virkelighet
+- [[teologi/theosis]] — å være «i» Faderen og Sønnen
+- [[teologi/inaugurert-eskatologi-og-kjonn]] — riket som allerede er begynt
+- [[teologi/hellige-ånd]] — Talsmannen som fortsetter Jesu nærvær
+- [[Bibelen - det Nye Testamentet/johannes-evangeliet-studieplan]] — nøkkeltekst i studiet
 
 ---
 

@@ -2,6 +2,7 @@
 title: "Klosterlivet i middelalderen"
 description: "Klostervesenet som oppsto på 300-tallet som en reaksjon på kirkens statsliggjøring, og utviklet seg gjennom tre hovedfaser i middelalderen."
 date: 2025-04-18
+updated: 2025-06-13
 kilder: 1
 ---
 
@@ -43,9 +44,10 @@ Prester ble definert av vigslingen (*sakrament*); munker av løftene om lydighet
 
 ## Sammenheng med andre artikler
 
-- [[kirkehistorie/kristendommens-historie-oversikt]] — statsliggjøringen av kirken som utløste klosterbevegelsen
-- [[concepts/martyriet]] — den monastiske bevegelsens røtter i martyrtradisjonen
-- [[kirkehistorie/statsreligion]] — Konstantins rolle
+- [[kirkehistorie/statsreligion]] — statsliggjøringen av kirken som utløste klosterbevegelsen
+- [[kirkehistorie/helgener-og-martyrkult]] — martyrtradisjonen som klosterlivets forløper
+- [[kirkehistorie/askese-i-oldkirken]] — askesens røtter
+- [[kirkehistorie/apostoliske-fedre]] — kirkefedre tilknyttet klostertradisjon
 - [[personer/augustin]] — augustinereremittene er en av tiggerordenene
 
 ---
