@@ -2,7 +2,7 @@
 title: Tidlig kristen bønnepraksis
 description: Bønn i oldkirken — former, tider, kroppslige praksiser, Fadervår, monastisk bønn og Evagrius/Cassians arv.
 date: 2025-05-10
-updated: 2025-05-18
+updated: 2025-06-13
 ---
 
 # Tidlig kristen bønnepraksis
@@ -90,11 +90,13 @@ Origenes: Å begynne med takksigelse og lovprisning — ikke med egne behov — 
 
 ## Sammenheng med andre artikler
 
-- [[concepts/bønn]] — bønn som tema og praksis
-- [[concepts/klosterlivet]] — klosterbevegelsens kontekst
-- [[concepts/askese]] — askese og bønn
-- [[concepts/didache]] — det eldste kirkedokumentets bønneforskrifter
-- [[concepts/apostoliske-fedre]] — bønn i etterapostolsk tid
+- [[tro-og-liv/bønn]] — bønn som tema og praksis
+- [[kirkehistorie/klosterlivet]] — klosterbevegelsens kontekst
+- [[kirkehistorie/askese-i-oldkirken]] — askese og bønn
+- [[kirkehistorie/didache]] — det eldste kirkedokumentets bønneforskrifter
+- [[kirkehistorie/apostoliske-fedre]] — bønn i etterapostolsk tid
+- [[kirkehistorie/gudstjenesten]] — bønn i gudstjenestelivet
+- [[tro-og-liv/fadervår]] — Fadervår som bønnens mønster
 
 ---
 

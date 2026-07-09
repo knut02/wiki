@@ -120,6 +120,7 @@ Det annet økumeniske konsilet i **Konstantinopel 381** bekreftet Nikeas vedtak 
 - [[kirkehistorie/embetsutvikling]] — biskopsstrukturen og konsilinstitusjonen
 - [[kristologi/jesus-i-johannes-evangeliet]] — NT-grunnlaget for debattene
 - [[teologi/treenigheten]] — trinitarisk teologi
+- [[kirkehistorie/kristologi-fra-nikea-til-kalkedon]]
 
 ---
 

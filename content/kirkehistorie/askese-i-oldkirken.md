@@ -2,7 +2,7 @@
 title: "Askese i oldkirken"
 description: "Kristen askese fra NT til ørkenfadrene — hva askese er, dets røtter, ørkenbevegelsens fremvekst, Apophtegmata Patrum og askesens teologiske logikk."
 date: 2025-06-06
-updated: 2025-06-06
+updated: 2025-06-13
 sources: 4
 ---
 
@@ -113,8 +113,7 @@ Varden er tydelig på to avgjørende punkter:
 ## Sammenheng med andre artikler
 
 - [[kirkehistorie/klosterlivet]] — klostervesenet som asketisk institusjon
-- [[kirkehistorie/martyriet]] — martyriet som asketismens forløper
-- [[kirkehistorie/helgener-og-martyrkult]] — den hellige mannen som sosial figur
+- [[kirkehistorie/martyriet-og-helgenkult]] — martyriet som asketismens forløper og helgenkultens fremvekst
 - [[teologi/theosis]] — forvandlingens mål i østlig teologi
 - [[tro-og-liv/disippelskap]] — askese og kristen formasjon
 

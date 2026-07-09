@@ -23,6 +23,7 @@ Et viktig prinsipp: Spørsmålet om Guds eksistens kan *ikke* besvares med metod
 **Gud som ubetinget betinger:** Alt som eksisterer i den fysiske verden er *betinget* — det avhenger av noe annet for sin eksistens. Men en kjede av betingede ting kan ikke forklare seg selv. Det må finnes en *ubetinget* årsak — noe som eksisterer nødvendigvis og ikke avhenger av noe annet.
 
 **Kalamargumentet:**
+
 1. Alt som begynner å eksistere, har en årsak
 2. Universet begynte å eksistere (støttet av Big Bang-kosmologien)
 3. Derfor har universet en årsak utenfor seg selv
@@ -68,6 +69,7 @@ Søvik (2022) gjennomgår debatten: **Realisme** hevder at etiske normer kan væ
 ### 6. Jesu oppstandelse som historisk argument
 
 Fire historiske fakta akseptert av nesten alle historikere:
+
 1. Jesus ble korsfestet og begravet
 2. Graven ble funnet tom
 3. Disipler opplevde det de beskrev som møter med den oppstandne Jesus
@@ -113,6 +115,7 @@ Tro på Gud er *rasjonelt forsvarlig* — ikke blind tro, men informert tro.
 - [[concepts/eskatologi]] — det ondes problem i lys av fremtidshåpet
 - [[concepts/moderniteten-og-opplysningen]] — den apologetiske strategien
 - [[concepts/kristent-menneskesyn]] — bevissthet og menneskeverd
+- [[teologi/anselm-og-det-ontologiske-gudsbevis]]
 
 ---
 
