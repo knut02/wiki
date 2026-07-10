@@ -1,9 +1,13 @@
 ---
-title: "Det gamle testamentet - oversikt over profetene"
-description: "Herrens Ånd er over meg, for han har salvet meg til å forkynne godt budskap for fattige.» — Jes 61:1. Profetene er ikke først og fremst fremtidsseere — de er Guds talspersoner til sin samtid."
+title: "GT-profetene — oversikt"
+description: "Profetene er ikke først og fremst fremtidsseere — de er Guds talspersoner til sin samtid. En oversikt over alle de skriftlige profetene, deres historiske kontekst og felles teologi."
 date: 2025-05-15
-modified: 2025-05-15
+updated: 2026-07-10
 kilder: 2
+---
+
+> «Herrens Ånd er over meg, for han har salvet meg til å forkynne godt budskap for fattige.» — Jes 61:1
+
 ---
 
 ## Hvem er profetene?
@@ -18,7 +22,7 @@ De skriftlige profetene — de hvis ord er bevart i egne bøker — kan deles in
 
 ### Joel — profeten om Sions fremtid
 
-Joel bruker en gresshoppeplage som bilde på Guds dom og bruker det som utgangspunkt for et kall til omvendelse. Bokens kjerne er løftet om Åndens utgytelelse over alle folk — det teksten som Peter siterer på pinsedagen (Apg 2:17–21):
+Joel bruker en gresshoppeplage som bilde på Guds dom og bruker det som utgangspunkt for et kall til omvendelse. Bokens kjerne er løftet om Åndens utgytelelse over alle folk — den teksten Peter siterer på pinsedagen (Apg 2:17–21):
 
 > «Jeg vil utgyte min Ånd over alle mennesker. Sønnene og døtrene deres skal profetere.» — Joel 2:28
 
@@ -44,7 +48,7 @@ Amos er gjeteren fra Tekoa i Juda som sendes til nordriket Israel. Hans forkynne
 
 ### Jona — profeten om Guds universelle kjærlighet
 
-Jona er den uvillige profeten som flykter fra oppdraget med å forkynne for Nineveh — fiendens by. Fortellinga er en teologisk provokasjon: Gud er nådige mot Israels fiender om de omvender seg.
+Jona er den uvillige profeten som flykter fra oppdraget med å forkynne for Nineveh — fiendens by. Fortellinga er en teologisk provokasjon: Gud er nådig mot Israels fiender om de omvender seg.
 
 Jona er en av GT-s vanskeligste profeter å lese uten å se seg selv i ham — den som vil at Guds nåde skal begrenses til «oss».
 
@@ -60,12 +64,12 @@ Hosea får i oppdrag å gifte seg med en utro hustru — og å ta henne tilbake 
 
 ### Jesaja — profeten om hellighet
 
-Jesaja er den klassiske GT-profeten — et av de lengste propetiske skriftene, med enorm rekkevidde fra konger til eskatologi. Boken deles tradisjonelt i to hoveddeler:
+Jesaja er den klassiske GT-profeten — et av de lengste profetiske skriftene, med enorm rekkevidde fra konger til eskatologi. Boken deles tradisjonelt i to hoveddeler:
 
 **Jesaja 1–39** — domsprofeti over Juda og nasjoner; men også store løfter (Jes 9; 11)
 **Jesaja 40–66** — trøsteord til eksil-Israel: «Trøst, trøst mitt folk» (40:1). Den lidende tjeneren (Jes 53). Guds universelle rike.
 
-NT siterer Jesaja mer enn noen annen GT-bok. Jesus leser seg selv inn i Jes 61:1 (Luk 4:18).
+NT siterer Jesaja mer enn noen annen GT-bok. Jesus leser seg selv inn i Jes 61:1 (Luk 4:18). Den lidende tjeneren i Jes 53 er det tetteste GT kommer til en eksplisitt soningsforkynnelse.
 
 ### Mika — profeten for de fattige
 
@@ -111,11 +115,11 @@ Han virket fra Josias til etter Jerusalems fall (626–580-tallet f.Kr.) og oppl
 
 Esekiel virker blant de deporterte i Babylon. Hans forkynnelse er dramatisk og visjonær: hjulet i hjulet (kap. 1), de tørre beinene som lever (kap. 37), det nye tempelet (kap. 40–48).
 
-Han er profeten som sier at Guds nærvær ikke er bundet til Jerusalem — Gud er til stede midt i eksilet. Se [[concepts/daniel]] for en parallell skikkelse fra samme periode.
+Han er profeten som sier at Guds nærvær ikke er bundet til Jerusalem — Gud er til stede midt i eksilet. Se [[Bibelen - det Gamle Testamentet/daniel]] for en parallell skikkelse fra samme periode.
 
-### Daniel — profeten om rettferdighet
+### Daniel — apokalyptikeren
 
-Behandles separat — se [[concepts/daniel]].
+Danielsboken skiller seg fra de klassiske skriftprofetene — den er apokalyptisk litteratur, skrevet i eksilkontekst med visjonsskrifter og historiske fortellinger. Behandles separat — se [[Bibelen - det Gamle Testamentet/daniel]].
 
 ---
 
@@ -131,7 +135,7 @@ Sakarja kombinerer oppmuntring til tempelbygningen med apokalyptiske visjoner om
 
 ### Malaki — den siste stemmen
 
-Malaki er det siste GT-profetiske skriftet. Han taler inn i en period med religiøs sløvhet etter hjemkomsten: prester som ikke tar tjenesten alvorlig, folk som snyter på tienden. Men han peker fremover mot Elia-skikkelsen som skal forberede Herrens dag — tolket i NT om Johannes Døperen (Matt 11:14).
+Malaki er det siste GT-profetiske skriftet. Han taler inn i en periode med religiøs sløvhet etter hjemkomsten: prester som ikke tar tjenesten alvorlig, folk som snyter på tienden. Men han peker fremover mot Elia-skikkelsen som skal forberede Herrens dag — tolket i NT om Johannes Døperen (Matt 11:14).
 
 ---
 
@@ -141,21 +145,26 @@ Ulik stil, ulike kontekster — men felles kjerne:
 
 **1. Paktsansvarlighet.** Israel er Guds folk og er ansvarlig for å leve etter pakten. Brudd har konsekvenser.
 
-**2. Sosial rettferdighet.** Nesten alle profetene taler mot urettferdighet, korrupsjon og utnyttelse av de svake.
+**2. Sosial rettferdighet.** Nesten alle profetene taler mot urettferdighet, korrupsjon og utnyttelse av de svake. Amos, Mika og Jesaja er de skarpeste stemmene. Profettradisjonen er selve roten til kristen sosialetikk.
 
 **3. Guds suverenitet over historien.** Assyrerne, babylonerne, perserne — alle er i Guds hånd. Intet imperium er utenfor hans plan.
 
 **4. Håp utover dom.** Selv de hardeste domsprofetiene inneholder løfter om gjenopprettelse for en trofast rest.
 
+**5. Forvarsel om Messias.** Profetene peker konsekvent fremover mot en kommende Herre, Hyrde og Lidende tjener. NT leser Jesaja 53, Mika 5:2 og Sakarja 9:9 messiansk.
+
 ---
 
 ## Sammenheng med andre artikler
 
-- [[concepts/pakten]] — profetenes forkynnelse er paktens logikk anvendt på historien
-- [[concepts/messias]] — Jesaja 53, Mika 5:2, Sakarja 9:9 som messianske tekster
-- [[concepts/daniel]] — eksil-profeten som skiller seg fra de klassiske skriftprofetene
-- [[concepts/bibelhistorie-nokkelhendelser]] — historisk ramme for profetenes virke
-- [[timelines/mellom-testamentene]] — perioden etter Malaki
+- [[Bibelen - det Gamle Testamentet/pakten]] — profetenes forkynnelse er paktens logikk anvendt på historien
+- [[kristologi/messias]] — Jesaja 53, Mika 5:2, Sakarja 9:9 som messianske tekster
+- [[Bibelen - det Gamle Testamentet/daniel]] — eksil-profeten og apokalyptikken
+- [[tidslinjer/bibelhistorie-nokkelhendelser]] — historisk ramme for profetenes virke
+- [[tidslinjer/mellom-testamentene]] — perioden etter Malaki
+- [[Bibelen - det Gamle Testamentet/gt-guds-brutalitet]] — Guds dom og vold i profetbøkene
+- [[teologi/kristen-etikk]] — sosialetikk med røtter i profettradisjonen
+- [[Bibelen - det Gamle Testamentet/klagesangene]] — klage som profetisk sjanger
 
 ---
 
