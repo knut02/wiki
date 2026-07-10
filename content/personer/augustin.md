@@ -2,7 +2,7 @@
 title: "Augustin av Hippo"
 description: "354–430. Biskop, teolog og filosof — den mest innflytelsesrike av alle vestlige kirkefedre. Fra urolig ungdom til omvendelse, Bekjennelsene, arvesynd, nåde og de to stadene."
 date: 2025-04-18
-updated: 2025-06-13
+updated: 2025-07-09
 sources: 4
 ---
 

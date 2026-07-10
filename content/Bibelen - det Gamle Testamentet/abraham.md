@@ -2,7 +2,7 @@
 title: "Abraham — tro, kall og pakt"
 description: "Abraham som bibelsk skikkelse og tros-far: kallet fra Ur, pakten og løftene, Aqedah (Isaks binding), Abraham i jødisk, kristen og islamsk tradisjon."
 date: 2025-06-13
-updated: 2025-06-13
+updated: 2025-07-09
 sources: 4
 ---
 

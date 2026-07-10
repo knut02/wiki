@@ -2,7 +2,7 @@
 title: "Bibelen — oversikt"
 description: "Hva er Bibelen? Samlingens karakter, tilblivelse, kanon, teksttradisjon, oversettelse og autoritet — en inngang til wikiens bibelstoff."
 date: 2025-04-27
-updated: 2025-06-13
+updated: 2025-07-09
 kilder: 4
 ---
 

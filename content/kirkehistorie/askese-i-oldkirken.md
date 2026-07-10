@@ -2,7 +2,7 @@
 title: "Askese i oldkirken"
 description: "Kristen askese fra NT til ørkenfadrene — hva askese er, dets røtter, ørkenbevegelsens fremvekst, Apophtegmata Patrum og askesens teologiske logikk."
 date: 2025-06-06
-updated: 2025-06-13
+updated: 2025-07-09
 sources: 4
 ---
 
@@ -94,7 +94,7 @@ Peter Browns *The Body and Society* (1988) åpnet et nytt forskningsfelt: askese
 
 **Askese og autoritet.** Athanasius brukte Antonios' asketiske liv bevisst i sin kamp mot arianerne. Den hellige mann var ikke bare personlig from — han var et politisk instrument i kirkens interne kamper. Å kontrollere definisjonen av ekte askese var å kontrollere kirkelig autoritet.
 
-**Askese og kvinner.** Kvinner fant i askeseidealet en mulighet til å bryte med det patriarkalske familiesystemet. Men menn *skrev* disse kvinnenes kropper — mye av vår kunnskap om kvinnelige asketer kommer gjennom mannlige forfattere som Hieronymus, Ambrosius og Augustin, som formet idealene etter egne teologiske og kirkepolitiske interesser.
+**Askese og kvinner.** Kvinner fant i askeseidealet en mulighet til å bryte med det patriarkalske familiesystemet — askeselivet ga en relativ frihet fra familiens og ekteskapets strukturer. Men dette frirommet ble raskt regulert og kontrollert av biskopene. Og menn *skrev* disse kvinnenes kropper — mye av vår kunnskap om kvinnelige asketer kommer gjennom mannlige forfattere som Hieronymus, Ambrosius og Augustin, som formet idealene etter egne teologiske og kirkepolitiske interesser. Askesen som frigjøring og askesen som kontroll eksisterte side om side.
 
 **Jovinian-kontroversen.** I vest ble askesen kraftig utfordret av Jovinian (ca. 380-tallets Roma), som hevdet at alle døpte kristne er likestilte — gifte, enker og jomfruer er like for Gud. Hieronymus og Ambrosius angrep ham heftig. Diskusjonen handler ikke bare om fromhet, men om hvilken type kristen er «bedre» — et spørsmål med stor sosial sprengkraft.
 

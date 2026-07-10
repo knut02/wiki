@@ -2,7 +2,7 @@
 title: "Perpetua"
 description: "Vibia Perpetua — aristokrat, nylig blitt mor, henrettet i Kartago 203. Hennes fengselsdagbok er den eldste bevarte tekst av en kristen kvinne."
 date: 2025-04-18
-updated: 2025-06-13
+updated: 2025-07-09
 kilder: 3
 ---
 

@@ -2,7 +2,7 @@
 title: "Hvem er du i møtet med Jesus?"
 description: "«Hvem sier dere at jeg er?» — Matt 16:15. Det er ikke bare et spørsmål om Jesu identitet. Det er like mye et spørsmål om din."
 date: 2025-04-18
-updated: 2025-06-13
+updated: 2025-07-09
 kilder: 2
 ---
 

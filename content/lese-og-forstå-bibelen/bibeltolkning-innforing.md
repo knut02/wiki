@@ -2,7 +2,7 @@
 title: "Bibeltolkning — innføring"
 description: "Bibelen er antakelig den mest leste, brukte og drøftede skriftsamlingen gjennom hele verdenshistorien.» — Tveito 2021"
 date: 2025-04-18
-modified: 2025-05-15
+updated: 2025-07-09
 kilder: 4
 ---
 
@@ -20,7 +20,7 @@ Hayes og Holladay (2007) identifiserer seks faktorer som gjør bibeleksegese sæ
 
 **1. Tredjepartsperspektiv.** Vi er ikke de opprinnelige mottakerne. Paulus skrev Romerbrevet til en bestemt menighet i Roma — ikke til oss. Vi leser andres brev og må rekonstruere den kommunikasjonssituasjonen vi ikke var del av.
 
-**2. Språkbarrieren.** GT er skrevet på hebraisk og arameisk, NT på gresk. Alle oversettelser er tolkninger — og noen nyanser forsvinner alltid i oversettelsen. Se [[concepts/bibelsk-hebraisk-innforing]] og [[concepts/bibelsk-gresk-innforing]].
+**2. Språkbarrieren.** GT er skrevet på hebraisk og arameisk, NT på gresk. Alle oversettelser er tolkninger — og noen nyanser forsvinner alltid i oversettelsen. Se [[lese-og-forstå-bibelen/bibelsk-hebraisk-innforing]] og [[lese-og-forstå-bibelen/bibelsk-gresk-innforing]].
 
 **3. Det kulturelle gapet.** Bibelen forutsetter en kulturell forforståelse hos sine første lesere som vi ikke deler. Referanser til tempeltjeneste, renhetslover, romersk rettspraksis og jødisk apokalyptikk krevde ingen forklaring da — de krever det nå.
 
@@ -80,7 +80,7 @@ Moderne bibelvitenskap har utviklet en rekke metodiske verktøy for å lese bibe
 
 Ingen originalmanuskript er bevart. De tidligste fragmentene av GT på hebraisk er fra 200-tallet f.Kr.; det eldste NT-fragmentet er et Johannesevangeliets-fragment fra tidlig 200-tall e.Kr. Det finnes tusenvis av kopier, og ingen to er identiske.
 
-Tekstkritikk analyserer disse variantene for å rekonstruere den mest opprinnelige versjonen. Se [[concepts/gt-kanon-og-teksthistorie]] og [[concepts/comma-johanneum]] for konkrete eksempler.
+Tekstkritikk analyserer disse variantene for å rekonstruere den mest opprinnelige versjonen. Se [[lese-og-forstå-bibelen/bibelens-tilblivelse]] og [[teologi/comma-johanneum]] for konkrete eksempler.
 
 ### Historisk kritikk — teksten i sin tid og sitt sted
 
@@ -137,7 +137,7 @@ Kanonkritikk leser bibeltekster i lys av det kanoniske hele: ikke som isolerte h
 
 ### Leserorientert kritikk
 
-Leserorientert kritikk fokuserer på møtet mellom tekst og leser — og anerkjenner at ulike lesere bringer ulike spørsmål og perspektiver. Feministisk hermeneutikk, befrielseslesning, afrikansk lesning — alle er eksempler på at leserens sosiale posisjon former hva som trer frem i teksten. Se [[concepts/kvinner-som-bibeltolkere]].
+Leserorientert kritikk fokuserer på møtet mellom tekst og leser — og anerkjenner at ulike lesere bringer ulike spørsmål og perspektiver. Feministisk hermeneutikk, befrielseslesning, afrikansk lesning — alle er eksempler på at leserens sosiale posisjon former hva som trer frem i teksten. Se [[kvinner-og-bibelen/kvinner-som-bibeltolkere]].
 
 ---
 
@@ -185,14 +185,15 @@ I praksis er skillet ikke alltid enkelt å holde klart — forforståelsen er al
 
 ## Sammenheng med andre artikler
 
-- [[concepts/bibelsk-hebraisk-innforing]] — originalspråket i GT
-- [[concepts/bibelsk-gresk-innforing]] — originalspråket i NT
-- [[concepts/gt-kanon-og-teksthistorie]] — tekstkritikk i praksis
-- [[concepts/hvordan-lese-narrativ]] — litterær analyse i praksis
-- [[concepts/hvordan-lese-brev]] — brevanalyse og retorisk metode
-- [[concepts/hvordan-lese-profetlitteratur]] — profetlitteraturens særtrekk
+- [[lese-og-forstå-bibelen/bibelen]] — Bibelen som helhet
+- [[lese-og-forstå-bibelen/bibeloversettelse]] — oversettelse som tolkning
+- [[lese-og-forstå-bibelen/bibelens-tilblivelse]] — tekstkritikk og kanonhistorie
+- [[lese-og-forstå-bibelen/bibelsk-hebraisk-innforing]] — originalspråket i GT
+- [[lese-og-forstå-bibelen/bibelsk-gresk-innforing]] — originalspråket i NT
+- [[lese-og-forstå-bibelen/hvordan-lese-narrativ]] — litterær analyse i praksis
+- [[lese-og-forstå-bibelen/hvordan-lese-profetlitteratur]] — profetlitteraturens særtrekk
 - [[kvinner-og-bibelen/kvinner-som-bibeltolkere]] — leserposisjon og feministisk hermeneutikk
-- [[concepts/comma-johanneum]] — tekstkritikk: et konkret eksempel
+- [[teologi/comma-johanneum]] — tekstkritikk: et konkret eksempel
 
 ---
 

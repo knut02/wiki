@@ -2,7 +2,7 @@
 title: "Luther og reformasjonen"
 description: "Martin Luther (1483–1546) og den reformatoriske bevegelsen — 95 tesene, rettferdiggjørelse ved tro alene, Riksdagen i Worms, kirkebruddet og reformasjonens konsolidering."
 date: 2025-06-13
-updated: 2025-06-13
+updated: 2025-07-09
 sources: 4
 ---
 

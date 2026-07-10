@@ -2,7 +2,7 @@
 
 > Romersk landshøvding i Judea 25–36 e.Kr., kjent som dommeren som dømte Jesus til døden.
 
-*Opprettet: 2025-04-18 | Sist oppdatert: 2025-06-13 | Kilder: 1*
+*Opprettet: 2025-04-18 | Sist oppdatert: 2025-07-09 | Kilder: 1*
 
 ---
 

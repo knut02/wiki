@@ -2,7 +2,7 @@
 title: "Inkarnasjonen — Guds Sønn som menneske"
 description: "Den kristne bekjennelsen om at Guds evige Sønn ble menneske — nytestamentlige røtter, kristologidebatten i oldkirken, Kalkedon, frelseteologisk betydning, og Jesu mannlighets særegenhet."
 date: 2025-05-03
-updated: 2025-06-13
+updated: 2025-07-09
 sources: 3
 ---
 

@@ -2,7 +2,7 @@
 title: "Det gamle testamentet"
 description: "Den første og eldste delen av Bibelen, som dekker perioden fra skapelsen til noen hundre år før Jesus — og er grunnlaget for både jødedommen og kristendommen."
 date: 2025-04-18
-updated: 2025-06-13
+updated: 2025-07-09
 Kilder: 1
 ---
 

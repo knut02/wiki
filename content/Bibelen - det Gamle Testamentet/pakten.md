@@ -2,7 +2,7 @@
 title: "Pakten"
 description: "De bibelske paktene som GT-teologiens ryggrad — Noahpakten, Abrahampakten, Sinaipakten, Davidspakten og den nye pakten i Jeremias og det Nye Testamentet."
 date: 2025-04-18
-updated: 2025-06-13
+updated: 2025-07-09
 kilder: 3
 ---
 

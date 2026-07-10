@@ -2,7 +2,7 @@
 title: "Bergprekenen (Matt 5–7)"
 description: "Jesu mest systematiske undervisning om livet i Guds rike — saligprisningene, Tora-antitesene, Fadervår, bekymringer og byggmesteren. Med Willards tolkning av bergprekenen som en sammenhengende tale om det velsignede livet."
 date: 2025-05-05
-updated: 2025-06-13
+updated: 2025-07-09
 sources: 3
 ---
 

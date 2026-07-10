@@ -2,7 +2,7 @@
 title: "Reformasjonen — bekjennelser og motreformasjon"
 description: " Reformasjonstidens bekjennelsesskrifter (Confessio Augustana, Schleitheim, Wittenbergkonkordien), reformasjonens fem retninger, og den katolske motreformasjonen (Ignatius av Loyola, Trentkonsilet)."
 date: 2025-05-01
-modified: 2025-05-18
+updated: 2025-07-09
 ---
 
 > «Rettferdiggjort ved tro alene — dette er artikkelen som kirken står og faller med.» — Luther. Trentkonsilet svarte: Ved tro *og* gjerninger.
@@ -21,7 +21,7 @@ Reformasjonen var ikke én bevegelse, men minst fem:
 | Engelsk | Henrik VIII, Cranmer | Statlig brudd med Roma; anglikansk |
 | Katolsk | Ignatius, Trentkonsilet | Intern reform; dogmatisk klargjøring |
 
-Se [[concepts/luthers-teologi]] for Luthers grunnleggende teologi.
+Se [[kirkehistorie/luthers-teologi]] for Luthers grunnleggende teologi, og [[kirkehistorie/luther-og-reformasjonen]] for de historiske hendelsene.
 
 ---
 
@@ -104,10 +104,12 @@ Den katolske reformasjonen hadde røtter allerede på 1400-tallet — men Trient
 
 ## Sammenheng med andre artikler
 
-- [[concepts/luthers-teologi]] — Luthers grunnleggende teologi
-- [[concepts/bekjennelser-reformasjonens-konsolidering]] — stub (tidligere artikkel)
-- [[concepts/middelalderteologi]] — humanistiske røtter til reformasjonen
-- [[concepts/kristendommens-historie-oversikt]] — reformasjonsperioden i oversikt
+- [[kirkehistorie/luther-og-reformasjonen]] — Luthers biografi, 95 tesene, riksdagen i Worms og reformasjonens historiske forløp
+- [[kirkehistorie/luthers-teologi]] — rettferdiggjørelse, korsets teologi, lov og evangelium, toregimentslæren
+- [[kirkehistorie/monastisk-teologi]] — den monastiske tradisjonen den katolske reformen bygget på
+- [[tro-og-liv/nåde]] — nådelærens teologi
+- [[tro-og-liv/frelse]] — rettferdiggjørelse og frelsens bilder
+- [[kirkehistorie/kristendommens-tilblivelse]] — reformasjonen i historisk perspektiv
 
 ---
 
