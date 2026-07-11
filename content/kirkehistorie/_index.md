@@ -1,13 +1,13 @@
 ---
 title: "Kirkehistorie"
-description: "Kirkens historie fra urkirken til reformasjonen og moderniteten."
+description: "Kirkens to tusenårige historie — fra de første kristne menighetene i Romerriket til reformasjonen og moderniteten. Mappen dekker oldkirkens kristologi og treenighetsstrider, martyriet og klosterbevegelsen, middelalderens mystikere og skolastikere, og Luthers reformasjon med dens teologiske og historiske konsekvenser. Artiklene er organisert kronologisk og tematisk."
 date: 2026-07-10
 updated: 2026-07-10
 ---
 
 # Kirkehistorie
 
-Denne mappen dekker kirkens historie fra de første kristne menighetene til reformasjonen og moderniteten.
+Her samles artikler om kirkens to tusenårige historie — fra de første kristne menighetene i Romerriket til reformasjonen og moderniteten. Mappen dekker oldkirkens kristologi og treenighetsstrider, martyriet og klosterbevegelsen, middelalderens mystikere og skolastikere, og Luthers reformasjon med dens teologiske og historiske konsekvenser. Artiklene er organisert kronologisk og tematisk.
 
 ---
 

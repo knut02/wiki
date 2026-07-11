@@ -1,13 +1,13 @@
 ---
 title: "Kristologi"
-description: "Læren om Jesu person — hvem han er, hans to naturer, historisk Jesus-forskning og kirkens bekjennelse."
+description: "Hvem er Jesus Kristus — og hva sier kirkens bekjennelse om ham? Mappen spenner fra historisk Jesus-forskning og evangelienes portrett til inkarnasjonsteologien og oppstandelsen. Artiklene hænger tett sammen med kirkehistorie-mappens kristologiartikler om Nikea og Kalkedon."
 date: 2026-07-10
 updated: 2026-07-10
 ---
 
 # Kristologi
 
-Artikler om Jesu person og verk — fra historisk Jesus-forskning til kirkens kristologiske bekjennelse.
+Her samles artikler om Jesus Kristus — hvem han er, hva han gjørde og hva kirkens bekjennelse sier om ham. Mappen spenner fra historisk Jesus-forskning og evangelienes portrett av Jesus til inkarnasjonsläran og oppstandelsestidens teologi. Artiklene hænger tett sammen med kirkehistorie-mappens kristologiartikler om Nikea og Kalkedon.
 
 ---
 

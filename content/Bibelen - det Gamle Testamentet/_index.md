@@ -1,13 +1,13 @@
 ---
 title: "Bibelen — det Gamle Testamentet"
-description: "GT-artikler: skapelsen, pakten, Abraham, profetene, de ti bud og sentrale tekster."
+description: "Det gamle testamentet — skapelsen og syndefallet, patriarkene og pakten, loven ved Sinai, profetenes sosialetikk og de poetiske bøkenes visdom. Artiklene leser GT både på egne premisser som Israels hellige skrift og i lys av NT-løftenes oppfyllelse i Jesus."
 date: 2026-07-10
 updated: 2026-07-10
 ---
 
 # Bibelen — det Gamle Testamentet
 
-Artikler om Det gamle testamentet — dets innhold, teologi, nøkkeltekster og sentrale skikkelser.
+Det gamle testamentet — skapelsen og syndefallet, patriarkene og pakten, loven ved Sinai, profetenes sosialetikk og de poetiske bøkenes visdom. Artiklene leser GT både på egne premisser som Israels hellige skrift og i lys av det NT sier om oppfyllelsen av GT-løftene i Jesus.
 
 ---
 

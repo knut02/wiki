@@ -1,13 +1,13 @@
 ---
 title: "Personer"
-description: "Bibelske og historiske personer — fra Adam og Abraham til apostlene og kirkefadrene."
+description: "Sentrale bibelske og historiske skikkelser — fra GT-patriarker og profeter til apostler, kirkefedre og martyrer. Artiklene kombinerer biografisk informasjon med teologisk analyse av personenes rolle i Bibelens fortelling og kirkens utvikling."
 date: 2026-07-10
 updated: 2026-07-10
 ---
 
 # Personer
 
-Artikler om sentrale bibelske og historiske skikkelser.
+Her samles artikler om sentrale bibelske og historiske skikkelser — fra GT-patriarker og profeter til apostler, kirkefedre og martyrer. Artiklene kombinerer biografisk informasjon med teologisk analyse av personenes rolle i Bibelens fortelling og kirkens utvikling.
 
 ---
 

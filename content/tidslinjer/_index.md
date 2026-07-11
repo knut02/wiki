@@ -1,13 +1,13 @@
 ---
 title: "Tidslinjer"
-description: "Kronologiske oversikter over GT, NT og kirkehistorien."
+description: "Kronologiske oversikter som hjelper leseren orientere seg i bibelhistoriens og kirkens lange tidsløp — fra skapelsen og GT-patriarkene til NT-tidens menigheter og oldkirkens kirkefedre. Nyttige referanseartikler som lenkes til fra innholdsartiklene."
 date: 2026-07-10
 updated: 2026-07-10
 ---
 
 # Tidslinjer
 
-Kronologiske oversikter og referanseartikler.
+Her samles kronologiske oversiktsartikler som hjelper leseren orientere seg i bibelhistoriens og kirkens lange tidsløp — fra skapelsen og GT-patriarkene til NT-tidens menigheter og oldkirkens kirkefedre. Tidslinjer er nyttige referanseartikler som lenkes til fra innholdsartiklene.
 
 ---
 

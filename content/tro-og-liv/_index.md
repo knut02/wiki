@@ -1,13 +1,13 @@
 ---
 title: "Tro og liv"
-description: "Det kristne livet i praksis — nåde, frelse, bønn, disippelskap, kirken, etikk og eksistensielle spørsmål."
+description: "Det kristne livet i praksis — fra grunnleggende trosspørsmål som nåde, frelse og synd, til spiritualitet, sakramenter og fellesskap. Mappen inneholder både teologiske innføringer og personlige refleksjoner over enkeltbibelvers, og er et naturlig startpunkt for lesere som er nye til kristen tro."
 date: 2026-07-10
 updated: 2026-07-10
 ---
 
 # Tro og liv
 
-Artikler om det kristne livet i praksis — fra grunnleggende trosspørsmål til hverdagens spiritualitet.
+Her samles artikler om det kristne livet i praksis — fra grunnleggende trosspørsmål som nåde, frelse og synd, til spiritualitet, sakramenter og fellesskap. Mappen inneholder både teologiske innføringer og personlige refleksjoner over enkeltbibelvers. Det er wikiens mest varierte mappe, og et naturlig startpunkt for lesere som er nye til kristen tro.
 
 ---
 

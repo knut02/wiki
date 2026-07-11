@@ -1,13 +1,13 @@
 ---
 title: "Historie"
-description: "Generell historisk bakgrunn for Bibelens og kirkens verden."
+description: "Den brede historiske bakgrunnen for Bibelens og kirkens verden — menneskets opprinnelse, de første sivilisasjonene i Mesopotamia og overgangen fra antikken til middelalderen. Færre artikler enn i de andre mappene; fungerer som orienterende bakgrunnsartikler."
 date: 2026-07-10
 updated: 2026-07-10
 ---
 
 # Historie
 
-Artikler om historisk bakgrunn for Bibelens og kirkens verden.
+Her samles artikler om den brede historiske bakgrunnen for Bibelens og kirkens verden — menneskets opprinnelse, de første sivilisasjonene i Mesopotamia, og overgangen fra antikken til middelalderen. Artiklene er færre enn i de andre mappene og fungerer som orienterende bakgrunnsartikler.
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 title: "Lese og forstå Bibelen"
-description: "Hermeneutikk, eksegese, bibeloversettelse og metodiske innføringer i ulike bibliske sjangre."
+description: "Hvordan leser og tolker man Bibelen? Mappen gir innføring i hermeneutikk og de åtte eksgetiske metodene, norsk bibeloversettelseshistorie og ideologien bak oversettelsesvalgene, samt egne innføringsartikler for hebraisk, gresk og ulike bibelske sjangre."
 date: 2026-07-10
 updated: 2026-07-10
 ---
 
 # Lese og forstå Bibelen
 
-Artikler om hvordan man leser, tolker og forstår Bibelen — hermeneutikk, eksegese, tekstkritikk og sjanger.
+Her samles artikler om hvordan man leser og tolker Bibelen — hermeneutikk, eksegese, tekstkritikk og sjangerforståelse. Mappen gir innføring i de åtte eksgetiske metodene, norsk bibeloversettelseshistorie og ideologien bak oversettelsesvalgene, samt egne innføringsartikler for hebraisk, gresk og ulike bibelske sjangre.
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 title: "Teologi"
-description: "Systematisk teologi — Gud, frelse, treenighet, eskatologi, etikk og teologisk metode."
+description: "Systematisk og dogmatisk teologi — de store spørsmålene om Guds natur, menneskets situasjon og frelsens innhold. Mappen dekker gudslære (treenigheten, gudsbevisene, apofatisk teologi), frelseteologi, etikk, eskatologi og teologisk metode. Mange artikler hænger tett sammen med kirkehistorie- og kristologi-mappene."
 date: 2026-07-10
 updated: 2026-07-10
 ---
 
 # Teologi
 
-Systematisk og dogmatisk teologi — artikler om Guds natur, frelselæren, treenighetslæren, eskatologi, etikk og teologisk metode.
+Her samles artikler om systematisk og dogmatisk teologi — de store spørsmålene om Guds natur, menneskets situasjon og frelsens innhold. Mappen dekker gudslære (treenigheten, gudsbevisene, apofatisk teologi), frelseteologi, etikk, eskatologi og teologisk metode. Mange artikler hænger tætt sammen med kirkehistorie- og kristologi-mappene.
 
 ---
 
