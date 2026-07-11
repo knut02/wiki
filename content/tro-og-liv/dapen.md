@@ -157,6 +157,7 @@ I ukene før påske ble de utvalgte kandidatene intensivt forberedt. Daglig exor
 
 ## Sammenheng med andre artikler
 
+- [[tro-og-liv/frelse]] — dåpen som rituell markering av frelsens fortidsdimensjon
 - [[kirkehistorie/nattverd-i-oldkirken]] — dåp og nattverd som sammenhørende initiasjonsritualer
 - [[tro-og-liv/nåde]] — frelse av nåde ved tro; dåpens plass i nådens økonomi
 - [[teologi/arvesynd]] — arvesyndens rolle i barnedåpens teologi

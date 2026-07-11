@@ -89,7 +89,7 @@ Se [[teologi/theosis]].
 Et av NT's viktigste bidrag til frelsesforståelsen er at frelse ikke er ett tidspunkt, men en prosess med tre tidsplan:
 
 **Fortid — «vi ble frelst»**
-Ef 2:8: «Av nåde er dere *frelst*» — perfektum i gresk, en avsluttet handling med pågående virkning. Kristus har *fullbrakt* frelsesverket. «Det er fullbrakt» (Joh 19:30).
+Ef 2:8: «Av nåde er dere *frelst*» — perfektum i gresk, en avsluttet handling med pågående virkning. Kristus har *fullbrakt* frelsesverket. «Det er fullbrakt» (Joh 19:30). Dåpen er den rituelle markeringen av dette øyeblikket — den konkrete hendelsen der frelsens fortidsdimensjon tas imot og bekjennes (Rom 6:3–5; Apg 2:38). Se [[tro-og-liv/dapen]].
 
 **Nåtid — «vi blir frelst»**
 1 Kor 1:18: «For korsets ord er en dårskap for dem som *går fortapt*, men for oss som *blir frelst*, er det Guds kraft.» Presens: En pågående prosess. Helliggjørelse. Formasjon. Vekst i Kristus.

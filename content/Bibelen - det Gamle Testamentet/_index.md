@@ -5,8 +5,6 @@ date: 2026-07-10
 updated: 2026-07-10
 ---
 
-# Bibelen — det Gamle Testamentet
-
 Det gamle testamentet — skapelsen og syndefallet, patriarkene og pakten, loven ved Sinai, profetenes sosialetikk og de poetiske bøkenes visdom. Artiklene leser GT både på egne premisser som Israels hellige skrift og i lys av det NT sier om oppfyllelsen av GT-løftene i Jesus.
 
 ---
