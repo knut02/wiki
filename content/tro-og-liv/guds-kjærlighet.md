@@ -2,7 +2,7 @@
 title: "Guds kjærlighet"
 description: "Guds kjærlighet i Bibelen — agape, de mange ansiktene av Guds kjærlighet, inkarnasjonen som kjærlighetens klimaks, og kjærligheten som drivkraft i kristenlivet."
 date: 2025-05-10
-updated: 2025-06-02
+updated: 2026-07-10
 sources: 5
 ---
 

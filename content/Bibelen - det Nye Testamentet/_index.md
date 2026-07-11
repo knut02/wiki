@@ -21,7 +21,9 @@ Artikler om Det nye testamentet — dets innhold, sjangre, kanonhistorie og nøk
 
 ## Evangeliene
 
+- [[Bibelen - det Nye Testamentet/markusevangeliet]] — Messiashemmeligheten, korsets vei, disiplenes feil
 - [[Bibelen - det Nye Testamentet/matteus-evangeliet]] — Matteus' teologiske profil
+- [[Bibelen - det Nye Testamentet/lukasevangeliet]] — barmhjertighetens evangelium; kvinner, bønn og de marginaliserte
 - [[Bibelen - det Nye Testamentet/johannes-evangeliet]] — oversikt over det fjerde evangeliet
 - [[Bibelen - det Nye Testamentet/johannes-evangeliet-studieplan]] — 30 dagers studieplan
 

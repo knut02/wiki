@@ -2,6 +2,7 @@
 title: "Gudskunnskap og religiøs danning — Klemens og Gregor av Nyssa"
 description: "Henny Fiskå Häggs analyse av to oldkirkelige tenkeres syn på gudserkjennelse og religiøs danning: Klemens av Alexandria og Gregor av Nyssa. Begge beskriver frelsen som en prosess av gradvis likhet med Gud (*theosis*)."
 date: 2025-05-04
+updated: 2026-07-10
 kilder: 1
 ---
 
@@ -89,12 +90,13 @@ Begge er klart avhengige av Platon, men Gregor radikaliserer: Der Platon operert
 
 ## Sammenheng med andre artikler
 
-- [[concepts/frelse-athanasius-augustin]] — theosis-tanken hos Athanasius ("Gud ble menneske for at vi skulle bli Gud")
-- [[concepts/inkarnasjon]] — inkarnasjonen som forutsetning for guddommeliggjøringen
-- [[concepts/treenigheten]] — Gregor som kappadokisk fader og hans bidrag til treenighetsteologien
-- [[concepts/monastisk-teologi]] — den apofatiske tradisjonen videreføres i klosterspiritualiteten
-- [[concepts/middelalderteologi-nyplatonisme]] — Dionysios Areopagiten, som arver Gregors apofatiske tradisjon
-- [[concepts/mester-eckhart-mystikken]] — Eckhart arver nettopp denne tradisjonen
+- [[kirkehistorie/frelse-athanasius-augustin]] — theosis-tanken hos Athanasius
+- [[kristologi/inkarnasjon]] — inkarnasjonen som forutsetning for guddommeliggjøringen
+- [[teologi/treenigheten]] — Gregor som kappadokisk fader
+- [[kirkehistorie/monastisk-teologi]] — den apofatiske tradisjonen videreføres
+- [[kirkehistorie/mester-eckhart-mystikken]] — Eckhart arver denne tradisjonen
+- [[teologi/apofatisk-teologi]] — den negative teologiens tradisjon
+- [[teologi/theosis]] — guddommeliggjørelse som frelsens mål
 
 ---
 

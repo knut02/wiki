@@ -2,7 +2,7 @@
 title: "Fellesskap — å bære hverandres byrder"
 description: "Kristent fellesskap som byrdebæring — gresk analyse av baros vs. phortion i Gal 6, Ef 4:16 om alle ledd, og Åndens frukter som fellesskapets livsnerve."
 date: 2025-05-03
-updated: 2025-05-17
+updated: 2026-07-10
 ---
 
 > «Bær hverandres byrder, og oppfyll Kristi lov på den måten.» — Gal 6:2
@@ -57,11 +57,11 @@ Disse er ikke embeter. De er egenskaper som vokser frem i alle troende som lever
 
 ## Sammenheng med andre artikler
 
-- [[concepts/svake-baand-og-kristent-fellesskap]] — de svake båndenes kraft
-- [[concepts/disippelskap]] — fellesskap som ramme for disippelskap
-- [[concepts/bønn]] — forbønn som konkret byrdebæring
-- [[concepts/bekjennelse]] — bekjennelse i fellesskap (Jak 5:16)
-- [[concepts/guds-kjærlighet]] — Guds kjærlighet som modell
+- [[tro-og-liv/svake-baand-og-kristent-fellesskap]] — de svake båndenes kraft
+- [[tro-og-liv/disippelskap]] — fellesskap som ramme for disippelskap
+- [[tro-og-liv/bønn]] — forbønn som konkret byrdebæring
+- [[tro-og-liv/bekjennelse]] — bekjennelse i fellesskap (Jak 5:16)
+- [[tro-og-liv/guds-kjærlighet]] — Guds kjærlighet som modell
 
 ---
 

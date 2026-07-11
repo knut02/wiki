@@ -1,8 +1,8 @@
 ---
 title: "Bibelens tilblivelse"
-description: "En tykk bok, innbundet i svart skinn med gullbokstaver. Inntrykket er av autoritet, tradisjon og enhet. Men åpner man den, ser man fort hvor sammensatt og mangfoldig den er — et bibliotek av 66 bøker, skrevet over 1500 år, på tre språk, i et dusin sjangre."
+description: "Bibelen er ikke én bok men et bibliotek — 66 skrifter skrevet over 1500 år. En innføring i kanonprosessen, teksthistorien, oversettelsene og spørsmålet om inspirasjon."
 date: 2025-05-06
-modified: 2025-05-15
+updated: 2026-07-10
 kilder: 3
 ---
 
@@ -38,7 +38,7 @@ Rundt år 100 e.Kr. fantes det allerede en rik kristen litteratur. Tre kriterier
 2. **Katolisitet** — Skriftet måtte være allment anerkjent i kirken
 3. **Ortodoksi** — Innholdet måtte stemme med rett kristen lære
 
-**Athanasius' påskebrev** fra 367 er den første bevarte listen som er identisk med våre 27 NT-bøker. Se [[concepts/nt-kanon]] for den fullstendige historien.
+**Athanasius' påskebrev** fra 367 er den første bevarte listen som er identisk med våre 27 NT-bøker. Se [[Bibelen - det Nye Testamentet/nt-kanon]] for den fullstendige historien.
 
 ---
 
@@ -74,11 +74,11 @@ Reformasjonen satte fart i oversettelsesarbeidet: Luther oversatte NT til tysk i
 
 Beckmann (2019) har analysert de norske bibeloversettelsene fra 1959 til 2011 og identifiserer en tydelig utvikling:
 
-**UO59 og NO78/85 — idiomatisk tilnærming:** Oversetteren forklarer og tilpasser teksten for leseren. Gjør Bibelen tilgjengelig, men innsnevrer leserens tolkningsrom. Ulltveit-Moe, primæroversetter for NT i NO78, koblet eksplisitt den idiomatiske metoden til konfesjonelle hensyn: Det er naturlig at bestemte kristologiske antakelser preger oversettelsesvalgene.
+**UO59 og NO78/85 — idiomatisk tilnærming:** Oversetteren forklarer og tilpasser teksten for leseren. Gjør Bibelen tilgjengelig, men innsnevrer leserens tolkningsrom.
 
-**Bibel 2011 — konkordant tilnærming:** Bevarer kildetekstens form og fremmedhet i større grad. Gir leseren større fortolkningsmyndighet. Mer i tråd med protestantismens ideal om «et myndig lekfolk» som selv tolker Skriften.
+**Bibel 2011 — konkordant tilnærming:** Bevarer kildetekstens form og fremmedhet i større grad. Gir leseren større fortolkningsmyndighet.
 
-Det overordnede spørsmålet Beckmann stiller: Er oversettelsesvalgene i kristologisk sensitive tekster styrt av kirkens lære om Jesus — eller er tolkningsmulighetene holdt åpne? Se [[concepts/bibeloversettelse]] for en full analyse.
+Se [[lese-og-forstå-bibelen/bibeloversettelse]] for en full analyse.
 
 ---
 
@@ -104,17 +104,17 @@ Hellige skrifter er *per definisjon* avsluttet. Dermed oppstår behovet for tolk
 
 ## Sammenheng med andre artikler
 
-- [[concepts/bibeltolkning-innforing]] — metode og hermeneutikk
-- [[concepts/bibeloversettelse]] — oversettelsesprinsippene og norsk oversettelseshistorie
-- [[concepts/nt-kanon]] — NT-kanonens tilblivelse i detalj
-- [[concepts/gt-kanon-og-teksthistorie]] — GT-kanonens tilblivelse og teksthistorie
-- [[concepts/gnostisisme]] — de tekstene som ikke kom med
-- [[concepts/apostoliske-fedre]] — de tidligste tekstene utenfor NT
+- [[lese-og-forstå-bibelen/bibeltolkning-innforing]] — metode og hermeneutikk
+- [[lese-og-forstå-bibelen/bibeloversettelse]] — oversettelsesprinsippene og norsk oversettelseshistorie
+- [[Bibelen - det Nye Testamentet/nt-kanon]] — NT-kanonens tilblivelse i detalj
+- [[Bibelen - det Gamle Testamentet/gt-kanon-og-teksthistorie]] — GT-kanonens tilblivelse og teksthistorie
+- [[kirkehistorie/gnostisisme]] — de tekstene som ikke kom med
+- [[kirkehistorie/apostoliske-fedre]] — de tidligste tekstene utenfor NT
 
 ---
 
 ## Kilder
 
-- [[sources/Aschim-2011]] — Aschim, A. (2011): «Bibelen — kristendommens hellige skrift». Cappelen Damm
+- [[sources/Aschim-2011]] — Aschim, A. (2011): «Bibelen — kristendommens hellige skrift»
 - [[sources/Hauge-Saxegaard-2012]] — oversettelsesprinsipper og teksthistorie
-- [[sources/Beckmann-2019-jesus-i-oversettelsen]] — Beckmann, M. (2019): *Jesus i oversettelsen*. UiA
+- [[sources/Beckmann-2019-jesus-i-oversettelsen]] — Beckmann, M. (2019): *Jesus i oversettelsen*

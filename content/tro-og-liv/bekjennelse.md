@@ -2,7 +2,7 @@
 title: "Bekjennelse — å ære Gud og finne helbredelse"
 description: "«Da sa Josva til Akan: Min sønn! Gi Herren, Israels Gud, ære og pris. Si meg hva du har gjort, skjul det ikke for meg!» — Josva 7:19"
 date: 2025-04-27
-modified: 2025-05-15
+updated: 2026-07-10
 kilder: 2
 ---
 
@@ -62,11 +62,11 @@ Vår eneste garanti er Kristi rettferdighet — ikke vår egen. Det betyr at bek
 
 ## Sammenheng med andre artikler
 
-- [[concepts/nåde]] — tilgivelse som gave, ikke fortjeneste
-- [[concepts/tilgivelse]] — å gi og ta imot tilgivelse
-- [[concepts/guds-kjærlighet]] — Gud som sørger over synd og elsker syndere
-- [[concepts/bønn]] — bekjennelse som del av bønnelivet
-- [[concepts/fellesskap]] — bekjennelse i fellesskap (Jak 5:16)
+- [[tro-og-liv/nåde]] — tilgivelse som gave, ikke fortjeneste
+- [[tro-og-liv/tilgivelse]] — å gi og ta imot tilgivelse
+- [[tro-og-liv/guds-kjærlighet]] — Gud som sørger over synd og elsker syndere
+- [[tro-og-liv/bønn]] — bekjennelse som del av bønnelivet
+- [[tro-og-liv/fellesskap]] — bekjennelse i fellesskap (Jak 5:16)
 
 ---
 

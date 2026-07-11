@@ -2,6 +2,7 @@
 title: "Kristent menneskesyn"
 description: "Hva er et menneske? Det bibelske svaret handler ikke primært om natur eller funksjon, men om relasjon — skapt i Guds bilde, kalt til fellesskap med sin skaper."
 date: 2025-05-06
+updated: 2026-07-10
 kilder: 2
 ---
 
@@ -73,13 +74,13 @@ Jesus sammenfatter loven i to bud: elsk Gud og elsk din neste (Matt 22:37–39).
 
 ## Sammenheng med andre artikler
 
-- [[concepts/guds-kjærlighet]] — Guds initiativ som grunnlag for relasjonen
-- [[concepts/bekjennelse]] — ærlighet om hvem vi er som forutsetning for relasjon
-- [[concepts/fellesskap]] — relasjonen som lever ut i fellesskapet
-- [[concepts/arvesynd]] — teologisk utdyping av syndefallet
-- [[concepts/frelse-athanasius-augustin]] — gjenopprettelse av *imago Dei*
-- [[concepts/islam]] — det islamske menneskesynet til sammenligning
-- [[concepts/theosis]] — frelseens mål: deltakelse i Guds natur
+- [[tro-og-liv/guds-kjærlighet]] — Guds initiativ som grunnlag for relasjonen
+- [[tro-og-liv/bekjennelse]] — ærlighet om hvem vi er som forutsetning for relasjon
+- [[tro-og-liv/fellesskap]] — relasjonen som lever ut i fellesskapet
+- [[teologi/arvesynd]] — teologisk utdyping av syndefallet
+- [[kirkehistorie/frelse-athanasius-augustin]] — gjenopprettelse av *imago Dei*
+- [[verdensreligioner-og-livssyn/islam]] — det islamske menneskesynet til sammenligning
+- [[teologi/theosis]] — frelsens mål: deltakelse i Guds natur
 
 ---
 

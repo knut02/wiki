@@ -2,7 +2,7 @@
 title: "Nåde"
 description: "Guds gave uten fortjeneste — charis, Paulus' rettferdiggjørelseslære, billig vs. kostbar nåde, og nådens kirkehistoriske debatt fra Augustin til Luther."
 date: 2025-05-11
-updated: 2025-05-18
+updated: 2026-07-10
 ---
 
 > «Nåden ble sannhet ved Jesus Kristus.» — Joh 1:17. Ikke prinsipp, men person.
@@ -47,7 +47,7 @@ Luthers teologiske gjennombrudd var direkte knyttet til nåde. Han hadde lest «
 
 *Sola gratia* — ved nåde alene — ble ett av reformasjonens fire slagsord. Det var et brudd med det Luther oppfattet som en ufrivillig pelagianisme i samtidskirken: At mennesket kan bidra til frelse gjennom gjerninger, avlat og bønner til helgener.
 
-Se [[concepts/luthers-teologi]] for den fulle reformatoriske sammenhengen.
+Se [[kirkehistorie/luthers-teologi]] for den fulle reformatoriske sammenhengen.
 
 ---
 
@@ -74,7 +74,7 @@ Den eldste broren utenfor er like viktig: «Jeg har tjent deg i alle disse år»
 
 ## Nåde og theosis
 
-Athanasius formulerer: «Han ble menneske for at vi skulle bli guddommelige.» Nåden er ikke bare tilgivelse av fortid — den er begynnelsen på en forvandlingsprosess. Gregor av Nyssa kaller dette *epektasis*: en evig strekken seg fremover mot Gud, aldri stagnant, alltid voksende. Se [[concepts/theosis]].
+Athanasius formulerer: «Han ble menneske for at vi skulle bli guddommelige.» Nåden er ikke bare tilgivelse av fortid — den er begynnelsen på en forvandlingsprosess. Gregor av Nyssa kaller dette *epektasis*: en evig strekken seg fremover mot Gud, aldri stagnant, alltid voksende. Se [[teologi/theosis]].
 
 ---
 
@@ -92,10 +92,10 @@ Athanasius formulerer: «Han ble menneske for at vi skulle bli guddommelige.» N
 
 - [[tro-og-liv/tilgivelse]] — nåde som grunnlag for tilgivelse
 - [[tro-og-liv/bekjennelse]] — å ta imot nåde gjennom bekjennelse
-- [[concepts/arvesynd]] — Augustins nådelære i teologisk kontekst
-- [[concepts/frelse-athanasius-augustin]] — nåde og frelse
-- [[concepts/theosis]] — nåde som begynnelsen på guddommeliggjøring
-- [[concepts/luthers-teologi]] — *sola gratia* i reformasjonens sammenheng
+- [[teologi/arvesynd]] — Augustins nådelære i teologisk kontekst
+- [[kirkehistorie/frelse-athanasius-augustin]] — nåde og frelse
+- [[teologi/theosis]] — nåde som begynnelsen på guddommeliggjøring
+- [[kirkehistorie/luthers-teologi]] — *sola gratia* i reformasjonens sammenheng
 - [[personer/augustin]] — nådelærens mest innflytelsesrike teolog
 
 ---

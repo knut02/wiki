@@ -2,7 +2,7 @@
 
 > Abraham er stamfar for jødedom, kristendom og islam — men de tre religionene forteller historien om ham på tre ulike måter, og disse ulikhetene er teologisk avgjørende.
 
-*Opprettet: 2025-05-06 | Kilder: 2*
+*Opprettet: 2025-05-06 | Oppdatert: 2026-07-10 | Kilder: 2*
 
 ---
 
@@ -78,12 +78,13 @@ Men de rivaliserende fortellingene viser at likheten ikke er likhet. Hver religi
 
 ## Sammenheng med andre artikler
 
-- [[concepts/islam]] — islams forståelse av Ibrahim som profet
-- [[concepts/jodedommen]] — paktsteologien og Abrahams sentrale plass
-- [[concepts/religionsteologi]] — modeller for forholdet mellom religionene
-- [[concepts/bibelens-tilblivelse]] — tekstenes tolkningshistorie
-- [[concepts/historisk-jesus]] — Jesus som Abrahams sønn i Matteus' genealogi
-- [[concepts/dapen]] — dåpen som paktens tegn (jf. omskjæringen)
+- [[verdensreligioner-og-livssyn/islam]] — islams forståelse av Ibrahim som profet
+- [[verdensreligioner-og-livssyn/jodedommen]] — paktsteologien og Abrahams sentrale plass
+- [[teologi/religionsteologi]] — modeller for forholdet mellom religionene
+- [[lese-og-forstå-bibelen/bibelens-tilblivelse]] — tekstenes tolkningshistorie
+- [[kristologi/historisk-jesus]] — Jesus som Abrahams sønn i Matteus' genealogi
+- [[tro-og-liv/dapen]] — dåpen som paktens tegn (jf. omskjæringen)
+- [[Bibelen - det Gamle Testamentet/abraham]] — Abraham som bibelsk skikkelse
 
 ---
 

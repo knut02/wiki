@@ -2,8 +2,8 @@
 title: "Messias — den salvede"
 description: "Du er Messias, den levende Guds Sønn.» — Peters bekjennelse, Matt 16:16"
 date: 2025-04-18
-modified: 2025-05-14
-Kilder: 3
+updated: 2026-07-10
+kilder: 3
 ---
 
 ## Hva betyr ordet?
@@ -16,7 +16,7 @@ Aron ble salvet til prest (3 Mos 8:12). Saul og David ble salvet til konger (1 S
 
 ## Messiasforventningen i GT
 
-Forventningen om en fremtidig Messias er ikke ett enkelt løfte, men en vev av teamer og løfter som vokste frem gjennom hele GT:
+Forventningen om en fremtidig Messias er ikke ett enkelt løfte, men en vev av temaer og løfter som vokste frem gjennom hele GT:
 
 **Davids kongedømme:** Det avgjørende grunnlaget er Guds løfte til David i 2 Sam 7:11–16 — at Gud vil reise opp en etterkommer av David i et kongedømme som skal vare for alltid. Det er dette løftet Matteus peker på fra første setning: «Jesus Kristus, Davids sønn» (Matt 1:1).
 
@@ -44,7 +44,7 @@ I Matt 16:13–19 spør Jesus: «Hvem sier folk at Menneskesønnen er?» Svarene
 
 Peters svar: «Du er Messias, den levende Guds Sønn.»
 
-Dette er vendepunktet i Matteusevangeliet. Sandnes og Skarsaune (2011) og Hvalvik og Stordalen (1999) noterer begge at det er fra dette øyeblikket Jesus begynner å tale åpent om sin forestående lidelse og død (Matt 16:21). Disiplenes erkjennelse av hvem han er, utløser neste fase i fortellingen.
+Dette er vendepunktet i Matteusevangeliet. Det er fra dette øyeblikket Jesus begynner å tale åpent om sin forestående lidelse og død (Matt 16:21). Disiplenes erkjennelse av hvem han er, utløser neste fase i fortellingen.
 
 ---
 
@@ -66,12 +66,13 @@ I NT skjer det en gradvis glidning: «Kristus» (*Christos*) er opprinnelig en t
 
 ## Sammenheng med andre artikler
 
-- [[personer/jesus]] — Messiasens person og liv
-- [[concepts/matteus-evangeliet]] — Matteus' gjennomgående kristologi
-- [[concepts/pakten]] — paktsløftene Messias oppfyller
-- [[concepts/bibelhistorie-nokkelhendelser]] — den historiske linjen frem til Messias
-- [[concepts/jesu-oppstandelse]] — oppstandelsen som Messiasbekreftelse
-- [[concepts/guds-rike]] — Messias og rikets inntog
+- [[kristologi/jesus]] — Messiasens person og liv
+- [[Bibelen - det Nye Testamentet/matteus-evangeliet]] — Matteus' gjennomgående kristologi
+- [[Bibelen - det Gamle Testamentet/pakten]] — paktsløftene Messias oppfyller
+- [[Bibelen - det Gamle Testamentet/abraham]] — Abraham som paktens rot
+- [[Bibelen - det Gamle Testamentet/gt-profetene]] — de messianske profetiene
+- [[kristologi/jesus-sin-oppstandelse]] — oppstandelsen som Messiasbekreftelse
+- [[tro-og-liv/guds-rike]] — Messias og rikets inntog
 
 ---
 

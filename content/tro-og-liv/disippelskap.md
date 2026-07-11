@@ -99,7 +99,7 @@ Willards konklusjon: Det kristne livet er et spørsmål om å *bli* den typen pe
 ## Sammenheng med andre artikler
 
 - [[tro-og-liv/nåde]] — nåde som frigjøring *til* forvandling, ikke fra den
-- [[bibelen/bergprekenen]] — Bergprekenen som disippelsskapets program
+- [[Bibelen - det Nye Testamentet/bergprekenen]] — Bergprekenen som disippelsskapets program
 - [[tro-og-liv/bønn]] — bønn som disiplin og relasjonsform
 - [[tro-og-liv/fellesskap]] — fellesskap som ramme for disippelskap
 - [[tro-og-liv/guds-rike]] — Guds rike som konteksten for disippelskap

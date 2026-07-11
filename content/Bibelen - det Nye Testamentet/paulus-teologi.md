@@ -2,6 +2,7 @@
 title: "Paulus — apostel, misjonær og teolog"
 description: "Paulus' biografi og teologi: fra jødisk fariseer og kristenforfølger til hedningemisjonens fremste apostel. Romerbrevets kjerne."
 date: 2025-05-03
+updated: 2026-07-10
 kilder: 1
 ---
 
@@ -35,7 +36,7 @@ Romerbrevet (ca. 56–58 e.Kr.) er Paulus' mest systematiske fremstilling av teo
 
 **Hovedtema:** Alle mennesker — jøder og hedninger — er syndere og har behov for Guds frelse. Frelsen skjer ved tro på Jesus Kristus, ikke ved lovgjerninger.
 
-**Kjerneutsagnet** (Rom 3:21–26): De som tror, blir "ufortjent og av hans nåde erklært rettferdige, frikjøpt i Kristus Jesus." Rettferdiggjørelse er ikke en moralsk prestasjon, men et rettslig frifinnesle av nåde.
+**Kjerneutsagnet** (Rom 3:21–26): De som tror, blir «ufortjent og av hans nåde erklært rettferdige, frikjøpt i Kristus Jesus.» Rettferdiggjørelse er ikke en moralsk prestasjon, men et rettslig frifinnesle av nåde.
 
 **Strukturen:**
 
@@ -53,23 +54,17 @@ Paulus' teologi er ikke abstrakt — den springer ut av hans egne erfaringer. Fo
 
 ---
 
-## Johannes' åpenbaring som bakteppe
-
-Sødals fremstilling inkluderer også Johannes' åpenbaring som eskatologisk pendant til Paulus: der Paulus oppfordrer til lydighet mot myndighetene (Rom 13), skriver Åpenbaringen en kompromissløs kritikk av Roma som Babylon. Skriftet er apokalyptisk litteratur adressert til forfulgte kristne, med Nero-myten og dyrets tall (666 = Nero på hebraisk) som nøkkel.
-
----
-
 ## Sammenheng med andre artikler
 
-- [[concepts/luthers-teologi]] — Luther leste Romerbrevet og ble reformert av det
-- [[concepts/arvesynd]] — Augustins lesning av Paulus (Rom 5:12)
-- [[concepts/hellige-ånd]] — Åndens rolle i Paulus' teologi (Rom 8)
-- [[concepts/inaugurert-eskatologi-og-kjonn]] — Paulus om kjønn og eskatologi
-- [[concepts/misjonshistorie]] — Paulus som misjonær i historisk perspektiv
+- [[kirkehistorie/luthers-teologi]] — Luther leste Romerbrevet og ble reformert av det
+- [[teologi/arvesynd]] — Augustins lesning av Paulus (Rom 5:12)
+- [[teologi/hellige-ånd]] — Åndens rolle i Paulus' teologi (Rom 8)
+- [[teologi/inaugurert-eskatologi-og-kjonn]] — Paulus om kjønn og eskatologi
+- [[global-kristendom/misjonshistorie]] — Paulus som misjonær i historisk perspektiv
 - [[personer/paulus]] — persons-artikkelen om Paulus
 
 ---
 
 ## Kilder
 
-- [[sources/TEOL1010-Sødal-2009-NT]] — Sødal, H. K. (2009): Bibelen-NT. *Kristendommen I*, kap. 14 (Paulus) og kap. 15 (Johannes' åpenbaring)
+- [[sources/TEOL1010-Sødal-2009-NT]] — Sødal, H. K. (2009): Bibelen-NT. *Kristendommen I*, kap. 14

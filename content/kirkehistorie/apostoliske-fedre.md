@@ -2,7 +2,7 @@
 title: "Apostoliske fedre"
 description: "De første kristne forfatterne etter apostlene — Klemens av Roma, Ignatius av Antiokia, Polykarp av Smyrna, Didache og Barnabasbrevet."
 date: 2025-05-06
-updated: 2025-05-24
+updated: 2026-07-10
 ---
 
 > «Jeg er Guds hvete, og jeg males av dyrs tenner, slik at jeg kan bli funnet å være rent brød.» — Ignatius av Antiokia, på vei til martyrdøden i Roma, ca. 107 e.Kr.
@@ -74,7 +74,7 @@ Martyrberetningen er bevisst fortalt med paralleller til Jesu lidelseshistorie.
 
 ## Didache (ca. 70–100 e.Kr.)
 
-Se [[concepts/didache]] for full gjennomgang. Kortfattet: Didache er den tidligste bevarte kirkeordenen — en praktisk håndbok for dåp, faste, bønn, nattverd og mottak av reisende profeter. Den er et vindu inn i den tidligkristne hverdagen som ingen annen kilde gir.
+Se [[kirkehistorie/didache]] for full gjennomgang. Kortfattet: Didache er den tidligste bevarte kirkeordenen — en praktisk håndbok for dåp, faste, bønn, nattverd og mottak av reisende profeter. Den er et vindu inn i den tidligkristne hverdagen som ingen annen kilde gir.
 
 ---
 
@@ -94,7 +94,7 @@ En lang, visjonær tekst i tre deler — visjoner, befalinger og lignelser. Herm
 
 **Om embetsstrukturen:** Fra Didachens løse struktur med omreisende profeter, via Ignatius' sterke biskopsembete, ser vi kirkens institusjonalisering i sanntid over bare noen tiår.
 
-**Om kanon:** Disse forfatterne siterer flittig fra det som ble NT — men uten alltid å si «det står skrevet». Det forteller oss at kanonprosessen var underveis, men ikke fullført. Se [[concepts/nt-kanon]].
+**Om kanon:** Disse forfatterne siterer flittig fra det som ble NT — men uten alltid å si «det står skrevet». Det forteller oss at kanonprosessen var underveis, men ikke fullført. Se [[Bibelen - det Nye Testamentet/nt-kanon]].
 
 **Om teologi:** Kampen mot doketisme (Ignatius), mot jødiske tolkninger (Barnabas), for orden og enhet (Klemens) — de apostoliske fedrene kjemper på mange fronter samtidig.
 
@@ -104,12 +104,12 @@ En lang, visjonær tekst i tre deler — visjoner, befalinger og lignelser. Herm
 
 ## Sammenheng med andre artikler
 
-- [[concepts/didache]] — Didache utdypet
-- [[concepts/martyriet]] — martyriet som teologi og praksis
-- [[concepts/nt-kanon]] — kanonprosessen og de apostoliske fedrenes rolle
-- [[concepts/tidligkristent-mangfold]] — mangfoldet de apostoliske fedrene reagerte mot
-- [[concepts/gnostisisme]] — doketisme og Ignatius' motstand
-- [[concepts/kristendommens-tilblivelse]] — den etterapostolske tidsalder
+- [[kirkehistorie/didache]] — Didache utdypet
+- [[kirkehistorie/martyriet-og-helgenkult]] — martyriet som teologi og praksis
+- [[Bibelen - det Nye Testamentet/nt-kanon]] — kanonprosessen og de apostoliske fedrenes rolle
+- [[kirkehistorie/tidligkristent-mangfold]] — mangfoldet de apostoliske fedrene reagerte mot
+- [[kirkehistorie/gnostisisme]] — doketisme og Ignatius' motstand
+- [[kirkehistorie/kristendommens-tilblivelse]] — den etterapostolske tidsalder
 - [[personer/klemens-av-alexandria]] — ikke å forveksle med Klemens av Roma
 
 ---
