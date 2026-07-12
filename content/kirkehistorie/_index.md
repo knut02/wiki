@@ -2,7 +2,7 @@
 title: "Kirkehistorie"
 description: "Kirkens to tusenårige historie — fra de første kristne menighetene i Romerriket til reformasjonen og moderniteten. Mappen dekker oldkirkens kristologi og treenighetsstrider, martyriet og klosterbevegelsen, middelalderens mystikere og skolastikere, og Luthers reformasjon med dens teologiske og historiske konsekvenser. Artiklene er organisert kronologisk og tematisk."
 date: 2026-07-10
-updated: 2026-07-10
+updated: 2026-07-12
 ---
 
 # Kirkehistorie
@@ -39,10 +39,11 @@ Her samles artikler om kirkens to tusenårige historie — fra de første kristn
 - [[kirkehistorie/tidligkristen-bønnepraksis]] — bønneformer, tider og tidebønn
 - [[kirkehistorie/nattverd-i-oldkirken]] — nattverdens teologi og praksis
 
-**Kirkestruktur**
+**Gudstjeneste og kirkeliv**
+- [[kirkehistorie/tidligkristen-gudstjeneste]] — måltid, dåp, bønn og sang i oldkirken (McGowan)
+- [[kirkehistorie/gudstjenesten]] — gudstjenestens utvikling fra huskirke til basilika
 - [[kirkehistorie/embetsutvikling]] — biskop, presbyter og diakon
 - [[kirkehistorie/kirkens-ledelse-og-sakramentene]] — sakramentsteologi og kirkestyre
-- [[kirkehistorie/gudstjenesten]] — gudstjenestens utvikling fra huskirke til basilika
 - [[kirkehistorie/kirkefedre]] — oversikt over de viktigste kirkefadrene
 - [[kirkehistorie/kirkehistorie-100-200]] — det annet århundre
 

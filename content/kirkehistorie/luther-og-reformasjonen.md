@@ -6,8 +6,6 @@ updated: 2025-07-09
 sources: 4
 ---
 
-# Luther og reformasjonen
-
 > «Her står jeg — jeg kan ikke annet. Gud hjelpe meg. Amen.» — Martin Luther, Riksdagen i Worms, 1521
 
 > «Et kristent menneske er en helt og holdent fri herre over alle ting og ikke underlagt noen. Et kristent menneske er en tvers igjennom pliktskyldig trell under alle ting og underlagt enhver.» — Luther, *Om den kristne frihet*, 1520

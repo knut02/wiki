@@ -5,8 +5,6 @@ date: 2026-07-10
 updated: 2026-07-10
 ---
 
-# Global kristendom
-
 Her samles artikler om kristendommen utenfor den vesteuropeiske tradisjon — Afrika, Latin-Amerika og misjonshistorien. Mappen dekker kontekstuell teologi, religionsdialog med islam, rasisme og kirkens ansvar, og Den norske kirkes selvforståelse som misjonerær folkekirke.
 
 ---
