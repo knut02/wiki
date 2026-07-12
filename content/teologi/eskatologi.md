@@ -103,11 +103,11 @@ Han bruker analogien om å bygge en katedral: Arbeiderne som legger det første 
 
 ## Sammenheng med andre artikler
 
-- [[concepts/jesu-oppstandelse]] — Jesu oppstandelse som grunnlaget og mønsteret
-- [[concepts/guds-rike]] — riket som eskatologiens nåtidsramme
-- [[concepts/skapelsen]] — skaperverkets godhet som premiss for ny skapelse
-- [[concepts/nåde]] — rettferdiggjørelse og fremtidig dom
-- [[concepts/gudsbevis]] — det ondes problem i lys av dommen
+- [[kristologi/jesus-sin-oppstandelse]] — Jesu oppstandelse som grunnlaget og mønsteret
+- [[tro-og-liv/guds-rike]] — riket som eskatologiens nåtidsramme
+- [[Bibelen - det Gamle Testamentet/skapelsen]] — skaperverkets godhet som premiss for ny skapelse
+- [[tro-og-liv/nåde]] — rettferdiggjørelse og fremtidig dom
+- [[teologi/gudsbevis]] — det ondes problem i lys av dommen
 
 ---
 

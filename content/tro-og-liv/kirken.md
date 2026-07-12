@@ -2,8 +2,8 @@
 title: "Kirken"
 description: "Hva er kirken teologisk? Guds folk, Kristi kropp og Åndens tempel — de tre store NT-bildene, forholdet mellom synlig og usynlig kirke, og kirken og Guds rike."
 date: 2025-06-13
-updated: 2025-06-13
-sources: 3
+updated: 2026-07-12
+sources: 4
 ---
 
 # Kirken
@@ -114,6 +114,20 @@ Kirken eksisterer ikke for seg selv. Den har et oppdrag rettet utover:
 
 **Fellesskap:** «De holdt fast ved apostlenes lære og fellesskapet, ved brødets brytelse og ved bønnene» (Apg 2:42). Kirken er ikke et konsertpublikum; det er et fellesskap der man kjenner og bærer hverandre.
 
+Imes (2025) oppsummerer kirkeliv med fire W-er som beskriver hva menigheten gjør når den samles: **Worship** (tilbedelse), **Word** (Ordets forkynning), **Work** (tjeneste og misjon) og **Wait** (forventning om Herrens gjenkomst). De fire er ikke aktiviteter som konkurrerer, men dimensjoner ved ett og samme samlingsliv.
+
+---
+
+## Kirken er ikke et solooppdrag
+
+Kulturen vår heller mot individuell tro — «min personlige gudstro» løsrevet fra fellesskapet. NT gir ikke rom for dette. Det kristne livet er ikke et solooppdrag; det er et gruppeprosjekt.
+
+Dette er ikke et kulturelt eller organisatorisk krav, men teologisk: Kirken er Guds masterplan. Gjennom hele Bibelen ser vi at Gud handler gjennom et folk, ikke bare gjennom enkeltpersoner. Abraham ble kalt til å bli stamfar for et folk. Israel ble formet som et paktsfolk. Pinsedag ble Guds nærvær gitt til *forsamlingen* — ikke til isolerte individer.
+
+Ef 4:11-13 peker på at Kristus ga kirken apostler, profeter, evangelister, hyrder og lærere — *for at vi alle skal nå fram til enhet*. Modenheten skjer ikke i isolasjon, men gjennom at alle lemmene gjør sin del. Det er en grunn til at Paulus bruker kropp-bildet: En kropp fungerer ikke med bare ett lem.
+
+Dette er ikke en idealisert kirke det her er snakk om. Det er kirken med all dens gnisning, skuffelse og uenighet. Imes, som selv har skrevet en bok om kirkens nødvendighet og *deretter* gikk gjennom å forlate sin egen menighet, holder fast: «Vi kan elske kirken nok til å kritisere den.» Skuffelse over kirken er ikke et argument for å forlate den — det er tvert imot bevis på at vi tar den på alvor.
+
 ---
 
 ## Kirken som fellesskap på kors og knapt
@@ -143,3 +157,4 @@ Det er grunnen til at kirken trenger Ånden, Ordet og sakramentene: Ikke bare so
 - [[sources/McGrath-Historical-Theology]] — McGrath, A.E.: *Historical Theology*. Blackwell
 - [[sources/Pedersen-2012-oldkirken]] — Pedersen, N.A. (2012): *Kirkens historie: Oldkirken*. Cappelen Damm
 - [[sources/studier-personlige]] — egne studier og notater
+- [[sources/imes-2025-becoming-gods-family]] — Imes, C.J. (2025): *Becoming God's Family: Why the Church Still Matters*. Intervarsity Press

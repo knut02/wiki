@@ -48,7 +48,7 @@ Jesus behandlet kvinner på en måte som var radikal i sin kulturelle kontekst:
 
 Keener (2014): At kvinner er oppstandelsesvitnene er historisk viktig — i antikken var kvinner ikke gyldige vitner i retten. Ingen som konstruerte historien, ville valgt kvinner som primærvitner.
 
-**Se også:** [[concepts/kvinner-i-evangeliene]] for en komplett gjennomgang.
+**Se også:** [[kvinner-og-bibelen/kvinner-i-evangeliene]] for en komplett gjennomgang.
 
 ### Kvinner i NT-menighetene
 
@@ -168,12 +168,12 @@ Begge posisjoner kan forsvares innenfor evangelikal ortodoksi. Begge tar Bibelen
 
 ## Sammenheng med andre artikler
 
-- [[concepts/kvinner-i-evangeliene]] — alle kvinner i evangeliene med Peelers analyse
+- [[kvinner-og-bibelen/kvinner-i-evangeliene]] — alle kvinner i evangeliene med Peelers analyse
 - [[personer/maria]] — Maria som mønster for tjeneste (Peeler)
-- [[concepts/treenigheten]] — er Faderen maskulin? (Peeler)
-- [[concepts/inkarnasjon]] — Jesu mannlighet og dens teologiske implikasjoner
-- [[concepts/kvinner-som-bibeltolkere]] — leserposisjon og hermeneutikk
-- [[concepts/inaugurert-eskatologi-og-kjonn]] — eskatologisk lesning av kjønnstekstene
+- [[teologi/treenigheten]] — er Faderen maskulin? (Peeler)
+- [[kristologi/inkarnasjon]] — Jesu mannlighet og dens teologiske implikasjoner
+- [[kvinner-og-bibelen/kvinner-som-bibeltolkere]] — leserposisjon og hermeneutikk
+- [[teologi/inaugurert-eskatologi-og-kjonn]] — eskatologisk lesning av kjønnstekstene
 
 ---
 

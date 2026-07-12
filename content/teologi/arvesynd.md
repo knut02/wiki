@@ -88,10 +88,10 @@ Alle de store kirketradisjonene aksepterer en form for arvet syndighet — at me
 ## Sammenheng med andre artikler
 
 - [[personer/augustin]] — arvesyndens teologiske arkitekt
-- [[concepts/skapelsen]] — syndefallet som bakgrunn
-- [[concepts/nåde]] — nåden som svar på arvesynden
-- [[concepts/frelse-athanasius-augustin]] — to frelsesmodeller
-- [[concepts/dapen]] — dåpen og arvesynden
+- [[Bibelen - det Gamle Testamentet/skapelsen]] — syndefallet som bakgrunn
+- [[tro-og-liv/nåde]] — nåden som svar på arvesynden
+- [[kirkehistorie/frelse-athanasius-augustin]] — to frelsesmodeller
+- [[tro-og-liv/dapen]] — dåpen og arvesynden
 
 ---
 

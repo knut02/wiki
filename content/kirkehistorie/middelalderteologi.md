@@ -103,11 +103,11 @@ Det paradoksale: Humanismens *ad fontes*-program ble *Luthers* program. Humanism
 
 ## Sammenheng med andre artikler
 
-- [[concepts/klosterlivet]] — klostervesenets historiske utvikling
-- [[concepts/universaliestrid-vernakulaer-teologi]] — Duns Scotus, Ockham, Marguerite Porete
-- [[concepts/mester-eckhart-mystikken]] — senmiddelalderens mystikk
-- [[concepts/middelalderteologi-nyplatonisme]] — Augustin og Dionysios som bakgrunn
-- [[concepts/luthers-teologi]] — humanismens arv i reformasjonen
+- [[kirkehistorie/klosterlivet]] — klostervesenets historiske utvikling
+- [[kirkehistorie/universaliestrid-vernakulaer-teologi]] — Duns Scotus, Ockham, Marguerite Porete
+- [[kirkehistorie/mester-eckhart-mystikken]] — senmiddelalderens mystikk
+- [[kirkehistorie/middelalderteologi-nyplatonisme]] — Augustin og Dionysios som bakgrunn
+- [[kirkehistorie/luthers-teologi]] — humanismens arv i reformasjonen
 - [[personer/augustin]] — middelaldernes teologiske arv
 
 ---

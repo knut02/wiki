@@ -163,7 +163,7 @@ Hans varige bidrag:
 
 ## Sammenheng med andre artikler
 
-- [[kirkehistorie/reformasjonsbekjennelsene]] — Confessio Augustana og andre bekjennelsesskrifter
+- [[kirkehistorie/bekjennelser-reformasjonens-konsolidering]] — Confessio Augustana og andre bekjennelsesskrifter
 - [[tro-og-liv/nåde]] — Luthers nådelære
 - [[tro-og-liv/frelse]] — rettferdiggjørelse ved tro
 - [[teologi/arvesynd]] — Luthers augustinisme

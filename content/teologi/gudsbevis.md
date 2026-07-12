@@ -109,12 +109,12 @@ Tro på Gud er *rasjonelt forsvarlig* — ikke blind tro, men informert tro.
 
 ## Sammenheng med andre artikler
 
-- [[concepts/jesu-oppstandelse]] — oppstandelsen som historisk argument
-- [[concepts/tvil-og-tro]] — de vanskelige spørsmålene i troens hverdag
-- [[concepts/skapelsen]] — skapelsesteologiens møte med kosmologi
-- [[concepts/eskatologi]] — det ondes problem i lys av fremtidshåpet
-- [[concepts/moderniteten-og-opplysningen]] — den apologetiske strategien
-- [[concepts/kristent-menneskesyn]] — bevissthet og menneskeverd
+- [[kristologi/jesus-sin-oppstandelse]] — oppstandelsen som historisk argument
+- [[tro-og-liv/tvil-og-tro]] — de vanskelige spørsmålene i troens hverdag
+- [[Bibelen - det Gamle Testamentet/skapelsen]] — skapelsesteologiens møte med kosmologi
+- [[teologi/eskatologi]] — det ondes problem i lys av fremtidshåpet
+- [[kirkehistorie/moderniteten-og-opplysningen]] — den apologetiske strategien
+- [[tro-og-liv/kristent-menneskesyn]] — bevissthet og menneskeverd
 - [[teologi/anselm-og-det-ontologiske-gudsbevis]]
 
 ---

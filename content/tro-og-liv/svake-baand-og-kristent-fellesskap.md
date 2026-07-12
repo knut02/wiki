@@ -64,11 +64,11 @@ Det svake båndet — den perifere kontakten — er ofte porten inn for de som e
 
 ## Sammenheng med andre artikler
 
-- [[concepts/fellesskap]] — *baros* og *phortion*; fellesskapets tyngde og bærbarhet
-- [[concepts/disippelskap]] — identitet og kall i fellesskap
-- [[concepts/kvinner-i-evangeliene]] — Johanna, Susanna og andre perifere skikkelser
-- [[concepts/martyriet]] — Perpetua og Felicitas' martyrium
-- [[concepts/kirkehistorie-0-100]] — kristendommens sosiale nettverk i det første århundret
+- [[tro-og-liv/fellesskap]] — *baros* og *phortion*; fellesskapets tyngde og bærbarhet
+- [[tro-og-liv/disippelskap]] — identitet og kall i fellesskap
+- [[kvinner-og-bibelen/kvinner-i-evangeliene]] — Johanna, Susanna og andre perifere skikkelser
+- [[kirkehistorie/martyriet-og-helgenkult]] — Perpetua og Felicitas' martyrium
+- [[kirkehistorie/kirke-100-200]] — kristendommens sosiale nettverk i det første århundret
 
 ---
 

@@ -40,7 +40,7 @@ Konstantins allianse med kirken (312 e.Kr.) og den gradvise innføringen av kris
 
 **Tilpasning til statsstrukturen:** Kirkens organisasjon ble bygget etter mønster av den verdslige provinsinndelingen — bispedømmer, provinser, metropolitter, patriarker. Over dem alle: det *økumeniske konsilet*, holdt første gang i Nikea 325.
 
-**Prisen for alliansen:** Keiseren grep inn i kirkens saker, innsatte og avsatte geistlige, og brukte kirken som et instrument for sosial og politisk ensretting. Biskopene fikk rikdom og makt — men til prisen av underordning under statsmakten. Se [[concepts/statsreligion]].
+**Prisen for alliansen:** Keiseren grep inn i kirkens saker, innsatte og avsatte geistlige, og brukte kirken som et instrument for sosial og politisk ensretting. Biskopene fikk rikdom og makt — men til prisen av underordning under statsmakten. Se [[kirkehistorie/statsreligion]].
 
 **Augustin og de to stater:** Den fremste av kirkefedrene, Augustin av Hippo (354–430), besvarte dette dilemmaet i *De civitate Dei*: Historien er dypest sett en kamp mellom Guds stat og den jordiske stat — og de to kan ikke identifiseres med noe samfunn her på jorden. Se [[personer/augustin]].
 
@@ -98,12 +98,12 @@ Det er historisk nyttig å forstå den tidlige kirkes vekst og islams vekst som 
 
 ## Sammenheng med andre artikler
 
-- [[concepts/statsreligion]] — Konstantins allianse og dens konsekvenser
-- [[concepts/kirken-ost-og-vest]] — delingen mellom de tre sivilisasjonene
-- [[concepts/kristendommens-tilblivelse]] — kristendommens sosiale profil i de første århundrene
-- [[concepts/martyriet]] — martyriets rolle i kristendommens tiltrekningskraft
-- [[concepts/islam]] — islamsk teologi og samfunnsdannelse
-- [[concepts/monastisk-teologi]] — klostervesenets rolle i overgangen
+- [[kirkehistorie/statsreligion]] — Konstantins allianse og dens konsekvenser
+- [[kirkehistorie/kirken-ost-og-vest]] — delingen mellom de tre sivilisasjonene
+- [[kirkehistorie/kristendommens-tilblivelse]] — kristendommens sosiale profil i de første århundrene
+- [[kirkehistorie/martyriet-og-helgenkult]] — martyriets rolle i kristendommens tiltrekningskraft
+- [[verdensreligioner-og-livssyn/islam]] — islamsk teologi og samfunnsdannelse
+- [[kirkehistorie/monastisk-teologi]] — klostervesenets rolle i overgangen
 - [[personer/augustin]] — de to stater som politisk teologi
 
 ---

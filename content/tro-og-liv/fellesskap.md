@@ -107,7 +107,7 @@ Disse er ikke embeter. De er egenskaper som vokser frem i alle troende som lever
 - [[tro-og-liv/bønn]] — forbønn som konkret byrdebæring
 - [[tro-og-liv/bekjennelse]] — bekjennelse i fellesskap (Jak 5:16)
 - [[tro-og-liv/guds-kjærlighet]] — Guds kjærlighet som modell
-- [[lese-og-forstå-bibelen/gresk-ordbok]] — *koinōnia* og ordgruppen
+- `lese-og-forstå-bibelen/gresk-ordbok` — *koinōnia* og ordgruppen *(artikkel ikke opprettet ennå)*
 
 ---
 

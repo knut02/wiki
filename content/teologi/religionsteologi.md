@@ -88,11 +88,11 @@ Bispemøtets vedtak om religionsdialog ved kirkelige handlinger og Kirkemøtets 
 
 ## Sammenheng med andre artikler
 
-- [[concepts/misjon-i-kontekst]] — misjonsteologi i møte med andre religioner
-- [[concepts/religionsdialog-kirkelige-handlinger]] — praktisk religionsdialog
-- [[concepts/kirken-og-islam]] — Islam som den viktigste dialogpartneren i norsk kontekst
-- [[concepts/jesus-i-koranen]] — Jesu plass i en annen religion
-- [[concepts/historisk-relativisme-kristendom]] — historisk relativisme som utfordring for eksklusivismen
+- [[global-kristendom/misjon-i-kontekst]] — misjonsteologi i møte med andre religioner
+- [[global-kristendom/religionsdialog-kirkelige-handlinger]] — praktisk religionsdialog
+- [[global-kristendom/kirken-og-islam]] — Islam som den viktigste dialogpartneren i norsk kontekst
+- [[verdensreligioner-og-livssyn/jesus-i-koranen]] — Jesu plass i en annen religion
+- [[teologi/historisk-relativisme-kristendom]] — historisk relativisme som utfordring for eksklusivismen
 
 ---
 

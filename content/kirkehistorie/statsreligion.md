@@ -20,7 +20,7 @@ Konstantin betraktet seg som «biskop for dem utenfor kirken» — det vil si an
 - Finansierte kirkebygg (inkludert Peterskirken i Roma og Gravkirken i Jerusalem)
 - Fritok prester fra skatteplikt og militærtjeneste
 - Tillot kirken å motta arv og gaver
-- Innkalte og presiderte over Nikea-konsilet (325) — se [[concepts/nikea-konsilet]]
+- Innkalte og presiderte over Nikea-konsilet (325) — se [[kirkehistorie/nikea-konsilet]]
 - Lot seg ikke selv døpe før på dødsleiet (337)
 
 Han forble *pontifex maximus* — romersk øversteprest — hele livet. Kristendommen var hans religion, men romernes religiøse tradisjoner ble ikke umiddelbart forkastet.
@@ -76,7 +76,7 @@ Kristendommens overgang til statsreligion hadde store konsekvenser:
 
 ### Den monastiske bevegelsen som motreaksjon
 
-Ikke tilfeldig at den egyptiske klosterbevegelsen eksploderte *nettopp* i den perioden kristendommen ble statsreligion (300–400-tallet). Munkene — «hvite martyrer» — trakk seg ut fra en kirke som hadde blitt for tett vevet inn i verdens maktstrukturer. Se [[concepts/askese-martyrdom-klosterbevegelsen]].
+Ikke tilfeldig at den egyptiske klosterbevegelsen eksploderte *nettopp* i den perioden kristendommen ble statsreligion (300–400-tallet). Munkene — «hvite martyrer» — trakk seg ut fra en kirke som hadde blitt for tett vevet inn i verdens maktstrukturer. Se [[kirkehistorie/askese-i-oldkirken]].
 
 ---
 
@@ -88,19 +88,19 @@ Konstantins og Theodosius' grep skapte to ulike modeller som ble normgivende:
 
 **Pavedømmet (vest):** Paven hevder uavhengig og overordnet åndelig autoritet — over keiseren. Grunnlaget ble lagt av pave Gelasius I (494): to makter, åndelig og verdslig, men den åndelige er høyere.
 
-Spenningen mellom disse modellene preget hele middelalderen. Se [[concepts/kirken-ost-og-vest]].
+Spenningen mellom disse modellene preget hele middelalderen. Se [[kirkehistorie/kirken-ost-og-vest]].
 
 ---
 
 ## Sammenheng med andre artikler
 
-- [[concepts/nikea-konsilet]] — keiserens rolle i teologiens utvikling
-- [[concepts/arianismen]] — striden statskirken avgjorde
-- [[concepts/kirkehistorie-0-100]] — kirken som forfulgt minoritet
-- [[concepts/askese-martyrdom-klosterbevegelsen]] — monastisk motreaksjon
-- [[concepts/kirken-ost-og-vest]] — to kirkepolitiske modeller
-- [[concepts/kristendommens-historie-oversikt]] — historisk ramme
-- [[timelines/kirkefedrene-tidslinje]] — 312–381 i kontekst
+- [[kirkehistorie/nikea-konsilet]] — keiserens rolle i teologiens utvikling
+- [[kirkehistorie/arianismen]] — striden statskirken avgjorde
+- [[kirkehistorie/kristendommens-tilblivelse]] — kirken som forfulgt minoritet
+- [[kirkehistorie/askese-i-oldkirken]] — monastisk motreaksjon
+- [[kirkehistorie/kirken-ost-og-vest]] — to kirkepolitiske modeller
+- [[kirkehistorie/kristendommens-historie-oversikt]] — historisk ramme
+- [[tidslinjer/kirkefedrene-tidslinje]] — 312–381 i kontekst
 
 ---
 

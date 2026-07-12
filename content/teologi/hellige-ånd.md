@@ -45,12 +45,12 @@ Jesus sier at synd mot Den hellige ånd ikke vil bli tilgitt (Matt 12:31–32). 
 
 ## Sammenheng med andre artikler
 
-- [[concepts/treenigheten]] — Ånden som tredje person i Treenigheten
-- [[concepts/inkarnasjon]] — Ånden i Jesu unnfangelse og dåp
-- [[concepts/evangeliene]] — NT-kildene om Åndens virke
-- [[concepts/gamle-testamentet]] — Åndens tilstedeværelse gjennom GT
-- [[people/jesus]] — Ånden som sentral i Jesu liv og tjeneste
-- [[concepts/kongelig-presteskap]] — alle troende er nå bærere av Ånden
+- [[teologi/treenigheten]] — Ånden som tredje person i Treenigheten
+- [[kristologi/inkarnasjon]] — Ånden i Jesu unnfangelse og dåp
+- [[Bibelen - det Nye Testamentet/evangeliene]] — NT-kildene om Åndens virke
+- [[Bibelen - det Gamle Testamentet/gamle-testamentet]] — Åndens tilstedeværelse gjennom GT
+- [[kristologi/jesus]] — Ånden som sentral i Jesu liv og tjeneste
+- [[tro-og-liv/kongelig-presteskap]] — alle troende er nå bærere av Ånden
 
 ---
 

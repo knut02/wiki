@@ -58,11 +58,11 @@ Apollinaris av Laodicea (ca. 310–390), som hevdet at Kristi menneskelige ånd 
 
 ## Sammenheng med andre artikler
 
-- [[personer/jesus]] — Jesu liv som helhet
-- [[concepts/frelse-athanasius-augustin]] — oppstandelsens plass i frelseteologien
-- [[concepts/eskatologi]] — Kristi oppstandelse som mønster for den kommende
-- [[concepts/sheol-og-oppstandelsen]] — hva skjer etter døden; ventestedet
-- [[concepts/guds-rike]] — oppstandelsen som rikets gjennombrudd
+- [[kristologi/jesus]] — Jesu liv som helhet
+- [[kirkehistorie/frelse-athanasius-augustin]] — oppstandelsens plass i frelseteologien
+- [[teologi/eskatologi]] — Kristi oppstandelse som mønster for den kommende
+- [[teologi/sheol-og-hades]] — hva skjer etter døden; ventestedet
+- [[tro-og-liv/guds-rike]] — oppstandelsen som rikets gjennombrudd
 - [[personer/maria-magdalena]] — det første vitnet
 
 ---

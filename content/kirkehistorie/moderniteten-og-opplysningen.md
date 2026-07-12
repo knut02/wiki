@@ -57,7 +57,7 @@ Karl Barth (1886–1968) reagerte dramatisk på liberalteologiens kapitulasjon t
 Barths svar: Teologien kan ikke bygge på menneskelig erfaring, fornuft eller kultur. Den må begynne med Guds Ord — med åpenbaringen i Jesus Kristus. *Gud er Gud, og mennesket er menneske.* Det er et absolutt brudd mellom dem, som bare Guds nåde kan overbryte.
 
 **3. Apologi — dialog**
-En tredje strategi: Engasjer opplysningens spørsmål intellektuelt, men vis at kristendommen gir bedre svar. C.S. Lewis, G.K. Chesterton og i vår tid N.T. Wright og Alvin Plantinga representerer dette. Se [[concepts/gudsbevis]] for et eksempel.
+En tredje strategi: Engasjer opplysningens spørsmål intellektuelt, men vis at kristendommen gir bedre svar. C.S. Lewis, G.K. Chesterton og i vår tid N.T. Wright og Alvin Plantinga representerer dette. Se [[teologi/gudsbevis]] for et eksempel.
 
 ---
 
@@ -69,12 +69,12 @@ Reformasjonen og opplysningen deler impulser: begge vektlegger individets tilgan
 
 ## Sammenheng med andre artikler
 
-- [[concepts/sekularisering]] — opplysningens langsiktige konsekvenser
-- [[concepts/livssyn]] — humanisme som opplysningstidens livssyn
-- [[concepts/gudsbevis]] — det apologetiske svaret på opplysningskritikken
-- [[concepts/eskatologi]] — Wright om fremskrittsideologien som parodi på kristent håp
-- [[concepts/historisk-relativisme-kristendom]] — historistisk tilnærming
-- [[concepts/arvesynd]] — opplysningstidens kritikk av arvesynden
+- [[verdensreligioner-og-livssyn/sekularisering]] — opplysningens langsiktige konsekvenser
+- [[verdensreligioner-og-livssyn/livssyn]] — humanisme som opplysningstidens livssyn
+- [[teologi/gudsbevis]] — det apologetiske svaret på opplysningskritikken
+- [[teologi/eskatologi]] — Wright om fremskrittsideologien som parodi på kristent håp
+- [[teologi/historisk-relativisme-kristendom]] — historistisk tilnærming
+- [[teologi/arvesynd]] — opplysningstidens kritikk av arvesynden
 
 ---
 

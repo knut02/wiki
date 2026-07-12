@@ -45,23 +45,23 @@ Debatten om tidlig kristent mangfold har konsekvenser for hvordan man leser NT:
 - Dersom mangfoldet er primært, må man spørre: Representerer NT alle tidligkristne, eller bare én gruppe?
 - Dersom kontinuiteten er reell, kan man lese NT som et troverdig vitnesbyrd om det sentrale i Jesu lære og identitet
 
-Se [[concepts/bibeltolkning-innforing]] for hermeneutiske refleksjoner.
+Se [[lese-og-forstå-bibelen/bibeltolkning-innforing]] for hermeneutiske refleksjoner.
 
 ---
 
 ## Gnostisismen som alternativ
 
-Det største og mest gjennomarbeidede alternativet til proto-ortodoksien var gnostisismen — med egne skrifter, ritualer og frelseslære. Se [[concepts/gnostisisme]] for en grundig gjennomgang.
+Det største og mest gjennomarbeidede alternativet til proto-ortodoksien var gnostisismen — med egne skrifter, ritualer og frelseslære. Se [[kirkehistorie/gnostisisme]] for en grundig gjennomgang.
 
 ---
 
 ## Sammenheng med andre artikler
 
-- [[concepts/gnostisisme]] — det største alternativet til proto-ortodoksien
-- [[concepts/arianismen]] — den store striden *innen* proto-ortodoksien
-- [[concepts/nt-kanon]] — kanonprosessen som respons på mangfoldet
-- [[concepts/apostoliske-fedre]] — kontinuitetens vitner
-- [[concepts/bibeltolkning-innforing]] — hermeneutiske implikasjoner
+- [[kirkehistorie/gnostisisme]] — det største alternativet til proto-ortodoksien
+- [[kirkehistorie/arianismen]] — den store striden *innen* proto-ortodoksien
+- [[Bibelen - det Nye Testamentet/nt-kanon]] — kanonprosessen som respons på mangfoldet
+- [[kirkehistorie/apostoliske-fedre]] — kontinuitetens vitner
+- [[lese-og-forstå-bibelen/bibeltolkning-innforing]] — hermeneutiske implikasjoner
 
 ---
 

@@ -1,40 +1,52 @@
-# Pontius Pilatus
+---
+title: "Pontius Pilatus"
+description: "Den romerske prefekten som dømte Jesus til korsfestelse — hans embete, historiske belegg, og rollen i lidelseshistorien."
+date: 2025-05-11
+modified: 2025-05-11
+---
 
-> Romersk landshøvding i Judea 25–36 e.Kr., kjent som dommeren som dømte Jesus til døden.
+## Hvem var Pontius Pilatus?
 
-*Opprettet: 2025-04-18 | Sist oppdatert: 2025-07-09 | Kilder: 1*
+Pontius Pilatus var romersk prefekt over Judea fra ca. 26 til 36/37 e.Kr. Han er mest kjent som mannen som dømte Jesus til korsfestelse, men han styrte provinsen i over ti år og etterlot seg spor i både jødiske, romerske og kristne kilder.
+
+Hans tittel var *praefectus Iudaeae* — ikke prokonsul eller legat, men en rytterstandens embetsmann underordnet den syriske legaten. Judea var en liten og krevende provins, kjennetegnet av religiøs spenning mellom jødisk fromhet og romersk styring.
 
 ---
 
-## Hvem var han?
+## Historiske kilder
 
-Pontius Pilatus var den romerske prefekten (landshøvdingen) i provinsen Judea fra år 25 til år 36 e.Kr. Som landshøvding hadde han nesten ubegrenset makt i provinsen: han kunne felle dødsdommer, utnevne yppersteprester og kontrollerte tempelet og dets midler.
+**Pilatus-inskripsjonen (oppdaget 1961):** En innskrift funnet i Caesarea Maritima nevner Pilatus ved navn som *praefectus Iudaeae*. Dette er det klareste arkeologiske beviset for hans eksistens utenfor de litterære kildene.
 
----
+**Josefus** omtaler Pilatus i *Jewish Antiquities* 18 ved to anledninger: standarden med keiserens bilde som ble forsøkt innført i Jerusalem, og bygningen av en akvedukt finansiert med tempelmidler — begge skapte opprør. Josefus beskriver ham som ufølsom overfor jødisk religiøs sensitivitet.
 
-## Karakter og styre
+**Filon av Alexandria** beskriver Pilatus i brevet til keiser Caligula som brutal, bestikkelig og tilbøyelig til vilkårlige henrettelser.
 
-Historisk sett beskrives Pilatus som hensynsløs og likegyldig overfor jødenes religiøse følelser. Et kjent eksempel er at han tok penger fra tempelkassen for å finansiere bygging av en vannledning i Jerusalem. Hans fremferd overfor samaritanene ble til slutt så brutal at han i år 36 ble avsatt av Syrias stattholder Vitellius og sendt til Roma for å stå til ansvar. Hans videre skjebne er ikke kjent — det som fortelles om ham etter dette er bare legender.
-
----
-
-## Rollen i Jesu dom
-
-Pilatus er mest kjent for å ha dømt [[personer/jesus]] til korsfestelse (Matt 27). Evangeliene fremstiller ham som en mann som forstod at Jesus var uskyldig og ikke ønsket å dømme ham, men som lot seg presse av folkemassene. En tilleggsdriver var frykten for å bli anklaget hos keiseren dersom han friet en mann folket betraktet som en opprører (Joh 19:12).
+**Tacitus** (*Annales* 15.44) nevner kort at Kristus ble henrettet under Pilatus' styre — en beipassende bemerkning i forbindelse med Neros kristenforfølgelse.
 
 ---
 
-## Ikke-bibelske kilder
+## Pilatus i evangeliene
 
-Den jødiske historikeren Josefus omtaler Pilatus og hans styre i Judea. Dette er blant de historiske kildene som indirekte bekrefter at [[personer/jesus]] eksisterte som historisk person — se [[kristologi/historisk-jesus]].
+Alle fire evangeliene har Pilatus som den som formelt dømmer Jesus. Fremstillingene varierer:
 
-En inskripsjonsstein funnet i Cæsarea Maritima i 1961 bærer Pilatus' navn og tittel, og er det eneste arkeologiske funnet som direkte bekrefter hans eksistens.
+- **Markus** gir en kort, nøktern beretning der Pilatus fremstår som svak og ettergivende overfor folket
+- **Matteus** legger til historien om Pilatus' kone og hans symbolske håndvasking
+- **Lukas** inkluderer at Pilatus sender Jesus til Herodes Antipas
+- **Johannes** gir den mest utvidede dialogen mellom Pilatus og Jesus, inkludert det kjente «Hva er sannhet?»
+
+Evangelienes Pilatus er mer ambivalent enn den historiske Pilatus Josefus og Filon tegner. Teologisk motivasjon kan ha bidratt til å modifisere bildet i retning av en figur som ikke egentlig ville Jesus til livs.
+
+---
+
+## Avsettelse og videre skjebne
+
+Ifølge Josefus ble Pilatus avsatt rundt 36/37 e.Kr. etter et blodige sammenstøt med samaritanere ved Garizim-fjellet. Den syriske legaten Vitellius sendte ham til Roma for å besvare anklagene. Hva som skjedde deretter vet vi ikke — den videre historien er spekulasjon og legender.
 
 ---
 
 ## Sammenheng med andre artikler
 
-- [[personer/jesus]] — den mest kjente personen Pilatus dømte
+- [[kristologi/jesus]] — den mest kjente personen Pilatus dømte
 - [[kristologi/historisk-jesus]] — Josefus og Tacitus som kilder; Pilatus-inskripsjonen
 - [[Bibelen - det Nye Testamentet/evangeliene]] — primærkildene til fremstillingen av Pilatus
 

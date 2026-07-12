@@ -119,12 +119,12 @@ Jesus sier til slutt: «Salige er de som ikke ser, og likevel tror.» Det er ikk
 
 ## Sammenheng med andre artikler
 
-- [[concepts/gudsbevis]] — rasjonell begrunnelse for at tro er forsvarlig
-- [[concepts/bønn]] — Guds taushet og ubesvart bønn
-- [[concepts/jesu-oppstandelse]] — oppstandelsens historiske grunnlag
-- [[concepts/eskatologi]] — helvete og fremtidshåp
-- [[concepts/religionsteologi]] — kristendommens eksklusivitet
-- [[concepts/gt-guds-brutalitet]] — vanskelige GT-tekster
+- [[teologi/gudsbevis]] — rasjonell begrunnelse for at tro er forsvarlig
+- [[tro-og-liv/bønn]] — Guds taushet og ubesvart bønn
+- [[kristologi/jesus-sin-oppstandelse]] — oppstandelsens historiske grunnlag
+- [[teologi/eskatologi]] — helvete og fremtidshåp
+- [[teologi/religionsteologi]] — kristendommens eksklusivitet
+- [[Bibelen - det Gamle Testamentet/gt-guds-brutalitet]] — vanskelige GT-tekster
 
 ---
 

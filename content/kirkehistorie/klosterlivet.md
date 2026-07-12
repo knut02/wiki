@@ -45,7 +45,7 @@ Prester ble definert av vigslingen (*sakrament*); munker av løftene om lydighet
 ## Sammenheng med andre artikler
 
 - [[kirkehistorie/statsreligion]] — statsliggjøringen av kirken som utløste klosterbevegelsen
-- [[kirkehistorie/helgener-og-martyrkult]] — martyrtradisjonen som klosterlivets forløper
+- [[kirkehistorie/martyriet-og-helgenkult]] — martyrtradisjonen som klosterlivets forløper
 - [[kirkehistorie/askese-i-oldkirken]] — askesens røtter
 - [[kirkehistorie/apostoliske-fedre]] — kirkefedre tilknyttet klostertradisjon
 - [[personer/augustin]] — augustinereremittene er en av tiggerordenene

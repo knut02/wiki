@@ -1,65 +1,67 @@
-# Jødedommen
+---
+title: "Jødedommen"
+description: "En innføring i jødedommens tro, praksis og tekster — Torah, Talmud, rabbinsk jødedom, og forholdet til kristendom og islam."
+date: 2025-05-11
+modified: 2025-05-11
+---
 
-> Verdensreligion med røtter i Det gamle testamente, grunnlaget for både kristendommen og islam, med en levende norsk minoritetshistorie.
+## Hva er jødedommen?
 
-*Opprettet: 2025-04-18 | Kilder: 2*
+Jødedommen er en av verdens eldste monoteistiske religioner og den første av de abrahamittiske religionene. Den er ikke bare et trossystem, men en sivilisasjon — med hellige tekster, en lovtradisjon (*halacha*), en kalender, ritualer, og en kobling mellom religion og folkeidentitet som er unik i verdenshistorien.
 
 ---
 
-## Grunnlag
+## Jødedommens hellige tekster
 
-Jødedommen ser sin begynnelse i patriarkene Abraham, Isak og Jakob og i Moses og uttaket fra Egypt. De hellige skriftene — TANAKH — er det kristne GT, men i en annen rekkefølge og inndeling. I tillegg til TANAKH er Talmud (rabbinsk kommentartradisjon) sentral i jødisk praksis.
+**TANAKH** er den hebraiske bibelen — den kristne GT. Forkortelsen dekker tre deler:
 
----
+- **Torah** (loven) — de fem Mosebøkene
+- **Nevi'im** (profetene) — Josva til Malaki
+- **Ketuvim** (skriftene) — Salmene, Ordspråkene, Job osv.
 
-## Familien som kjerneenhet
-
-Innenfor jødedommen anses ekteskapet og familien som det som naturlig definerer et menneskes liv. Familiens rolle i den religiøse praksisen er sterk — mange ritualer og tradisjoner gjennomføres i hjemmet. Mye av den praktiske utøvelsen av jødisk tro foregår nettopp i familien, ikke bare i synagogen.
-
----
-
-## Praksis: likheter og forskjeller med islam
-
-Begge religionene er monoteistiske, har faste bønnetider (jødedommen tre daglige, islam fem), regler for rituell renhet og strenge matvaner.
-
-**Mat:** Jødiske kosher-regler forbyr bl.a. blanding av kjøtt og melkeprodukter (med opptil seks timers ventetid mellom). Islamsk halal-regler forbyr svinekjøtt og alkohol. Begge har regler for slaktemetoder.
-
-**Skilsmisse:** Islamsk lov gir mannen rett til skilsmisse; jødisk lov krever at mannen utsteder et skilsmissebrev (*get*) som beskytter konen.
-
-**Gudsdyrkelse:** Begge tradisjoner har tradisjonelt separert menn og kvinner i gudstjenesten. Jødedommen beveger seg i mange sammenhenger i en mer liberal retning.
+**Talmud** er den rabbinske tradisjonens samling av lovdiskusjoner og tolkninger. Den består av *Mishna* (ca. 200 e.Kr.) og *Gemara* (kommentar til Mishna, avsluttet ca. 500 e.Kr.). Babylonsk Talmud er den mest autoritative.
 
 ---
 
-## Retninger
+## Rabbinsk jødedom
 
-Jødedommen er ikke én enhetlig bevegelse. Hoveddelen i moderne sammenheng:
+Etter templets ødeleggelse i 70 e.Kr. ble jødedommen radikalt omformet. Uten tempel, ofringer og presteskap ble synagogen, studiet og bønnen de sentrale elementene. Fariseernes tradisjon — med sin vekt på Torah-tolkning og muntlig lov — ble grunnlaget for rabbinsk jødedom.
 
-- **Ortodoks** — streng overholdelse av halacha (jødisk lov)
-- **Konservativ** — tradisjonell, men åpner for tolkningstilpasninger
-- **Reform/liberal** — sterk vekt på individets valg
-
-[[concepts/fariseerne]] regnes som grunnleggerne av den rabbinske jødedommen som moderne ortodoks jødedom springer ut av.
+Rabbinerne erstattet offerprestene som religiøse autoriteter. De store lærerne (*tannaim* og *amoraim*) debatterte og tolket loven — disse diskusjonene er bevart i Talmud.
 
 ---
 
-## Jødedommen i Norge
+## Sentrale praksiser
 
-Jøder fikk ikke fritt oppholde seg i Norge før jødeparagrafen i Grunnloven ble opphevet i 1851. De første menighetene ble stiftet i Oslo (1892) og Trondheim (1905). Under andre verdenskrig ble ca. 42 % av norske jøder drept, de fleste deportert til Auschwitz. Menighetslivet ble gjenoppbygd etter krigen, men bar preg av tapene langt inn på 1980-tallet. I dag er menighetene i Oslo og Trondheim de eneste etablerte; de beveger seg mot en moderne-ortodoks retning.
+**Shabbat:** Fra fredag solnedgang til lørdag solnedgang — hvile, gudstjeneste og familieliv. Det mest sentrale ukentlige ritualet.
+
+**Bønn:** Tre daglige bønnetider: morgen (*shacharit*), ettermiddag (*mincha*) og kveld (*maariv*). Kjernen er *Shema* («Hør, Israel, Herren er vår Gud, Herren er én») og *Amidah* (de atten bønner).
+
+**Spiselover** (*kashrut*): Regler om hvilke matvarer som er tillatt (*kosher*) og forbudt (*treyf*).
+
+**Høytidene:** Rosh Hashana (nyttår), Yom Kippur (forsoningsdagen), Sukkot, Pesach (påske), Shavuot (pinsefest).
 
 ---
 
-## Forholdet til kristendommen og islam
+## Jødedommens retninger
 
-Alle tre abrahamittiske religioner deler røtter i GT/TANAKH. Jødedommen anerkjenner verken Jesus som Messias eller Muhammad som profet. Se [[concepts/messias]] for den jødiske Messias-forventningen, og [[concepts/islam]] for islams syn på jødedommen.
+Moderne jødedom er mangfoldig:
+
+- **Ortodoks jødedom** — holder fast ved halacha og rabbinsk tradisjon
+- **Konservativ jødedom** — tolker tradisjonen historisk-kritisk, men holder fast ved mange praksiser
+- **Reform-jødedom** — tilpasser tradisjonen til moderniteten; likestilling av kvinner
+- **Rekonstruksjonistisk jødedom** — ser jødedommen primært som en sivilisasjon
 
 ---
 
 ## Sammenheng med andre artikler
 
-- [[concepts/gamle-testamentet]] — TANAKH som jødisk hellig skrift
-- [[concepts/fariseerne]] — grunnlaget for rabbinsk jødedom
-- [[concepts/messias]] — jødisk Messias-forventning vs. kristen oppfyllelse
-- [[concepts/islam]] — den tredje abrahamittiske religionen
+- [[Bibelen - det Gamle Testamentet/gamle-testamentet]] — TANAKH som jødisk hellig skrift
+- [[Bibelen - det Nye Testamentet/fariseerne]] — grunnlaget for rabbinsk jødedom
+- [[kristologi/messias]] — jødisk Messias-forventning vs. kristen oppfyllelse
+- [[verdensreligioner-og-livssyn/islam]] — den tredje abrahamittiske religionen
+- [[verdensreligioner-og-livssyn/jodedommen-i-norge]] — jødisk minoritetshistorie i Norge
+- [[verdensreligioner-og-livssyn/abraham-i-tre-religioner]] — Abraham i jødedom, kristendom og islam
 
 ---
 

@@ -65,10 +65,10 @@ Se [[concepts/det-livssynsapne-samfunn]] for en analyse av det norske livssynsla
 
 ## Sammenheng med andre artikler
 
-- [[concepts/det-livssynsapne-samfunn]] — livssynspolitikk og religiøs endring i Norge
-- [[concepts/sekularisering]] — sekulariseringens konsekvenser for livssynsdanning
-- [[concepts/religionsteologi]] — kristendommens selvforståelse blant livssyn
-- [[concepts/kristent-menneskesyn]] — det kristne livssynets menneskesyn
+- [[verdensreligioner-og-livssyn/det-livssynsapne-samfunn]] — livssynspolitikk og religiøs endring i Norge
+- [[verdensreligioner-og-livssyn/sekularisering]] — sekulariseringens konsekvenser for livssynsdanning
+- [[teologi/religionsteologi]] — kristendommens selvforståelse blant livssyn
+- [[tro-og-liv/kristent-menneskesyn]] — det kristne livssynets menneskesyn
 
 ---
 

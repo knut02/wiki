@@ -75,12 +75,12 @@ Men Christies poeng er ikke å forsvare eller kritisere — det er å observere 
 
 ## Sammenheng med andre artikler
 
-- [[concepts/kalkedon-kristologi]] — den ortodokse læren de fleste kirkegjengere *ikke* holder
-- [[concepts/treenigheten]] — treenigheten som akademisk konstruksjon kontra folkelig religion
-- [[concepts/historisk-jesus]] — den historisk-kritiske Jesusforskningens innflytelse på vanlige folk
-- [[concepts/historisk-relativisme-kristendom]] — Kaufmans parallelle refleksjon
-- [[concepts/inkarnasjon]] — inkarnasjonsläran som teologisk kjernepunkt
-- [[concepts/bibeltolkning-innforing]] — leserposisjonens betydning
+- [[kirkehistorie/kalkedon-kristologi]] — den ortodokse læren de fleste kirkegjengere *ikke* holder
+- [[teologi/treenigheten]] — treenigheten som akademisk konstruksjon kontra folkelig religion
+- [[kristologi/historisk-jesus]] — den historisk-kritiske Jesusforskningens innflytelse på vanlige folk
+- [[teologi/historisk-relativisme-kristendom]] — Kaufmans parallelle refleksjon
+- [[kristologi/inkarnasjon]] — inkarnasjonsläran som teologisk kjernepunkt
+- [[lese-og-forstå-bibelen/bibeltolkning-innforing]] — leserposisjonens betydning
 
 ---
 

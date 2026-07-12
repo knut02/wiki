@@ -82,7 +82,7 @@ Den *apostolske tid* er perioden da de som hadde møtt Jesus personlig, fremdele
 
 **Forholdet til jødedommen:** De kristne begynte som en jødisk gruppe. Etter hvert som hedninger strømmet inn, ble spenningen mellom «jødekristent» og «hedningekristent» en grunnleggende utfordring. Jerusalemkonsilet (Apg 15) var vendepunktet.
 
-**Forfølgelse:** Under Nero (64) ble kristne for første gang systematisk forfulgt. Forfølgelse ble et gjennomgangstema som preget kristendommens selvforståelse i generasjoner. Se [[concepts/martyriet]].
+**Forfølgelse:** Under Nero (64) ble kristne for første gang systematisk forfulgt. Forfølgelse ble et gjennomgangstema som preget kristendommens selvforståelse i generasjoner. Se [[kirkehistorie/martyriet-og-helgenkult]].
 
 ---
 
@@ -106,12 +106,12 @@ Det ble stadig tydeligere at kristne og jøder var to *atskilte* religionssamfun
 
 ## Sammenheng med andre artikler
 
-- [[concepts/apostoliske-fedre]] — litteraturen fra den etterapostolske tid
-- [[concepts/martyriet]] — forfølgelsenes rolle
-- [[concepts/kirkehistorie-100-200]] — neste periode
+- [[kirkehistorie/apostoliske-fedre]] — litteraturen fra den etterapostolske tid
+- [[kirkehistorie/martyriet-og-helgenkult]] — forfølgelsenes rolle
+- [[kirkehistorie/kirke-100-200]] — neste periode
 - [[personer/paulus]] — den sentrale misjonæren
-- [[concepts/statsreligion]] — veien fra forfølgelse til statsreligion
-- [[timelines/nt-tidslinje]] — den fulle kronologien
+- [[kirkehistorie/statsreligion]] — veien fra forfølgelse til statsreligion
+- [[tidslinjer/nt-tidslinje]] — den fulle kronologien
 
 ---
 

@@ -104,12 +104,12 @@ Særlig viktig:
 
 ## Sammenheng med andre artikler
 
-- [[concepts/evangeliene]] — Lukasevangeliet som dobbeltverkets første del
-- [[concepts/hellige-ånd]] — Ånden som handlende subjekt i Apg
-- [[concepts/martyriet]] — Stefanus som første martyr
-- [[concepts/kristendommens-tilblivelse]] — Apg som primærkilde til kirkens første generasjon
+- [[Bibelen - det Nye Testamentet/evangeliene]] — Lukasevangeliet som dobbeltverkets første del
+- [[teologi/hellige-ånd]] — Ånden som handlende subjekt i Apg
+- [[kirkehistorie/martyriet-og-helgenkult]] — Stefanus som første martyr
+- [[kirkehistorie/kristendommens-tilblivelse]] — Apg som primærkilde til kirkens første generasjon
 - [[personer/paulus]] — Apg som primær kilde til Paulus' biografi
-- [[timelines/nt-tidslinje]] — kronologisk oversikt
+- [[tidslinjer/nt-tidslinje]] — kronologisk oversikt
 
 ---
 

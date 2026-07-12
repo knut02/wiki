@@ -86,13 +86,13 @@ Påskedatoen var ikke et trivielt spørsmål: Hele kirkekalenderen hang på den,
 
 ## Sammenheng med andre artikler
 
-- [[concepts/arianismen]] — det Nikea svarte mot
-- [[concepts/kalkedon-kristologi]] — de tre påfølgende konsiliene
-- [[concepts/de-tre-oldkirkelige-bekjennelsene]] — bekjennelsestekstene i sin helhet
-- [[concepts/en-gud-fader-allmektig]] — treenighetsgrammatikken bak homoousios
+- [[kirkehistorie/arianismen]] — det Nikea svarte mot
+- [[kirkehistorie/kalkedon-kristologi]] — de tre påfølgende konsiliene
+- [[kirkehistorie/de-tre-oldkirkelige-bekjennelsene]] — bekjennelsestekstene i sin helhet
+- [[teologi/en-gud-fader-allmektig]] — treenighetsgrammatikken bak homoousios
 - [[personer/athanasius]] — forsvareren av Nikea-ortodoksien
-- [[concepts/statsreligion]] — Konstantins rolle og konsilets politiske dimensjon
-- [[concepts/kirken-ost-og-vest]] — de langsiktige konsekvensene
+- [[kirkehistorie/statsreligion]] — Konstantins rolle og konsilets politiske dimensjon
+- [[kirkehistorie/kirken-ost-og-vest]] — de langsiktige konsekvensene
 
 ---
 
