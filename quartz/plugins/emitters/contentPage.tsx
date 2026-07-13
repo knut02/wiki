@@ -15,6 +15,28 @@ import { Node } from "unist"
 import { StaticResources } from "../../util/resources"
 import { QuartzPluginData } from "../vfile"
 
+function countArticles(allFiles: QuartzPluginData[]) {
+  return allFiles.filter((file) => {
+    if (!file.slug) return false
+    if (file.slug === "index" || file.slug.endsWith("/index") || file.slug.startsWith("tags/")) {
+      return false
+    }
+
+    const slugParts = file.slug.split("/").filter((part) => part.length > 0)
+    if (slugParts.length === 0) return false
+
+    const topDir = slugParts[0]
+    return topDir !== "sources"
+  }).length
+}
+
+function applyHomepageArticleCount(file: QuartzPluginData, articleCount: number) {
+  file.frontmatter = {
+    ...(file.frontmatter ?? {}),
+    articleCount,
+  }
+}
+
 async function processContent(
   ctx: BuildCtx,
   tree: Node,
@@ -81,6 +103,7 @@ export const ContentPage: QuartzEmitterPlugin<Partial<FullPageLayout>> = (userOp
         const slug = file.data.slug!
         if (slug === "index") {
           containsIndex = true
+          applyHomepageArticleCount(file.data, countArticles(allFiles))
           // Render index page with custom layout
           const indexOpts: FullPageLayout = {
             ...sharedPageComponents,
@@ -121,6 +144,10 @@ export const ContentPage: QuartzEmitterPlugin<Partial<FullPageLayout>> = (userOp
         const slug = file.data.slug!
         if (!changedSlugs.has(slug)) continue
         if (slug.endsWith("/index") || slug.startsWith("tags/")) continue
+
+        if (slug === "index") {
+          applyHomepageArticleCount(file.data, countArticles(allFiles))
+        }
 
         yield processContent(ctx, tree, file.data, allFiles, opts, resources)
       }

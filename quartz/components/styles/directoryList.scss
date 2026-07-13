@@ -32,6 +32,12 @@
   text-decoration: underline;
 }
 
+.directory-count-summary {
+  margin: 0 0 1.25rem;
+  color: var(--darkgray);
+  font-size: 0.95rem;
+}
+
 .directory-description {
   margin: 0;
   color: var(--darkgray);
@@ -43,6 +49,7 @@
     border-color: var(--lightgray);
   }
 
+  .directory-count-summary,
   .directory-description {
     color: var(--lightgray);
   }

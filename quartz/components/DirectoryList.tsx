@@ -29,9 +29,11 @@ export default (() => {
     })
 
     const sortedDirs = Array.from(directories.values()).sort((a, b) => a.name.localeCompare(b.name))
+    const articleCount = Number(fileData.frontmatter?.articleCount ?? 0)
 
     return (
       <div class="directory-list">
+        {articleCount > 0 ? <p class="directory-count-summary">Dette nettstedet inneholder {articleCount} artikler.</p> : null}
         {sortedDirs.map((dir) => {
           const folderIndex = allFiles.find((file) => file.slug === dir.slug)
           const sectionId = `section-${dir.name}`
