@@ -115,7 +115,7 @@ Burge leser dette som en konflikt mellom den apostoliske tradisjonens autoritet 
 - [[kirkehistorie/gnostisisme]] — dissidentenes teologiske bakgrunn
 - [[kirkehistorie/embetsutvikling]] — Diotrefes og fremveksten av lokal biskopsmakt
 - [[tro-og-liv/guds-kjærlighet]] — «Gud er kjærlighet» i teologisk sammenheng
-- [[kirkehistorie/inkarnasjon]] — mot doketismen
+- [[kristologi/inkarnasjon]] — mot doketismen
 
 ---
 

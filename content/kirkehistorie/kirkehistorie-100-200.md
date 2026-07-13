@@ -36,7 +36,7 @@ Marcion ble bannlyst fra Roma i 144, men hans kirke vokste raskt og overlevde ha
 
 ## Valentinus og gnostisismen
 
-Valentinus var den mest kjente gnostikeren. Gnostisismen hevdet at materiell verden er skapt av en ond demiurg, at frelse er åndelig erkjennelse (*gnosis*), og at Kristus var en ren åndelig skikkelse. Se [[concepts/historisk-jesus]] for akademiske perspektiver, og [[people/augustin]] for en kirkefar som selv kom fra en gnostisk bakgrunn.
+Valentinus var den mest kjente gnostikeren. Gnostisismen hevdet at materiell verden er skapt av en ond demiurg, at frelse er åndelig erkjennelse (*gnosis*), og at Kristus var en ren åndelig skikkelse. Se [[kristologi/historisk-jesus]] for akademiske perspektiver, og [[personer/augustin]] for en kirkefar som selv kom fra en gnostisk bakgrunn.
 
 ---
 
@@ -47,17 +47,17 @@ Valentinus var den mest kjente gnostikeren. Gnostisismen hevdet at materiell ver
 - **Justin Martyr** (100–165) — apologet som forsøkte å bygge bro mellom kristendom og gresk filosofi
 - **Irenaeus av Lyon** (130–202) — bekjempet gnostisismen
 
-Se [[concepts/kirkefedre]] for fullstendig oversikt.
+Se [[kirkehistorie/kirkefedre]] for fullstendig oversikt.
 
 ---
 
 ## Sammenheng med andre artikler
 
-- [[concepts/kirkehistorie-0-100]] — det foregående århundret
-- [[concepts/kirkefedre]] — oversikt over kirkefedrene
-- [[concepts/oldkirken]] — den bredere konteksten
-- [[concepts/statsreligion]] — det som kom etter denne perioden
-- [[timelines/kirkefedrene-tidslinje]] — kronologisk oversikt
+- [[kirkehistorie/kristendommens-tilblivelse]] — det foregående århundret
+- [[kirkehistorie/kirkefedre]] — oversikt over kirkefedrene
+- [[kirkehistorie/kristendommens-tilblivelse]] — den bredere konteksten
+- [[kirkehistorie/statsreligion]] — det som kom etter denne perioden
+- [[tidslinjer/kirkefedrene-tidslinje]] — kronologisk oversikt
 
 ---
 

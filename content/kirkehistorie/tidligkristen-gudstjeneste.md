@@ -112,17 +112,47 @@ Bønn var ikke bare mental aktivitet. Oldkirkens bønn var:
 
 ## Sang og musikk
 
-Sang hørte med i bankett-tradisjonen — det var forventet underholdning og fellesskapsuttrykk i symposion-fasen. Tidlige kristne samlinger inkluderte åpenbart sang. Paulus omtaler «salmer, hymner og åndelige sanger» (Kol 3:16; Ef 5:19). *Plinius den yngre* (ca. 112 e.Kr.) rapporterer til keiser Trajan at kristne i Bithynia synger til Kristus «som til en gud» — tidlig på morgen.
+Sang hørte med i bankett-tradisjonen — det var forventet underholdning og fellesskapsuttrykk i symposion-fasen. Paulus oppfordrer menigheten til å synge «salmer, hymner og åndelige sanger» i stedet for å bli drukne av vin — en eksplisitt kontrast til det hedenske symposion (Ef 5:18-20). *Plinius den yngre* (ca. 112 e.Kr.) rapporterer til keiser Trajan at kristne i Bithynia møttes tidlig om morgenen og sang til Kristus «som til en gud».
 
-Oldkirken var generelt tilbakeholden med instrumenter i gudstjenesten, trolig delvis på grunn av assosiasjonen til teatre og arenaer, og delvis av teologiske grunner (menneskestemmen som det fullkomne instrument).
+**Salmer, hymner og åndelige sanger** er trolig ikke tre distinkte sjangre, men tre ord som til sammen beskriver ett komplekst fenomen. De bibelske Salmene var sannsynligvis kjent fra jødisk husandakt og fra påskemåltidet (Hallel-psalmene, Sal 113–118). Tertullians beskrivelse av en Kartago-agapé rundt år 200 viser mangfoldet: «Etter håndvask og tenning av lys inviteres hver enkelt til å synge offentlig for Gud — enten fra den hellige skrift, eller fra sin egen evne.» Sang var altså ikke bare korsang, men en rekke individuelle bidrag.
+
+Oldkirken var generelt tilbakeholden med instrumenter. Paulus bruker fløyte og harpe som *metaforer* for forståelig tale (1 Kor 14:7-9) — ikke som modeller for gudstjenesten. Himmelske harper i Åpenbaringen reflekterer tempelikonografi, ikke menighetspraksis. Stemmen alene dominerte.
 
 ---
 
 ## Lesning og forkynning
 
-Apg 2:42 setter «apostlenes lære» øverst. Den tidlige kirken arvet synagogetradisjonen med lesning fra Skriftene og påfølgende utleggelse. Justin Martyr beskriver søndagssamlingen (ca. 150 e.Kr.): Minnene om apostlene eller profetenes skrifter leses så lenge tid tillater det — deretter taler forstanderen og formaner til etterfølgelse av det gode.
+Apg 2:42 setter «apostlenes lære» øverst. Den tidlige kirken arvet synagogetradisjonen med lesning fra Skriftene og påfølgende utleggelse. Justin Martyr beskriver søndagssamlingen (ca. 150 e.Kr.): «Minnene om apostlene eller profetenes skrifter leses, så lenge tid tillater det. Deretter formaner forstanderen muntlig og oppfordrer til etterfølgelse av det gode.» Lesning, preken og eukaristi er hos Justin tett sammenvevd: Man samles, leser, hører, bærer frem gaver, takksier, og deler.
 
-Lesning, preken og eukaristi er allerede hos Justin tett sammenvevd: Man samles, leser, hører, bærer frem gaver, takksier, og deler.
+Tertullian nevner en annen kontekst — morgenmøtet: «Skrift leses, eller salmer synges, eller taler holdes, eller bønner bedes» — noe som antyder at gudstjenesten hadde ulik form avhengig av om det var sabbat, stasjondag eller søndagsbankett.
+
+---
+
+## Søndagen — den åttende dag
+
+Den kristne søndagen fremstår klart fra det 2. århundret, men dens røtter er mer sammensatte enn man ofte antar.
+
+**Sabbat og søndag** levde lenge side om side. De første jødekristne i Jerusalem holdt Sabbat og møttes i tillegg til Herrens bords måltid. Didake skiller ikke mellom de to dagene og nevner ikke Sabbaten som erstattet. Ignatius av Antiokia (ca. 110) tar et kraftig oppgjør — de som tidligere holdt Sabbat, lever nå «etter Herrens [dag?]» — men hans polemikk antyder at ikke alle tenkte slik. McGowan identifiserer to mønstre: **«begge-og»** (Didake, noen afrikanere) og **«enten-eller»** (Ignatius, Barnabas-brevet).
+
+**Den åttende dag.** Barnabasbrevet (ca. 100 e.Kr.) er den tidligste udiskutable kilde for søndag som kristen dag — og begrunner det eskatologisk: «Vi feirer den åttende dag med glede, den dag da Jesus også stod opp fra de døde og, etter å ha åpenbart seg, fòr opp til himmelen.» Søndagen er ikke bare minnedag for fortiden, men forvarslet om det nye skaperverket.
+
+**Solens dag.** Justin Martyr kobler søndagen til den romerske dagbenevnelsen og gir en dobbeldbegrunnelse: Det er den første dag da Gud skapte lyset, og det er dagen Kristus stod opp. Han er den første som eksplisitt knytter søndagsmøtet til den eukaristiske samlingen (*Første apologi* 67). Tertullian måtte forsvare seg mot beskyldninger om soldyrkelse — den kristne skikken med å be mot øst og å samles på solens dag skapte mistanker.
+
+**Nattverden flyttes.** De første søndagsfeiringene var trolig lørdag kveld — den jødiske Sabbat var over, og den første dag av uken begynte. Etter hvert skiftet måltidet til søndagsmorgen. Dette skiftet fra kveldsbankett til morgensamling er sannsynligvis selve opprinnelsen til søndag som «gudstjeneste» i moderne forstand.
+
+---
+
+## Faste og de ukentlige stasjonsdager
+
+Oldkirkens tidsliv handlet ikke bare om søndagen. Fasting strukturerte ukedagene — og ble en markør for kristen identitet.
+
+**Onsdag og fredag** var de kristne fastedagene ifølge Didake — i bevisst kontrast til de fariseiske mandags- og torsdagsfastene: «Deres faster må ikke være de samme som hyklernes. De faster den andre og den femte dag; dere skal faste den fjerde og forberedelsesdagen» (Didake 8:1). Det handler ikke primært om buss og bot, men om å *skille seg ut* fra «hyklerne» — en spenning innen et delt jødisk fromhetsmiljø.
+
+**Stasjon** (*statio*) — det latinske militærordet for «vaktpost» — ble betegnelsen for disse ukentlige fastedagene. Hermas' Hyrde gir det tidligste bildet: En enkeltperson faster alene, ber, og gir maten han sparer til enker og foreldreløse. Den himmelske Hyrdeskikkelsen er ikke imponert av Hermas' vage begrunnelse («slik vi pleier»), og understreker at fastens poeng er solidaritet med dem som sulter:
+
+> «Den dagen du faster, smaker du ingenting uten brød og vann; og etter å ha beregnet prisen på maten du ellers ville spist den dagen, gir du det til en enke, en farløs, eller en person i nød.» (*Similitudines* 5.3)
+
+Innen midten av det 3. århundret ble onsdag koblet til Jesu forræderiet og fredag til hans død — fastene fikk en kristologisk begrunnelse i tillegg til den identitetsmessige.
 
 ---
 

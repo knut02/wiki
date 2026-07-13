@@ -12,7 +12,7 @@ Fariseerne var den største og mest innflytelsesrike av de jødiske religiøse g
 
 Navnet kommer trolig fra det hebraiske verbet *parash* — «å skille seg ut» eller «å være avsondret». De holdt avstand fra samvær med ikke-jøder og praktiserte en streng tolkning av Toraen.
 
-De var godt etablert som en gruppe rundt år 135 f.Kr. — altså i kjølvannet av Makkabeer-opprøret mot syrisk hellenisering (se [[timelines/mellom-testamentene]]). Det er ikke tilfeldig: Fariseerne er i stor grad et svar på den kulturelle presset mot jødisk identitet.
+De var godt etablert som en gruppe rundt år 135 f.Kr. — altså i kjølvannet av Makkabeer-opprøret mot syrisk hellenisering (se [[tidslinjer/mellom-testamentene]]). Det er ikke tilfeldig: Fariseerne er i stor grad et svar på det kulturelle presset mot jødisk identitet.
 
 ## Teologi og praksis
 
@@ -46,9 +46,9 @@ Av de religiøse grupperingene som eksisterte på Jesu tid — fariseere, sadduk
 
 ## Sammenheng med andre artikler
 
-- [[timelines/mellom-testamentene]] — Makkabeer-opprøret som bakteppe for fariseernes fremvekst
-- [[concepts/arianismen]] — tilsvarende teologisk presisering som respons på krise
-- [[concepts/nt-kanon]] — fariseisk kanonforståelse og NT-debatten
+- [[tidslinjer/mellom-testamentene]] — Makkabeer-opprøret som bakteppe for fariseernes fremvekst
+- [[kirkehistorie/arianismen]] — tilsvarende teologisk presisering som respons på krise
+- [[Bibelen - det Nye Testamentet/nt-kanon]] — fariseisk kanonforståelse og NT-debatten
 - [[personer/paulus]] — Paulus som utdannet fariseer
 
 ## Kilder

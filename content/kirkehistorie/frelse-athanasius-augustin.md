@@ -25,7 +25,7 @@ Frelsens logikk:
 
 Inkarnasjonen er ikke primært en soningshendelse, men en *ontologisk* hendelse: Guds natur og menneskelig natur møtes i Kristus, og dette møtet åpner veien for menneskets deltakelse i Gud. Jesu oppstandelse er avgjørende fordi den overvinner dødsmakten.
 
-→ Se [[concepts/theosis]] for den fulle teologiske utfoldelsen.
+→ Se [[teologi/theosis]] for den fulle teologiske utfoldelsen.
 
 ---
 
@@ -88,13 +88,13 @@ Augustins frelsesforståelse ble det teologiske grunnlaget som all vestlig krist
 
 ## Sammenheng med andre artikler
 
-- [[concepts/theosis]] — Athanasius' frelsesforståelse utdypet
-- [[concepts/arvesynd]] — Augustins arvesyndslære
-- [[concepts/nåde]] — nåde som teologisk begrep
-- [[concepts/inkarnasjon]] — inkarnasjonen som frelsens grunnlag
-- [[concepts/treenigheten]] — Athanasius' rolle i Nikea-striden
-- [[concepts/luthers-teologi]] — *sola gratia* som Augustins arv
-- [[concepts/dapen]] — dåpens plass i frelsesforståelsen
+- [[teologi/theosis]] — Athanasius' frelsesforståelse utdypet
+- [[teologi/arvesynd]] — Augustins arvesyndslære
+- [[tro-og-liv/nåde]] — nåde som teologisk begrep
+- [[kristologi/inkarnasjon]] — inkarnasjonen som frelsens grunnlag
+- [[teologi/treenigheten]] — Athanasius' rolle i Nikea-striden
+- [[kirkehistorie/luthers-teologi]] — *sola gratia* som Augustins arv
+- [[tro-og-liv/dapen]] — dåpens plass i frelsesforståelsen
 - [[personer/athanasius]], [[personer/augustin]]
 
 ---

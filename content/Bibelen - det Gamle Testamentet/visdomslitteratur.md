@@ -56,7 +56,7 @@ Den mest melankolske og filosofiske. «Tomhet, bare tomhet, alt er tomhet» (For
 
 ### Salmene — delvis visdomslitteratur
 
-Noen salmer har tydelig visdomsprofil: refleksjon over det rettferdiges skjebne, over menneskelig forgjengelighet, over den vises vei. Salme 1, 37, 49, 73 og 119 er klassiske eksempler. Se [[concepts/salme-22]].
+Noen salmer har tydelig visdomsprofil: refleksjon over det rettferdiges skjebne, over menneskelig forgjengelighet, over den vises vei. Salme 1, 37, 49, 73 og 119 er klassiske eksempler. Se [[Bibelen - det Gamle Testamentet/salme-22]].
 
 ---
 
@@ -90,10 +90,10 @@ Paulus kaller Kristus «Guds kraft og Guds visdom» (1 Kor 1:24) — en identifi
 
 ## Sammenheng med andre artikler
 
-- [[concepts/gt-profetene]] — profetlitteraturen som kontrast til visdomslitteraturen
-- [[concepts/klagesangene]] — klagetradisjonen som beslektet sjanger
-- [[concepts/bibeltolkning-innforing]] — sjangerkunnskap og tolkning
-- [[concepts/daniel]] — Daniel som visdomsperson i fremmed hoff
+- [[Bibelen - det Gamle Testamentet/gt-profetene]] — profetlitteraturen som kontrast til visdomslitteraturen
+- [[Bibelen - det Gamle Testamentet/klagesangene]] — klagetradisjonen som beslektet sjanger
+- [[lese-og-forstå-bibelen/bibeltolkning-innforing]] — sjangerkunnskap og tolkning
+- [[Bibelen - det Gamle Testamentet/daniel]] — Daniel som visdomsperson i fremmed hoff
 
 ---
 

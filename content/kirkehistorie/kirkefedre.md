@@ -16,10 +16,10 @@ Fire tradisjonelle kriterier for kirkefedrebetegnelsen: ortodoks lære, hellig l
 ## Navigasjon
 
 **De apostoliske fedre (ca. 90–150):**
-→ [[concepts/apostoliske-fedre]] — Ignatius av Antiokia, Polykarp, Klemens av Roma, Didake, Hermas
+→ [[kirkehistorie/apostoliske-fedre]] — Ignatius av Antiokia, Polykarp, Klemens av Roma, Didake, Hermas
 
 **Apologetene og Ireneus (ca. 150–200):**
-Justin Martyr, Tertullian, Ireneus av Lyon — se [[concepts/gnostisisme]] (Ireneus' motangrep) og [[concepts/arianismen]] (Tertullians begreper)
+Justin Martyr, Tertullian, Ireneus av Lyon — se [[kirkehistorie/gnostisisme]] (Ireneus' motangrep) og [[kirkehistorie/arianismen]] (Tertullians begreper)
 
 **Alexandrinske kirkefedre (ca. 150–400):**
 → [[personer/klemens-av-alexandria]] — filosofi og tro, den sanne gnostiker
@@ -30,16 +30,16 @@ Justin Martyr, Tertullian, Ireneus av Lyon — se [[concepts/gnostisisme]] (Iren
 → [[personer/augustin]] — arvesynd, nåde, predestinasjon, *Confessiones*
 
 **Tematiske artikler:**
-→ [[concepts/frelse-athanasius-augustin]] — frelseslærene sammenlignet
-→ [[concepts/theosis]] — guddommeliggjørelse fra Athanasius til Gregor
-→ [[concepts/gudskunnskap-og-danning]] — Hägg: Klemens og Gregor om epektasis
-→ [[concepts/apofatisk-teologi]] — fra Klemens til Dionysios Areopagiten
-→ [[timelines/kirkefedrene-tidslinje]] — kronologisk oversikt
+→ [[kirkehistorie/frelse-athanasius-augustin]] — frelseslærene sammenlignet
+→ [[teologi/theosis]] — guddommeliggjørelse fra Athanasius til Gregor
+→ [[tro-og-liv/gudskunnskap-og-danning]] — Hägg: Klemens og Gregor om epektasis
+→ [[teologi/apofatisk-teologi]] — fra Klemens til Dionysios Areopagiten
+→ [[tidslinjer/kirkefedrene-tidslinje]] — kronologisk oversikt
 
 ---
 
 ## Sammenheng med andre artikler
 
-- [[concepts/kristendommens-historie-oversikt]] — kirkefadrenes historiske kontekst
-- [[concepts/statsreligion]] — kirkefadrenes politiske ramme
-- [[concepts/treenigheten]] — det store teologiske prosjektet
+- [[kirkehistorie/kristendommens-historie-oversikt]] — kirkefadrenes historiske kontekst
+- [[kirkehistorie/statsreligion]] — kirkefadrenes politiske ramme
+- [[teologi/treenigheten]] — det store teologiske prosjektet

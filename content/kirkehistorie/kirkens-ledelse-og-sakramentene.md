@@ -27,7 +27,7 @@ Etter hvert ble problemene åpenbare:
 - Hvem styrte gudstjenestens form og almsenes fordeling?
 - Hva med falske lærere og omstreifende profeter?
 
-Didaches instrukser om omreisende apostler og profeter (kap. 11–13) gjenspeiler akkurat dette problemet. Se [[concepts/didache]].
+Didaches instrukser om omreisende apostler og profeter (kap. 11–13) gjenspeiler akkurat dette problemet. Se [[kirkehistorie/didache]].
 
 ---
 
@@ -51,7 +51,7 @@ Kvinner spilte trolig en mer fremtredende rolle i de tidligste husmenighetene �
 
 En viktig legitimerende idé som vokste frem: **apostolisk suksesjon** — at biskopene stod i en åndelig nedstammelinje fra apostlene.
 
-**Ignatius av Antiokia** (d. ca. 108) er den tidligste tydelige kilden til monarkisk episkopalisme: én biskop per menighet, med absolutt autoritet. «Gjør ingenting uten biskopen», skriver han. Se [[personer/justin-martyr]] og [[concepts/apostoliske-fedre]].
+**Ignatius av Antiokia** (d. ca. 108) er den tidligste tydelige kilden til monarkisk episkopalisme: én biskop per menighet, med absolutt autoritet. «Gjør ingenting uten biskopen», skriver han. Se [[personer/justin-martyr]] og [[kirkehistorie/apostoliske-fedre]].
 
 **Ireneus av Lyon** (ca. 130–202) systematiserte apostolisk suksesjonslære: For å vite hva apostlene lærte, se til biskopene i de menighetene apostlene grunnla. Rom hadde Peter og Paulus; der kan man kontrollere hva som er apostolisk lære.
 
@@ -86,17 +86,17 @@ Konsilet vedtok strenge regler om:
 
 Elvira-konsilet gjenspeiler en kirke som nylig har overlevd den store forfølgelsen under Diokletian (303–305) og som nå vil trekke skarpe grenser mellom seg selv og det hedenske samfunnet. Motivasjonen er **rituell renhet** — prester som tjener alteret skal ikke bli «forurenset» av penger eller kvinner.
 
-Se [[concepts/statsreligion]] for konteksten rundt Konstantins omvendelse og kirkens nye samfunnsrolle.
+Se [[kirkehistorie/statsreligion]] for konteksten rundt Konstantins omvendelse og kirkens nye samfunnsrolle.
 
 ---
 
 ## Sammenheng med andre artikler
 
-- [[concepts/apostoliske-fedre]] — Ignatius og det tidligste syn på biskoper
-- [[concepts/didache]] — Didaches instrukser om valg av tilsynsmenn
-- [[concepts/statsreligion]] — kirkens institusjonalisering etter Konstantin
-- [[concepts/gnostisisme]] — eksklusjon av gnostikere som ledd i institusjonalisering
-- [[concepts/dapen]] — dåpen som inngang til menigheten
+- [[kirkehistorie/apostoliske-fedre]] — Ignatius og det tidligste syn på biskoper
+- [[kirkehistorie/didache]] — Didaches instrukser om valg av tilsynsmenn
+- [[kirkehistorie/statsreligion]] — kirkens institusjonalisering etter Konstantin
+- [[kirkehistorie/gnostisisme]] — eksklusjon av gnostikere som ledd i institusjonalisering
+- [[tro-og-liv/dapen]] — dåpen som inngang til menigheten
 - [[personer/augustin]] — videreføring av Kyprians kirkesyn
 - [[personer/justin-martyr]] — apologetens gudstjenestebeskrivelse
 

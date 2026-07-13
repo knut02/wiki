@@ -1,6 +1,6 @@
 ---
 title: "Det nye testamentet — kanonprosessens tre århundrer"
-description: "Da velsignet jeg dere alle i det hellige og faste håp om at dere holder fast ved det som er nedtegnet for vår instruksjon.» — Klemens av Roma, ca. 96 e.Kr., som siterer en tekst som ennå ikke har status som «Skriften"
+description: "Da velsignet jeg dere alle i det hellige og faste håp om at dere holder fast ved det som er nedtegnet for vår instruksjon.» — Klemens av Roma, ca. 96 e.Kr., som siterer en tekst som ennå ikke har status som «Skriften\""
 date: 2025-05-06
 Oppdatert: 2025-05-15
 kilder: 4
@@ -72,7 +72,7 @@ Det første dokumentet som lister nøyaktig de 27 bøkene i NT slik vi kjenner d
 
 > «I disse [27 bøker] alene forkynnes troens lære. La ingen legge til eller trekke fra noe.»
 
-Han advarer mot apokryfe bøker — og Nag Hammadi-biblioteket ble trolig begravet som direkte respons på dette brevet. Se [[concepts/gnostisisme]].
+Han advarer mot apokryfe bøker — og Nag Hammadi-biblioteket ble trolig begravet som direkte respons på dette brevet. Se [[kirkehistorie/gnostisisme]].
 
 Men selv etter 367 var det debatt i enkeltmenigheter og regioner om grensespørsmål: Hebreerbrevet, 2 Peter, Åpenbaringen. Kanon var ikke «ferdig» i hele den kristne verden med ett brev.
 
@@ -110,14 +110,14 @@ Men det betyr *også* at det ikke er noe «naturlig» og «selvinnlysende» ved 
 
 ## Sammenheng med andre artikler
 
-- [[concepts/bibelens-tilblivelse]] — den bredere prosessen fra muntlig tradisjon til kanon og oversettelse
-- [[concepts/gt-kanon-og-teksthistorie]] — GT-kanons tilblivelse; TaNaK; tekstkritikk; MT og LXX
-- [[concepts/bibeloversettelse]] — fra grunntekst til norsk
-- [[concepts/gnostisisme]] — gnostikernes egne skrifter og kirkens respons
-- [[concepts/tidligkristent-mangfold]] — mangfoldet som drev frem kanondebatten
+- [[lese-og-forstå-bibelen/bibelens-tilblivelse]] — den bredere prosessen fra muntlig tradisjon til kanon og oversettelse
+- [[Bibelen - det Gamle Testamentet/gt-kanon-og-teksthistorie]] — GT-kanons tilblivelse; TaNaK; tekstkritikk; MT og LXX
+- [[lese-og-forstå-bibelen/bibeloversettelse]] — fra grunntekst til norsk
+- [[kirkehistorie/gnostisisme]] — gnostikernes egne skrifter og kirkens respons
+- [[kirkehistorie/tidligkristent-mangfold]] — mangfoldet som drev frem kanondebatten
 - [[personer/athanasius]] — påskebrevet 367 og kanonens formelle avslutning
-- [[concepts/apostoliske-fedre]] — de tidligste kristne skriftene utenom NT
-- [[concepts/didache]] — et eksempel på en tidligkristen tekst som ikke kom med
+- [[kirkehistorie/apostoliske-fedre]] — de tidligste kristne skriftene utenom NT
+- [[kirkehistorie/didache]] — et eksempel på en tidligkristen tekst som ikke kom med
 
 ---
 

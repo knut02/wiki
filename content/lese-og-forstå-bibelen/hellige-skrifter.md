@@ -84,8 +84,8 @@ Hellige skrifter fungerer ulikt i ulike religioner:
 ## Sammenheng med andre artikler
 
 - [[lese-og-forstå-bibelen/bibelens-tilblivelse]] — Bibelens tilblivelse som kanonisert skrift
-- [[bibelen/gt-kanon-og-teksthistorie]] — GT-kanon og tekstkritikk
-- [[bibelen/nt-kanon]] — NT-kanonprosessen
+- [[Bibelen - det Gamle Testamentet/gt-kanon-og-teksthistorie]] — GT-kanon og tekstkritikk
+- [[Bibelen - det Nye Testamentet/nt-kanon]] — NT-kanonprosessen
 - [[verdensreligioner-og-livssyn/islam]] — Koranens stilling i islam
 - [[verdensreligioner-og-livssyn/hinduisme]] — vedisk litteratur
 

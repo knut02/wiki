@@ -97,7 +97,7 @@ Fra kapittel 7 skifter boken karakter. Daniel mottar syner om fire dyr som stige
 
 > «Jeg så i nattsynene: Det kom en som lignet en menneskesønn; han drog frem mot den gamle av dager og ble ført frem for ham. Han fikk makt og ære og rike; alle folk og nasjoner og tungemål skal tjene ham. Hans herredømme er et evig herredømme som ikke forgår, hans rike går aldri til grunne.» — Dan 7:13–14
 
-«Menneskesønnen» er en av GT-s viktigste messianske titler — Jesus bruker den om seg selv i evangeliene. Se [[concepts/messias]].
+«Menneskesønnen» er en av GT-s viktigste messianske titler — Jesus bruker den om seg selv i evangeliene. Se [[kristologi/messias]].
 
 ---
 
@@ -111,11 +111,11 @@ Svaret i boken er konsekvent: Nei — selv om det koster livet. Men boken er ikk
 
 ## Sammenheng med andre artikler
 
-- [[concepts/messias]] — «Menneskesønnen» i Dan 7 som messianisk tittel
-- [[concepts/pakten]] — Daniels bønn i kap. 9 hviler på paktstenkning
-- [[timelines/mellom-testamentene]] — Daniel og apokalyptikkens vekst i mellomtestamentlig tid
-- [[concepts/bibelhistorie-nokkelhendelser]] — eksilet og hjemkomsten
-- [[concepts/gt-guds-brutalitet]] — teodicéspørsmål i Daniels bok ⚠️
+- [[kristologi/messias]] — «Menneskesønnen» i Dan 7 som messianisk tittel
+- [[Bibelen - det Gamle Testamentet/pakten]] — Daniels bønn i kap. 9 hviler på paktstenkning
+- [[tidslinjer/mellom-testamentene]] — Daniel og apokalyptikkens vekst i mellomtestamentlig tid
+- [[tidslinjer/bibelhistorie-nokkelhendelser]] — eksilet og hjemkomsten
+- [[Bibelen - det Gamle Testamentet/gt-guds-brutalitet]] — teodicéspørsmål i Daniels bok ⚠️
 
 ---
 

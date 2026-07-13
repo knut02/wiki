@@ -35,7 +35,7 @@ Ved Sinai-fjellet inngår Gud en pakt med Israel. Loven gis — de ti bud og den
 
 Exodus er det teologiske grunnfjellet for hele GT. Ingenting er viktigere for Israels selvforståelse: Gud er den som frigjorde fra slaveriet (2 Mos 20:2). Pakten ved Sinai er fundamentet for hele det sosiale og religiøse livet. Påsken feirer minnet om utfrielsen hvert eneste år.
 
-Påskelammet (kap. 12) leses i NT som et bilde på Jesu soningsdød (1 Kor 5:7). Se [[concepts/offer-og-tilbedelse]] og [[concepts/messias]].
+Påskelammet (kap. 12) leses i NT som et bilde på Jesu soningsdød (1 Kor 5:7). Se [[verdensreligioner-og-livssyn/offer-og-tilbedelse]] og [[kristologi/messias]].
 
 ---
 
@@ -82,10 +82,10 @@ Uansett hva arkeologien sier: Israelittene *ble til* et folk ved eksodusen — d
 ## Sammenheng med andre artikler
 
 - [[personer/moses]] — Exodus' sentrale menneskelige figur
-- [[concepts/pakten]] — Sinai-pakten som GT-teologiens kjerne
-- [[concepts/bibeltolkning-innforing]] — diachronisk vs. synkronisk lesning
-- [[concepts/gt-kanon-og-teksthistorie]] — GT-tekstenes overlevering
-- [[timelines/gt-tidslinje]] — uttaket fra Egypt ca. 1446 f.Kr.
+- [[Bibelen - det Gamle Testamentet/pakten]] — Sinai-pakten som GT-teologiens kjerne
+- [[lese-og-forstå-bibelen/bibeltolkning-innforing]] — diachronisk vs. synkronisk lesning
+- [[Bibelen - det Gamle Testamentet/gt-kanon-og-teksthistorie]] — GT-tekstenes overlevering
+- [[tidslinjer/gt-tidslinje]] — uttaket fra Egypt ca. 1446 f.Kr.
 
 ---
 

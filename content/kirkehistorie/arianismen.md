@@ -59,11 +59,11 @@ Arianismen tvang kirken til å presisere hva den mente med Kristi guddommelige n
 
 ## Sammenheng med andre artikler
 
-- [[concepts/treenigheten]] — læren som ble formulert som svar på arianismen
-- [[concepts/nikea-konsilet]] — der arianismen ble fordømt
-- [[people/augustin]] — virket etter den arianske krisens løsning
-- [[concepts/arvesynd]] — Augustin kom fra et miljø påvirket av manike isme, en annen "alternativ" teologi
-- [[concepts/kirkehistorie-100-200]] — bakgrunnen for teologisk mangfold
+- [[teologi/treenigheten]] — læren som ble formulert som svar på arianismen
+- [[kirkehistorie/nikea-konsilet]] — der arianismen ble fordømt
+- [[personer/augustin]] — virket etter den arianske krisens løsning
+- [[teologi/arvesynd]] — Augustin kom fra et miljø påvirket av manike isme, en annen "alternativ" teologi
+- [[kirkehistorie/kirke-100-200]] — bakgrunnen for teologisk mangfold
 
 ---
 

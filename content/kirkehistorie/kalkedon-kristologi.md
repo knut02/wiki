@@ -82,12 +82,12 @@ Jenkins (2010) *Jesus Wars* viser dramatikken: Folkemengder av munker terroriser
 
 ## Sammenheng med andre artikler
 
-- [[concepts/nikea-konsilet]] — utgangspunktet for kristologistriden
-- [[concepts/arianismen]] — det første store alternativet
-- [[concepts/en-gud-fader-allmektig]] — treenighetsgrammatikken bak kristologien
-- [[concepts/frelse-athanasius-augustin]] — frelseslogikken bak kristologidebatten
-- [[concepts/kirken-ost-og-vest]] — konsekvensene for kirkens splittelse
-- [[concepts/de-tre-oldkirkelige-bekjennelsene]] — bekjennelsestekstene i sin helhet
+- [[kirkehistorie/nikea-konsilet]] — utgangspunktet for kristologistriden
+- [[kirkehistorie/arianismen]] — det første store alternativet
+- [[teologi/en-gud-fader-allmektig]] — treenighetsgrammatikken bak kristologien
+- [[kirkehistorie/frelse-athanasius-augustin]] — frelseslogikken bak kristologidebatten
+- [[kirkehistorie/kirken-ost-og-vest]] — konsekvensene for kirkens splittelse
+- [[kirkehistorie/de-tre-oldkirkelige-bekjennelsene]] — bekjennelsestekstene i sin helhet
 - [[personer/athanasius]] — forsvareren av Nikea-ortodoksien
 
 ---

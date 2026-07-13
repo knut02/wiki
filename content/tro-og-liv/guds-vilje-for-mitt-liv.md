@@ -147,7 +147,7 @@ Og paradokset: Jo mer vi er i ferd med å bli slike personer, jo mindre dramatis
 ## Sammenheng med andre artikler
 
 - [[tro-og-liv/disippelskap]] — å være Jesu etterfølger som grunnlag for å leve i Guds vilje
-- [[bibelen/romerne-8-28]] — Guds forsett og løftet om at alt tjener til det gode
+- [[Bibelen - det Nye Testamentet/romerne-8-28]] — Guds forsett og løftet om at alt tjener til det gode
 - [[tro-og-liv/bønn]] — bønn som å orientere seg mot Guds virkelighet
 - [[tro-og-liv/fadervår]] — «la din vilje skje» som en aktiv bønn om Guds herredømme nå
 - [[tro-og-liv/nåde]] — Guds nåde som frigjøring *til* formasjon, ikke fra den

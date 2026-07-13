@@ -91,11 +91,11 @@ Disse dimensjonene utelukker ikke hverandre. De utfyller hverandre.
 
 ## Sammenheng med andre artikler
 
-- [[concepts/nåde]] — korsets gave som ufortjent og ubegrenset
-- [[concepts/guds-kjærlighet]] — «mens vi ennå var syndere» som kjærlighetens tidspunkt
-- [[concepts/frelse-athanasius-augustin]] — frelsesteologiens ulike forklaringsmodeller
-- [[concepts/disippelskap]] — «han som elsket meg og gav seg selv for meg» som disippelkapets grunnlag
-- [[concepts/tilgivelse]] — korset som grunnlaget for tilgivelsen
+- [[tro-og-liv/nåde]] — korsets gave som ufortjent og ubegrenset
+- [[tro-og-liv/guds-kjærlighet]] — «mens vi ennå var syndere» som kjærlighetens tidspunkt
+- [[kirkehistorie/frelse-athanasius-augustin]] — frelsesteologiens ulike forklaringsmodeller
+- [[tro-og-liv/disippelskap]] — «han som elsket meg og gav seg selv for meg» som disippelkapets grunnlag
+- [[tro-og-liv/tilgivelse]] — korset som grunnlaget for tilgivelsen
 
 ---
 

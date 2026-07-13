@@ -54,7 +54,7 @@ Vedtatt i grunnform ved Nikea 325, utvidet ved Konstantinopel 381. Den mest auto
 >
 > Vi tror på én, hellig, katolsk og apostolisk kirke. Vi bekjenner én dåp til syndenes forlatelse. Vi venter de dødes oppstandelse og livet i den kommende verden. Amen.
 
-**Merk om *filioque*:** Den vestlige tilføyelsen «og Sønnen» (*filioque*) ble lagt til i Spania på 500-600-tallet og spredte seg til hele det latinske vesten. Øst-kirken avviser den som en ulovlig tilføyelse til et konsilvedtatt dokument — og som teologisk feil. Denne striden er en av de viktigste teologiske kildene til skismaet i 1054. Se [[concepts/kirken-ost-og-vest]].
+**Merk om *filioque*:** Den vestlige tilføyelsen «og Sønnen» (*filioque*) ble lagt til i Spania på 500-600-tallet og spredte seg til hele det latinske vesten. Øst-kirken avviser den som en ulovlig tilføyelse til et konsilvedtatt dokument — og som teologisk feil. Denne striden er en av de viktigste teologiske kildene til skismaet i 1054. Se [[kirkehistorie/kirken-ost-og-vest]].
 
 ---
 
@@ -93,12 +93,12 @@ For moderne lesere kan dette virke fremmed. Men det er ikke primært ekskluderin
 
 ## Sammenheng med andre artikler
 
-- [[concepts/nikea-konsilet]] — Nikea-bekjennelsens tilblivelse
-- [[concepts/kalkedon-kristologi]] — kristologien bak bekjennelsene
-- [[concepts/arianismen]] — det Nikea-bekjennelsen svarer mot
-- [[concepts/treenigheten]] — treenighetens teologi
-- [[concepts/kirken-ost-og-vest]] — *filioque*-striden
-- [[concepts/dapen]] — den apostoliske bekjennelsens liturgiske opprinnelse
+- [[kirkehistorie/nikea-konsilet]] — Nikea-bekjennelsens tilblivelse
+- [[kirkehistorie/kalkedon-kristologi]] — kristologien bak bekjennelsene
+- [[kirkehistorie/arianismen]] — det Nikea-bekjennelsen svarer mot
+- [[teologi/treenigheten]] — treenighetens teologi
+- [[kirkehistorie/kirken-ost-og-vest]] — *filioque*-striden
+- [[tro-og-liv/dapen]] — den apostoliske bekjennelsens liturgiske opprinnelse
 
 ---
 

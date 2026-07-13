@@ -159,12 +159,12 @@ Og den forteller oss noe vi ikke hadde visst uten den: **Slik så en tidligkrist
 
 ## Sammenheng med andre artikler
 
-- [[concepts/apostoliske-fedre]] — Didache som den eldste kirkehåndboken blant apostoliske fedre
-- [[concepts/dapen]] — Didaches dåpsinstituks som kilde til NT-tidens dåpspraksis
-- [[concepts/tidligkristen-bønnepraksis]] — Fadervår tre ganger daglig; faste onsdag og fredag
-- [[concepts/kirkehistorie-0-100]] — Didaches plassering i det første kristne århundret
-- [[concepts/matteus-evangeliet]] — Didache er nær Matteus-tradisjon og jødekristent miljø
-- [[concepts/kirkens-ledelse-og-sakramentene]] — overgangen fra karismatisk til institusjonelt lederskap
+- [[kirkehistorie/apostoliske-fedre]] — Didache som den eldste kirkehåndboken blant apostoliske fedre
+- [[tro-og-liv/dapen]] — Didaches dåpsinstituks som kilde til NT-tidens dåpspraksis
+- [[kirkehistorie/tidligkristen-bønnepraksis]] — Fadervår tre ganger daglig; faste onsdag og fredag
+- [[kirkehistorie/kristendommens-tilblivelse]] — Didaches plassering i det første kristne århundret
+- [[Bibelen - det Nye Testamentet/matteus-evangeliet]] — Didache er nær Matteus-tradisjon og jødekristent miljø
+- [[kirkehistorie/kirkens-ledelse-og-sakramentene]] — overgangen fra karismatisk til institusjonelt lederskap
 
 ---
 

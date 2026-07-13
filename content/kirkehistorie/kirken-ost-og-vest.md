@@ -21,7 +21,7 @@ I det østromerske — bysantinske — riket fortsatte den konstantinske modelle
 
 Liturgien i Hagia Sofia forsterket dette: Den guddommelige liturgien var dramatisk og prosesjonell, med diakoner og prester som bar skrifter og ikoner gjennom menigheten. Nattverden ble til slutt feiret skjult bak ikonostasen — et skille mellom det hellige og det profane som formidlet Guds transcendens gjennom struktur og rom.
 
-**Teologisk: theosis.** Den bysantinske spiritualiteten utviklet en *nedenfra*-modell for Guds makt: Gud viser sin kraft ikke gjennom keiserens underkastelse av undersåttene, men gjennom menneskenes *guddommeliggjøring* (*theosis*). Gregor av Nyssas og Maximos Bekjenerens teologi var bærende her. Se [[concepts/theosis]].
+**Teologisk: theosis.** Den bysantinske spiritualiteten utviklet en *nedenfra*-modell for Guds makt: Gud viser sin kraft ikke gjennom keiserens underkastelse av undersåttene, men gjennom menneskenes *guddommeliggjøring* (*theosis*). Gregor av Nyssas og Maximos Bekjenerens teologi var bærende her. Se [[teologi/theosis]].
 
 ---
 
@@ -53,7 +53,7 @@ Dette hadde to konsekvenser:
 
 I tillegg til politiske spørsmål var det reelle teologiske uenigheter:
 
-**Filioque-striden:** Det latinske vest la til «og Sønnen» (*filioque*) i Nikea-bekjennelsen — Den Hellige Ånd utgår fra Faderen «og Sønnen». Øst avviste dette som et illegitimt tillegg til en konsilvedtatt bekjennelse. Det teologiske spørsmålet var om Sønnen er medprinsipp for Åndens utgåelse — et ikke-trivielt spørsmål om Treenigheten. Se [[concepts/treenigheten]].
+**Filioque-striden:** Det latinske vest la til «og Sønnen» (*filioque*) i Nikea-bekjennelsen — Den Hellige Ånd utgår fra Faderen «og Sønnen». Øst avviste dette som et illegitimt tillegg til en konsilvedtatt bekjennelse. Det teologiske spørsmålet var om Sønnen er medprinsipp for Åndens utgåelse — et ikke-trivielt spørsmål om Treenigheten. Se [[teologi/treenigheten]].
 
 **Pavlig primat:** Øst anerkjente biskopen av Roma som «den første blant likemenn» (*primus inter pares*) — men ikke som monarkisk overhode med jurisdiksjon over andre biskoper. Vest hevdet en stadig sterkere juridisk primat.
 
@@ -71,13 +71,13 @@ Bruddet ble ikke reparert. Selv i dag eksisterer Den romersk-katolske kirke og D
 
 ## Sammenheng med andre artikler
 
-- [[concepts/statsreligion]] — Konstantins modell som utgangspunkt
-- [[concepts/treenigheten]] — filioque-striden
-- [[concepts/theosis]] — østkirkens spiritualitet
-- [[concepts/kristendommens-historie-oversikt]] — den brede historiske rammen
-- [[concepts/monastisk-teologi]] — klosterlivets plass i begge tradisjoner
+- [[kirkehistorie/statsreligion]] — Konstantins modell som utgangspunkt
+- [[teologi/treenigheten]] — filioque-striden
+- [[teologi/theosis]] — østkirkens spiritualitet
+- [[kirkehistorie/kristendommens-historie-oversikt]] — den brede historiske rammen
+- [[kirkehistorie/monastisk-teologi]] — klosterlivets plass i begge tradisjoner
 - [[personer/augustin]] — vestlig kirketeologi
-- [[concepts/arianismen]] — de teologiske kontroverser som formet begge tradisjoner
+- [[kirkehistorie/arianismen]] — de teologiske kontroverser som formet begge tradisjoner
 
 ---
 

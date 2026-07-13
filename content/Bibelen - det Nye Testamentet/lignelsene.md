@@ -101,12 +101,12 @@ Donahue kaller dette lignelsenes *performative* funksjon: De vil ikke bare infor
 
 ## Sammenheng med andre artikler
 
-- [[concepts/hvordan-lese-narrativ]] — sjangertilnærming til bibelske fortellinger
-- [[concepts/guds-kjærlighet]] — lignelsen om den bortkomne sønnen som bilde på Guds kjærlighet
-- [[concepts/hvem-er-du-i-møtet-med-jesus]] — lignelsene stiller spørsmålet om hvem man er
-- [[concepts/bergprekenen]] — Jesu lære i direkte form
-- [[concepts/matteus-evangeliet]] — Matteus' fem talesamlinger, der lignelsene er sentralt stoff
-- [[concepts/fellesskap]] — den barmhjertige samaritaner og hvem som er «neste»
+- [[lese-og-forstå-bibelen/hvordan-lese-narrativ]] — sjangertilnærming til bibelske fortellinger
+- [[tro-og-liv/guds-kjærlighet]] — lignelsen om den bortkomne sønnen som bilde på Guds kjærlighet
+- [[kristologi/hvem-er-du-i-møtet-med-jesus]] — lignelsene stiller spørsmålet om hvem man er
+- [[Bibelen - det Nye Testamentet/bergprekenen]] — Jesu lære i direkte form
+- [[Bibelen - det Nye Testamentet/matteus-evangeliet]] — Matteus' fem talesamlinger, der lignelsene er sentralt stoff
+- [[tro-og-liv/fellesskap]] — den barmhjertige samaritaner og hvem som er «neste»
 
 ---
 
