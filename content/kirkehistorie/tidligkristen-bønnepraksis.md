@@ -2,7 +2,7 @@
 title: Tidlig kristen bønnepraksis
 description: Bønn i oldkirken — former, tider, kroppslige praksiser, Fadervår, monastisk bønn og Evagrius/Cassians arv.
 date: 2025-05-10
-updated: 2025-07-09
+updated: 2026-07-12
 ---
 
 # Tidlig kristen bønnepraksis
@@ -63,6 +63,26 @@ Kirkeordnene (Didache, Apostolisk tradisjon) beskriver daglig bønn til faste ti
 
 ---
 
+## Tertullian om bønnen (ca. 198–200 e.Kr.)
+
+Tertullians traktat *De oratione* («Om bønnen») er den eldste bevarte kommentaren til Fadervår og den første systematiske behandlingen av kristen bønnetradisjon. Den er adressert til katekumener og nylig døpte.
+
+**Om Fadervår som bønnens grunnlag:**
+
+> «Herrens bønn er [...] en oppsummering av hele evangeliet. For da Herren, utsendt som herold for fremtiden, løftet frem troens og bot-gerningens evangelium, satte han segl på det nye livet med et nytt bønnemønster.» (*De oratione* 1, ANF03)
+
+**Om bønnretning og kropp:**
+
+Tertullian er den tidligste kilden som begrunner østvendt bønn teologisk: Øst er «en figur for Kristus, som er det sanne lys». Han presiserer at man *ikke* skal ta av seg kappen eller sette seg ned under bønnen — bønnen krever fysisk konsentrasjon og ærbødighet. Han er kritisk til dem som vasker hendene rituelt før bønn: «Hva er det du ber om fra rene hender, dersom hjertet er urent?»
+
+**Om bønnetider:**
+
+> «Om morgenen er den første bønnen som vi skylder Gud. [...] Foruten de ordinære bønnene som vi er skyldige uten spesiell forordning, er det naturlig at vi ber før vi spiser og bader, og ved innledning til klærne og skoene for det daglige liv, og når vi tar plass ved bordet, og når vi tenner lampene, og ved sengetid, og ved inngangen til kammeret, og — selvfølgelig — foran hvert prosjekt vi foretar oss.» (*De oratione* 25, ANF03)
+
+Tertullian nevner eksplisitt den tredje, sjette og niende time som bønnetider — med referanse til Apg 2:15, 10:9 og 3:1. Men han er tydelig på at disse er *frivillige* utvidelser, ikke bud.
+
+---
+
 ## Monastisk bønn
 
 Med klosterbevegelsen fra 300-tallet ble bønn systematisert på nye måter.
@@ -103,4 +123,5 @@ Origenes: Å begynne med takksigelse og lovprisning — ikke med egne behov — 
 ## Kilder
 
 - [[sources/Stewart-2008-prayer]] — Stewart, C. (2008): «Prayer», i *Oxford Handbook of Early Christianity*, s. 744–763
+- [[sources/ANF03-tertullian]] — Tertullian: *De oratione*, i: Roberts & Donaldson (red.): *Ante-Nicene Fathers*, vol. 3
 - [[sources/TEOL2300-studier]] — TEOL2300 kursmoduler
