@@ -5,61 +5,55 @@ date: 2025-04-18
 updated: 2025-05-18
 ---
 
-## Det livssynsåpne samfunn
+## Hva er et livssynsåpent samfunn?
 
-> I 2020 var 67,7 prosent av den norske befolkningen medlemmer av Den norske kirke. I 1970 var andelen 94 prosent. Det norske livssynslandskapet er i rask endring.
-
----
-
-## Et nytt livssynslandskap
-
-Stålsett (2021) bruker begrepet **det livssynsåpne samfunn** om det nye grunnlaget for norsk tros- og livssynspolitikk. Det er et normativt ideal — ikke bare en beskrivelse av hva som er, men et kart for hva som bør være.
-
-Utgangspunktet: Det norske livssynslandskapet har endret seg dramatisk. I 1970 var 94 % av nordmenn medlemmer av Den norske kirke. I 1988 var andelen 88 %. I 2012 var den 77 %. I 2020 er den 67,7 % — og i Oslo alene er den under halvparten (46,4 %).
+«Det livssynsåpne samfunn» er et begrep utviklet av Sturla Stålsett og brukt som ramme for den norske religionspolitiske situasjonen etter statskirkeordningens opphør i 2012. Det erstatter det eldre begrepet «religiøs pluralisme» med en mer aktiv formulering: Samfunnet skal ikke bare *tolerere* ulike livssyn, men aktivt *tilrettelegge* for at borgerne kan utøve sin tro og sitt livssyn i det offentlige rom.
 
 ---
 
-## Tre endringsprosesser
+## Fra statskirke til livssynsåpent samfunn
 
-**1. Sekularisering:** Færre definerer seg som troende og praktiserende kristne. «Believing without belonging» (Grace Davie) — folk beholder kulturell tilhørighet til kirken uten trosinnhold.
+Norge hadde statskirkeordning fra 1814 til 2012. Da skillet mellom stat og kirke ble formalisert i Grunnlovens §16, ble formuleringen «Den norske kirke, en evangelisk-luthersk kirke, forblir Norges folkekirke». Men kirken er ikke lenger statskirke i juridisk forstand.
 
-**2. Pluralisering:** Innvandring har gjort Norge til et mer religiøst mangfoldig samfunn. Islam er nå den nest største religionen. Antallet tros- og livssynssamfunn utenom Den norske kirke har vokst kraftig.
+Stålsett (2021) viser at overgangen er mer enn organisatorisk:
 
-**3. Individualisering:** Mange konstruerer sin egen religiøse identitet på tvers av institusjonelle grenser — «Stine-tro». Se [[concepts/unge-og-nyreligiositet]].
-
----
-
-## Hva betyr «livssynsåpent»?
-
-Det livssynsåpne samfunn er ikke det samme som et sekulært samfunn der religion er privatisert. Det er heller ikke et samfunn med én statlig religion. Det er et samfunn som:
-
-- Verdsetter og legger til rette for tros- og livssynsutøvelse i det offentlige rom
-- Behandler alle tros- og livssynssamfunn likeverdig
-- Erkjenner at livssyn — religiøst eller sekulært — er grunnleggende for menneskelig identitet og fellesskap
-
-Modellen innebærer at staten ikke er nøytral overfor livssyn, men *aktivt støttende* for mangfoldet. Det er et brudd med den gamle statskirkemodellen *og* med en streng sekularismemodell.
+- **Fra enhet til mangfold:** Der man tidligere forutsatte en felles kristen kulturarv, møter offentlige institusjoner nå borgere med svært ulike livssyn
+- **Fra toleranse til tilrettelegging:** Staten skal ikke bare tolerere mindretallsreligioner — den skal aktivt sikre at alle kan leve etter sitt livssyn
+- **Fra privat til offentlig:** Religionen er ikke trukket tilbake til privatsfæren; den krever plass i det offentlige rom
 
 ---
 
-## Utfordringer
+## Tallenes tale
 
-Stålsett peker på noen grunnleggende spenninger:
+Stålsett (2021) presenterer utviklingen i det norske livssynslandskapet:
 
-**Religionsfrihet vs. individuelle rettigheter:** Noen religiøse praksiser utfordrer likestillingsloven eller barns rettigheter. Hvor går grensen mellom beskyttelse av religionsfriheten og individers rettigheter innad i trossamfunn?
+- I 1970 var over 95 % av befolkningen medlemmer av Den norske kirke
+- I 2020 er andelen sunket til ca. 65 %
+- Human-Etisk Forbund er Norges nest største livssynssamfunn
+- Islam er den største ikke-kristne religionen med ca. 4 % av befolkningen
+- Buddhistiske, hinduistiske og andre ikke-kristne trossamfunn vokser
 
-**Synlighet i offentligheten:** Er det livssynsåpne samfunnet faktisk åpent for religiøse uttrykk i det offentlige rom, eller er det i praksis sekularistisk?
+Samtidig er ikke «ikke-medlem av kirken» det samme som «ikke-religiøs». Mange som har meldt seg ut, identifiserer seg fortsatt med en diffus kristen kulturarv eller med en personlig spiritualitet utenfor institusjonene.
 
-**Kunnskapsmangel:** KRLE-faget og religionsundervisningen er viktig for at borgere skal forstå hverandres livssyn — men er den god nok?
+---
+
+## Tre spenninger i det livssynsåpne samfunn
+
+**1. Likebehandling vs. særstilling:** Skal Den norske kirke behandles likt med andre tros- og livssynssamfunn, eller har den en særstilling som «folkekirke» som legitimerer særbehandling? Stålsett argumenterer for at særstillingen er legitim så lenge den er kulturhistorisk og demokratisk forankret — ikke teologisk.
+
+**2. Religionsfrihet vs. diskrimineringsvern:** Når trossamfunns religionsfrihet kolliderer med diskrimineringsvernet (f.eks. i ansettelsessaker), oppstår vanskelige avveininger. Det finnes ingen enkel prinsippiell løsning.
+
+**3. Offentlig og privat:** Er religiøse symboler og praksis i det offentlige rom (skoler, sykehus, militæret) en trussel mot livssynsnøytralitet, eller er utestenging av religion fra offentligheten selv et livssynsstandpunkt?
 
 ---
 
 ## Sammenheng med andre artikler
 
-- [[concepts/livssyn]] — livssynsbegrepet
-- [[concepts/sekularisering]] — sekulariseringens norske forløp
-- [[concepts/unge-og-nyreligiositet]] — individualisering av tro
-- [[concepts/islam]] — islams vekst i Norge
-- [[concepts/kristendom-i-norge]] — Den norske kirkes situasjon
+- [[verdensreligioner-og-livssyn/livssyn]] — livssynsbegrepet
+- [[verdensreligioner-og-livssyn/sekularisering]] — sekulariseringens norske forløp
+- [[verdensreligioner-og-livssyn/unge-og-nyreligiositet]] — individualisering av tro
+- [[verdensreligioner-og-livssyn/islam]] — islams vekst i Norge
+- [[global-kristendom/kristendom-i-norge]] — Den norske kirkes situasjon
 
 ---
 

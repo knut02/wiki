@@ -1,8 +1,8 @@
 ---
 title: "Misjonshistorie — lange linjer"
 description: "Fra apostlene til moderne tid: kontekstualisering, misjonsbevegelsenes fremvekst og norsk misjons rolle."
-datet: 2025-05-02
-kilder: 1
+date: 2025-05-02
+kilder: 2
 ---
 
 ## Misjonens utgangspunkt
@@ -80,11 +80,11 @@ Fem kontekstualiseringsmodeller (Bevans/Johnsen):
 
 ## Sammenheng med andre artikler
 
-- [[concepts/global-kristendom-oversikt]] — samtiden etter denne historien
-- [[concepts/kristendom-i-afrika]] — et av de viktigste resultatene av 1800-tallsmisjonen
-- [[concepts/misjonerende-folkekirke]] — folkekirken og misjonsoppdraget
-- [[concepts/kristendom-i-norge]] — norsk misjonshistorie
-- [[concepts/misjon-i-kontekst]] — LVFs misjonsforståelse
+- [[global-kristendom/global-kristendom-oversikt]] — samtiden etter denne historien
+- [[global-kristendom/kristendom-i-afrika]] — et av de viktigste resultatene av 1800-tallsmisjonen
+- [[global-kristendom/misjonerende-folkekirke]] — folkekirken og misjonsoppdraget
+- [[global-kristendom/kristendom-i-norge]] — norsk misjonshistorie
+- [[global-kristendom/misjon-i-kontekst]] — LVFs misjonsforståelse
 
 ---
 

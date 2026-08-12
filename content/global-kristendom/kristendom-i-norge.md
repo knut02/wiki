@@ -3,7 +3,7 @@ title: "Kristendom i Norge"
 description: "Kristendommen i Norge er et resultat av importerte ideer og praksiser, som har fått et lokalt preg med tiden. — Nikolajsen 2018"
 date: 2025-04-18
 modified: 2025-05-15
-Kilder: 2*
+kilder: 2
 ---
 
 ## En importert kristendom
@@ -82,11 +82,11 @@ Striden avdekker noe viktig: Det er mange aktører i debatten om kristendommen i
 
 ## Sammenheng med andre artikler
 
-- [[concepts/det-livssynsapne-samfunn]] — det norske livssynslandskapet i dag
-- [[concepts/sekularisering]] — sekulariseringens forløp i Norge
-- [[concepts/misjon-i-kontekst]] — misjonsforståelse i norsk kontekst
-- [[concepts/statsreligion]] — overgangen fra statskirke til selvstendig kirke
-- [[concepts/luthers-teologi]] — luthersk arv i norsk kirkeliv
+- [[verdensreligioner-og-livssyn/det-livssynsapne-samfunn]] — det norske livssynslandskapet i dag
+- [[verdensreligioner-og-livssyn/sekularisering]] — sekulariseringens forløp i Norge
+- [[global-kristendom/misjon-i-kontekst]] — misjonsforståelse i norsk kontekst
+- [[kirkehistorie/statsreligion]] — overgangen fra statskirke til selvstendig kirke
+- [[kirkehistorie/luthers-teologi]] — luthersk arv i norsk kirkeliv
 
 ---
 

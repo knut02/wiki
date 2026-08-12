@@ -3,7 +3,7 @@ title: "Kirken og islam"
 description: "En positiv og dialogisk holdning til islam kan aldri avlyse vitnesbyrdet om Jesus Kristus som verdens frelser."
 date: 2025-04-18
 update: 2025-05-17
-kilder: 2*
+kilder: 2
 ---
 
 ## Et sammensatt spørsmål
@@ -83,11 +83,11 @@ Det store flertallet av muslimer tar avstand fra ekstremisme, og de fleste ofre 
 
 ## Sammenheng med andre artikler
 
-- [[concepts/islam]] — islams tro, praksis og historie
-- [[concepts/religionsteologi]] — de tre modellene og akseptmodellen
-- [[concepts/religionsdialog-kirkelige-handlinger]] — praktisk religionsdialog
-- [[concepts/jesus-i-koranen]] — Jesu plass i islamsk tradisjon
-- [[concepts/misjon-i-kontekst]] — dialog og misjon
+- [[verdensreligioner-og-livssyn/islam]] — islams tro, praksis og historie
+- [[teologi/religionsteologi]] — de tre modellene og akseptmodellen
+- [[global-kristendom/religionsdialog-kirkelige-handlinger]] — praktisk religionsdialog
+- [[verdensreligioner-og-livssyn/jesus-i-koranen]] — Jesu plass i islamsk tradisjon
+- [[global-kristendom/misjon-i-kontekst]] — dialog og misjon
 
 ---
 

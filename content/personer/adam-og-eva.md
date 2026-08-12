@@ -19,7 +19,7 @@ Adam og Eva åt av frukten fra kunnskapens tre — det eneste Gud hadde forbudt 
 
 ## Teologisk arv
 
-Syndefallet danner premisset for hele frelsesfortellingen i Bibelen — behovet for forsoning og en Messias springer direkte fra dette bruddet. Se [[concepts/messias]] og [[concepts/inkarnasjon]].
+Syndefallet danner premisset for hele frelsesfortellingen i Bibelen — behovet for forsoning og en Messias springer direkte fra dette bruddet. Se [[kristologi/messias]] og [[kristologi/inkarnasjon]].
 
 ---
 
@@ -28,8 +28,8 @@ Syndefallet danner premisset for hele frelsesfortellingen i Bibelen — behovet 
 - [[personer/kain]] — deres sønn, drepte Abel
 - [[personer/abel]] — deres sønn, drept av Kain
 - [[personer/augustin]] — formulerte arvesyndslæren basert på syndefallet
-- [[concepts/gamle-testamentet]] — syndefallet er en av de første fortellingene
-- [[concepts/messias]] — frelsesbehovet springer fra syndefallet
+- [[Bibelen - det Gamle Testamentet/gamle-testamentet]] — syndefallet er en av de første fortellingene
+- [[kristologi/messias]] — frelsesbehovet springer fra syndefallet
 
 ---
 

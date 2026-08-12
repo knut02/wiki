@@ -74,17 +74,17 @@ Brubakers analyse utfordrer både dem som sier «dette har ingenting med religio
 
 Kirkens ansvar: Å være bevisst på at religiøst språk og religiøse institusjoner kan *brukes* til å helliggjøre vold — og aktivt motarbeide slike bruksområder. Å bidra til fred krever mer enn fredelig intensjon; det krever analyse av *hvordan* religion faktisk fungerer i konfliktene.
 
-Se [[concepts/kirken-og-islam]] for forholdet mellom kristendom og islam spesifikt, og [[concepts/rettferdig-krig]] for kristen teologi om bruk av vold.
+Se [[global-kristendom/kirken-og-islam]] for forholdet mellom kristendom og islam spesifikt, og [[teologi/rettferdig-krig]] for kristen teologi om bruk av vold.
 
 ---
 
 ## Sammenheng med andre artikler
 
-- [[concepts/kirken-og-islam]] — dialog og konflikt mellom kristendom og islam
-- [[concepts/rettferdig-krig]] — kristen teologi om vold og fred
-- [[concepts/rasisme]] — rasisme som religionspolitisk fenomen
-- [[concepts/global-kristendom-oversikt]] — kristendommens rolle i politiske konflikter globalt
-- [[concepts/sekularisering]] — sekulariseringens sammenheng med religiøse konflikter
+- [[global-kristendom/kirken-og-islam]] — dialog og konflikt mellom kristendom og islam
+- [[teologi/rettferdig-krig]] — kristen teologi om vold og fred
+- [[global-kristendom/rasisme]] — rasisme som religionspolitisk fenomen
+- [[global-kristendom/global-kristendom-oversikt]] — kristendommens rolle i politiske konflikter globalt
+- [[verdensreligioner-og-livssyn/sekularisering]] — sekulariseringens sammenheng med religiøse konflikter
 
 ---
 

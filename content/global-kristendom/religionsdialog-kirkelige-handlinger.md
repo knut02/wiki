@@ -23,7 +23,7 @@ Den overordnede spenningen: Hvordan kan kirken vise nestekjærlighet og gjestfri
 
 **Det eksklusive kravet** videreføres i NT: "Ingen kommer til Far uten ved meg" (Joh 14:6). Den kristne kirken bekjenner Jesus Kristus som den eneste vei til frelse.
 
-Disse to linjene — den åpne skaperteologien og den eksklusive frelsesbekjennelsen — må holdes i spenning. Se [[concepts/religionsteologi]] for de akademiske modellene.
+Disse to linjene — den åpne skaperteologien og den eksklusive frelsesbekjennelsen — må holdes i spenning. Se [[teologi/religionsteologi]] for de akademiske modellene.
 
 ---
 
@@ -55,10 +55,10 @@ Veiledningen påpeker at respekt og gjensidighet må prege religionsmøtet: Ogs�
 
 ## Sammenheng med andre artikler
 
-- [[concepts/religionsteologi]] — de teologiske modellene for religionsmøtet
-- [[concepts/kirken-og-islam]] — Hegstads analyse av forholdet mellom kirken og islam
-- [[concepts/religion-i-praksis]] — Horsfjords perspektiv på hverdagsreligiøsitet
-- [[concepts/kristendom-i-norge]] — norsk kirkes kontekst
+- [[teologi/religionsteologi]] — de teologiske modellene for religionsmøtet
+- [[global-kristendom/kirken-og-islam]] — Hegstads analyse av forholdet mellom kirken og islam
+- [[verdensreligioner-og-livssyn/religion-i-praksis]] — Horsfjords perspektiv på hverdagsreligiøsitet
+- [[global-kristendom/kristendom-i-norge]] — norsk kirkes kontekst
 
 ---
 

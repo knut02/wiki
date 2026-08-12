@@ -33,7 +33,7 @@ Bells svar: det sistnevnte. "Ritual" som akademisk kategori oppstod i senmiddela
 Bell identifiserer seks hovedkategorier av rituelle praksiser (kap. 4):
 
 **1. Overgangsriter** (*rites of passage*, Van Gennep 1909)
-Markerer endringer i sosial status: fødsel, initiasjon, ekteskap, død. Tre faser: separasjon (fra gammel status), *limen* (terskelperiode), inkorporasjon (i ny status). Se [[concepts/kirkens-ledelse-og-sakramentene]] for dåp og begravelse som kristne overgangsriter.
+Markerer endringer i sosial status: fødsel, initiasjon, ekteskap, død. Tre faser: separasjon (fra gammel status), *limen* (terskelperiode), inkorporasjon (i ny status). Se [[kirkehistorie/kirkens-ledelse-og-sakramentene]] for dåp og begravelse som kristne overgangsriter.
 
 **2. Kalenderriter**
 Knyttet til årstidssyklus og kosmisk orden: nyttår, såtid, høsttid. De babylonske *Akitu*-festivalen (nyttårsfest) er et klassisk eksempel — tolket radikalt forskjellig av Frazer (rituelle drap av gudkongen), Eliade (kosmos-gjenopprettelse) og Jonathan Z. Smith (politisk ritual under fremmed styre).
@@ -42,7 +42,7 @@ Knyttet til årstidssyklus og kosmisk orden: nyttår, såtid, høsttid. De babyl
 Utveksling mellom mennesker og det guddommelige eller mellom sosiale grupper. Robertson Smiths analyse av totem-ofringen som primal kommunion mellom klan og dens guddommelige forfader.
 
 **4. Lidelses- og helbredelsesriter**
-Eksorsismer, orakler, helbredelsesritualer — møtet med onde krefter og det numinøse. Se [[concepts/offer-og-tilbedelse]].
+Eksorsismer, orakler, helbredelsesritualer — møtet med onde krefter og det numinøse. Se [[verdensreligioner-og-livssyn/offer-og-tilbedelse]].
 
 **5. Fastefeiring og festivaler**
 Markering av grenser, feiringer av overskudd. Karnevalet som rituel inversjon der hierarkier midlertidig snus.
@@ -87,20 +87,20 @@ Bell: Alle tre er svar på det samme problemet — den moderne erkjennelsen av a
 
 Bell integrerer religionsteori, antropologi og praktisk teologi. Perspektivene er relevante for:
 
-- Analyse av liturgi i kristen tradisjon — se [[concepts/kirkens-ledelse-og-sakramentene]] og [[concepts/tidligkristen-bonsspraksis]]
-- Overgangsritualer i andre religioner — se [[concepts/jodedommen]] og [[concepts/islam]]
-- Religionsdidaktikk — se [[concepts/religion-i-praksis]]
+- Analyse av liturgi i kristen tradisjon — se [[kirkehistorie/kirkens-ledelse-og-sakramentene]] og [[kirkehistorie/tidligkristen-bønnepraksis]]
+- Overgangsritualer i andre religioner — se [[verdensreligioner-og-livssyn/jodedommen]] og [[verdensreligioner-og-livssyn/islam]]
+- Religionsdidaktikk — se [[verdensreligioner-og-livssyn/religion-i-praksis]]
 
 ---
 
 ## Sammenheng med andre artikler
 
-- [[concepts/religion-i-praksis]] — Horsfjords analyse av hverdagsreligiøsitet
-- [[concepts/kirkens-ledelse-og-sakramentene]] — dåp og nattverd som kristne ritualer
-- [[concepts/tidligkristen-bonsspraksis]] — bønn som rituell praksis
-- [[concepts/offer-og-tilbedelse]] — offer som ritualsjanger
-- [[concepts/livssyn]] — livssynets rituelle dimensjoner
-- [[concepts/nyreligiositet]] — moderne ritualisering
+- [[verdensreligioner-og-livssyn/religion-i-praksis]] — Horsfjords analyse av hverdagsreligiøsitet
+- [[kirkehistorie/kirkens-ledelse-og-sakramentene]] — dåp og nattverd som kristne ritualer
+- [[kirkehistorie/tidligkristen-bønnepraksis]] — bønn som rituell praksis
+- [[verdensreligioner-og-livssyn/offer-og-tilbedelse]] — offer som ritualsjanger
+- [[verdensreligioner-og-livssyn/livssyn]] — livssynets rituelle dimensjoner
+- [[verdensreligioner-og-livssyn/unge-og-nyreligiositet]] — moderne ritualisering
 
 ---
 

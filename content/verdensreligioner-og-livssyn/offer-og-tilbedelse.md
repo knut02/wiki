@@ -20,7 +20,7 @@ Fra Davids tid og fremover ble tempelet i Jerusalem det sentrale stedet for ofri
 
 ## Kristen teologi
 
-I NT tolkes Jesu død som det endelige offeret — en soning som avslutter behovet for dyreoffer. Hebreerbrevet argumenterer eksplisitt for dette. [[concepts/messias]]-teologien henger tett sammen med offertanken: Messias er ikke bare en politisk frelser, men et soneoffer.
+I NT tolkes Jesu død som det endelige offeret — en soning som avslutter behovet for dyreoffer. Hebreerbrevet argumenterer eksplisitt for dette. [[kristologi/messias]]-teologien henger tett sammen med offertanken: Messias er ikke bare en politisk frelser, men et soneoffer.
 
 ---
 
@@ -29,8 +29,8 @@ I NT tolkes Jesu død som det endelige offeret — en soning som avslutter behov
 - [[personer/abel]] — hans offer ble akseptert
 - [[personer/kain]] — hans offer ble avvist
 - [[personer/kong-david]] — planla tempelet
-- [[concepts/messias]] — Jesu soningsdød som det endelige offer
-- [[concepts/gamle-testamentet]] — offerpraksis gjennomsyrer GT
+- [[kristologi/messias]] — Jesu soningsdød som det endelige offer
+- [[Bibelen - det Gamle Testamentet/gamle-testamentet]] — offerpraksis gjennomsyrer GT
 
 ---
 
