@@ -1,9 +1,8 @@
-# Klemens av Alexandria (ca. 150–215)
-
-> Filosof, teolog og leder av kateketskolen i Alexandria — den første store syntesen mellom gresk filosofi og kristen tro.
-
-*Opprettet: 2025-05-05 | Kilder: 3*
-
+---
+title: Klemens av Alexandria (ca. 150–215)
+description: Filosof, teolog og leder av kateketskolen i Alexandria — den første store syntesen mellom gresk filosofi og kristen tro.
+date: 2025-05-05
+kilder: 3
 ---
 
 ## Biografi
@@ -12,7 +11,7 @@ Klemens (Titus Flavius Clemens) ble trolig født ca. 150 e.Kr. — muligens i At
 
 Da forfølgelsene under Septimius Severus brøt ut i 202, forlot Klemens Alexandria og dro til Lilleasia, der han virket til sin død ca. 215.
 
-Han er ikke den samme som Klemens av Roma (slutten av 90-tallet) — disse to skilles ved over hundre år og radikalt ulike teologiske profiler. Se [[concepts/apostoliske-fedre]].
+Han er ikke den samme som Klemens av Roma (slutten av 90-tallet) — disse to skilles ved over hundre år og radikalt ulike teologiske profiler. Se [[kirkehistorie/apostoliske-fedre]].
 
 ---
 
@@ -30,7 +29,7 @@ Klemens' nøkkelgrep er å bruke den greske filosofiens *logos*-begrep — fornu
 
 Paulus' tale på Areopagos (Apg 17) er modellen: Gud har latt alle folk søke etter ham, og filosofien var for greskerne hva Loven var for jødene — en *paidagogos*, en veileder frem til Kristus. Filosofien er ikke Guds fiende; den er en forberedelse på evangeliet.
 
-Men filosofien er mangelfull alene — den gir et glimt av sannheten, ikke sannheten selv. Bare Logos inkarnert i Kristus åpenbarer Gud fullt. Se [[concepts/inkarnasjon]].
+Men filosofien er mangelfull alene — den gir et glimt av sannheten, ikke sannheten selv. Bare Logos inkarnert i Kristus åpenbarer Gud fullt. Se [[kristologi/inkarnasjon]].
 
 ---
 
@@ -42,7 +41,7 @@ Gud er u-synlig, u-forståelig, u-kjennelig, u-skapt, uten form, uten slutt, ute
 
 Disse er ikke tomme benektelser, men epistemologiske påstander: Guds vesen overskrider all menneskelig erkjennelse. Vi kan ikke si *hva* Gud er — bare *hva han ikke er*. Dette skiller Klemens fra forfattere som projiserer menneskelige egenskaper uproblematisk over på Gud.
 
-Men: Sønnen/Logos har åpenbart Gud og gjort ham erkjennbar gjennom inkarnasjonen. Skillet mellom Guds transcendente vesen og hans immanente handlinger (åpenbaringen) er Klemens' løsning. Se [[concepts/apofatisk-teologi]].
+Men: Sønnen/Logos har åpenbart Gud og gjort ham erkjennbar gjennom inkarnasjonen. Skillet mellom Guds transcendente vesen og hans immanente handlinger (åpenbaringen) er Klemens' løsning. Se [[teologi/apofatisk-teologi]].
 
 ---
 
@@ -71,13 +70,13 @@ Klemens fyller Platons formel med kristent innhold: Gudlikheten er ikke et rent 
 - **Sakramentalt fellesskap** — dåp og nattverd
 - **Kontemplasjon** — å "se" Gud i Kristus
 
-I dette livet ser vi som "i et speil, dunkelt" (jf. 1 Kor 13:12). I det neste skal vi se ansikt til ansikt. Se [[concepts/theosis]].
+I dette livet ser vi som "i et speil, dunkelt" (jf. 1 Kor 13:12). I det neste skal vi se ansikt til ansikt. Se [[teologi/theosis]].
 
 ---
 
 ## Barn og uskyld
 
-Klemens deler oldkirkens syn på barn som i prinsippet uskyldige. Han beskriver de som kommer til Kristus som "fornyede som barn" — rensede. Ingenting i hans skrifter tilsier at han kjente til, eller aksepterte, Augustins lære om nedarvet skyld. Se [[concepts/arvesynd]].
+Klemens deler oldkirkens syn på barn som i prinsippet uskyldige. Han beskriver de som kommer til Kristus som "fornyede som barn" — rensede. Ingenting i hans skrifter tilsier at han kjente til, eller aksepterte, Augustins lære om nedarvet skyld. Se [[teologi/arvesynd]].
 
 ---
 
@@ -101,14 +100,14 @@ Vestkirken har ikke kanonisert ham (han ble fjernet fra martyrologiet i 1586 av 
 
 ## Sammenheng med andre artikler
 
-- [[concepts/apofatisk-teologi]] — Klemens som den apofatiske tradisjonens grunnlegger
-- [[concepts/theosis]] — gudslikhet som frelsens mål
-- [[concepts/gudskunnskap-og-danning]] — Häggs analyse av Klemens og Gregor
-- [[concepts/arvesynd]] — barn som uskyldige i Klemens' syn
-- [[concepts/tidligkristen-bonsspraksis]] — bønn og kontemplasjon
-- [[concepts/inkarnasjon]] — Logos inkarnert som åpenbaringens fullendelse
+- [[teologi/apofatisk-teologi]] — Klemens som den apofatiske tradisjonens grunnlegger
+- [[teologi/theosis]] — gudslikhet som frelsens mål
+- [[tro-og-liv/gudskunnskap-og-danning]] — Häggs analyse av Klemens og Gregor
+- [[teologi/arvesynd]] — barn som uskyldige i Klemens' syn
+- [[kirkehistorie/tidligkristen-bønnepraksis]] — bønn og kontemplasjon
+- [[kristologi/inkarnasjon]] — Logos inkarnert som åpenbaringens fullendelse
 - [[personer/gregor-av-nyssa]] — Klemens' mest betydningsfulle teologiske arving
-- [[concepts/apostoliske-fedre]] — Klemens av Roma (annen person, annen tid)
+- [[kirkehistorie/apostoliske-fedre]] — Klemens av Roma (annen person, annen tid)
 
 ---
 

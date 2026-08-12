@@ -28,7 +28,7 @@ Hvorvidt disse søsknene var biologiske barn av [[personer/maria]] og [[personer
 
 - [[personer/jesus]] — hans bror
 - [[personer/maria]] — hans mor (eller stemor, avhengig av tolkning)
-- [[concepts/evangeliene]] — kildene til informasjon om ham
+- [[Bibelen - det Nye Testamentet/evangeliene]] — kildene til informasjon om ham
 
 ---
 

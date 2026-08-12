@@ -12,7 +12,7 @@ Athanasius ble født i Alexandria ca. 296 og tilbrakte nesten hele sitt liv der 
 
 **Fem eksiler:** Politiske og teologiske strider under fire keisere (Konstantin, Konstantius, Julian, Valens) førte til at han ble avsatt og landsforvist ikke færre enn fem ganger — til Trier i Gallia, Roma, ørkenen og andre steder. Til sammen tilbrakte han ca. 17 år i eksil. Det er fra denne situasjonen uttrykket *Athanasius contra mundum* stammer: I tider da nesten hele den østlige kirken aksepterte en arianiserende kristologi, stod Athanasius fast på Nikea-bekjennelsens *homoousios*.
 
-Se [[concepts/arianismen]] og [[concepts/nikea-konsilet]] for den teologiske konflikten.
+Se [[kirkehistorie/arianismen]] og [[kirkehistorie/nikea-konsilet]] for den teologiske konflikten.
 
 ---
 
@@ -50,7 +50,7 @@ Siden alle mennesker var skyldige til døden, bar han i vår sted den dødsdomme
 
 > «Han ble menneske for at vi skulle bli guddommelige.»
 
-Dette er Athanasius' mest berømte setning — og nøkkelen til hans frelsesforståelse. Frelsen er ikke primært juridisk (at en straff ble betalt) men *ontologisk*: Gjennom inkarnasjonen og oppstandelsen gis menneskene del i det guddommelige livets uforgjengelighet. *Theosis* — guddommeliggjøring. Se [[concepts/theosis]].
+Dette er Athanasius' mest berømte setning — og nøkkelen til hans frelsesforståelse. Frelsen er ikke primært juridisk (at en straff ble betalt) men *ontologisk*: Gjennom inkarnasjonen og oppstandelsen gis menneskene del i det guddommelige livets uforgjengelighet. *Theosis* — guddommeliggjøring. Se [[teologi/theosis]].
 
 ### Kongens inntog i byen
 
@@ -72,7 +72,7 @@ Og kap. 57 avsluttes med et etisk krav: Å forstå de helliges ord krever et hel
 
 ## Paskalisten og NT-kanon
 
-I 367 sendte Athanasius sitt berømte **påskebrev** til de egyptiske menighetene — det første dokumentet i kirkehistorien som inneholder nøyaktig de 27 bøkene i NT slik vi kjenner dem i dag. Han advarer mot apokryfe bøker med apostlenes navn. Nag Hammadi-biblioteket ble trolig begravet som en direkte konsekvens av dette brevet. Se [[concepts/nt-kanon]] og [[concepts/gnostisisme]].
+I 367 sendte Athanasius sitt berømte **påskebrev** til de egyptiske menighetene — det første dokumentet i kirkehistorien som inneholder nøyaktig de 27 bøkene i NT slik vi kjenner dem i dag. Han advarer mot apokryfe bøker med apostlenes navn. Nag Hammadi-biblioteket ble trolig begravet som en direkte konsekvens av dette brevet. Se [[Bibelen - det Nye Testamentet/nt-kanon]] og [[kirkehistorie/gnostisisme]].
 
 ---
 
@@ -84,11 +84,11 @@ Athanasius forfattet også *Vita Antonii* — biografien om Antonius av Egypt, s
 
 ## Sammenheng med andre artikler
 
-- [[concepts/arianismen]] — konflikten Athanasius kjempet mot
-- [[concepts/nikea-konsilet]] — bekjennelsen Athanasius forsvarte
-- [[concepts/theosis]] — guddommeliggjøringen som frelsens mål
-- [[concepts/inkarnasjon]] — inkarnasjonstanken Athanasius utdyper
-- [[concepts/gnostisisme]] — påskebrevet 367 og Nag Hammadi
+- [[kirkehistorie/arianismen]] — konflikten Athanasius kjempet mot
+- [[kirkehistorie/nikea-konsilet]] — bekjennelsen Athanasius forsvarte
+- [[teologi/theosis]] — guddommeliggjøringen som frelsens mål
+- [[kristologi/inkarnasjon]] — inkarnasjonstanken Athanasius utdyper
+- [[kirkehistorie/gnostisisme]] — påskebrevet 367 og Nag Hammadi
 - [[personer/antonius-den-store]] — Athanasius som biograf
 - [[personer/augustin]] — Augustins lesning av Vita Antonii
 
