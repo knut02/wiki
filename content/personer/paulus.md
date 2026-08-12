@@ -1,9 +1,9 @@
-# Paulus — apostel, misjonær og teolog
-
-> «Jeg lever ikke lenger selv, men Kristus lever i meg.» — Gal 2:20
-
-*Opprettet: 2025-05-03 | Oppdatert: 2025-05-15 | Kilder: 4*
-
+---
+title: Paulus — apostel, misjonær og teolog
+description: «Jeg lever ikke lenger selv, men Kristus lever i meg.» — Gal 2:20
+date: 2025-05-03
+updated: 2025-05-15
+kilder: 4
 ---
 
 ## Hvem var Paulus?
@@ -75,12 +75,12 @@ Wright understreker at Paulus ikke lovet kristne en behagelig tilværelse, men e
 
 ## Sammenheng med andre artikler
 
-- [[concepts/nåde]] — Paulus' kjernebidrag til frelsesforståelsen
-- [[concepts/hellige-ånd]] — Ånden i Romerbrevet 8
-- [[concepts/guds-rike]] — Paulus og riket som Wrights nøkkelramme
-- [[concepts/disippelskap]] — Gal 2:20 som disippelskapets grunnlag
-- [[concepts/kirkehistorie-0-100]] — Paulus' misjonsreiser i kronologien
-- [[concepts/det-nye-testamentet]] — Paulus som NT-s mest produktive forfatter
+- [[tro-og-liv/nåde]] — Paulus' kjernebidrag til frelsesforståelsen
+- [[teologi/hellige-ånd]] — Ånden i Romerbrevet 8
+- [[tro-og-liv/guds-rike]] — Paulus og riket som Wrights nøkkelramme
+- [[tro-og-liv/disippelskap]] — Gal 2:20 som disippelskapets grunnlag
+- [[kirkehistorie/kristendommens-tilblivelse]] — Paulus' misjonsreiser i kronologien
+- [[Bibelen - det Nye Testamentet/det-nye-testamentet]] — Paulus som NT-s mest produktive forfatter
 
 ---
 

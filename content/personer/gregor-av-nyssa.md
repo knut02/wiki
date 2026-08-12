@@ -1,8 +1,11 @@
-# Gregor av Nyssa (ca. 335–395)
+---
+title: Gregor av Nyssa (ca. 335–395)
+description: Kappadokisk biskop og mystiker — arkitekten bak epektasis-tanken og den kristne mystikkens negative teologi.
+date: 2025-05-05
+kilder: 3
+---
 
 > Kappadokisk biskop og mystiker — den mest dyptloddende av de tre kappadokiske fedre. Arkitekten bak epektasis-tanken og den kristne mystikkens negative teologi.
-
-*Opprettet: 2025-05-05 | Kilder: 3*
 
 ---
 
@@ -20,7 +23,7 @@ Under den arianistiske keiser Valens ble han avsatt og forvist i 376. Da Valens 
 
 Gregor er den yngste av de tre **kappadokiske fedrene** — Basilios den Store, Gregor av Naziansen og Gregor av Nyssa — som i fellesskap formulerte den modne treenighetslæren i etterkant av Nikea.
 
-Deres avgjørende bidrag: De klarte å formulere Treenigheten på en måte som unngikk to feller — modalisme (Gud er én person i tre roller) og triteisme (tre separate guder). Formelen: Én *ousia* (vesen/natur) i tre *hypostaser* (separate subsistenser/personer). Se [[concepts/treenigheten]].
+Deres avgjørende bidrag: De klarte å formulere Treenigheten på en måte som unngikk to feller — modalisme (Gud er én person i tre roller) og triteisme (tre separate guder). Formelen: Én *ousia* (vesen/natur) i tre *hypostaser* (separate subsistenser/personer). Se [[teologi/treenigheten]].
 
 ---
 
@@ -32,7 +35,7 @@ Ingen skapt intellekt — hverken menneskelig eller engleaktig — kan erkjenne 
 
 Dette er et filosofisk viktig skritt: Det er ikke et kvantitativt problem (vi vet for lite), men et kategorisk problem (vi er skapt, Gud er ikke).
 
-Se [[concepts/apofatisk-teologi]] for sammenheng med Klemens og Dionysios Areopagiten.
+Se [[teologi/apofatisk-teologi]] for sammenheng med Klemens og Dionysios Areopagiten.
 
 ---
 
@@ -62,7 +65,7 @@ Dette er et radikalt brudd med den greske filosofiens ideal: Platon og Aristotel
 
 **Paradokset Gregor setter ord på:** Guds uendelige natur betyr at den frelstes lengsel aldri kan stilles — men dette er ikke skuffelse, det er *salighet*. Å alltid finne mer av Gud er det høyeste man kan ønske seg.
 
-Se [[concepts/theosis]] for sammenheng med guddommeliggjørelsesbegrepet.
+Se [[teologi/theosis]] for sammenheng med guddommeliggjørelsesbegrepet.
 
 ---
 
@@ -80,7 +83,7 @@ Gregor utviklet en rik dåpsteologi. Dåpen er ingen mekanisk handling — den f
 
 > *"Den som nedstiger i dåpens vann og reiser seg igjen, har imitert Kristi tre-dagers begravelse og oppstandelse."*
 
-Dåpen er en ny skapelse. Mennesket transcenderer sin natur og blir Guds barn — ikke gjennom anstrengelse, men ved å ta del i Kristi guddommeliggjorte kropp. Se [[concepts/dapen]].
+Dåpen er en ny skapelse. Mennesket transcenderer sin natur og blir Guds barn — ikke gjennom anstrengelse, men ved å ta del i Kristi guddommeliggjorte kropp. Se [[tro-og-liv/dapen]].
 
 ---
 
@@ -113,14 +116,14 @@ Hans epektasis-tanke er blitt viktig i moderne teologi som et alternativ til sta
 
 ## Sammenheng med andre artikler
 
-- [[concepts/apofatisk-teologi]] — Gregors radikale apofatikk
-- [[concepts/theosis]] — epektasis som theosis' dynamikk
-- [[concepts/gudskunnskap-og-danning]] — Häggs analyse av Gregor
-- [[concepts/treenigheten]] — Gregor og de kappadokiske fedre
-- [[concepts/dapen]] — Gregors dåpsteologi
+- [[teologi/apofatisk-teologi]] — Gregors radikale apofatikk
+- [[teologi/theosis]] — epektasis som theosis' dynamikk
+- [[tro-og-liv/gudskunnskap-og-danning]] — Häggs analyse av Gregor
+- [[teologi/treenigheten]] — Gregor og de kappadokiske fedre
+- [[tro-og-liv/dapen]] — Gregors dåpsteologi
 - [[personer/klemens-av-alexandria]] — Gregors store forgjenger i Alexandria-tradisjonen
 - [[personer/athanasius]] — den alexandrinske tradisjonen Gregor videreførte
-- [[concepts/mester-eckhart-mystikken]] — Eckharts arv fra den gregorianske tradisjonen
+- [[kirkehistorie/mester-eckhart-mystikken]] — Eckharts arv fra den gregorianske tradisjonen
 
 ---
 
