@@ -75,7 +75,7 @@ Fire historiske fakta akseptert av nesten alle historikere:
 3. Disipler opplevde det de beskrev som møter med den oppstandne Jesus
 4. Disse disiplene var villige til å dø for denne overbevisningen
 
-Naturlige forklaringer (svimefallsteorien, feil grav, hallusinasjoner, konspirasjon) møter alle alvorlige historiske problemer. Oppstandelsen som faktisk hendelse forklarer alle fire fakta koherent. Se [[concepts/jesu-oppstandelse]].
+Naturlige forklaringer (svimefallsteorien, feil grav, hallusinasjoner, konspirasjon) møter alle alvorlige historiske problemer. Oppstandelsen som faktisk hendelse forklarer alle fire fakta koherent. Se [[kristologi/jesus-sin-oppstandelse]].
 
 ---
 
@@ -93,7 +93,7 @@ Naturlige forklaringer (svimefallsteorien, feil grav, hallusinasjoner, konspiras
 
 **3. Den større planen:** Gud kan ha grunner for å tillate lidelse som vi ikke ser. Analogien: En kirurg som skjærer i et barn virker grusom for barnet, men har grunner barnet ikke forstår.
 
-**4. Liv etter døden:** Hvis det finnes et liv etter dette der lidelse kan bli meningsbærende og forsonet, endrer det perspektivet. Se [[concepts/eskatologi]].
+**4. Liv etter døden:** Hvis det finnes et liv etter dette der lidelse kan bli meningsbærende og forsonet, endrer det perspektivet. Se [[teologi/eskatologi]].
 
 **Konklusjon:** Det ondes problem viser at det er *vanskelig* å tro på Gud. Men det viser ikke at Guds eksistens er selvmotsigende eller usannsynlig.
 

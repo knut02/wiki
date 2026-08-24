@@ -138,11 +138,11 @@ GT-tidslinjen er ikke en nøytral historiebok. Den er en fortelling om Guds trof
 
 ## Sammenheng med andre artikler
 
-- [[timelines/mellom-testamentene]] — perioden etter GT
-- [[timelines/nt-tidslinje]] — NT-periodens kronologi
-- [[concepts/pakten]] — paktene som GT-teologiens ryggrad
-- [[concepts/gt-profetene]] — profetenes rolle i kongetiden og eksilet
-- [[concepts/bibelhistorie-nokkelhendelser]] — den fulle bibelske kronologien
+- [[tidslinjer/mellom-testamentene]] — perioden etter GT
+- [[tidslinjer/nt-tidslinje]] — NT-periodens kronologi
+- [[Bibelen - det Gamle Testamentet/pakten]] — paktene som GT-teologiens ryggrad
+- [[Bibelen - det Gamle Testamentet/gt-profetene]] — profetenes rolle i kongetiden og eksilet
+- [[tidslinjer/bibelhistorie-nokkelhendelser]] — den fulle bibelske kronologien
 
 ---
 

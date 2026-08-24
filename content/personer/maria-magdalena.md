@@ -37,7 +37,7 @@ Maria Magdalena er én av flere kvinner som heter Maria i evangeliene. Hun må i
 - Maria fra Betania — søster til Marta og Lasarus
 - Maria, hustru til Klopas — mor til Jakob den yngre
 
-Se [[concepts/kvinner-i-evangeliene]] for full oversikt.
+Se [[kvinner-og-bibelen/kvinner-i-evangeliene]] for full oversikt.
 
 ---
 
@@ -45,8 +45,8 @@ Se [[concepts/kvinner-i-evangeliene]] for full oversikt.
 
 - [[personer/jesus]] — fulgte og støttet ham
 - [[personer/maria]] — deler navn, men ulike personer
-- [[concepts/kvinner-i-evangeliene]] — oversikt over alle kvinner i evangeliene
-- [[concepts/apostlene]] — kontrastert med apostlene i materialet
+- [[kvinner-og-bibelen/kvinner-i-evangeliene]] — oversikt over alle kvinner i evangeliene
+- [[personer/apostlene]] — kontrastert med apostlene i materialet
 
 ---
 

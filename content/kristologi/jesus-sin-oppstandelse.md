@@ -34,13 +34,13 @@ At kvinner er de første vitnene er historisk bemerkelsesverdig: I antikkens ret
 
 **Legemlig og forvandlet** — Det NT beskriver er verken en gjenopplivning til vanlig biologisk liv (slik Lasarus) eller en rent åndelig opplevelse. Jesus kan røres ved, spiser fisk, viser sårene — og kan likevel forsvinne fra et rom og gå gjennom lukkede dører. Det er et nytt slags liv: kontinuitet med det gamle, men grunnleggende forvandlet.
 
-Paulus kaller Kristus «førstegrøden av de som er sovnet inn» (1 Kor 15:20) — det første eksemplaret av en ny menneskelig eksistens. Hans oppstandelseskropp er mønsteret for den kommende oppstandelsen. Se [[concepts/eskatologi]] for den fulle utfoldelsen.
+Paulus kaller Kristus «førstegrøden av de som er sovnet inn» (1 Kor 15:20) — det første eksemplaret av en ny menneskelig eksistens. Hans oppstandelseskropp er mønsteret for den kommende oppstandelsen. Se [[teologi/eskatologi]] for den fulle utfoldelsen.
 
 ---
 
 ## Frelseteologisk betydning
 
-**For Athanasius** er oppstandelsen avgjørende fordi den overvinner dødsmakten. Syndefallet hadde trukket mennesket mot ikke-væren; Logos tar på seg kjøtt, dør og oppstår — og derved åpner veien for menneskenes deltakelse i Guds eget liv (*theosis*). Se [[concepts/frelse-athanasius-augustin]].
+**For Athanasius** er oppstandelsen avgjørende fordi den overvinner dødsmakten. Syndefallet hadde trukket mennesket mot ikke-væren; Logos tar på seg kjøtt, dør og oppstår — og derved åpner veien for menneskenes deltakelse i Guds eget liv (*theosis*). Se [[kirkehistorie/frelse-athanasius-augustin]].
 
 **For Paulus** henger korset og oppstandelsen uløselig sammen: «Han ble gitt for vår synder og oppreist til vår rettferdiggjørelse» (Rom 4:25). Korset betaler gjelden; oppstandelsen bekrefter at betalingen er akseptert og at forgjengeligheten er overvunnet.
 

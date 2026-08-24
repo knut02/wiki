@@ -43,10 +43,10 @@ Mange historiske katastrofer, fra folkemord til økologiske kriser, kan spores t
 
 ## Sammenheng med andre artikler
 
-- [[concepts/livssyn]] — Hararis perspektiv er sekulært og evolusjonært
-- [[concepts/kristendommens-historie-oversikt]] — kristendommen plassert i Hararis historiske ramme
-- [[concepts/religion-i-praksis]] — religion som kulturelt og kognitivt fenomen
-- [[concepts/guds-kjærlighet]] — kontrasten mellom Hararis evolusjonsperspektiv og bibelsk menneskesyn
+- [[verdensreligioner-og-livssyn/livssyn]] — Hararis perspektiv er sekulært og evolusjonært
+- [[kirkehistorie/kristendommens-tilblivelse]] — kristendommen plassert i Hararis historiske ramme
+- [[verdensreligioner-og-livssyn/religion-i-praksis]] — religion som kulturelt og kognitivt fenomen
+- [[tro-og-liv/guds-kjærlighet]] — kontrasten mellom Hararis evolusjonsperspektiv og bibelsk menneskesyn
 
 ---
 

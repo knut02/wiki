@@ -27,7 +27,7 @@ Et mønster går igjen: i GT *kommer* Ånden over enkeltpersoner for spesifikke 
 Maria unnfanger ved Den hellige ånd (Matt 1:18). Ved dåpen daler Ånden over Jesus som en due (Matt 3:16). Ånden leder Jesus ut i ørkenen (Matt 4:1).
 
 **Jesu løfte**
-I avskjedstalen (Joh 14–16) lover Jesus å sende Talsmannen (*Parakletos*) — en distinkt person som skal lære, minne, overbevise og lede i all sannhet. Se [[concepts/treenigheten]] for den teologiske sammenhengen.
+I avskjedstalen (Joh 14–16) lover Jesus å sende Talsmannen (*Parakletos*) — en distinkt person som skal lære, minne, overbevise og lede i all sannhet. Se [[teologi/treenigheten]] for den teologiske sammenhengen.
 
 **Pinsedagen (Apg 2)**
 Ånden blir gitt til alle troende — ikke bare til spesielt utvalgte som i GT. Dette er oppfyllelsen av Joels profeti.

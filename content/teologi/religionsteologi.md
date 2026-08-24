@@ -82,7 +82,7 @@ Knitter er åpen om svakhetene:
 
 Den norske kirke har i sine kirkemøtevedtak valgt en posisjon som kombinerer elementer fra inklusivisme og akseptmodellen: Dialog er genuint ønsket og nødvendig. Andres trosliv respekteres. Samtidig beholdes troen på Kristus som frelseren.
 
-Bispemøtets vedtak om religionsdialog ved kirkelige handlinger og Kirkemøtets vedtak om misjon (2012) er eksempler på denne balanseringen. Se [[concepts/religionsdialog-kirkelige-handlinger]].
+Bispemøtets vedtak om religionsdialog ved kirkelige handlinger og Kirkemøtets vedtak om misjon (2012) er eksempler på denne balanseringen. Se [[global-kristendom/religionsdialog-kirkelige-handlinger]].
 
 ---
 

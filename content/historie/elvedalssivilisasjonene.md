@@ -59,12 +59,12 @@ Fra å være en primitiv utkant rundt år 1000 til å dominere verden fra 1500-t
 
 ## Sammenheng med andre artikler
 
-- [[concepts/homo-sapiens]] — menneskenes forhistorie frem til sivilisasjonenes fremvekst
-- [[concepts/kristendommens-historie-oversikt]] — Kaufmans oversikt over kirkehistorien
-- [[concepts/statsreligion]] — kristendommen som Romerrikets statsreligion
-- [[concepts/islam]] — islams historiske utvikling
-- [[timelines/gt-tidslinje]] — bibelhistorie og babylonsk eksil
-- [[concepts/jodedommen]] — jødisk identitet i eksil
+- [[historie/homo-sapiens]] — menneskenes forhistorie frem til sivilisasjonenes fremvekst
+- [[kirkehistorie/kristendommens-tilblivelse]] — Kaufmans oversikt over kirkehistorien
+- [[kirkehistorie/statsreligion]] — kristendommen som Romerrikets statsreligion
+- [[verdensreligioner-og-livssyn/islam]] — islams historiske utvikling
+- [[tidslinjer/gt-tidslinje]] — bibelhistorie og babylonsk eksil
+- [[verdensreligioner-og-livssyn/jodedommen]] — jødisk identitet i eksil
 
 ---
 

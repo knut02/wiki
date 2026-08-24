@@ -79,12 +79,12 @@ I Åpenbaringen er **det nye Jerusalem** det eschatologiske mål — en by som s
 ## Sammenheng med andre artikler
 
 - [[personer/kong-david]] — Davids by
-- [[concepts/messias]] — Messias-forventningene knyttet til Jerusalem
-- [[concepts/sheol-og-oppstandelsen]] — oppstandelsens geografiske kontekst
-- [[concepts/martyriet]] — kirken vokste fra Jerusalem
-- [[concepts/statsreligion]] — Konstantin bygde Gravkirken (ca. 335)
-- [[timelines/gt-tidslinje]] — templets bygning og ødeleggelse
-- [[timelines/nt-tidslinje]] — Jesu inntog og templets fall
+- [[kristologi/messias]] — Messias-forventningene knyttet til Jerusalem
+- [[teologi/sheol-og-hades]] — oppstandelsens geografiske kontekst
+- [[kirkehistorie/martyriet-og-helgenkult]] — kirken vokste fra Jerusalem
+- [[kirkehistorie/statsreligion]] — Konstantin bygde Gravkirken (ca. 335)
+- [[tidslinjer/gt-tidslinje]] — templets bygning og ødeleggelse
+- [[tidslinjer/nt-tidslinje]] — Jesu inntog og templets fall
 
 ---
 

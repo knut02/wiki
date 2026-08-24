@@ -63,7 +63,7 @@ Spørsmålet er ikke bare «hva sier teksten?» — men «hvilken del av teksten
 Ringes innsikter er ikke bare relevante for feministisk teologi. De er relevante for all bibellesning:
 
 - Vestlig, euro-amerikansk akademia har lest som om det var nøytral lesning — og oversett det den ikke var opptatt av
-- Afrikanske, asiatiske og latinamerikanske lesere legger merke til annet — og finner annet (jf. [[concepts/matteus-og-global-teologi]])
+- Afrikanske, asiatiske og latinamerikanske lesere legger merke til annet — og finner annet.
 - Fattige og undertrykte lesere ser sosialpolitiske dimensjoner som velstående lesere overser
 
 En «fullstendig» lesning trenger ulike lesere. Ikke fordi alle tolkninger er like gyldige, men fordi ingen enkelt leser ser *alt*.
@@ -82,11 +82,10 @@ En «fullstendig» lesning trenger ulike lesere. Ikke fordi alle tolkninger er l
 
 ## Sammenheng med andre artikler
 
-- [[concepts/bibeltolkning-innforing]] — leserposisjonens hermeneutiske betydning
-- [[concepts/kvinner-i-evangeliene]] — de konkrete tekstene
-- [[concepts/matteus-og-global-teologi]] — parallell: global lesning
-- [[concepts/inaugurert-eskatologi-og-kjonn]] — NT-tekster om kjønn og eskatologi
-- [[concepts/hvordan-lese-narrativ]] — narrativ analyse og perspektivspørsmålet
+- [[lese-og-forstå-bibelen/bibeltolkning-innforing]] — leserposisjonens hermeneutiske betydning
+- [[kvinner-og-bibelen/kvinner-i-evangeliene]] — de konkrete tekstene
+- [[teologi/inaugurert-eskatologi-og-kjonn]] — NT-tekster om kjønn og eskatologi
+- [[lese-og-forstå-bibelen/hvordan-lese-narrativ]] — narrativ analyse og perspektivspørsmålet
 
 ---
 
