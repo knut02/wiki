@@ -2,7 +2,10 @@
 title: "Romerne 8:28 — alt tjener til det gode"
 description: "Eksegetisk og teologisk gjennomgang av Rom 8:28 — hva verset sier, hva det ikke sier, konteksten i Romerne 8, og pastoral bruk og misbruk."
 date: 2025-05-25
-updated: 2025-05-25
+updated: 2026-08-25
+kategori: Det nye testamentet
+studievei: [disippelskap, bønn, spiritualitet]
+tags: [Romerne, lidelsesteologi, predestinasjon, Guds forsett, Ånden, håp]
 sources: 4
 ---
 
@@ -105,7 +108,7 @@ Dette er et pastoralt poeng, ikke et kalkulasjonssystem.
 - [[tro-og-liv/tvil-og-tro]] — Guds taushet og tillit
 - [[tro-og-liv/bønn]] — «vi vet ikke hva vi skal be om» (v. 26)
 - [[tro-og-liv/guds-kjærlighet]] — ingenting kan skille oss fra Guds kjærlighet (v. 38–39)
-- [[bibelen/paulus-teologi]] — Paulus' teologi om nåde, håp og Ånden
+- [[Bibelen - det Nye Testamentet/paulus-teologi]] — Paulus' teologi om nåde, håp og Ånden
 
 ---
 

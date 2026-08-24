@@ -2,7 +2,10 @@
 title: "Johannes 15 — vintreet, kjærligheten og verden"
 description: "Eksegetisk gjennomgang av Joh 15: det sanne vintreet, å bli i Jesus, kjærlighetsbudet, vennskapets teologi og verdens hat."
 date: 2025-05-31
-updated: 2025-05-31
+updated: 2026-08-25
+kategori: Det nye testamentet
+studievei: [evangeliene, disippelskap, spiritualitet]
+tags: [Johannes, vintreet, ménō, kjærlighet, vennskap, Paraklētos, avskjedstalen]
 sources: 3
 ---
 
@@ -37,11 +40,19 @@ I GT er vintre-bildet nesten alltid negativt: Israel svikter som vingård. Mynt 
 
 Burge peker på at Jesus bryter radikalt med dette. I det siste av sine syv store «Jeg er»-utsagn sier han: *Jeg* er det sanne vintreet (15:1). Ikke Israel. Jesus tar vintre-bildet og omformer det: Nå er det én ranke — Kristus — og spørsmålet for Guds folk er ikke lenger «bor jeg i vingården?» men «er jeg festet til den ene vinranken?»
 
+### Keener: GT-bakgrunnen og templets gylne vintre
+
+Keener (IVP, Joh 15:1) utdyper billedets røtter: GT og jødisk litteratur portretterte Israel som en vingård (*Jes 5:7*) eller vintre (*Sal 80:8; Hos 10:1*), og Gud som vingårdsmannen (*Jes 5:1-3*). I det herodiske templet hang et berømt forgyllt vintre over inngangen til Det hellige — et nasjonalt symbol på Israel. Hasmonéer- og herodisk mynt viste drueklaser. Jesus tar dette ladede bildet og omformer det: Han er det *sanne* vintreet — det Israel ikke klarte å være.
+
+Keener bemerker at *ménō* («bli», v. 4-10) er den verbale formen av «bolig» (*monē*) fra 14:2 og 14:23 — det eneste andre stedet i NT der dette substantivet brukes. I GT hadde Gud lovet å *bo* hos sitt lydige paktsfolk (2 Mos 25:8; 29:45; 3 Mos 26:11-12; Esek 37:27-28; 43:9). Å «bli» i Kristus er altså ikke en passiv tilstand, men oppfyllelsen av paktens bostedsprinsipp — Gud bor hos dem som bor i ham.
+
 ### «Det sanne vintreet»
 
 Adjektivet *alēthinos* — «sant» eller «ekte» — er viktig. Det samme adjektivet brukes i 1:9 («det sanne lyset»), 6:32 («det sanne brødet») og 15:1. Mønsteret er konsekvent: Jesus er virkelighetens fullendelse av det GT pekte frem mot. Han er det Israel aldri klarte å være — den vinranken som virkelig bærer frukt for Gud.
 
 ### Gardnerens to handlinger (v. 2)
+
+Keener (IVP, Joh 15:2-3): De tre vanligste frukttrærne i Palestina var fiken, oliven og vintre — av disse krevde oliven og vintre mest pleie. Fruktsomme grener ble beskåret for å styrke neste års avling; jo svakere vintreet var, jo hardere beskjæring. Unyttige grener ble fjernet for at de ikke skulle tappe plantens kraft unødig. Keener peker på at det greske verbet for «renser» (*kathaírei*) i v. 2 normalt betyr «renser» — og at Johannes bevisst spiller på dobbelttydigheten: Åndens renselse av hjertet og vingårdsmannens beskjæring er ett og det samme bilde.
 
 Faderen er vingårdsmannen og gjør to ting:
 
@@ -90,6 +101,8 @@ Budet er rammen for avsnittet: Det introduseres i v. 12 og gjentas i v. 17, noe 
 «Jeg kaller dere ikke lenger tjenere, for en tjener vet ikke hva hans herre gjør. Men jeg har kalt dere venner, for alt det jeg har hørt av min Far, har jeg gjort kjent for dere.»
 
 Tittelen «Guds venn» er usedvanlig i GT. Kun Abraham (2 Krøn 20:7; Jes 41:8) og Moses (2 Mos 33:11) kalles venner av Gud — de som fikk innblikk i Guds planer og råd. Burge fremhever at Jesus løfter disiplene inn i denne posisjonen. De er ikke lenger folk som bare lyder ordre — de er betrodde med Guds hjerte.
+
+Keener (IVP, Joh 15:14-15) viser at vennskap i antikken hadde presise kjennetegn: lojalitet (gjerne til døden), likhet mellom kamerater, og en intimitet der venner delte alle hemmeligheter. Filosofiske skoler som epikureerne vektla spesielt dette siste — venner som delte alt åpent. Jødiske skrifter som Filon betonte «vennskap med Gud» og kontrasterte det nettopp med trelldom, slik Jesus gjør her. Å bli kalt «Guds venn» var i GT forbeholdt Abraham (2 Krøn 20:7; Jes 41:8) og Moses (2 Mos 33:11) — de som fikk innblikk i Guds råd. Jesus løfter nå alle disiplene inn i denne eksklusive posisjonen.
 
 **Tre kjennetegn på vennskapet:**
 1. *Åpenhet*: Jesus deler alt han har hørt fra Faderen (v. 15)
@@ -158,12 +171,12 @@ Et viktig poeng i teksten: Fruktbæring er *resultat* av forbindelsen, ikke bevi
 - [[tro-og-liv/guds-kjærlighet]] — Guds kjærlighet som grunnlag for kjærlighetsbudet
 - [[tro-og-liv/bønn]] — bønn som uttrykk for forbindelsen med Kristus (v. 7)
 - [[Bibelen - det Nye Testamentet/johannesbrevene]] — kjærlighetsbudet videreført i 1 Joh
-- [[Bibelen - det Nye Testamentet/johannes-evangeliet]] — avskjedstalen som helhet
+- [[Bibelen - det Nye Testamentet/jesu-avskjedstale-joh-14-17]] — avskjedstalen som helhet
 
 ---
 
 ## Kilder
 
 - [[sources/Burge-1999-john-nivacc]] — Burge, G.M. (1999): *John*, NIV Application Commentary. Zondervan, s. 416–432
-- [[sources/Keener-2014-IVP-background-commentary]] — Keener, C.S. (2014): *IVP Bible Background Commentary: NT*
+- [[sources/Keener-2014-IVP-background-commentary]] — Keener, C.S. (2014): *IVP Bible Background Commentary: NT*, Joh 15:1-25
 - [[sources/studier-personlige]] — egne studier og notater

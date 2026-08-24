@@ -2,8 +2,11 @@
 title: "Jesu lignelser"
 description: "Lignelsene er ikke illustrasjoner til en lære som kan formuleres uten dem. De er selve budskapets kjerne.» — Donahue, *The Gospel in Parable* (1990)"
 date: 2025-05-11
-modified: 2025-05-11
-kilder: 3
+updated: 2026-08-25
+kategori: Det nye testamentet
+studievei: [evangeliene, disippelskap]
+tags: [lignelser, Guds rike, fortapte sønn, barmhjertige samaritan, parabolē, Lukas 15]
+kilder: 4
 ---
 
 ## Hva er en lignelse?
@@ -57,6 +60,12 @@ Den fortapte sønnen (Luk 15:11–32) ender uten konklusjon. Den eldste broren e
 
 En av Bibelens mest utarbeidede fortellinger. To sønner, én far. Den yngste forlanger arven og sløser den bort. Han «kom til sans og samling» og dro hjem. Farens reaksjon bryter alle sosiale normer: Han *løper* mot sønnen — en eldre mann som løper er underdanig i antikkens æreskultur. Han gir ham ring, festklær og fest.
 
+**Keener (IVP, Luk 15:11-12):** Å be om arven mens faren levde var dypt støtende — «i praksis å si: Jeg ønsker at du var død.» I en æreskultur der lydighet mot faren var grunnleggende, var det en alvorlig opprørshandling som kunne rettferdiggjøre å bli utestengt fra familien. At faren innvilger forespørselen ville overraske Jesu første lyttere — de fleste ville ikke identifisere seg med faren i starten, men se ham som naiv og ettergivende.
+
+Keener (Luk 15:23): Kalven «ville mette hele landsbyen». En fest av dette omfanget kunngjorde noe offentlig. I antikken inviterte aristokratiske familier gjerne hele byen til slike festligheter — for eksempel når en sønn ble voksen. At faren gjør dette for den bortkomne sønnen gjør festen til en offentlig æresdemonstrasjonen, ikke bare et privat måltid.
+
+Keener (Luk 15:25-28): Den eldste brorens nektelse av å gå inn mens festen pågår gjør familiestriden til offentlig nyheter og beskjemmer faren — akkurat slik den yngste broren hadde gjort. I stedet for å straffe ham, går faren *ut* og ydmyker seg selv for å søke forsoning. Det er nøyaktig det han gjorde for den yngste sønnen (15:20). Farens kjærlighet bryter med ærelogikkens krav i begge ender.
+
 Men lignelsen slutter ikke der. Den eldste broren, som aldri har forlatt farsgården, er bitter. Hans klage er forståelig: «Jeg har tjent deg i alle disse år.» Farens svar er ikke en irettesettelse men en invitasjon: «Alt mitt er ditt. Men vi måtte holde fest, for din bror var død og er blitt levende igjen.»
 
 Teologisk nøkkel: Festen er ikke farens belønning til sønnen. Det er farens respons på det faktum at det døde er blitt levende. Gleden kommer *forut* for fortjeneste.
@@ -65,9 +74,15 @@ Teologisk nøkkel: Festen er ikke farens belønning til sønnen. Det er farens r
 
 En lovkyndig spør Jesus: «Hvem er min neste?» Spørsmålet vil *avgrense* plikten. Jesus svarer med en fortelling — og snur spørsmålet: Ikke «hvem er min neste?» men «hvem var en neste for ham?»
 
-Samaritanen — fra et folkeslag jødene foraktet — er den som handler. Presten og levitten går forbi. Det er ikke sagt at de er onde; det er sagt at de *gikk forbi*.
+**Keener (IVP, Luk 10:25):** Den lovkyndige stiller et spørsmål som var vanlig i jødisk teologisk debatt. «Naboer» (*neste*) betydde typisk «medisraelitt» hos jødiske lærere — Lev 19:18 handler åpenbart om medborgere i den nærmeste konteksten, selv om den bredere konteksten også inkluderer fremmede i landet (Lev 19:34).
 
-Spørsmålet Jesus stiller til slutt er ikke «hvem er din neste?» men «hvem av de tre tror du var en neste for den som ble overfalt?» Det riktige svaret er ubehagelig å si: «Han som viste miskunn.»
+**Keener (Luk 10:30):** Jerikoveien var bratt, syttenkilometer lang og kjent for røvere. En reisende alene var sårbar. At røverne stripset ham naken og etterlot ham halvdød var ikke bare vold — det fratatt ham enhver synlig markør for sosial identitet, etnisitet og religiøs tilhørighet. Man visste ikke hvem han var.
+
+**Keener (Luk 10:33):** Her er sjokkeffekten. I rabbinske lignelser ville normalt den tredje karakteren vært en vanlig israelitt som kontrast til presten og levitten. At Jesu tredje karakter er en *samaritan* — fra et folkeslag jødene aktivt foraktet og unngikk — ville sjokkere lytternes patriotisme. Keener: «Jesus' illustration would strike at the heart of Jewish patriotism, which his contemporaries justified religiously.»
+
+**Keener (Luk 10:34):** Olje og vin ble brukt medisinsk på sår. At samaritanen bruker jødisk-unngåtte produkter (jøder unngikk samaritansk olje) og i tillegg leder eselet med den sårede på ryggen — tar selv den lavere, tjenende posisjonen — forsterker bildets omkastning av forventningene.
+
+Spørsmålet Jesus stiller til slutt er ikke «hvem er din neste?» men «hvem av de tre tror du var en neste for den som ble overfalt?» Det riktige svaret er ubehagelig å si: «Han som viste miskunn.» Keener bemerker at den lovkyndige ikke klarer å si «samaritanen» direkte.
 
 ### Arbeiderne i vingården (Matt 20:1–16)
 
@@ -114,4 +129,5 @@ Donahue kaller dette lignelsenes *performative* funksjon: De vil ikke bare infor
 
 - [[sources/Donahue-1990-lignelser]] — Donahue, J.R. (1990): *The Gospel in Parable*, s. 1–4 og 126–138 og 146–162. Fortress Press. (Merk: OCR svak — tekstinnhold rekonstruert fra kjent faginnhold)
 - [[sources/Niditch-2012-Genesis]] — Niditch, S. (2012): sjanger og tradisjonslitteratur; narrativets funksjon
+- [[sources/Keener-2014-IVP-background-commentary]] — Keener, C.S. (2014): *IVP Bible Background Commentary: NT*, Luk 10:25-37 og Luk 15:11-32
 - [[sources/studier-personlige]] — egne studier; Luk 15 og Matt 20
