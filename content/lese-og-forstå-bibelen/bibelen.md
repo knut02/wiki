@@ -120,7 +120,7 @@ Kristen tro knytter bibelens autoritet til dens karakter som Guds ord. Men «Gud
 
 **Funksjonell autoritet:** Bibelen er autoritativ fordi den effektivt formidler Guds frelsende virkelighet og former Guds folk.
 
-De fleste evangelikale holder en form for inerrancy; de fleste mainstreamprotestantiske kirker holder en form for infallibility; katolsk og ortodoks tradisjon legger større vekt på forholdet mellom Skrift og Tradisjon.
+De fleste evangelikale holder en form for inerrancy; de fleste protestantiske kirker holder en form for infallibility; katolsk og ortodoks tradisjon legger større vekt på forholdet mellom Skrift og Tradisjon.
 
 ---
 
