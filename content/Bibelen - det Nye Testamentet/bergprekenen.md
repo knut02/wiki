@@ -1,47 +1,51 @@
 ---
-title: "Bergprekenen (Matt 5–7)"
-description: "Jesu mest systematiske undervisning om livet i Guds rike — saligprisningene, Tora-antitesene, Fadervår, bekymringer og byggmesteren. Med Willards tolkning av bergprekenen som en sammenhengende tale om det velsignede livet."
-date: 2025-05-05
-updated: 2026-07-10
-sources: 3
+title: "Bergprekenen — Matt 5–7"
+description: "Bergprekenen er Jesu fremste undervisning — en sammenhengende tale om det livet som er mulig i Guds rike, ikke en ny lov men en invitasjon til en radikal omforming av sinnet."
+date: 2025-05-30
+updated: 2026-08-26
+kategori: Det nye testamentet
+studievei: [evangeliene, disippelskap, etikk]
+tags: [bergprekenen, saligprisningene, antitesene, Guds rike, Matt 5-7, fiendekjærlighet, Fadervår, fromhet, bekymring]
+sources: 4
 ---
 
-# Bergprekenen (Matt 5–7)
+> «Salige er de fattige i ånden, for himmelriket er deres.» — Matt 5:3
 
-> «Da Jesus så folkemengden, gikk han opp i fjellet og satte seg. Disiplene kom til ham, og han begynte å undervise dem.» — Matt 5:1–2
+> «Vær fullkomne som deres himmelske Far er fullkommen.» — Matt 5:48
 
 ---
 
 ## En tale, ikke en samling visdomsord
 
-Bergprekenen (Matt 5–7) er den første av Matteus' fem store talesamlinger, og den mest innflytelsesrike etiske teksten i vestlig sivilisasjon. Historikeren W.E.H. Lecky kalte Jesu lære «the most powerful moral lever that has ever been applied to the affairs of man».
+Bergprekenen (Matt 5–7) er ikke en tilfeldig samling visdomsutsagn. Den er en sammenhengende *tale* — strukturert, progressiv, med tydelig begynnelse, midtdel og slutt. Å forstå dette er det første hermeneutiske grepet.
 
-Men nettopp bergprekenens sentrale plass i kulturhistorien har paradoksalt nok gjort den til det Clarence Bauman kaller «the most important and most controversial biblical text» — og «an enigma to the modern conscience». Vi siterer den, vi henger den opp på veggen, og vi forstår den likevel dårlig.
+Konteksten er avgjørende: Jesus har begynt sin offentlige tjeneste i Galilea, kalt de første disiplene og drevet omreisende virksomhet. Nå setter han seg ned på fjellet — stillingen til en som underviser med autoritet — og «åpnet sin munn og underviste dem» (5:2). Lyttere er disiplene (spesifikt) og folkemengden (implisitt).
 
-Dallas Willard (*The Divine Conspiracy*, 1998) identifiserer grunnproblemet: Bergprekenen leses som en samling løsrevne visdomsord — «som marmorkuler i en pose» — ikke som én sammenhengende tale med én gjennomgripende tanke. Resultatet er at de enkelte utsagnene, løsrevet fra helheten, enten virker som umulige moralske krav («skjær av hånden din!»), eller som fromme idealer ingen tar på alvor i praksis.
-
-Willards utgangspunkt er det motsatte: Bergprekenen er en tale av stor intellektuell kraft og praktisk klokskap, med én overordnet hensikt — å vise vanlige mennesker *hvordan det faktisk er mulig å leve i Guds rike nå*.
+Bergprekenen er ikke en moralsk kode for å komme inn i Guds rike. Den er en beskrivelse av livet *for dem som allerede er i riket*. Saligprisningene åpner ikke med betingelser («vær saktmodig for å arve jorda») men med kjennetegn («salige er de saktmodige — de er dem som arver jorda»).
 
 ---
 
 ## Rammen: Jesus som ny Moses
 
-Matteus tegner med vilje bildet av Jesus som ny Moses. Oppgangen på fjellet, undervisningsstillingen (sittende, som en rabbiner), og talen som gir en ny lov — alt peker mot Sinai og loven gitt der. Men Jesus gir ikke bare en ny versjon av Moseloven. Han sier: «Dere har hørt at det ble sagt... men jeg sier dere.» Han taler med en autoritet som overstiger Moses og de skriftlærde: «Han lærte dem som en som har myndighet» (7:28–29).
+Matteus strukturerer sin fremstilling av Jesus som ny Moses gjennom fem store talesamlinger — en struktur som speiler de fem Mosebøkene. Bergprekenen er den første og viktigste.
+
+Moses gikk *opp* på fjellet for å motta loven. Jesus *setter seg ned* på fjellet og *gir* loven — med en autoritet som overgår Moses: «Dere har hørt... men jeg sier dere...» (5:21ff). Det er ikke lovens opphevelse, men dens radikalisering og internalisering.
 
 ---
 
 ## Bergprekenens struktur (Willard)
 
-Willard hevder at den eneste meningsfulle måten å lese bergprekenen på, er å forstå dens *struktur* — den røde tråden som binder delene sammen:
+Dallas Willard (*The Divine Conspiracy*) strukturerer bergprekenen slik:
 
 | Del | Tekst | Innhold |
 |-----|-------|---------|
-| Bakgrunnsantagelse | Matt 4:17–25 | Guds rike er tilgjengelig nå |
-| 1. Åpning | 5:1–20 | Hvem er allerede velsignet? Salt og lys |
-| 2. Rikets hjerte | 5:21–48 | Den gode karakterens konkrete ansikt |
-| 3. Advarsel 1 | 6:1–34 | Mot falsk sikkerhet — rykte og rikdom |
-| 4. Advarsel 2 | 7:1–12 | Mot fordømmelse; kall til bønnens fellesskap |
-| 5. Avslutning | 7:13–27 | Alvoret i å faktisk *gjøre* det |
+| Saligprisningene | 5:3–12 | Hvem er allerede i riket? |
+| Salt og lys | 5:13–16 | Rikets folk i verden |
+| Lov og profeter | 5:17–20 | Rettferdigheten som overgår |
+| Antitesene | 5:21–48 | Seks eksempler på «overskytende rettferdighet» |
+| Fromhetsliv | 6:1–18 | Skjult for Gud, ikke for folk |
+| Skatter og bekymring | 6:19–34 | Riket som livets organiserende prinsipp |
+| Dom og avslutning | 7:1–27 | Advarsel og kall til handling |
 
 ---
 
@@ -49,64 +53,56 @@ Willard hevder at den eneste meningsfulle måten å lese bergprekenen på, er å
 
 ### Den klassiske feiltolkningen
 
-Saligprisningene leses oftest som *krav*: Du må bli fattig i ånden, saktmodig, fredsskapende — og *da* vil du motta rikets løfter. De er, på denne lesningen, en slags kristen dydsliste.
+Den vanligste feiltolkningen: Saligprisningene er moralske krav. «Vær fattig i ånden» (som en dyd å strekke seg mot) → da vil du arve himmelen. Slik blir de åtte saligprisningene til åtte bud — og dermed til det moralske inngangskravet til Guds rike.
 
-Problemet er at mange av disse tilstandene ikke er noe man kan anstrenge seg inn i. «Sørgende», «fattige i ånden», «forfulgte» — dette er tilstander man *befinner seg* i, ikke holdninger man kan bestemme seg for.
+Det er teologisk galt og gir ingen mening i kontekst.
 
 ### Willards alternativ: Hvem er allerede inn?
 
-Willard leser saligprisningene radikalt annerledes: De er **annonseringer** om hvem som allerede er innenfor Guds rike. De er svar på spørsmålet: Hvem er *allerede* velsignet, selv om verden ikke regner dem som det?
+Willard leser saligprisningene som en kunngjøring, ikke et krav. Jesus peker ut på den blandede folkemengden — Galilea var ikke Jerusalem — og identifiserer de som ellers ville antatt seg *utelukket* fra Guds rike:
 
-Svaret er sjokkerende: De fattige i ånden er velsignet. De sørgende er velsignet. De saktmodige er velsignet. De forfulgte er velsignet.
+- **De fattige i ånden:** De åndelig ressursløse, de religiøst avviste
+- **De sørgende:** De som bærer sorg, tap, tunge byrder
+- **De saktmodige:** De som ikke hevder sin rett, de underdanige
+- **De som sulter og tørster etter rettferdighet:** De som lider under urett
+- **De barmhjertige:** De som gir barmhjertighet
+- **De rene av hjertet:** De som ikke er forurensede av dobbeltsindighet
+- **Freds­skaperne:** De som arbeider for forsoning
+- **De forfulgte:** De som lider for rettferdighetens skynd
 
-Poenget er ikke at fattigdom, sorg og forfølgelse er *gode ting*. Det er at disse menneskene — dem som verden tydeligvis ikke gir noe som helst — allerede er *innenfor Guds omsorg og styrevelde*. Guds rike er åpent for dem, nå, uten forbehold.
-
-Willard: «The Beatitudes are not presented as a set of demands. They are statements of fact: *here is who already has it*. Jesus is making an announcement, not laying down a requirement.»
+Jesu budskap: *Disse menneskene — du som ser på dem som spirituelt fattige, som sørger, som er svake, som er undertrykt — er dem som allerede tilhører Guds rike. Himmelriket er theirs.*
 
 ### Hvem tilhører hvilken gruppe?
 
-Tilhørerne på åssiden — «folkemengden» som Matteus beskriver — var ikke fromme religiøse nøkkelpersoner. De var galilæiske fiskere, bønder, tollere, sykdommede. Mange ville ha kjent seg igjen i: «fattig», «sørgende», «sulten», «forfulgt». Og til disse sier Jesus: Dere er velsignet. Guds rike er *deres*.
+Av de åtte «salige» er tre knyttet til himmelriket direkte (fattige i ånden, forfulgte). De øvrige peker frem mot eskatologisk oppfyllelse (jorda, trøst, metthet, miskunn, å se Gud, å bli kalt Guds barn).
 
-Dette snur den religiøse logikken på hodet. I fariseernes system var den religiøst fromme, rettsholdende jøden «inne». Hos Jesus er det de marginaliserte, de sørgende, de som ikke har «klart det» — som er innenfor Guds gunst.
+Men — og dette er avgjørende — de er ikke fremtidige betingelser. De er nåværende realiteter: *Disse er Guds barn nå. De er i riket nå.* Den eskatologiske oppfyllelsen er garantert nettopp fordi de allerede tilhører riket.
 
-| Saligprisning | Tilstand | Løfte |
-|--------------|---------|-------|
-| Fattige i ånden | De som vet de ikke har styr på tilværelsen | Himlenes rike er deres |
-| De som sørger | De som bærer sorg | De skal trøstes |
-| De saktmodige | De som ikke hevder seg med makt | De skal arve jorda |
-| De som hungrer etter rettferdighet | De som opplever urett | De skal mettes |
-| De barmhjertige | De som viser omsorg | De skal få barmhjertighet |
-| De renhjertige | De med indre integritet | De skal se Gud |
-| Fredsskaperne | De som bygger broer | De skal kalles Guds barn |
-| De forfulgte | De som lider for det gode | Himlenes rike er deres |
+Keener (IVP, 5:4): «Trøst» (*paraklēsis*) var ett av løftene for den fremtidige tid da Gud skulle gjenreise sitt sørgende folk (Jes 40:1; 49:13; 51:3, 12; 52:9; 54:11; 57:18; 61:2; 66:13). Jesus knytter saligprisningens trøst til GT-løftenes oppfyllelse.
 
-**Keener (IVP):** Saligprisningene er innledet og avsluttet med det samme løftet — «himlenes rike er deres» (5:3 og 5:10). Denne innrammingen (*inclusio*) markerer saligprisningene som en samlet enhet. Keener peker på at mange jøder forventet at riket ville bli innledet av krig og kraft; Jesus lover det i stedet til de ydmyke, de fredsskapende, de fattige i ånden. Det er en direkte konfrontasjon med tidens messiasforventning.
+Keener (IVP, 5:5): V. 5 er et skriftsitat — Salme 37:9, 11. «Arve jorden» hadde i salmens hebraiske kontekst et snevrere betydning («arve landet»), men på Jesu tid forventet jøder at Guds folk ville herske over hele jorden. Det er ikke politisk imperialisme, men eskatologisk håp: Guds folk, ikke de militærsterke, er fremtiden.
 
-«Fattig i ånden» dekker både de fysisk fattige (Luk 6:20) og den fromme avhengigheten av Gud som fattigdom gjerne øvde frem. Ørkenfadrene og salmistene kjente begge disse dimensjonene. «Saktmodig» siterer direkte Sal 37:9,11 på hebraisk — det er de som ydmykt venter på Gud fremfor å ta riket med makt, som skal arve jorden. De som sørger er lovet trøst — et begrep Jesaja bruker konsekvent om Guds fremtidige gjenopprettelse av sitt folk (Jes 40:1; 49:13; 51:3; 61:2). «Renhjertet» (Sal 73:1) peker mot den i Israel hvis hjerte var ubesudlet av andre avhengigheter — som forsto at Gud alene var deres hjelp og belønning.
+Saligprisningene er ikke et program for selvforbedring. De er en erklæring om Guds kongedømme som allerede er virksomt i verden — et kongedømme som er synlig der det minst forventes.
 
 ---
 
 ## Salt og lys (5:13–16)
 
-Etter annonseringen av hvem som er velsignet, sier Jesus noe overraskende til de samme menneskene: *Dere* er jordens salt og verdens lys.
+Saligprisningene beskriver hvem de troende er; salt og lys-bildene beskriver hva de *gjør* i verden.
 
-Det er ikke et kall til å bli noe de ikke er. Det er en beskrivelse av hva de allerede er — og en utfordring om å ikke gjemme det bort. Salt som mister sin kraft, er verdiløst. Lys som skjules, er meningsløst.
+**Salt:** I antikken var salt primært et konserveringsmiddel — det bevarte kjøtt og mat fra å råtne. «Jordens salt» er de som motvirker samfunnets moralske forfall ved å leve rettferdig. Kalk som mistet saltsmaken («saltet mister sin kraft») er faktisk ikke kjemisk mulig for rent havsalt — Keener (IVP) antyder at Jesus refererer til urene saltblandinger fra Dødehavet, som kunne miste sin salgbarhet.
 
-Poengene henger sammen med saligprisningene: De svakeste, de sørgende, de marginaliserte — de er det saltet og lyset verden trenger. Ikke til tross for sin situasjon, men *gjennom* den.
-
-**Keener (IVP):** Israel og Jerusalem ble i jødisk tradisjon kalt «verdens lys» (Jes 42:6; 49:6). Jesus overfører denne identiteten til disiplene. Saltet mistet sin kraft ikke ved kjemisk forandring, men ved forurensning — analogien er tydelig: En disippel som ikke lever etter rikets logikk, er like ubrukelig som forurenset salt.
+**Lys:** Et lys som settes under en bøtte er en intern selvmotsigelse — poenget med lys er å lyse. «Slik skal lyset deres skinne for menneskene, slik at de kan se de gode gjerningene deres og ære deres Far i himmelen» (5:16). Gode gjerninger er ikke selvpromotering; de er vitnesbyrd om Faderen.
 
 ---
 
 ## «Ikke avskaffe, men oppfylle» (5:17–20)
 
-Jesus plasserer seg eksplisitt i forhold til Moseloven: Han er ikke kommet for å avskaffe loven, men for å oppfylle den. «Ikke en eneste bokstav, ikke en eneste tøddel av loven skal forgå» (5:18).
+Jesus avklarer sin relasjon til loven og profetene: «Jeg er ikke kommet for å avskaffe, men for å oppfylle» (5:17). *Plēroō* («oppfylle») er det samme ordet Matteus bruker om profetoppfyllelse gjennom hele evangeliet. Jesus *fullfører* loven — bringer den til sin intensjonshistoriske fullbyrdelse.
 
-Men hva betyr «oppfylle»? Willard: Det betyr å bringe loven til sin *egentlige mening og hensikt* — den hensikten den hadde fra Guds side, som mange overfladiske tolkninger har skjult. Jesu oppfyllelse av loven er ikke en skjerpelse av kravlisten — det er en avsløring av lovens *hjerte*.
+V. 20 er sjokkutsagnet: «Dersom ikke rettferdigheten deres overgår fariseernes og de skriftlærdes, kommer dere ikke inn i himmelriket.» Fariseerne var det mest hengivne religiøse miljøet i samtiden. Å overgå dem var utenfor rammene av det mulige — med mindre Jesus peker på en annen *type* rettferdighet, ikke bare mer av den samme.
 
-Den kritiske linjen er 5:20: «For jeg sier dere: Dersom ikke deres rettferdighet langt overgår de skriftlærdes og fariseernes, kommer dere slett ikke inn i himmelriket.»
-
-*Rettferdigheten som overgår* er ikke en enda strengere regeloverholdelse. Det er en *annerledes type* rettferdighet — en rettferdighet som springer ut av et forvandlet hjerte, ikke fra ytre etterlevelse.
+Det er nettopp det antitesene demonstrerer.
 
 ---
 
@@ -116,45 +112,61 @@ De seks antitesene er Bergprekenens mest radikale avsnitt. Jesus tar seks konkre
 
 ### Strukturen i antitesene
 
-Mønsteret er konsistent: «Dere har hørt at det ble sagt... Men jeg sier dere...» Jesus opphever ikke den tidligere forståelsen — han driver den *innenfra og utover*. Han peker på *roten* til ondskapen, ikke bare dens ytterste grener.
+Mønsteret er konsistent: «Dere har hørt at det ble sagt... Men jeg sier dere...» Keener (IVP, 5:21-43) understreker at denne typen formulering ble brukt av jødiske lærere for å etablere den dypere meningen i en tekst — men Jesus taler med en autoritet som ingen jødisk lærer normalt krevde. Han opphever ikke den tidligere forståelsen; han driver den *innenfra og utover*, mot *roten* til ondskapen fremfor dens ytterste grener.
 
 **1. Drap → Sinne og forakt (5:21–26)**
+
 Loven forbyr drap. Jesus forbyr det som fører til drap: sinne, forakt, det å kalle et annet menneske «idiot» (*raka*) eller «dåre» (*mōre*). Det er *forakt* som er drapets mor.
 
 Willard: «He moves from the act (murder) to the disposition that produces it (rage, contempt) — because his aim is to produce people who don't want to harm others, not merely people who manage to avoid it.»
 
-Keener: *Raka* er aram. for «tomårning» eller «verdiløs». De to fornærmelsene *raka* og «dåre» er omtrent likeverdige i alvor, og straffene som nevnes (dom, himmelsk Høyesterett, gehinnom) er tilsvarende. Den himmelske domstol er i jødisk tradisjon en parallell til det jordiske Sanhedrin — Keener: «Jesus' hearers would have recognized God's heavenly tribunal as a supreme court.» Forsoning med «din bror» har prioritet over temperoffer — et radikalt utsagn om at relasjonens gjenopprettelse er viktigere enn religiøs ritual.
+Keener (IVP, 5:21-22): *Raka* er arameisk for «tomhjerne» eller «verdiløs» — begge fornærmelsene er omtrent likeverdige, og straffene som nevnes (dom, himmelsk Høyesterett, gehinnom) er tilsvarende eskalerende. Den himmelske domstolen er i jødisk tradisjon en parallell til det jordiske Sanhedrin — lyttere ville kjent referansen. *Gehinnom* («helvete») beskrives i jødisk litteratur som motsetningen til Paradis, der de ugudelige brennes opp eller tortureres evig — her forsterker Keener at «ildens gehinnom» er en bevisst intensivering.
+
+Keener (IVP, 5:23-24): Jødedommen la stor vekt på forsoning mellom enkeltpersoner — Gud aksepterte ikke et ytre offer fra den som hadde krenket sin neste uten å gjøre godt igjen. Jesus radikaliserer dette: forsoning prioriteres over temperoffer. Det er en oppsiktsvekkende hierarkisering der relasjonen rangerer over ritualet.
 
 **2. Ekteskapsbrudd → Begjærlig blikk (5:27–30)**
-Loven forbyr ekteskapsbrudd. Jesus går til roten: det begjærlige blikket som *bruker* den andre som objekt for egne behov. Blikket er ikke en nøytral observasjon; det er en atferd, en valgt orientering mot et annet menneske.
 
-Keener: Det greske ordet i 5:28 er det samme som innledningslinjen i det tiende bud i Septuaginta: «Du skal ikke begjære din nestes hustru» (2 Mos 20:17). Tibudet om å ikke begjære *internaliserer* dermed alle de øvrige budene — og det er nøyaktig det Jesus gjør. Noen jødiske lærere gikk nesten like langt som Jesus her. Saken er ikke deres doktrin, men hjertets tilstand.
+Loven forbyr ekteskapsbrudd. Jesus går til roten: det begjærlige blikket som *bruker* den andre som objekt for egne behov.
 
-Bildene om å kutte av hånden og rykke ut øyet er *åpenbart hyperbolske* — nettopp fordi de er absurde, illustrerer de poenget: Det er ikke hånden eller øyet som er problemet; det er hjertet.
+Keener (IVP, 5:27-28): Det greske ordet i 5:28 er det samme som innledningslinjen i det tiende bud i Septuaginta: «Du skal ikke begjære din nestes hustru» (2 Mos 20:17). Budet om å ikke begjære *internaliserer* alle de øvrige budene — og det er nøyaktig det Jesus gjør. Noen jødiske lærere gikk nesten like langt; saken er ikke ny doktrin, men hjerteorientering. Keener fremhever at Jesus kun peker på den lustandes ansvar — mange antikke jødiske kilder la skylden på kvinnens forførelighet. Jesu perspektiv er radikalt i sin asymmetri.
+
+Keener (IVP, 5:29-30): Bildene om å kutte av hånden og rykke ut øyet er *åpenbart hyperbolske* — absurditeten er poenget. Noen jødiske tenkere trodde man ville oppstå i nøyaktig den form man døde i (med manglende lemmer) før man ble hel. Jesus bruker dette bildet: det er bedre å miste et lem enn å gå fortapt som hel. Legemlig straff er lettere å bære enn den himmelske rettens kapitaldøm.
 
 **3. Skilsmisse (5:31–32)**
-Et komplekst avsnitt i en jødisk kontekst der rabbinsk diskusjon om skilsmissebegrunnelser var livlig. Jesus strammet inn mot Hillel-skolens svært liberale tolkning og nærmere Sammai-skolens strengere. Konteksten er mennenes misbruk av loven til å kvitte seg med koner uten begrunnelse.
+
+Et komplekst avsnitt i en jødisk kontekst der rabbinsk diskusjon om skilsmissebegrunnelser var livlig. Keener (IVP, 5:31-32): Jødisk lov om ekteskapsbrudd angikk teknisk sett bare samleie med gifte kvinner — mannens ekteskapelige status var irrelevant. Rabbinene fra Hillels skole tillot skilsmisse for nær sagt hva som helst (slik det også var i romersk lov); Sammai-skolen krevde utroskap som begrunnelse. Jesus overgår til og med Sammai: ikke bare tillater han skilsmisse bare ved utroskap — han erklærer andre skilsmisser ugyldige, slik at nytt ekteskap i slike tilfeller er ekteskapsbrudd. Keener leser dette som *hyperbol* (som i 5:29-30): en grafisk måte å forby skilsmisse på unntatt der partneren allerede uopprettelig har brutt ekteskapspakten.
 
 **4. Eder → Ja og nei (5:33–37)**
-Å avlegge ed var et gjennomgripende element i samfunnslivet. Jesus: Et ja skal bety ja og et nei skal bety nei. Behov for en ed avslører at grunnleggende ærlighet mangler.
 
-Keener: Folk sverget på alt annet enn Guds navn for å slippe unna bindende eder. Rabbiner måtte avklare hvilke eder som var bindende og hvilke som ikke var det. Jesus kutter gjennom all slik kasuistikk: Alt man kan sverge på tilhører Gud (himmel er hans trone, jord hans fotstoler — Jes 66:1). Keener bemerker at et lite antall andre tenkere — blant dem muligens esserne — også avviste eder.
+Å avlegge ed var gjennomgripende i samfunnslivet — eder involverte en guddoms vitnesbyrd og forutsatte at guden ville hevne falskheten.
+
+Keener (IVP, 5:33-37): Folk sverget på alt annet enn Guds navn — himmel, jord, Jerusalem, eget hode — for å unngå bindende eder. Rabbinerne måtte avklare hvilke eder som var fullt ut bindende. Jesus kutter gjennom kasuistikken: Alt man kan sverge på tilhører Gud uansett — himmel er hans trone, jord hans fotstoler (Jes 66:1), Jerusalem er hans by, og hodet ditt tilhører ham (for du kan ikke gjøre ett hår hvitt eller svart). Å kreve en ed avslører at grunnleggende ærlighet mangler. Keener bemerker at esserne — og muligens noen andre tenkere — også avviste eder etter innledende tilslutningspakt.
 
 **5. Gjengjeldelse → Gi mer (5:38–42)**
-*Lex talionis* — øye for øye — var opprinnelig en *begrensning* på hevnen (ikke mer enn proporsjonalt). Jesus overskrider det.
 
-Keener: Slag på det høyre kinnet var i antikken den mest krenkende fornærmelse (utenom grov fysisk skade). Både jødisk og romersk lov tillot søksmål for denne fornærmelsen. Soldater hadde rettslig adgang til å rekvirere arbeid og lastdyr fra lokalbefolkningen — å frivillig gå to mil med den som krever én, var en radikal avvisning av gjengjeldelseslogikken. Gi kappe i tillegg til kjortelen: Selv de fattigste hadde bare et indre og ytre plagg; å gi bort kappen var nærmest å gi fra seg alt.
+*Lex talionis* — øye for øye — var opprinnelig en *begrensning* på hevnen (ikke mer enn proporsjonalt; aldri personlig hevn). Jesus overskrider det proporsjonale prinsippet.
 
-Disse utsagnene er ikke passive ettergivenhet. De er *aktive* handlinger som nekter å la seg styre av den andres aggresjon.
+Keener (IVP, 5:38): Gjengjeldelsesloven gjaldt i Israel og andre kulturer som lovregulert rettslig hevn — aldri personlig hevn. Det gamle testamentet tillot ikke personlig hevn. David anerkjente prinsippet (1 Sam 25:33; 26:10-11).
+
+Keener (IVP, 5:39): Slag på det høyre kinnet var i antikken den groveste fornærmelse utenom alvorlig fysisk skade — registrert i «øye for øye»-lovene i flere kulturer. Både jødisk og romersk lov tillot søksmål for det. Å *vende det andre kinnet* er ikke passiv aksept av vold; det er en aktiv handling som nekter å la seg styre av fornærmerens logikk.
+
+Keener (IVP, 5:41): Romerske soldater hadde rettslig rett til å rekvirere sivile, lastdyr og utstyr — *angaria*. Det hendte ikke nødvendigvis ofte i Galilea, men muligheten var reell nok til å provosere lytternes reaksjon. Å frivillig gå *to* mil med den som krever én, er en radikal avvisning av gjengjeldelseslogikken og en aktiv demonstrasjon av ikke-fiendtlighet overfor okkupantens representant.
+
+Gi kappe *i tillegg til* kjortelen (5:40): Selv de fattigste hadde bare to plagg — indre og ytre. Å gi bort kappen var nærmest å gi alt man hadde. Utsagnene er hyperbolske på rad — Keener: «The language is partly hyperbole — disciples did not all engage in behavior that would immediately lead to homelessness. But hyperbole was meant to provoke hearers to consider the radical nature of what they were being told.»
+
+Disse utsagnene er ikke passive ettergivenhet. De er *aktive* handlinger som nekter å la seg styre av den andres aggresjon — og som i antikken ville vende den sosiale logikken på hodet.
 
 **6. Elsk din neste → Elsk din fiende (5:43–48)**
-Den høyeste av antitesene. «Elsk din neste» er GT-bud (3 Mos 19:18). «Hat din fiende» er ikke i Bibelen — det er en folkelig forenkling som legitimerer gruppens hat mot de andre.
 
-Keener: GT forbyr personlig hevn og krever at man hjelper selv en fiendes okse (2 Mos 23:4-5; Ordsp 25:21-22). Men å hate Guds fiender var ansett som from atferd (Sal 139:19-22), og noen grupper, som esserne, la særlig vekt på hat mot dem utenfor pakten. Jesu kall er dristigere: be for dem som forfølger deg — ikke bare unnlate å hate dem.
+Den høyeste av antitesene. «Elsk din neste» er GT-bud (3 Mos 19:18). «Hat din fiende» er ikke i Bibelen — det er en folkelig tillegg som legitimerer gruppens hat mot de andre.
 
-«For han lar sin sol gå opp over onde og gode.» Keener: Jødiske lærere fremhevet Guds universelle barmhjertighet — at Gud som skaperen holder alle oppe — men som en teologisk kjensgjerning. Jesus bruker det etisk: *vær som Far.* Det er bl.a. et standpunkt mot opprørsbevegelsenes hat mot romerne.
+Keener (IVP, 5:43-44): GT forbyr personlig hevn og *krever* at man hjelper selv en fiendes dyr i nød (2 Mos 23:4-5; Ordsp 25:21-22). Men å hate Guds fiender var ansett som from atferd (Sal 139:19-22), og esserne la særlig vekt på hat mot dem utenfor pakten. Gresk etikk (Isokrates) betonte at man burde skade sine fiender mer enn man ble skadet av dem. Jesu kall er i direkte opposisjon til begge: be for dem som forfølger deg — ikke bare unnlate å hate dem.
 
-«Vær fullkomne (*teleios*) som deres himmelske Far er fullkommen» — *teleios* betyr «hel», «moden», «fullstendig i sin utvikling». Det er ikke moralsk perfeksjonisme; det er en kall til helhet og modenhet i kjærligheten.
+Keener (IVP, 5:45): «Han lar sin sol gå opp over onde og gode, og lar det regne over rettferdige og urettferdige.» Jødiske lærere fremhevet Guds universelle barmhjertighet og at bare han er suveren over regn. Men de formulerte det som en teologisk kjensgjerning. Jesus bruker det etisk: *imitatio Dei* — bli som Far. Keener: «By being like God, one would be his child (i.e., imitator).»
+
+Keener (IVP, 5:46-47): Tollere ble regnet blant de mest frafalne jødene; hedningene var vanligvis ansett som umoralske og avgudsdyrkende. Jødene var enige om at man ikke skulle leve som hedningene — det er GT-prinsipp (3 Mos 18:3; 5 Mos 18:9). Jesus snur dette: «Gjør ikke det hedningene gjør — de elsker bare dem som elsker dem tilbake.»
+
+Keener (IVP, 5:48): «Vær fullkomne (*teleios*) som deres himmelske Far er fullkommen.» Det er en avsluttende oppsummering av hele antitese-seksjonen — antikk retorikk brukte gjerne slike sammendragssetninger. *Teleios* betyr «hel», «moden», «fullstendig i sin art» — det arameiske ekvivalenten kan også bety «barmhjertig» (jf. Luk 6:36). Det er ikke moralsk perfeksjonisme; det er et kall til helhet og modenhet i kjærligheten, analogt med 3 Mos 11:44-45 («Vær hellige som jeg er hellig»).
 
 ---
 
@@ -162,105 +174,114 @@ Keener: GT forbyr personlig hevn og krever at man hjelper selv en fiendes okse (
 
 Jesus kommenterer tre klassiske jødiske fromhetsøvelser: almisser, bønn og faste. Gjennomgangspoenget er ikke at de er gale — tvert imot forutsettes de («*Når* dere faster...»). Problemet er motivasjonen: å bli sett av mennesker.
 
-**«Posaun ikke foran deg» (6:2):** Å gi almisser for å bli beundret er å bruke de fattige som statussymbol. Det er en fundamental relasjonell forvrengning.
+Keener (IVP, 6:1): V. 1 er temasetningen som innleder de tre eksemplene. Jødedommen understreket at man ikke skulle gjøre gode gjerninger for belønningens skyld — og likevel lovet den belønning, slik Jesus gjør her. Bønn, faste og almisser til fattige var blant jødedommens grunnleggende fromhetsøvelser (jf. Tobit 12:8), og mange rabbiner ordnet virtus-lister i sett av tre.
+
+**«Posaun ikke foran deg» (6:2-4):** Keener (IVP, 6:2-4): Greker og romere vektla ikke personlig veldedighet på samme måte — velstående bidrag til offentlige prosjekter var ment å sikre giverens popularitet. I jødedommen var derimot veldedighet sentralt i fromhetslivet. Jesus adresserer ikke jødisk generøsitet, men dens motivasjonspervertering: å bruke de fattige som statussymbol. Det er en fundamental relasjonell forvrengning.
+
+**Bønn (6:5-15):** Keener (IVP, 6:5-6): Problemet er ikke offentlig bønn, men at motivasjonen er vendt mot andre mennesker snarere enn mot Gud. Det var trolig vanlig for fromme å resitere sine bønner individuelt i synagogen. «Kammeret» — de fleste hjem hadde ikke private rom; bare et forrådskammer ville ha dør. Jesu råd om å søke dette private rommet er et kall til en bønn som er ubetinget adressert til Faderen alene.
+
+Keener (IVP, 6:7-8): Greske bønner stablet opp gudstitler — man håpet å sikre gudens oppmerksomhet. Hedensk bønn fungerte som en kontrakt: man minnet guden om offer og tjenester som var ytt. Jødedommen derimot kjente Gud som Far og anerkjente at han visste alt. Jesus forankrer effektiv bønn ikke i formellengde men i intimitetens relasjon.
+
+Keener (IVP, 6:12): «Synd som gjeld» er typisk jødisk formulering — samme arameiske ord brukes for begge. GT krevde periodisk gjeldsfrigivelse (sabbatsår, jobelår); den dramatiske billedligheten ville ha truffet lyttere som visste at jødiske advokater hadde funnet omveier for å unngå gjeldsfrigivelse.
 
 **Fadervår (6:9–13):** Gis som en *mal* («slik skal dere be»), ikke som en magisk formel. Se [[tro-og-liv/fadervår]] for fullstendig analyse.
 
-**Faste (6:16–18):** Ikke ansiktsmaling for å vise fromhet, men en privat handling rettet mot Gud.
-
-Det gjennomgripende prinsippet: «Din Far som ser i det skjulte, skal lønne deg åpent» (6:4, 6, 18). Hemmelighetsfullheten er ikke et mål i seg selv — det er konsekvensen av at man forholder seg direkte til Gud og ikke til publikums blikk.
+**Faste (6:16–18):** Keener (IVP, 6:16-18): Jødisk faste innebar avhold fra mat, men også fra andre gleder — inkludert den vanlige praksisen med å salve hodet for å hindre tørr hud. Å unnlate alle disse praksisene gjorde fasten synlig. Jesus kritiserer ikke fasten, men den teatralske displayen av den. GT godtok aldri ytre faste uten indre substans (Jes 58:3-12; Jer 36:9).
 
 ---
 
 ## Skatter og bekymringer (6:19–34)
 
-Willard leser dette avsnittet som en advarsel mot den andre store falsige sikkerheten: *materielle goder og rikdom*. Fariseernes fromme omdømme i 6:1–18 var den første. Mammon er den andre.
+> «For der skatten din er, vil også hjertet ditt være.» (6:21)
 
-«Ingen kan tjene to herrer» (6:24) — det er en psykologisk realisme, ikke bare en moralsk regel. Å la Mammon styre livet *former* en person på bestemte måter. Man begynner å se alt gjennom linsene av hva det koster og hva man kan tjene.
+Bekymring og begjerets makt over hjertet er to sider av samme sak: En delt lojalitet.
 
-Lilje-avsnittet (6:25–34) er en av de vakrste tekstene i NT. Og den er djupt praktisk: «Søk *først* Guds rike og hans rettferdighet, så skal dere få alt det andre i tillegg» (6:33).
+Keener (IVP, 6:19): Jødiske tekster talte om å «legge opp skatter» hos Gud eller i himmelen (Tobit 4:7-10) — enten som tillit til at Gud ville hjelpe den generøse i nød, eller (som her) som skatter i den kommende verden. Velstående folk prøvde å beskytte verdier ved å investere hos pengeveksler, deponere i et tempel, eller grave det ned — men da kunne møll (for dyre klær) eller rust (for mynter) ødelegge verdien.
 
-Det er ikke en lovnad om at bekymringer forsvinner. Det er et prinsipp om retning: Dersom Guds rike og hans karakter er det første du orienterer deg mot, faller resten på plass — ikke fordi alt går bra, men fordi det avgjørende er avgjort.
+Keener (IVP, 6:22-23): Det «enkle øye» mot et «ondt øye» er et ordspill: et «enkelt» (*haplous*) øye betyr normalt et generøst hjerte — men setter også opp for 6:24 om én herre. Et «ondt» øye kunne bety enten et sykt øye *eller* et gjerrig hjerte. Mange i antikken trodde at lys ble *sendt ut* fra øyet for å gjøre det mulig å se — et sykt øye sender ikke ut lys. Jesus bruker dette som symbol på den gnidrige person som ikke «slipper lys ut».
+
+Keener (IVP, 6:24): To herrer delte sjelden slaver — men det skjedde ved fellesarv, og det førte til delt lojalitet. «Mammon» er arameisk for eiendeler/penger; Jesus personifiserer det som et avgudsbilde.
+
+Keener (IVP, 6:25): De fleste i antikken hadde knapt mer enn det nødvendigste — mat, klær og tak. Fordi disse avhang av årstider, regnfall og Nilen, hadde folk genuint grunn til bekymring. Jesu ord er ikke naiv optimisme til rikfolk — det er en utfordring til mennesker som sliter med å overleve, om å stole på Faderens omsorg fremfor å la bekymringen ta over.
+
+«Søk først Guds rike og hans rettferdighet, og alt dette skal gis dere i tillegg» (6:33). Det er riket — ikke trygghet, ikke rikdom, ikke anerkjennelse — som er det organiserende prinsippet for livet.
 
 ---
 
 ## «Døm ikke» (7:1–6)
 
-Et av de mest siterte og mest misforståtte versene i NT. Jesus sier ikke at man ikke skal ha meninger om hva som er riktig og galt, eller at man aldri skal si fra. Han sier at fordømmelse som en *generell holdning* overfor andre — «condemnation engineering» (Willard) — er selvødeleggende og ineffektivt.
+«Døm ikke, for at dere ikke skal bli dømt» (7:1) er blant Bibelens mest misforståtte setninger. Det er ikke et forbud mot all bedømmelse — konteksten handler om *selektiv* bedømmelse som unnslår egen feil.
 
-«Bjelken i ditt eget øye» er Bergprekenens morsomste bilde. Det er hyperbel som avslører selvforsvaret bak all fordømmelse: Vi ser andres småfeil tydelig nettopp fordi vi unngår å se våre egne store feil.
+Keener (IVP, 7:1-2): Bildet av en målestokk fra markedsplassen var kjent i jødisk tenkning om dommens dag og guddommelig gjengjeldelse. «Som man måler, skal det måles tilbake» forekommer gjentatte ganger i seinere jødiske kilder — trolig var det et kjent ordtak. GT krevde rettferdige dommere og forbød partisk dom (2 Mos 23:6-8; 5 Mos 16:18-20).
 
-Resultatet av fordømmelsens logikk: «Med den dommen dere dømmer, skal dere selv dømmes» (7:2). Ikke nødvendigvis av Gud — vi *skaper* en verden rundt oss der vi mottar den behandlingen vi gir andre.
+Keener (IVP, 7:2-5): Bildene er bevisst absurde og trolig *morsomme* for Jesu lyttere — bjelken i øyet er umulig hyperbol. Keener: «The imagery is vivid, shocking, ludicrous and probably humorous to Jesus' hearers, but it communicates the point.» Profetene brukte grafiske bilder med ordspill for å kommunisere (jf. Mika 1; Jer 1:11-12). GT og jødisk tradisjon understreket at man alltid måtte være ydmyk nok til å motta korreksjon (Ordsp 15:32).
+
+Keener (IVP, 7:6): Griser og hunder var urene dyr — de hadde ingen sans for verdifulle ting. Hunder var skavengere som spiste hva som helst, og omstreifende hunder vokste mot dem som kastet mat til dem *og* mot dem som ignorerte dem. Bildet ville ha vært umiddelbart grelt for Jesu lyttere.
 
 ---
 
 ## Bed, søk, bank på (7:7–12)
 
-Et løfte om Guds godhet til dem som ber: «Bed, så skal dere få; søk, så skal dere finne; bank på, så skal det lukkes opp for dere» (7:7).
+En direkte overgang fra 6:25-34: Bekymring for materielle behov erstattes av bønn. «Bed, og dere skal få; søk, og dere skal finne; bank på, og det skal lukkes opp for dere» (7:7).
 
-Grunnlaget for dette løftet er et argument fra det minste til det største: Dersom dere som er onde vet å gi barna deres gode gaver — «*hvor mye mer* skal ikke Far deres i himmelen gi gode gaver til dem som ber ham?»
+Keener (IVP, 7:7-8): Den dristigheten som dette løftet gir bønnen, er svært sjelden i antikk litteratur. Bare noen få særskilte gudsmenn ble ansett å få innvilget det meste av det de ba om. Jesus gir dette løftet bredt til sine disipler — en radikal demokratisering av bønnens tilgang til Gud.
 
-«Den gylne regel» (7:12) avslutter denne seksjonen: «Alt dere vil at andre skal gjøre mot dere, skal dere gjøre mot dem.» Det er ikke en pragmatisk regel om gjengjeldelse («vær grei, så er andre greie mot deg»). Det er en forestillingsevne-øvelse: Forestill deg den andres sted, og la det forme din handling.
+Keener (IVP, 7:9-11): Jesus bruker her et klassisk jødisk argument — *qal vahomer*, «fra det mindre til det større»: Brød og fisk var basalstapelvarer, integrert i de flestes daglige diett — ikke luksus, men hverdagsmat. Argumentet: Selv en skrøpelig menneskelig far ville ikke gi sitt barn noe skadelig i stedet. Hvor mye mer kan man stole på Faderen.
+
+Den gylne regel (7:12): «Alt dere vil at andre skal gjøre mot dere, det skal dere gjøre mot dem.» Det er en sammenfatning av Bergprekenens etikk — og det er aktivt, ikke passivt. Det er ikke «gjør ikke mot andre det du ikke vil at de skal gjøre mot deg» (defensiv), men «gjør mot andre det du ønsker de skal gjøre mot deg» (offensiv).
 
 ---
 
 ## Den vanskelige veien og avslutningens alvor (7:13–27)
 
-Bergprekenen avsluttes med tre bilder som alle understreker *alvoret i å faktisk gjøre det*:
+Bergprekenen avsluttes med en serie advarsler og kall til handling:
 
-**Den smale porten (7:13–14):** Den veien som fører til livet er smal, og det er få som finner den. Det er ikke en elitistisk påstand — det er realisme om at det å leve etter rikets logikk krever en *konvertering* fra kulturens naturlige gang.
+**Den smale port (7:13-14):** Keener (IVP, 7:13-14): Bildet av «to veier» — én til liv, én til død — var kjent i jødedommen (jf. 5 Mos 30:15 og Didake kap. 1). Jesus understreker at *få* er på den rette veien — noe som forekom i 4 Ezra men ikke var like vanlig. De fleste jøder trodde Israel som helhet ville bli frelst. Jesus utfordrer denne generelle tryggheten.
 
-**Profeter kjent på frukter (7:15–20):** Det er mulig å tale religiøst og likevel ikke leve i riket. Treet kjennes på frukten, ikke på ordene.
+**Falske profeter (7:15-20):** Keener (IVP, 7:16): Hvete, bygg, druer og fiken var blant de mest verdifulle fruktene; torn og tistler var verdiløse. Rabbinerne tillot at profeter midlertidig kunne sette til side enkeltlovbud — men hvis de fornektet loven eller fremmet avgudsdyrkelse, var de falske (5 Mos 13; 18:21-22). Jesus utdyper: Livsfrukter avslører profeten, ikke bare læren. Rammestrukturen «kjenne dem på fruktene» (7:16, 20) er en bevisst *inclusio* — et litterært grep som markerer paragrafens grenser.
 
-**«Herre, Herre» (7:21–23):** Et av de mest urovekkende avsnittene i NT. Mange som sier «Herre, Herre» — som til og med utfører mirakler i hans navn — er ikke kjent av Jesus. Det som teller, er ikke religiøs aktivitet men å gjøre «min Fars vilje» — å leve i reell relasjon med og lydighet under Guds styre.
+**«Herre, Herre» (7:21-23):** Religiøs ytelse uten Faderens vilje er uten verdi. Det er mulig å ha drevet ut demoner og gjort under — og likevel ikke kjenne Kristus.
 
-**Huset på fjell (7:24–27):** Den som *hører* Jesu ord og *gjør* dem, bygger på fjell. Den som hører uten å gjøre, bygger på sand. Stormen kommer for begge — men bare ett hus holder.
-
-Willard: «Remarkably, almost one sixth of the entire Discourse (fifteen of ninety-two verses) is devoted to emphasizing the importance of actually *doing* what it says.» Bergprekenen er ikke et studiedokument. Den er et kall til et liv.
+**Hus på fjell og sand (7:24-27):** Keener (IVP, 7:24-27): Rabbinerne debatterte om *høring* eller *gjøring* av loven var viktigst — de fleste konkluderte at høring kom først, men insisterte at begge var nødvendige. Jesus avslutter Bergprekenen med det samme poenget: Å høre hans ord *og handle etter dem* er fundamentet. Begge hus ser like bra ut — inntil stormen kommer.
 
 ---
 
 ## Bergprekenen og disippelskapet
 
-Bergprekenen er Matteus' programerklæring for disippelskapet. Den er ikke en liste over regler å overholde fra utsiden, men en beskrivelse av hva det ser ut som å leve *fra innsiden* av Guds rike.
+Bergprekenen er ikke en liste over krav men en visjon om hva det menneskelige livet er designet til å være. Det er ikke «gjør slik for å komme til himmelen», men «dette er livet i Guds rike, tilgjengelig nå».
 
-Det er karakterens logikk, ikke regelens logikk. Willard: Man kan ikke få epletreet til å bære ferskener ved å binde ferskener til grenene. Man endrer treet. Bergprekenens formål er ikke å gi nye krav — det er å invitere inn i den formasjon som gjør det naturlig å leve slik Jesus beskriver.
+Dallas Willard understreker at Bergprekenen mister sin kraft når den leses som en moralsk lov. Den gir mening som en beskrivelse av det livet som vokser frem i en som er «hostet med Kristus i Gud» (Kol 3:3) — ikke gjennom anstrengelse, men gjennom innebygging i Jesu liv.
 
-Dette er grunnen til at bergprekenen henger så nøye sammen med Matt 11:28–30 — åkets letthet. Det åket som Bergprekenen beskriver, er «godt å bære» — men bare for den som virkelig er i relasjon med ham som bærer det.
+«Ta mitt åk på dere og lær av meg» (11:28-30) er Jesu invitasjon til det livet Bergprekenen beskriver.
 
 ---
 
 ## Tolkningshistorie
 
-**Augustin:** Las bergprekenen som Kristi fullkomne lov — et ideal som avslører vår syndighet og driver oss til nåden.
+**Augustin** kalte den «den fullkomne regel for det kristne livet». Han kommenterte hele Bergprekenen systematisk.
 
-**Middelalderen:** Skillet mellom «råd» (for munker og prester, som tok bergprekenen bokstavelig) og «bud» (for lekfolk, et lavere krav). Willard kaller dette «the two-track Christianity» og avviser det.
+**Luther** leste antitesene som Lov-bruk: De avslører synden og driver oss til nåden. Bergprekenen er ikke oppfyllbar — den er ment å felle oss, ikke å heve oss.
 
-**Luther:** Bergprekenen avslører at vi ikke kan frelse oss selv. Den er et «speil» som viser synden, ikke en mulig livsstandard for vanlige kristne.
+**Tolstoj** leste dem absolutt-bokstavelig: Ingen krig, ingen eiendom, ingen stat. Det ble ideologisk fundament for kristen anarkisme.
 
-**Tolstoy:** Las bergprekenen radikalt bokstavelig og ble pasifist, anarko-kristen og vegetarianer. Mente kirkekristendommen hadde sviket bergprekenens krav.
-
-**Bonhoeffer:** (*Etterfølgelse*) Bergprekenen er kall til faktisk disippelskap — billig nåde er å ta den som teori uten å leve den. «The only proper response to this word which Jesus brings with him from eternity is simply to *do* it.»
-
-**Willard:** Bergprekenen er *mulig* å leve — ikke ved viljestyrke, men gjennom åndelig formasjon og et liv i reell avhengighet av Kristus. Den er ikke umulige krav; den er en invitasjon til det gode livet i Guds rike.
+**Willard** avviser alle tre som mislesninger: Bergprekenen er hverken umulig krav, lovs-avsløring eller politisk manifest. Det er en beskrivelse av det livet som er mulig — og normalt — for den som lever i Guds rike.
 
 ---
 
 ## Sammenheng med andre artikler
 
-- [[tro-og-liv/disippelskap]] — bergprekenen som disippelskapets program
-- [[tro-og-liv/guds-rike]] — saligprisningene og rikets logikk
-- [[tro-og-liv/fadervår]] — Fadervår utdypet
-- [[tro-og-liv/nåde]] — bergprekenen og forholdet mellom lov og nåde
-- [[Bibelen - det Nye Testamentet/matt-11-29]] — åkets letthet som bergprekenens ramme
-- [[Bibelen - det Nye Testamentet/matteus-evangeliet]] — bergprekenen i Matteus' komposisjon
-- [[tro-og-liv/guds-kjærlighet]] — «elsk din fiende» og Guds universelle kjærlighet
-- [[tro-og-liv/menneskets-verdi]] — «fattige i ånden» og menneskeverdet
+- [[Bibelen - det Nye Testamentet/saligprisningene]] — saligprisningene utdypet
+- [[tro-og-liv/fadervår]] — Fadervår vers for vers
+- [[tro-og-liv/disippelskap]] — Bergprekenen som disippelskapsvisjon
+- [[tro-og-liv/guds-rike]] — riket som Bergprekenens ramme
+- [[Bibelen - det Nye Testamentet/matt-11-28-30]] — åkets hvile
+- [[Bibelen - det Nye Testamentet/matteus-evangeliet]] — evangeliets fem store taler
 
 ---
 
 ## Kilder
 
-- [[sources/Willard-1998-divine-conspiracy]] — Willard, D. (1998): *The Divine Conspiracy*, kap. 4–7. HarperSanFrancisco
+- [[sources/Willard-1998-divine-conspiracy]] — Willard, D. (1998): *The Divine Conspiracy*, kap. 4–9. HarperSanFrancisco
 - [[sources/Keener-2014-IVP-background-commentary]] — Keener, C.S. (2014): *IVP Bible Background Commentary: NT*, Matt 5–7
+- [[sources/Niditch-2012-Genesis]] — Niditch, S. (2012): sjanger og tolkningsprinsipper
 - [[sources/studier-personlige]] — egne studier og notater
