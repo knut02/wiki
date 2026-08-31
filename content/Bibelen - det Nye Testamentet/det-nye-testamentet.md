@@ -6,8 +6,6 @@ updated: 2025-07-09
 kilder: 2
 ---
 
-# Det nye testamentet
-
 > «Se, jeg er med dere alle dager inntil verdens ende.» — Matt 28:20
 
 ---
