@@ -1,11 +1,9 @@
 ---
-title: "Bibelen — det Nye Testamentet"
+title: "Det Nye Testamentet"
 description: "Det nye testamentet — de fire evangeliene, Apostlenes gjerninger, Paulus' brev og Johannesskriftene. Mappen inneholder både oversiktsartikler og dybdeanalyser av enkeltbøker og nøkkeltekster, med Keeners kulturhistoriske kommentar som sentral kilde."
 date: 2026-07-10
 updated: 2026-07-10
 ---
-
-# Bibelen — det Nye Testamentet
 
 Det nye testamentet — de fire evangeliene, Apostlenes gjerninger, Paulus' brev og Johannesskriftene. Mappen inneholder både oversiksartikler og dybdeanalyser av enkeltbøker og nøkkeltekster. Alle artiklene leser NT i lys av den jødiske bakgrunnen og Keeners kulturhistoriske kommentar er en sentral kilde.
 

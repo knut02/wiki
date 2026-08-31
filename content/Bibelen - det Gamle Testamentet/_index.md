@@ -1,5 +1,5 @@
 ---
-title: "Bibelen — det Gamle Testamentet"
+title: "Det Gamle Testamentet"
 description: "Det gamle testamentet — skapelsen og syndefallet, patriarkene og pakten, loven ved Sinai, profetenes sosialetikk og de poetiske bøkenes visdom. Artiklene leser GT både på egne premisser som Israels hellige skrift og i lys av NT-løftenes oppfyllelse i Jesus."
 date: 2026-07-10
 updated: 2026-07-10

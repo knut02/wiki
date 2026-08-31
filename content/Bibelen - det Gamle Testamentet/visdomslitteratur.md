@@ -42,7 +42,7 @@ Tre bøker regnes tradisjonelt som kjernebøkene i GT-s visdomslitteratur:
 
 ### Ordspråkene
 
-Den mest systematiske visdomsboken — korte, fengende observasjoner om livet: ærlig tale, latskap og flid, vennskap og svik. Mange tilskrives Salomo. Rammen er teologisk: «Frykt for Herren er opphavet til kunnskap» (Ordsp 1:7). Det er ikke pragmatisk livsvisdom — det er livsvisdom forankret i Guds virkelighet.
+Den mest systematiske visdomsboken — korte, fengende observasjoner om livet: ærlig tale, latskap og flid, vennskap og svik. Mange tilskrives Salomo. Rammen er teologisk: «Frykt for Herren er opphavet til kunnskap» (Ordsp 1:7). Kapittel 8 er teologisk særlig viktig: Den personifiserte Visdommen som var hos Gud ved skapelsen — bakgrunnen for NT-s bruk av Logos- og Visdommens-tradisjon om Jesus. Se [[Bibelen - det Gamle Testamentet/ordspråkene]].
 
 ### Job
 
