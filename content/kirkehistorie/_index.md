@@ -1,13 +1,13 @@
 ---
 title: "Kirkehistorie"
-description: "Kirkens to tusenårige historie — fra de første kristne menighetene i Romerriket til reformasjonen og moderniteten. Mappen dekker oldkirkens kristologi og treenighetsstrider, martyriet og klosterbevegelsen, middelalderens mystikere og skolastikere, og Luthers reformasjon med dens teologiske og historiske konsekvenser. Artiklene er organisert kronologisk og tematisk."
+description: "Kirkens to tusenårige historie — fra de første kristne menighetene i Romerriket til reformasjonen og moderniteten."
 date: 2026-07-10
-updated: 2026-07-12
+updated: 2026-08-26
 ---
 
 # Kirkehistorie
 
-Her samles artikler om kirkens to tusenårige historie — fra de første kristne menighetene i Romerriket til reformasjonen og moderniteten. Mappen dekker oldkirkens kristologi og treenighetsstrider, martyriet og klosterbevegelsen, middelalderens mystikere og skolastikere, og Luthers reformasjon med dens teologiske og historiske konsekvenser. Artiklene er organisert kronologisk og tematisk.
+Her samles artikler om kirkens to tusenårige historie — fra de første kristne menighetene i Romerriket til reformasjonen og moderniteten. Mappen dekker oldkirkens kristologi og treenighetsstrider, martyriet og klosterbevegelsen, middelalderens mystikere og skolastikere, Luthers reformasjon, og fremveksten av pietismen og metodismen.
 
 ---
 
@@ -19,10 +19,12 @@ Her samles artikler om kirkens to tusenårige historie — fra de første kristn
 - [[kirkehistorie/tidligkristent-mangfold]] — de mange retningene i tidlig kristendom
 - [[kirkehistorie/apostoliske-fedre]] — Ignatius, Polykarp og de første kirketeologene
 - [[kirkehistorie/didache]] — det eldste bevarte kirkehåndboken
+- [[kirkehistorie/kirkehistorie-100-200]] — det annet århundre
 
-**Forfølgelse og martyrium**
+**Forfølgelse og statsreligion**
 - [[kirkehistorie/martyriet-og-helgenkult]] — martyriets teologi og helgenkultens fremvekst
-- [[kirkehistorie/statsreligion]] — fra forfølgelse til statsreligion under Konstantin
+- [[kirkehistorie/den-konstantinske-vendingen]] — fra forfølgelse til lovlig religion (312-313)
+- [[kirkehistorie/statsreligion]] — fra toleranse til statsreligion under Theodosius (380)
 
 **Kristologi og treenighet**
 - [[kirkehistorie/kristologi-frem-til-nikea]] — adoptianisme, modalisme, Arius og veien mot Nikea
@@ -32,38 +34,45 @@ Her samles artikler om kirkens to tusenårige historie — fra de første kristn
 - [[kirkehistorie/kalkedon-kristologi]] — de to naturenes forening (451)
 - [[kirkehistorie/de-tre-oldkirkelige-bekjennelsene]] — Apostolicum, Nikea og Athanasius
 
+**Store teologer**
+- [[kirkehistorie/augustin]] — Augustins omvendelse, donatiststriden, nådelæren og *Bekjennelsene*
+- [[kirkehistorie/frelse-athanasius-augustin]] — frelsesforståelse fra Athanasius til Augustin
+- [[kirkehistorie/kirkefedre]] — oversikt over de viktigste kirkefadrene
+
 **Teologi og spiritualitet**
 - [[kirkehistorie/gnostisisme]] — gnostiske bevegelser og oldkirkens svar
-- [[kirkehistorie/frelse-athanasius-augustin]] — frelsesforståelse fra Athanasius til Augustin
 - [[kirkehistorie/askese-i-oldkirken]] — askese, ørkenfedre og *Apophthegmata Patrum*
 - [[kirkehistorie/tidligkristen-bønnepraksis]] — bønneformer, tider og tidebønn
 - [[kirkehistorie/nattverd-i-oldkirken]] — nattverdens teologi og praksis
 
 **Gudstjeneste og kirkeliv**
-- [[kirkehistorie/tidligkristen-gudstjeneste]] — måltid, dåp, bønn og sang i oldkirken (McGowan)
+- [[kirkehistorie/tidligkristen-gudstjeneste]] — måltid, dåp, bønn og sang i oldkirken
 - [[kirkehistorie/gudstjenesten]] — gudstjenestens utvikling fra huskirke til basilika
 - [[kirkehistorie/embetsutvikling]] — biskop, presbyter og diakon
 - [[kirkehistorie/kirkens-ledelse-og-sakramentene]] — sakramentsteologi og kirkestyre
-- [[kirkehistorie/kirkefedre]] — oversikt over de viktigste kirkefadrene
-- [[kirkehistorie/kirkehistorie-100-200]] — det annet århundre
 
 ---
 
 ## Middelalderen (ca. 500–1500)
 
-**Overganger**
+**Overganger og politikk**
 - [[kirkehistorie/fra-oldtid-til-middelalder]] — kirken mellom antikken og middelalderen
+- [[kirkehistorie/karolingisk-renessanse]] — Karl den store, Alcuin og kloster- og katedralskolene
 - [[kirkehistorie/kirken-ost-og-vest]] — schismaet 1054 og de to tradisjonene
+- [[kirkehistorie/korstogene]] — korstogene 1095-1291 og kirke-islam-relasjonen
 
-**Klostervesen og spiritualitet**
+**Ordener og teologi**
+- [[kirkehistorie/fransiskansk-og-dominikansk-bevegelse]] — Frans av Assisi, Dominikus og tiggermunkeordenene
 - [[kirkehistorie/klosterlivet]] — benediktinere, cisterciensere og tiggerordener
 - [[kirkehistorie/monastisk-teologi]] — Bernard av Clairvaux og kjærlighetens vei
+- [[kirkehistorie/middelalderteologi]] — skolastikk og middelalderens teologiske program
+- [[kirkehistorie/middelalderteologi-nyplatonisme]] — neoplatonismens rolle i middelalderteologien
+- [[kirkehistorie/universaliestrid-vernakulaer-teologi]] — nominalisme og folkespråklig teologi
+
+**Mystikk**
 - [[kirkehistorie/hildegard-av-bingen]] — profet, teolog og komponist
 - [[kirkehistorie/begine-mystikken]] — Hadewijch, Mechthild og Marguerite Porete
 - [[kirkehistorie/mester-eckhart-mystikken]] — Rhinlandsmystikken og tysk mystikk
-- [[kirkehistorie/middelalderteologi-nyplatonisme]] — neoplatonismens rolle i middelalderteologien
-- [[kirkehistorie/middelalderteologi]] — skolastikk og middelalderens teologiske program
-- [[kirkehistorie/universaliestrid-vernakulaer-teologi]] — nominalisme og folkespråklig teologi
 
 ---
 
@@ -77,10 +86,12 @@ Her samles artikler om kirkens to tusenårige historie — fra de første kristn
 
 ---
 
-## Modernitet (ca. 1600–)
+## Nyere tid (ca. 1600–)
 
+- [[kirkehistorie/pietismen]] — Spener, Zinzendorf og Herrnhut — hjertets religion
+- [[kirkehistorie/john-wesley-og-metodismen]] — omvendelsen i Aldersgate, helliggjørelse og sosial omsorg
 - [[kirkehistorie/moderniteten-og-opplysningen]] — opplysningstiden og kristendommens møte med moderniteten
 
 ---
 
-*Se også [[tidslinjer/kirkefedrene-tidslinje]] for kronologisk oversikt.*
+*Se også [[tidslinjer/kirkefedrene-tidslinje]] for kronologisk oversikt, og [[tidslinjer/gt-tidslinje]] for GT-historien.*

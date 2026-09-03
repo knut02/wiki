@@ -93,6 +93,7 @@ Disse dimensjonene utelukker ikke hverandre. De utfyller hverandre.
 
 - [[tro-og-liv/nåde]] — korsets gave som ufortjent og ubegrenset
 - [[tro-og-liv/guds-kjærlighet]] — «mens vi ennå var syndere» som kjærlighetens tidspunkt
+- [[teologi/forsoningslæren]] — de store modellene for forståelsen av Jesu død
 - [[kirkehistorie/frelse-athanasius-augustin]] — frelsesteologiens ulike forklaringsmodeller
 - [[tro-og-liv/disippelskap]] — «han som elsket meg og gav seg selv for meg» som disippelkapets grunnlag
 - [[tro-og-liv/tilgivelse]] — korset som grunnlaget for tilgivelsen
