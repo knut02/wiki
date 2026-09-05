@@ -1,7 +1,7 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import style from "./styles/description.scss"
 
-const Description = ((opts?: {}) => {
+const Description = (() => {
   const Desc: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
     const desc = fileData.frontmatter?.description
     if (!desc) return null

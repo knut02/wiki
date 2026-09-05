@@ -32,7 +32,7 @@ function countArticles(allFiles: QuartzPluginData[]) {
 
 function applyHomepageArticleCount(file: QuartzPluginData, articleCount: number) {
   file.frontmatter = {
-    ...(file.frontmatter ?? {}),
+    ...(file.frontmatter ?? { title: "" }),
     articleCount,
   }
 }

@@ -20,8 +20,10 @@ import { write } from "./helpers"
 import { i18n, TRANSLATIONS } from "../../i18n"
 import { BuildCtx } from "../../util/ctx"
 import { StaticResources } from "../../util/resources"
+import fs from "fs"
 interface FolderPageOptions extends FullPageLayout {
   sort?: (f1: QuartzPluginData, f2: QuartzPluginData) => number
+  useIndexFileContent?: boolean
 }
 
 async function* processFolderInfo(
@@ -63,6 +65,7 @@ function computeFolderInfo(
   folders: Set<SimpleSlug>,
   content: ProcessedContent[],
   locale: keyof typeof TRANSLATIONS,
+  useIndexFileContent: boolean,
 ): Record<SimpleSlug, ProcessedContent> {
   // Create default folder descriptions
   const folderInfo: Record<SimpleSlug, ProcessedContent> = Object.fromEntries(
@@ -82,7 +85,14 @@ function computeFolderInfo(
   for (const [tree, file] of content) {
     const slug = stripSlashes(simplifySlug(file.data.slug!)) as SimpleSlug
     if (folders.has(slug)) {
-      folderInfo[slug] = [tree, file]
+      if (useIndexFileContent) {
+        folderInfo[slug] = [tree, file]
+      } else {
+        folderInfo[slug] = [
+          { type: "root", children: [] },
+          file,
+        ]
+      }
     }
   }
 
@@ -100,7 +110,20 @@ function _getFolders(slug: FullSlug): SimpleSlug[] {
   return parentFolderNames
 }
 
+function getFolders(allFiles: QuartzPluginData[]): Set<SimpleSlug> {
+  return new Set(
+    allFiles.flatMap((data) => {
+      return data.slug
+        ? _getFolders(data.slug).filter(
+            (folderName) => folderName !== "." && folderName !== "tags",
+          )
+        : []
+    }),
+  )
+}
+
 export const FolderPage: QuartzEmitterPlugin<Partial<FolderPageOptions>> = (userOpts) => {
+  const useIndexFileContent = userOpts?.useIndexFileContent ?? true
   const opts: FullPageLayout = {
     ...sharedPageComponents,
     ...defaultListPageLayout,
@@ -131,18 +154,9 @@ export const FolderPage: QuartzEmitterPlugin<Partial<FolderPageOptions>> = (user
     async *emit(ctx, content, resources) {
       const allFiles = content.map((c) => c[1].data)
       const cfg = ctx.cfg.configuration
+      const folders = getFolders(allFiles)
 
-      const folders: Set<SimpleSlug> = new Set(
-        allFiles.flatMap((data) => {
-          return data.slug
-            ? _getFolders(data.slug).filter(
-                (folderName) => folderName !== "." && folderName !== "tags",
-              )
-            : []
-        }),
-      )
-
-      const folderInfo = computeFolderInfo(folders, content, cfg.locale)
+      const folderInfo = computeFolderInfo(folders, content, cfg.locale, useIndexFileContent)
       yield* processFolderInfo(ctx, folderInfo, allFiles, opts, resources)
     },
     async *partialEmit(ctx, content, resources, changeEvents) {
@@ -152,17 +166,34 @@ export const FolderPage: QuartzEmitterPlugin<Partial<FolderPageOptions>> = (user
       // Find all folders that need to be updated based on changed files
       const affectedFolders: Set<SimpleSlug> = new Set()
       for (const changeEvent of changeEvents) {
-        if (!changeEvent.file) continue
-        const slug = changeEvent.file.data.slug!
-        const folders = _getFolders(slug).filter(
+        const slug = changeEvent.file?.data.slug ?? changeEvent.path.replace(/\.md$/, "")
+        const folders = _getFolders(slug as FullSlug).filter(
           (folderName) => folderName !== "." && folderName !== "tags",
         )
         folders.forEach((folder) => affectedFolders.add(folder))
       }
 
-      // If there are affected folders, rebuild their pages
-      if (affectedFolders.size > 0) {
-        const folderInfo = computeFolderInfo(affectedFolders, content, cfg.locale)
+      const currentFolders = getFolders(allFiles)
+      const foldersToRender = new Set(
+        [...affectedFolders].filter((folder) => currentFolders.has(folder)),
+      )
+
+      // Remove pages for folders that no longer contain published content.
+      for (const folder of affectedFolders) {
+        if (!currentFolders.has(folder)) {
+          const outputPath = joinSegments(ctx.argv.output, folder, "index.html")
+          await fs.promises.unlink(outputPath).catch(() => {})
+        }
+      }
+
+      // If there are affected folders, rebuild their pages.
+      if (foldersToRender.size > 0) {
+        const folderInfo = computeFolderInfo(
+          foldersToRender,
+          content,
+          cfg.locale,
+          useIndexFileContent,
+        )
         yield* processFolderInfo(ctx, folderInfo, allFiles, opts, resources)
       }
     },
