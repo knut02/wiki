@@ -15,6 +15,24 @@ sources: 3
 
 ---
 
+## Kain i den store fortellingen
+
+Kain er det første barnet som fødes i verden etter syndefallet. Mor Eva roper ut: «Jeg har fått en mann med Herrens hjelp» (4:1) — *qayin* betyr «å skape» eller «å skaffe», og utropet er av glede og takknemlighet. Det er ikke en fortelling som begynner med pessimisme.
+
+Men Kain er også det første mennesket som er unnfanget og født i den fallen verdens orden — utenfor Edens hage, under syndens og dødens betingelser. Det syndefallet beskriver som en potensiell fremtid («du skal dø» — 2:17), er Kain og Abel født inn i som realitet. De er de første menneskene som møter det menneskelige livets to grunnvilkår: arbeid (4:2 — begge er arbeidere, en jorddyrker og en gjeteri) og død.
+
+Kain er således ikke bare en enkeltfigur — han er den første representanten for den menneskeheten som lever øst for Eden. Fortellingen om ham er den første fortellingen om det menneskelige livets mønster etter fallet: potensial, fristelse, valg, fall, konsekvens, nåde.
+
+### Kains etterslekt (4:17-24)
+
+Fortellingen slutter ikke med Kains vandring. 1 Mos 4:17-24 tegner hans etterslekt: Han bygger den første *byen* og gir den Enoks navn (4:17). Fra ham kommer sivilisasjonens pionerær — Jabal (nomadeliv og bufe), Jubal (musikk og instrumenter), Tubal-Kain (metall og smie). Det er menneskelig kreativitet og kultur som spør opp fra Kains linje.
+
+Men også noe annet: Lamek — syvende fra Adam gjennom Kain — synger en hævnens sang til sine koner: «Jeg drepte en mann for å såre meg, en gutt for å skade meg. Kain hævnes syvfold, men Lamek sytti og syv ganger» (4:23-24). Kains mishandling av både broren og Guds orden eskalerer i hans etterslekt. Det er GT's mørke observasjon: Syndens konsekvens sprer seg og forsterkes gjennom generasjonene.
+
+Denne dobbeltbevegelsen — menneskelig skaperkraft og voldsspiralens eskalering, begge fra samme kilde — er en av 1 Mosebok 1-11s store temaer. Det er konteksten for flommen (Noa) og Babels tårn.
+
+---
+
 ## Fortellingen (1 Mos 4:1-16)
 
 Kain er Adam og Evas førstefødte sønn. Abel er den yngre. Begge bringer offer til Herren: Kain av jordens grøde, Abel av sin hjords førstefødte. Herren ser til Abel og hans offer — men til Kain og hans offer ser han ikke.
