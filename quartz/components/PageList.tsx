@@ -116,6 +116,12 @@ ul.section-ul {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(min(100%, 20rem), 1fr));
   gap: 1rem;
+
+  @media all and (max-width: 800px) {
+    width: calc(100% + 2rem);
+    margin-left: -1rem;
+    gap: 0.75rem;
+  }
 }
 
 li.section-li {
@@ -124,6 +130,7 @@ li.section-li {
 
 .section {
   display: block !important;
+  box-sizing: border-box;
   height: 100%;
   padding: 1rem 1.1rem;
   border: 1px solid var(--lightgray);
