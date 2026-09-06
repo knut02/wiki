@@ -5,6 +5,7 @@ date: 2025-05-03
 kilder: 1
 kategori: Teologi
 sub-kategori: Eskatologi
+tags: [inaugurert eskatologi, kjønn, NT-tekster, Ef 5, 1 Kor 11, Gal 3, allerede og ennå ikke]
 ---
 
 ## Hva er inaugurert eskatologi?

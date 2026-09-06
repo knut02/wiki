@@ -6,6 +6,7 @@ modified: 2025-05-17
 kilder: 3
 kategori: Teologi
 sub-kategori: Antropologi og syndelære
+tags: [arvesynd, peccatum originale, Adam, syndefall, Augustin, Paulus, 1 Kor 15, menneskesyn]
 ---
 
 ## Hva er arvesynd?

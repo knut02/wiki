@@ -4,6 +4,7 @@ description: "Hvordan kan det ha seg at det finnes noe i det hele tatt?» — S�
 date: 2025-05-17
 kategori: Teologi
 sub-kategori: Gudslære
+tags: [gudsbevis, kosmologisk argument, teleologisk argument, ontologisk argument, Aquinas, ateisme]
 modified: 2025-05-17
 Kilder: 3*
 ---

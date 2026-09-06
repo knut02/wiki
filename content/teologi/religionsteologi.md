@@ -6,6 +6,7 @@ modified: 2025-05-15
 kilder: 3
 kategori: Teologi
 sub-kategori: Frelseslære og forsoning
+tags: [religionsteologi, eksklusivisme, inklusivisme, pluralisme, andre religioner, frelse]
 ---
 
 ## Hva er religionsteologi?

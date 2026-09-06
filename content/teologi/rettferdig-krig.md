@@ -5,6 +5,7 @@ date: 2025-05-06
 kilder: 2
 kategori: Teologi
 sub-kategori: Etikk
+tags: [rettferdig krig, bellum iustum, Augustin, naturrett, etikk, vold, krig]
 ---
 
 ## Opprinnelse: ikke et kristent begrep

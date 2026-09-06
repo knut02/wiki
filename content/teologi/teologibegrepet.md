@@ -5,6 +5,7 @@ date: 2025-05-03
 kilder: 1
 kategori: Teologi
 sub-kategori: Teologisk metode
+tags: [teologi, definisjon, Aquinas, Gutierrez, akademisk disiplin, fag, vitenskap]
 ---
 
 ## Fire klassiske definisjoner

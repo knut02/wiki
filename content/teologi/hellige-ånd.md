@@ -5,6 +5,7 @@ date: 2025-04-27
 updated: 2025-05-20
 kategori: Teologi
 sub-kategori: Gudslære
+tags: [Den Hellige Ånd, pneumatologi, pinsen, treenigheten, åndsgaver, Ånden, skapelse]
 kilder: 1
 ---
 

@@ -6,6 +6,7 @@ updated: 2025-05-26
 sources: 2
 kategori: Teologi
 sub-kategori: Teologisk metode
+tags: [teologisk metode, hermeneutikk, åpenbaring, tradisjon, Skriften, Kreider, exegese]
 ---
 
 > «Teologisk metode er måten, modus og midlene for å delta i diskurs om Gud, hans verk og hans veier.» — Kreider (2024)

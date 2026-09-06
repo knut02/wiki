@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="nb" dir="ltr"><head><title>De ti bud — dekalogen</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Schibsted Grotesk:wght@400;700&amp;family=Source Sans Pro:ital,wght@0,400;0,600;1,400;1,600&amp;family=IBM Plex Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="Wiki"/><meta property="og:title" content="De ti bud — dekalogen"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="De ti bud — dekalogen"/><meta name="twitter:description" content="Analyse av de ti bud i historisk, teologisk og etisk perspektiv — hva de betydde i sin samtid, hvordan de er blitt tolket, og hvilken rolle de spiller for dagens kristne."/><meta property="og:description" content="Analyse av de ti bud i historisk, teologisk og etisk perspektiv — hva de betydde i sin samtid, hvordan de er blitt tolket, og hvilken rolle de spiller for dagens kristne."/><meta property="og:image:alt" content="Analyse av de ti bud i historisk, teologisk og etisk perspektiv — hva de betydde i sin samtid, hvordan de er blitt tolket, og hvilken rolle de spiller for dagens kristne."/><meta property="og:image" content="https://knut02.github.io/wiki/static/og-image.png"/><meta property="og:image:url" content="https://knut02.github.io/wiki/static/og-image.png"/><meta name="twitter:image" content="https://knut02.github.io/wiki/static/og-image.png"/><meta property="og:image:type" content="image/.png"/><meta property="twitter:domain" content="knut02.github.io/wiki"/><meta property="og:url" content="https://knut02.github.io/wiki/Bibelen---det-Gamle-Testamentet/de-ti-bud"/><meta property="twitter:url" content="https://knut02.github.io/wiki/Bibelen---det-Gamle-Testamentet/de-ti-bud"/><link rel="icon" href="../static/icon.png"/><meta name="description" content="Analyse av de ti bud i historisk, teologisk og etisk perspektiv — hva de betydde i sin samtid, hvordan de er blitt tolket, og hvilken rolle de spiller for dagens kristne."/><meta name="generator" content="Quartz"/><link href="../index.css" rel="stylesheet" type="text/css" data-persist="true"/><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VSb290IjoiQzpcXFVzZXJzXFxrbnV0bFxcUHJvdG9uIERyaXZlXFxrbnV0Lmxva2VuXFxNeSBmaWxlc1xcY2xhdWRlXFxxdWFydHotd2lraVxccXVhcnR6XFxjb21wb25lbnRzXFxzdHlsZXMiLCJzb3VyY2VzIjpbIm1lcm1haWQuaW5saW5lLnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFO0VBQ0E7O0FBR0Y7RUFDRTtFQUNBOztBQUdGO0VBQ0U7OztBQUtGO0VBQ0U7RUFDQTs7O0FBSUo7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7O0FBR0Y7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFO0VBQ0E7O0FBR0Y7RUFDRTtFQUNBOztBQUlKO0VBQ0U7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7O0FBRUE7RUFDRTs7QUFHRjtFQUNFOztBQUlGO0VBQ0U7RUFDQTtFQUNBIiwic291cmNlc0NvbnRlbnQiOlsiLmV4cGFuZC1idXR0b24ge1xuICBwb3NpdGlvbjogYWJzb2x1dGU7XG4gIGRpc3BsYXk6IGZsZXg7XG4gIGZsb2F0OiByaWdodDtcbiAgcGFkZGluZzogMC40cmVtO1xuICBtYXJnaW46IDAuM3JlbTtcbiAgcmlnaHQ6IDA7IC8vIE5PVEU6IHJpZ2h0IHdpbGwgYmUgc2V0IGluIG1lcm1haWQuaW5saW5lLnRzXG4gIGNvbG9yOiB2YXIoLS1ncmF5KTtcbiAgYm9yZGVyLWNvbG9yOiB2YXIoLS1kYXJrKTtcbiAgYmFja2dyb3VuZC1jb2xvcjogdmFyKC0tbGlnaHQpO1xuICBib3JkZXI6IDFweCBzb2xpZDtcbiAgYm9yZGVyLXJhZGl1czogNXB4O1xuICBvcGFjaXR5OiAwO1xuICB0cmFuc2l0aW9uOiAwLjJzO1xuXG4gICYgPiBzdmcge1xuICAgIGZpbGw6IHZhcigtLWxpZ2h0KTtcbiAgICBmaWx0ZXI6IGNvbnRyYXN0KDAuMyk7XG4gIH1cblxuICAmOmhvdmVyIHtcbiAgICBjdXJzb3I6IHBvaW50ZXI7XG4gICAgYm9yZGVyLWNvbG9yOiB2YXIoLS1zZWNvbmRhcnkpO1xuICB9XG5cbiAgJjpmb2N1cyB7XG4gICAgb3V0bGluZTogMDtcbiAgfVxufVxuXG5wcmUge1xuICAmOmhvdmVyID4gLmV4cGFuZC1idXR0b24ge1xuICAgIG9wYWNpdHk6IDE7XG4gICAgdHJhbnNpdGlvbjogMC4ycztcbiAgfVxufVxuXG4jbWVybWFpZC1jb250YWluZXIge1xuICBwb3NpdGlvbjogZml4ZWQ7XG4gIGNvbnRhaW46IGxheW91dDtcbiAgei1pbmRleDogOTk5O1xuICBsZWZ0OiAwO1xuICB0b3A6IDA7XG4gIHdpZHRoOiAxMDB2dztcbiAgaGVpZ2h0OiAxMDB2aDtcbiAgb3ZlcmZsb3c6IGhpZGRlbjtcbiAgZGlzcGxheTogbm9uZTtcbiAgYmFja2Ryb3AtZmlsdGVyOiBibHVyKDRweCk7XG4gIGJhY2tncm91bmQ6IHJnYmEoMCwgMCwgMCwgMC41KTtcblxuICAmLmFjdGl2ZSB7XG4gICAgZGlzcGxheTogaW5saW5lLWJsb2NrO1xuICB9XG5cbiAgJiA+ICNtZXJtYWlkLXNwYWNlIHtcbiAgICBib3JkZXI6IDFweCBzb2xpZCB2YXIoLS1saWdodGdyYXkpO1xuICAgIGJhY2tncm91bmQtY29sb3I6IHZhcigtLWxpZ2h0KTtcbiAgICBib3JkZXItcmFkaXVzOiA1cHg7XG4gICAgcG9zaXRpb246IGZpeGVkO1xuICAgIHRvcDogNTAlO1xuICAgIGxlZnQ6IDUwJTtcbiAgICB0cmFuc2Zvcm06IHRyYW5zbGF0ZSgtNTAlLCAtNTAlKTtcbiAgICBoZWlnaHQ6IDgwdmg7XG4gICAgd2lkdGg6IDgwdnc7XG4gICAgb3ZlcmZsb3c6IGhpZGRlbjtcblxuICAgICYgPiAubWVybWFpZC1jb250ZW50IHtcbiAgICAgIHBvc2l0aW9uOiByZWxhdGl2ZTtcbiAgICAgIHRyYW5zZm9ybS1vcmlnaW46IDAgMDtcbiAgICAgIHRyYW5zaXRpb246IHRyYW5zZm9ybSAwLjFzIGVhc2U7XG4gICAgICBvdmVyZmxvdzogdmlzaWJsZTtcbiAgICAgIG1pbi1oZWlnaHQ6IDIwMHB4O1xuICAgICAgbWluLXdpZHRoOiAyMDBweDtcblxuICAgICAgcHJlIHtcbiAgICAgICAgbWFyZ2luOiAwO1xuICAgICAgICBib3JkZXI6IG5vbmU7XG4gICAgICB9XG5cbiAgICAgIHN2ZyB7XG4gICAgICAgIG1heC13aWR0aDogbm9uZTtcbiAgICAgICAgaGVpZ2h0OiBhdXRvO1xuICAgICAgfVxuICAgIH1cblxuICAgICYgPiAubWVybWFpZC1jb250cm9scyB7XG4gICAgICBwb3NpdGlvbjogYWJzb2x1dGU7XG4gICAgICBib3R0b206IDIwcHg7XG4gICAgICByaWdodDogMjBweDtcbiAgICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgICBnYXA6IDhweDtcbiAgICAgIHBhZGRpbmc6IDhweDtcbiAgICAgIGJhY2tncm91bmQ6IHZhcigtLWxpZ2h0KTtcbiAgICAgIGJvcmRlcjogMXB4IHNvbGlkIHZhcigtLWxpZ2h0Z3JheSk7XG4gICAgICBib3JkZXItcmFkaXVzOiA2cHg7XG4gICAgICBib3gtc2hhZG93OiAwIDJweCA0cHggcmdiYSgwLCAwLCAwLCAwLjEpO1xuICAgICAgei1pbmRleDogMjtcblxuICAgICAgLm1lcm1haWQtY29udHJvbC1idXR0b24ge1xuICAgICAgICBkaXNwbGF5OiBmbGV4O1xuICAgICAgICBhbGlnbi1pdGVtczogY2VudGVyO1xuICAgICAgICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjtcbiAgICAgICAgd2lkdGg6IDMycHg7XG4gICAgICAgIGhlaWdodDogMzJweDtcbiAgICAgICAgcGFkZGluZzogMDtcbiAgICAgICAgYm9yZGVyOiAxcHggc29saWQgdmFyKC0tbGlnaHRncmF5KTtcbiAgICAgICAgYmFja2dyb3VuZDogdmFyKC0tbGlnaHQpO1xuICAgICAgICBjb2xvcjogdmFyKC0tZGFyayk7XG4gICAgICAgIGJvcmRlci1yYWRpdXM6IDRweDtcbiAgICAgICAgY3Vyc29yOiBwb2ludGVyO1xuICAgICAgICBmb250LXNpemU6IDE2cHg7XG4gICAgICAgIGZvbnQtZmFtaWx5OiB2YXIoLS1ib2R5Rm9udCk7XG4gICAgICAgIHRyYW5zaXRpb246IGFsbCAwLjJzIGVhc2U7XG5cbiAgICAgICAgJjpob3ZlciB7XG4gICAgICAgICAgYmFja2dyb3VuZDogdmFyKC0tbGlnaHRncmF5KTtcbiAgICAgICAgfVxuXG4gICAgICAgICY6YWN0aXZlIHtcbiAgICAgICAgICB0cmFuc2Zvcm06IHRyYW5zbGF0ZVkoMXB4KTtcbiAgICAgICAgfVxuXG4gICAgICAgIC8vIFN0eWxlIHRoZSByZXNldCBidXR0b24gZGlmZmVyZW50bHlcbiAgICAgICAgJjpudGgtY2hpbGQoMikge1xuICAgICAgICAgIHdpZHRoOiBhdXRvO1xuICAgICAgICAgIHBhZGRpbmc6IDAgMTJweDtcbiAgICAgICAgICBmb250LXNpemU6IDE0cHg7XG4gICAgICAgIH1cbiAgICAgIH1cbiAgICB9XG4gIH1cbn1cbiJdfQ== */</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" data-persist="true"/><script src="../prescript.js" type="application/javascript" data-persist="true"></script><script type="application/javascript" data-persist="true">const fetchData = fetch("../static/contentIndex.json").then(data => data.json())</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://knut02.github.io/wiki/index.xml"/></head><body data-slug="Bibelen---det-Gamle-Testamentet/de-ti-bud"><div id="quartz-root" class="page"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="..">Wiki</a></h2><div class="spacer mobile-only"></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 1rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>Søk</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Søk etter noe" placeholder="Søk etter noe"/><div class="search-layout" data-preview="true"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Mørk modus"><title>Mørk modus</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Lys modus"><title>Lys modus</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Læsemodus"><title>Læsemodus</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a,b)=>!a.isFolder&amp;&amp;!b.isFolder||a.isFolder&amp;&amp;b.isFolder?a.displayName.localeCompare(b.displayName,void 0,{numeric:!0,sensitivity:\&quot;base\&quot;}):!a.isFolder&amp;&amp;b.isFolder?1:-1&quot;,&quot;filterFn&quot;:&quot;node=>node.slugSegment!==\&quot;tags\&quot;&quot;,&quot;mapFn&quot;:&quot;node=>node&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-11"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Utforsker</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-11" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#"></a></li></template><template id="template-folder"><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../Bibelen---det-Gamle-Testamentet/">Det Gamle Testamentet</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>De ti bud — dekalogen</a></div></nav><h1 class="article-title">De ti bud — dekalogen</h1><p class="front-description">Analyse av de ti bud i historisk, teologisk og etisk perspektiv — hva de betydde i sin samtid, hvordan de er blitt tolket, og hvilken rolle de spiller for dagens kristne.</p><p show-comma="true" class="content-meta"><time datetime="2026-07-09T22:00:00.000Z">10. juli 2026</time><span>14 min lesning</span></p></div></div><article class="popover-hint"><blockquote>
+<p>«Jeg er Herren din Gud, som førte deg ut av Egypt, ut av slavehuset.» — 2 Mos 20:2</p>
+</blockquote>
+<hr/>
+<h2 id="hva-er-dekalogen">Hva er dekalogen?<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#hva-er-dekalogen" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>«Dekalog» kommer av gresk <em>deka</em> («ti») og <em>logos</em> («ord/bud»). De ti budene finnes i to versjoner i Bibelen:</p>
+<ul>
+<li><strong>2 Mos 20:1–17</strong> — i forbindelse med paktsinngåelsen ved Sinaifjellet</li>
+<li><strong>5 Mos 5:6–21</strong> — Moses’ gjenfortelling av budene til Israels nye generasjon på grensen til Kana’an</li>
+</ul>
+<p>De to versjonene er nesten identiske, men skiller seg på ett viktig punkt: Begrunnelsen for sabbatsbudet. I 2 Mos 20 begrunnes sabbaten med skapelsen («for Gud hvilte på den syvende dag»), i 5 Mos 5 med utfrielsen fra Egypt («du var en slave i Egypt»). Denne forskjellen er teologisk meningsfull — og diskutert.</p>
+<hr/>
+<h2 id="historisk-og-kulturell-kontekst">Historisk og kulturell kontekst<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#historisk-og-kulturell-kontekst" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="paktstradisjonen-i-midtøsten">Paktstradisjonen i Midtøsten<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#paktstradisjonen-i-midtøsten" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>De ti bud er ikke et isolert dokument. De er en del av en paktsstruktur (<em>berît</em>) som ligner traktater inngått mellom en seierende hersker og et vasallfolk i det andre årtusen f.Kr. — særlig hettittiske vasalltraktater. Disse traktatene hadde en fast form:</p>
+<ol>
+<li>Storkongens identifikasjon («Jeg er …»)</li>
+<li>Historisk prologue («som har gjort …»)</li>
+<li>Grunnleggende krav til lojalitet</li>
+<li>Detaljerte bestemmelser</li>
+<li>Velsignelser og forbannelser</li>
+</ol>
+<p>Dekalogen følger dette mønsteret: «Jeg er Herren din Gud, som førte deg ut av Egypt» (identifikasjon + historikk), etterfulgt av budene (lojalitetskrav). Dette betyr at budene ikke er abstrakte etiske prinsipper — de er <em>paktens vilkår</em>, konsekvensen av et allerede eksisterende forhold mellom Jahve og Israel.</p>
+<h3 id="ikke-morallovgivning-i-moderne-forstand">Ikke morallovgivning i moderne forstand<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#ikke-morallovgivning-i-moderne-forstand" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Meyers (2005) understreker at dekalogen ikke er lovgivning i juridisk forstand. Det finnes ingen straffesanksjoner knyttet til budene i teksten selv. De er nærmere <em>grunnleggende verdierklæringer</em> — normative utsagn om hva det vil si å tilhøre Jahves folk og leve i hans pakt.</p>
+<p>«Du skal ikke slå i hjel» er ikke en straffelov mot mord — det er en erklæring av prinsippet. De detaljerte rettssakene og straffene finnes i det som kalles <em>paktsretten</em> (2 Mos 21–23), ikke i dekalogen selv.</p>
+<h3 id="gudsbildet-bak-budene">Gudsbildet bak budene<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#gudsbildet-bak-budene" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>2 Mos 20:2 er ikke bud nr. 1 — det er <em>prologen</em> til alle budene. Og den forteller noe avgjørende: Budene gis ikke til et folk som ennå ikke kjenner Gud, for at de skal fortjene seg inn i forholdet. Budene gis til et folk som <em>allerede er frigjort</em>. «Jeg er Herren din Gud, som førte deg ut av Egypt.» Frigjøringen kom <em>før</em> loven — ikke som belønning for lydighet, men som nåde.</p>
+<p>Dette er grunnleggende for hvordan budene skal forstås: De er ikke frelsesveien, men <em>responsen på frelse</em>.</p>
+<hr/>
+<h2 id="nummerering-av-budene">Nummerering av budene<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#nummerering-av-budene" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Tre ulike tradisjoner teller budene forskjellig:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Bud</th><th>Jødisk tradisjon</th><th>Luthersk/katolsk</th><th>Reformert/øvrige</th></tr></thead><tbody><tr><td>1</td><td>«Jeg er Herren din Gud»</td><td>Ikke ha andre guder</td><td>Ikke ha andre guder</td></tr><tr><td>2</td><td>Ikke ha andre guder</td><td>Ikke misbruke Guds navn</td><td>Ikke lage avgudsbilder</td></tr><tr><td>3</td><td>Ikke lage avgudsbilder</td><td>Hellighold sabbaten</td><td>Ikke misbruke Guds navn</td></tr><tr><td>…</td><td>…</td><td>…</td><td>…</td></tr><tr><td>9/10</td><td>Ikke begjære naboens hus / kone</td><td>Ikke begjære (alt under ett)</td><td>Ikke begjære hus / kone (to bud)</td></tr></tbody></table></div>
+<p>Den lutherske og katolske tradisjonen slår gudebud og billedforbud sammen til ett, og deler begjæringsbudet i to for å komme til ti. Den reformerte (og originale hebraiske) tradisjonen skiller billedbudet ut som eget.</p>
+<hr/>
+<h2 id="gjennomgang-av-budene">Gjennomgang av budene<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#gjennomgang-av-budene" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="bud-1--ikke-ha-andre-guder-enn-meg">Bud 1 — Ikke ha andre guder enn meg<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#bud-1--ikke-ha-andre-guder-enn-meg" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<blockquote>
+<p>«Du skal ikke ha andre guder enn meg.» (2 Mos 20:3)</p>
+</blockquote>
+<p><strong>I sin samtid:</strong> Dette var ikke monoteisme i abstrakt forstand. Det omgivende religiøse landskapet var polyteistisk. Budet krever ikke at Israel <em>benekter</em> andre guders eksistens — det krever eksklusiv lojalitet: <em>for deg</em> skal det ikke finnes andre guder. Det er en paktstroskapsbekjennelse, ikke en ontologisk erklæring.</p>
+<p>Over tid utviklet det seg til israelittisk monoteisme — spesielt tydelig i Jesaja (kap. 40–55): «Det finnes ingen annen Gud enn meg.»</p>
+<p><strong>I dag:</strong> For kristne er budet en kall til å identifisere de «gudene» som konkurrerer om hjertets lojalitet — karriere, anerkjennelse, sikkerhet, nasjonal identitet. Reformasjonen brukte budet nettopp slik: Det du stoler mest på i livet, er din gud (Luther, <em>Store katekisme</em>).</p>
+<hr/>
+<h3 id="bud-2--ikke-lage-avgudsbilder">Bud 2 — Ikke lage avgudsbilder<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#bud-2--ikke-lage-avgudsbilder" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<blockquote>
+<p>«Du skal ikke lage deg noe gudebilde, ingen etterligning av det som er oppe i himmelen eller nede på jorden eller i vannet under jorden. Du skal ikke tilbe dem og ikke dyrke dem.» (2 Mos 20:4–5)</p>
+</blockquote>
+<p><strong>I sin samtid:</strong> Billedforbudet var radikalt i en verden der alle guder hadde bilder. Statuer og relikviebilder var ikke «kunst» — de var den guddommelige nærvær gjort synlig, et medium for kontakt. Jahve avviser dette: Hans nærvær kan ikke kontrolleres eller manipuleres gjennom menneskehender.</p>
+<p>Forbudet sier noe dypt om Guds frihet: Han er ikke bundet til noe skapt bilde. Han kan ikke tvinges til stede ved rituelle handlinger.</p>
+<p><strong>I dag:</strong> Den ikonoklastiske striden (bildestormen) i reformasjonen kretset rundt dette budet. Ortodoks og katolsk kristendom skiller mellom tilbedelse (<em>latreia</em>, kun Gud) og æring (<em>proskinesis/dulia</em>, helgener og ikoner). Protestant tradisjoner er mer skeptiske til bilder i tilbedelsessammenheng.</p>
+<p>Et bredere tolkningsspørsmål: Er enhver avbildning av det guddommelige forbudt? Eller bare avbildninger til <em>tilbedelse</em>? Kristendommen har laget Jesusbilder fra tidlig av. Reformerte tradisjoner har vært mer restriktive; ortodokse og katolske mer åpne — men med teologisk begrunnelse.</p>
+<hr/>
+<h3 id="bud-3--ikke-misbruke-guds-navn">Bud 3 — Ikke misbruke Guds navn<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#bud-3--ikke-misbruke-guds-navn" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<blockquote>
+<p>«Du skal ikke misbruke Herrens, din Guds, navn. For Herren vil ikke la den som misbruker hans navn, gå ustraffet.» (2 Mos 20:7)</p>
+</blockquote>
+<p><strong>I sin samtid:</strong> Å «misbruke» (<em>nasa</em>, bære/løfte til tomhet) Guds navn handler primært om <em>falsk ed</em> — å sverge falskt ved Guds navn. I antikken var eden sakral: å kalle Gud til vitne for noe som er usant, var en alvorlig religiøs forbrytelse.</p>
+<p>Sekundært: magi. I det antikke Midtøsten trodde man at guders navn hadde kraft — å kjenne og bruke et gudenavn riktig var å ha makt over guden. Jahve avviser dette ved å forby instrumentalisering av sitt navn.</p>
+<p><strong>I dag:</strong> Tradisjonelt tolket som forbud mot banning — men det er en innsnevring. Det handler om enhver bruk av Guds navn som er tom eller manipulerende: å kle verdslige mål i religiøs språkdrakt («Gud sier meg at du skal gjøre X»), nasjonalreligiøs retorikk, or religiøs manipulasjon.</p>
+<hr/>
+<h3 id="bud-4--hellighold-sabbatsdagen">Bud 4 — Hellighold sabbatsdagen<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#bud-4--hellighold-sabbatsdagen" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<blockquote>
+<p>«Husk sabbatsdagen og hold den hellig. Seks dager skal du arbeide og gjøre all din gjerning. Men den sjuende dag er sabbat for Herren din Gud.» (2 Mos 20:8–10)</p>
+</blockquote>
+<p><strong>I sin samtid:</strong> Sabbaten er unikt israelittisk — ingen annen antikk religion hadde en ukentlig hviledag for hele folket. Det er en <em>sosial</em> lov like mye som en religiøs: Ikke bare du hviler, men din sønn, datter, slave, tjenestepike, buskap og den fremmede i dine porter. Sabbaten er et egalitært prinsipp.</p>
+<p>To begrunnelser i de to tekstene:</p>
+<ul>
+<li><strong>2 Mos 20</strong> — Skapelsesbegrunnelse: Gud hvilte. Sabbaten er en deltakelse i Guds rytme.</li>
+<li><strong>5 Mos 5</strong> — Eksodusbegrunnelse: Du var slave. Slaven som hviler, er ikke lenger slave.</li>
+</ul>
+<p><strong>I dag:</strong> Tre posisjoner i kristen tradisjon:</p>
+<p><em>Sabbatarianisme</em> (adventister m.fl.): Den syvende dag (lørdag) er fortsatt forpliktende. Jesus observerte den; NT opphevet den ikke.</p>
+<p><em>Søndagshelligholdelse</em> (tradisjonell protestantisme og katolisisme): Oppstandelsen på første ukedag (søndag) er den kristne sabbat — en ny skapelse. Ikke juridisk påbudt, men et gudstjenestelig prinsipp.</p>
+<p><em>Prinsippet beholdes, formen endres</em> (mange evangelikale): Sabbaten peker på en grunnleggende rytme av hvile og arbeid som er skaperordning. Ukentlig gudstjenestesamling er sentral, men ikke bundet til en bestemt dag.</p>
+<hr/>
+<h3 id="bud-5--ær-din-far-og-din-mor">Bud 5 — Ær din far og din mor<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#bud-5--ær-din-far-og-din-mor" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<blockquote>
+<p>«Ær din far og din mor, så du kan leve lenge i det landet Herren din Gud gir deg.» (2 Mos 20:12)</p>
+</blockquote>
+<p><strong>I sin samtid:</strong> I israelittisk sammenheng handler budet ikke primært om lydighet for barn, men om behandlingen av <em>gamle</em> foreldre. I en gerontokrati-preget kultur var de eldste maktbærerne — men de var også sårbare. Budet sikrer de eldre mot å bli kastet ut eller ignorert.</p>
+<p>Paulus kaller dette det «første bud med et løfte» (Ef 6:2). Løftet («lenge i landet») er opprinnelig rettet mot folket Israel som kollektiv: Fellesskap som tar vare på sine eldre overlever.</p>
+<p><strong>I dag:</strong> Spenninger: Hva med foreldre som er skadelige? Jesus selv synes å relativere familielojalitet (Luk 14:26; Matt 10:37). Luther tolket «ær» som å vise aktiv omsorg, ikke blind lydighet. Budet peker mot en respekt for generasjonsbånd og menneskelig sårbarhet.</p>
+<hr/>
+<h3 id="bud-6--du-skal-ikke-slå-i-hjel">Bud 6 — Du skal ikke slå i hjel<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#bud-6--du-skal-ikke-slå-i-hjel" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<blockquote>
+<p>«Du skal ikke slå i hjel.» (2 Mos 20:13)</p>
+</blockquote>
+<p><strong>I sin samtid:</strong> Det hebraiske verbet er <em>ratsach</em> — ikke det vanligste drapsverbet, men det som oftest er brukt om ulovlig, uautorisert drap. Det dekker ikke krigshandlinger eller juridisk henrettelse. Det handler om privat, urettmessig drap — inkludert uaktsomt drap (4 Mos 35).</p>
+<p><strong>I dag:</strong> Tre diskusjoner:</p>
+<p><em>Dødsstraff:</em> Budets ordlyd ekskluderer den. Mange kristne (særlig katolsk sosiallære) konkluderer at den kristne etikk i dag krever avskaffelse av dødsstraff.</p>
+<p><em>Krig:</em> «Rettferdig krig»-tradisjonen (Augustin, Aquinas) mener legitim krig faller utenfor budets rekkevidde. Pasifismen (kvekertradisjonen, Mennonitter) avviser dette.</p>
+<p><em>Abort:</em> Mange kristne inkluderer fosterdrap under dette budet. Andre skiller mellom å «drepe» (<em>ratsach</em>) og «ta et liv» på måter som krever separate etiske analyser.</p>
+<p>Jesus utvidde budet radikalt: «Enhver som er sint på sin bror uten grunn, skal stå til ansvar» (Matt 5:21–22). Han peker på sinnet og forakten som drapets rot.</p>
+<hr/>
+<h3 id="bud-7--du-skal-ikke-bryte-ekteskapet">Bud 7 — Du skal ikke bryte ekteskapet<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#bud-7--du-skal-ikke-bryte-ekteskapet" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<blockquote>
+<p>«Du skal ikke bryte ekteskapet.» (2 Mos 20:14)</p>
+</blockquote>
+<p><strong>I sin samtid:</strong> Ekteskapsbrudd hadde i Israel alvorlige sosiale og religiøse konsekvenser. Kvinner var i juridisk forstand knyttet til familiehushold — utroskap fra konens side var et angrep på mannens eiendomsrettigheter, men også på paktens integritet (ekteskap var en pakt).</p>
+<p>Det er viktig å merke: Budet gjelder begge kjønn — ikke bare kona. Profetene brukte ekteskapsbrudd som metafor for Israels svik mot Jahve (Hosea, Jeremia 3).</p>
+<p><strong>I dag:</strong> Jesus skjerpet igjen til roten: «Enhver som ser på en kvinne med begjær, har allerede begått ekteskapsbrudd med henne i sitt hjerte» (Matt 5:28). Spørsmålet om skilsmisse og gjengifte er blitt en av kristendommens vanskeligste etiske debatter. Katolsk tradisjon: Ekteskapet er et sakrament som i prinsippet er uoppløselig. Protestantisme: Varierer fra meget restriktivt til relativt åpent.</p>
+<hr/>
+<h3 id="bud-8--du-skal-ikke-stjele">Bud 8 — Du skal ikke stjele<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#bud-8--du-skal-ikke-stjele" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<blockquote>
+<p>«Du skal ikke stjele.» (2 Mos 20:15)</p>
+</blockquote>
+<p><strong>I sin samtid:</strong> Noen tolkere (f.eks. Albrecht Alt) mener det opprinnelige budet handlet om <em>kidnapping</em> — å «stjele» et menneske. Det er støttet av konteksten: Budet er omgitt av bud mot drap og ekteskapsbrudd (som begge handler om person, ikke eiendom), og 2 Mos 21:16 gir dødsstraff for å «stjele» (kidnapping) en person.</p>
+<p>Bredere tolkning: Urettferdig tilegnelse av andres ressurser i alle former.</p>
+<p><strong>I dag:</strong> Bredere sosialetisk anvendelse: Systematisk urettferdighet som berøver folk ressurser de har rett til, faller under dette budet. Luther inkluderte i sin katekisme at å «stjele» også er å ikke hjelpe naboen i nød.</p>
+<hr/>
+<h3 id="bud-9--du-skal-ikke-vitne-falskt">Bud 9 — Du skal ikke vitne falskt<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#bud-9--du-skal-ikke-vitne-falskt" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<blockquote>
+<p>«Du skal ikke vitne falskt mot din neste.» (2 Mos 20:16)</p>
+</blockquote>
+<p><strong>I sin samtid:</strong> Konteksten er <em>rettssalen</em>. Falsk vitnesbyrd i rettssaken var alvorlig fordi det var livsavgjørende — en urettferdig dom kunne bety tap av eiendom, frihet eller liv. Rettssystemet var fundamentalt avhengig av troverdig vitnesbyrd.</p>
+<p><strong>I dag:</strong> Utvidet til generelt forbud mot løgn og ærekrenkelse. Luther: «Vi skal frykte og elske Gud, slik at vi ikke lyver om, ikke forråder, ikke baktaler, ikke ærekrenker vår neste.» Sladder, ryktespredning og manipulasjon av sannhet er moderne former for falsk vitnesbyrd.</p>
+<hr/>
+<h3 id="bud-10--du-skal-ikke-begjære">Bud 10 — Du skal ikke begjære<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#bud-10--du-skal-ikke-begjære" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<blockquote>
+<p>«Du skal ikke begjære din nestes hus. Du skal ikke begjære din nestes kone, hans tjener eller tjenestepike, hans okse eller esel eller noe annet som er din nestes.» (2 Mos 20:17)</p>
+</blockquote>
+<p><strong>I sin samtid:</strong> Det hebraiske <em>chamad</em> («begjære») beskriver ikke bare ønsket, men det systematiske planleggingsarbeidet for å ta noe fra en annen. Det inkluderer manipulasjon, press og utnyttelse av situasjoner — ikke bare passiv misunnelse.</p>
+<p><strong>Forskjellen fra de øvrige budene:</strong> Dette er det eneste budet som handler om en <em>indre tilstand</em> — ikke en ytre handling. Det peker mot motivasjonen bak alle de øvrige budene. Paulus opplevde dette budet som det uslåelige: «Jeg hadde ikke kjent begjæret dersom ikke loven hadde sagt: Du skal ikke begjære» (Rom 7:7). Det avslørte hans hjertes tilstand.</p>
+<p><strong>I dag:</strong> Budets relevans er umiddelbar i en forbrukerkultur drevet av stimulering av begjær. Markedsføring er profesjonelt begjærstimulering. Budet minner om at lykken ikke finnes i mer, men i en annen relasjon til det man har og det man er.</p>
+<hr/>
+<h2 id="dekalogen-i-teologihistorien">Dekalogen i teologihistorien<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#dekalogen-i-teologihistorien" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="jødisk-tolkning">Jødisk tolkning<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#jødisk-tolkning" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>I rabbinsk tradisjon er alle 613 budene i Toraen likeverdige i prinsippet, men dekalogen har en særstilling som ble opplest i tempelet daglig (inntil rabbinerne stoppet dette fordi folk begynte å tro at bare de ti gjaldt). Talmud: Alle 613 bud er implisert i de ti.</p>
+<p>Samaritanerne og Falashaene har egne varianter. Den karistaistiske bevegelsen (800-tallet) avviste den rabbinske tradisjonen og forsøkte å lese bare Skriften — inkludert dekalogen — bokstavelig.</p>
+<h3 id="kristne-tidlige-tolkninger">Kristne tidlige tolkninger<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#kristne-tidlige-tolkninger" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Kirkefadrene brukte dekalogen apologetisk: Israel hadde lovens <em>brev</em>, kristne har lovens <em>ånd</em>. Origenes: De ti bud er en allegori over sjelens utvikling mot Gud.</p>
+<p>Augustin: Dekalogen deles i to tavler — de fire første handler om forholdet til Gud (<em>pietas</em>), de seks siste om forholdet til mennesker (<em>iustitia</em>). Kjærlighetsbudet (Matt 22:37–40) sammenfatter begge.</p>
+<h3 id="reformasjonstolkninger">Reformasjonstolkninger<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#reformasjonstolkninger" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p><strong>Luther:</strong> Tre <em>bruk</em> av loven:</p>
+<ol>
+<li><em>Politisk bruk</em> (<em>usus politicus</em>): Loven holder samfunnet i orden</li>
+<li><em>Pedagogisk bruk</em> (<em>usus paedagogicus</em>): Loven avslører synden og driver mot Kristus</li>
+<li><em>Didaktisk bruk</em> (<em>usus didacticus/tertius usus</em>): Loven veileder den troende i lydighet</li>
+</ol>
+<p>Luther: «Den kristne er ikke under loven som frelsesgrunnlag, men lever <em>i overensstemmelse med</em> loven som takknemlig svar på nåden.»</p>
+<p><strong>Calvin</strong> la særlig vekt på den tredje bruk av loven som sentral for kristenlivet — mer enn Luther. Reformert etikk har derfor hatt en sterkere tendens til å bruke dekalogen som positiv veiledning for kristenlivet.</p>
+<h3 id="to-meninger-om-lovens-rolle-i-dag">To meninger om lovens rolle i dag<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#to-meninger-om-lovens-rolle-i-dag" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p><strong>Antinomisme</strong> (ekstreme posisjoner i pietisme og dispensasjonalisme): Loven er avskaffet for kristne. Ånden leder direkte uten behov for lov.</p>
+<p><strong>Tredjebruks-posisjon</strong> (luthersk og reformert mainstream): Loven er fortsatt gyldig som veiledning for kristenlivet — ikke som frelsesgrunnlag, men som etisk kompass. Dekalogen har permanent relevans.</p>
+<hr/>
+<h2 id="jesus-og-dekalogen">Jesus og dekalogen<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#jesus-og-dekalogen" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Jesus tolket dekalogen, han avskaffet den ikke. Men han skjerpet den radikalt:</p>
+<p><strong>Matt 5:21–48</strong> — «Dere har hørt det er sagt […] men jeg sier dere […]»: Jesus driver budene fra den ytre handlingen til den indre motivasjonen — fra drapet til sinnet, fra ekteskapsbrudd til begjæret. Han <em>intensiverer</em> budene, ikke reduserer dem.</p>
+<p><strong>Matt 22:37–40</strong> — Det doble kjærlighetsbudet («elsk Gud av hele ditt hjerte» og «elsk din neste som deg selv») er ikke en erstatning for dekalogen, men dens sammenfattende tolkning. Paulus: «Den som elsker en annen, har oppfylt loven» (Rom 13:8–10).</p>
+<p><strong>Bergprekenen</strong> — Saligprisningene er ikke en ny lov. De er en beskrivelse av hva dekalog-lydighet <em>ser ut som innenfra</em>, hos den som lar Guds rike forme hjertet.</p>
+<hr/>
+<h2 id="konsekvenser-av-de-ti-bud">Konsekvenser av de ti bud<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#konsekvenser-av-de-ti-bud" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="for-israels-selvforståelse">For Israels selvforståelse<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#for-israels-selvforståelse" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Dekalogen skapte Israels identitet som paktsfolk. De var ikke et folk som hadde funnet sin Gud — de var et folk som var blitt funnet og utfridd. Loven var minnetten om hvem de var, ikke oppskriften på å bli det.</p>
+<h3 id="for-vestlig-rettstenkning">For vestlig rettstenkning<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#for-vestlig-rettstenkning" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Dekalogen er en av de viktigste kildene til vestlig rettspraksis og etikk. Forbud mot drap, tyveri, falsk vitnesbyrd — strukturer vi tar for gitt, har blant annet sine røtter her. Den naturrettslige tradisjonen fra Aquinas til Grotius tolket dekalogen som uttrykk for en universell morallov skrevet inn i skaperverket.</p>
+<h3 id="for-individet">For individet<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#for-individet" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Paulus’ erfaring (Rom 7) er paradigmatisk: Dekalogen avslører ikke bare hva vi <em>gjør</em>, men hva vi <em>er</em>. Det er ikke en selvhjelpsliste — det er et speil. Og speilet peker mot behovet for nåde.</p>
+<h3 id="for-fellesskapet">For fellesskapet<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#for-fellesskapet" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Dekalogen er en <em>sosial</em> etikk like mye som en individuell. Den beskytter den sårbare — den fremmede, slaven, de eldre, naboens eiendom — mot den sterkestes vilkårlighet. Luther: I hvert bud er <em>naboen</em> den sentrale — de ti bud definerer hva det vil si å behandle andre som Guds skapninger.</p>
+<hr/>
+<h2 id="sammenheng-med-andre-artikler">Sammenheng med andre artikler<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#sammenheng-med-andre-artikler" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ul>
+<li><a href="../Bibelen---det-Gamle-Testamentet/exodus" class="internal alias" data-slug="Bibelen---det-Gamle-Testamentet/exodus">exodus</a> — dekalogenens tekstuelle hjem</li>
+<li><a href="../Bibelen---det-Gamle-Testamentet/pakten" class="internal alias" data-slug="Bibelen---det-Gamle-Testamentet/pakten">pakten</a> — paktsteologi som ramme</li>
+<li><a href="../kirkehistorie/luthers-teologi" class="internal" data-slug="kirkehistorie/luthers-teologi">luthers-teologi</a> — Luthers tre bruk av loven</li>
+<li><a href="../Bibelen---det-Nye-Testamentet/bergprekenen" class="internal alias" data-slug="Bibelen---det-Nye-Testamentet/bergprekenen">bergprekenen</a> — Jesu radikalisering av budene</li>
+<li><a href="../Bibelen---det-Nye-Testamentet/paulus-teologi" class="internal alias" data-slug="Bibelen---det-Nye-Testamentet/paulus-teologi">paulus-teologi</a> — Paulus om lov og evangelium</li>
+<li><a href="../tro-og-liv/nåde" class="internal alias" data-slug="tro-og-liv/nåde">nåde</a> — frigjøringen som kommer før loven</li>
+<li><a href="../teologi/rettferdig-krig" class="internal" data-slug="teologi/rettferdig-krig">rettferdig-krig</a> — bud 6 og krigens etikk</li>
+</ul>
+<hr/>
+<h2 id="kilder">Kilder<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#kilder" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ul>
+<li><a href="../sources/Meyers-2005-exodus" class="internal" data-slug="sources/Meyers-2005-exodus">Meyers-2005-exodus</a> — Meyers, C.L. (2005): <em>Exodus</em>. Cambridge University Press</li>
+<li><a href="../sources/Lexham-bible-dictionary-exodus" class="internal" data-slug="sources/Lexham-bible-dictionary-exodus">Lexham-bible-dictionary-exodus</a> — <em>The Lexham Bible Dictionary</em>, Exodus-artikkelen</li>
+<li><a href="../sources/Keener-2014-IVP-background-commentary" class="internal" data-slug="sources/Keener-2014-IVP-background-commentary">Keener-2014-IVP-background-commentary</a> — Keener, C.S. (2014): <em>IVP Bible Background Commentary: NT</em> (Matt 5)</li>
+<li><a href="../sources/studier-personlige" class="internal" data-slug="sources/studier-personlige">studier-personlige</a> — egne studier og notater</li>
+</ul></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Graf-visning</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="toc desktop-only"><button type="button" class="toc-header" aria-controls="toc-3" aria-expanded="true"><h3>Oversikt</h3><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><ul id="list-1" class="toc-content overflow"><li class="depth-0"><a href="#hva-er-dekalogen" data-for="hva-er-dekalogen">Hva er dekalogen?</a></li><li class="depth-0"><a href="#historisk-og-kulturell-kontekst" data-for="historisk-og-kulturell-kontekst">Historisk og kulturell kontekst</a></li><li class="depth-1"><a href="#paktstradisjonen-i-midtøsten" data-for="paktstradisjonen-i-midtøsten">Paktstradisjonen i Midtøsten</a></li><li class="depth-1"><a href="#ikke-morallovgivning-i-moderne-forstand" data-for="ikke-morallovgivning-i-moderne-forstand">Ikke morallovgivning i moderne forstand</a></li><li class="depth-1"><a href="#gudsbildet-bak-budene" data-for="gudsbildet-bak-budene">Gudsbildet bak budene</a></li><li class="depth-0"><a href="#nummerering-av-budene" data-for="nummerering-av-budene">Nummerering av budene</a></li><li class="depth-0"><a href="#gjennomgang-av-budene" data-for="gjennomgang-av-budene">Gjennomgang av budene</a></li><li class="depth-1"><a href="#bud-1--ikke-ha-andre-guder-enn-meg" data-for="bud-1--ikke-ha-andre-guder-enn-meg">Bud 1 — Ikke ha andre guder enn meg</a></li><li class="depth-1"><a href="#bud-2--ikke-lage-avgudsbilder" data-for="bud-2--ikke-lage-avgudsbilder">Bud 2 — Ikke lage avgudsbilder</a></li><li class="depth-1"><a href="#bud-3--ikke-misbruke-guds-navn" data-for="bud-3--ikke-misbruke-guds-navn">Bud 3 — Ikke misbruke Guds navn</a></li><li class="depth-1"><a href="#bud-4--hellighold-sabbatsdagen" data-for="bud-4--hellighold-sabbatsdagen">Bud 4 — Hellighold sabbatsdagen</a></li><li class="depth-1"><a href="#bud-5--ær-din-far-og-din-mor" data-for="bud-5--ær-din-far-og-din-mor">Bud 5 — Ær din far og din mor</a></li><li class="depth-1"><a href="#bud-6--du-skal-ikke-slå-i-hjel" data-for="bud-6--du-skal-ikke-slå-i-hjel">Bud 6 — Du skal ikke slå i hjel</a></li><li class="depth-1"><a href="#bud-7--du-skal-ikke-bryte-ekteskapet" data-for="bud-7--du-skal-ikke-bryte-ekteskapet">Bud 7 — Du skal ikke bryte ekteskapet</a></li><li class="depth-1"><a href="#bud-8--du-skal-ikke-stjele" data-for="bud-8--du-skal-ikke-stjele">Bud 8 — Du skal ikke stjele</a></li><li class="depth-1"><a href="#bud-9--du-skal-ikke-vitne-falskt" data-for="bud-9--du-skal-ikke-vitne-falskt">Bud 9 — Du skal ikke vitne falskt</a></li><li class="depth-1"><a href="#bud-10--du-skal-ikke-begjære" data-for="bud-10--du-skal-ikke-begjære">Bud 10 — Du skal ikke begjære</a></li><li class="depth-0"><a href="#dekalogen-i-teologihistorien" data-for="dekalogen-i-teologihistorien">Dekalogen i teologihistorien</a></li><li class="depth-1"><a href="#jødisk-tolkning" data-for="jødisk-tolkning">Jødisk tolkning</a></li><li class="depth-1"><a href="#kristne-tidlige-tolkninger" data-for="kristne-tidlige-tolkninger">Kristne tidlige tolkninger</a></li><li class="depth-1"><a href="#reformasjonstolkninger" data-for="reformasjonstolkninger">Reformasjonstolkninger</a></li><li class="depth-1"><a href="#to-meninger-om-lovens-rolle-i-dag" data-for="to-meninger-om-lovens-rolle-i-dag">To meninger om lovens rolle i dag</a></li><li class="depth-0"><a href="#jesus-og-dekalogen" data-for="jesus-og-dekalogen">Jesus og dekalogen</a></li><li class="depth-0"><a href="#konsekvenser-av-de-ti-bud" data-for="konsekvenser-av-de-ti-bud">Konsekvenser av de ti bud</a></li><li class="depth-1"><a href="#for-israels-selvforståelse" data-for="for-israels-selvforståelse">For Israels selvforståelse</a></li><li class="depth-1"><a href="#for-vestlig-rettstenkning" data-for="for-vestlig-rettstenkning">For vestlig rettstenkning</a></li><li class="depth-1"><a href="#for-individet" data-for="for-individet">For individet</a></li><li class="depth-1"><a href="#for-fellesskapet" data-for="for-fellesskapet">For fellesskapet</a></li><li class="depth-0"><a href="#sammenheng-med-andre-artikler" data-for="sammenheng-med-andre-artikler">Sammenheng med andre artikler</a></li><li class="depth-0"><a href="#kilder" data-for="kilder">Kilder</a></li><li class="overflow-end"></li></ul></div><div class="backlinks"><h3>Tilbakekoblinger</h3><ul id="list-2" class="overflow"><li><a href="../Bibelen---det-Gamle-Testamentet/" class="internal">Det Gamle Testamentet</a></li><li><a href="../Bibelen---det-Gamle-Testamentet/pakten" class="internal">Pakten</a></li><li><a href="../teologi/kristen-etikk" class="internal">Kristen etikk — en innføring</a></li><li class="overflow-end"></li></ul></div></div><footer class><p>Laget med <a href="https://quartz.jzhao.xyz/">Quartz v4.5.2</a> © 2026</p><ul><li><a href="https://github.com/jackyzha0/quartz">GitHub</a></li><li><a href="https://discord.gg/cRFFHYye7t">Discord Community</a></li></ul></footer></div></div></body><script type="application/javascript" data-persist="true">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function c(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let o=e.classList.contains("is-collapsed");s.style.gridTemplateRows=o?"0fr":"1fr"}}document.addEventListener("nav",c);
+</script><script type="module" data-persist="true">function E(a,e){if(!a)return;function t(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function n(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}a?.addEventListener("click",t),window.addCleanup(()=>a?.removeEventListener("click",t)),document.addEventListener("keydown",n),window.addCleanup(()=>document.removeEventListener("keydown",n))}function f(a){for(;a.firstChild;)a.removeChild(a.firstChild)}var m=class{constructor(e,t){this.container=e;this.content=t;this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}isDragging=!1;startPan={x:0,y:0};currentPan={x:0,y:0};scale=1;MIN_SCALE=.5;MAX_SCALE=3;cleanups=[];setupEventListeners(){let e=this.onMouseDown.bind(this),t=this.onMouseMove.bind(this),n=this.onMouseUp.bind(this),o=this.onTouchStart.bind(this),r=this.onTouchMove.bind(this),i=this.onTouchEnd.bind(this),s=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",t),document.addEventListener("mouseup",n),this.container.addEventListener("touchstart",o,{passive:!1}),document.addEventListener("touchmove",r,{passive:!1}),document.addEventListener("touchend",i),window.addEventListener("resize",s),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",t),()=>document.removeEventListener("mouseup",n),()=>this.container.removeEventListener("touchstart",o),()=>document.removeEventListener("touchmove",r),()=>document.removeEventListener("touchend",i),()=>window.removeEventListener("resize",s))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let t=this.createButton("+",()=>this.zoom(.1)),n=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(n),e.appendChild(o),e.appendChild(t),this.container.appendChild(e)}createButton(e,t){let n=document.createElement("button");return n.textContent=e,n.className="mermaid-control-button",n.addEventListener("click",t),window.addCleanup(()=>n.removeEventListener("click",t)),n}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}onTouchStart(e){if(e.touches.length!==1)return;this.isDragging=!0;let t=e.touches[0];this.startPan={x:t.clientX-this.currentPan.x,y:t.clientY-this.currentPan.y}}onTouchMove(e){if(!this.isDragging||e.touches.length!==1)return;e.preventDefault();let t=e.touches[0];this.currentPan={x:t.clientX-this.startPan.x,y:t.clientY-this.startPan.y},this.updateTransform()}onTouchEnd(){this.isDragging=!1}zoom(e){let t=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),n=this.content.getBoundingClientRect(),o=n.width/2,r=n.height/2,i=t-this.scale;this.currentPan.x-=o*i,this.currentPan.y-=r*i,this.scale=t,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){let t=this.content.querySelector("svg").getBoundingClientRect(),n=t.width/this.scale,o=t.height/this.scale;this.scale=1,this.currentPan={x:(this.container.clientWidth-n)/2,y:(this.container.clientHeight-o)/2},this.updateTransform()}},T=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],y;document.addEventListener("nav",async()=>{let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;y||=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs");let t=y.default,n=new WeakMap;for(let r of e)n.set(r,r.innerText);async function o(){for(let s of e){s.removeAttribute("data-processed");let c=n.get(s);c&&(s.innerHTML=c)}let r=T.reduce((s,c)=>(s[c]=window.getComputedStyle(document.documentElement).getPropertyValue(c),s),{}),i=document.documentElement.getAttribute("saved-theme")==="dark";t.initialize({startOnLoad:!1,securityLevel:"loose",theme:i?"dark":"base",themeVariables:{fontFamily:r["--codeFont"],primaryColor:r["--light"],primaryTextColor:r["--darkgray"],primaryBorderColor:r["--tertiary"],lineColor:r["--darkgray"],secondaryColor:r["--secondary"],tertiaryColor:r["--tertiary"],clusterBkg:r["--light"],edgeLabelBackground:r["--highlight"]}}),await t.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let r=0;r<e.length;r++){let v=function(){let g=l.querySelector("#mermaid-space"),h=l.querySelector(".mermaid-content");if(!h)return;f(h);let w=i.querySelector("svg").cloneNode(!0);h.appendChild(w),l.classList.add("active"),g.style.cursor="grab",u=new m(g,h)},M=function(){l.classList.remove("active"),u?.cleanup(),u=null},i=e[r],s=i.parentElement,c=s.querySelector(".clipboard-button"),d=s.querySelector(".expand-button"),p=window.getComputedStyle(c),L=c.offsetWidth+parseFloat(p.marginLeft||"0")+parseFloat(p.marginRight||"0");d.style.right=`calc(${L}px + 0.3rem)`,s.prepend(d);let l=s.querySelector("#mermaid-container");if(!l)return;let u=null;d.addEventListener("click",v),E(l,M),window.addCleanup(()=>{u?.cleanup(),d.removeEventListener("click",v)})}});
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript" data-persist="true"></script><script type="application/javascript" data-persist="true">
+        const socket = new WebSocket('ws://localhost:3001')
+        // reload(true) ensures resources like images and scripts are fetched again in firefox
+        socket.addEventListener('message', () => document.location.reload(true))
+      </script><script src="../postscript.js" type="module" data-persist="true"></script></html>

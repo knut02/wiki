@@ -3,6 +3,7 @@ title: "Apofatisk teologi"
 date: 2025-05-05
 kategori: Teologi
 sub-kategori: Gudslære
+tags: [apofatisk teologi, negativ teologi, Dionysios Areopagiten, Gregor av Nyssa, Mester Eckhart, mystikk, Guds ufattelighet]
 sources: 4
 ---
 

@@ -6,6 +6,7 @@ Oppdatert: 2025-05-10
 Kilder: 2
 kategori: Teologi
 sub-kategori: Antropologi og syndelære
+tags: [historisk relativisme, kristendom, Harnack, teologihistorie, tradisjon, dogmeutvikling]
 ---
 
 ## Harnack og spørsmålet om essensen

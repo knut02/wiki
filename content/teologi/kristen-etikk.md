@@ -6,6 +6,7 @@ updated: 2026-07-10
 sources: 4
 kategori: Teologi
 sub-kategori: Etikk
+tags: [kristen etikk, dydsetikk, naturrett, lov og evangelium, Bergprekenen, nestekærlighet]
 ---
 
 > «Du skal elske Herren din Gud av hele ditt hjerte, av hele din sjel og av hele din tanke, og din neste som deg selv. På disse to budene hviler hele loven og profetene.» — Matt 22:37–40

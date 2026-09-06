@@ -6,6 +6,7 @@ modified: 2025-05-17
 kilder: 2
 kategori: Teologi
 sub-kategori: Bibeltekst og tekstkritikk
+tags: [Comma Johanneum, 1 Joh 5, tekstkritikk, treenigheten, manuskripter, bibeltekst]
 ---
 
 ## Hva er Comma Johanneum?

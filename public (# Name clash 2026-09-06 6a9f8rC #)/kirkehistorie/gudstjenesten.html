@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="nb" dir="ltr"><head><title>Gudstjenesten — historisk og teologisk</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Schibsted Grotesk:wght@400;700&amp;family=Source Sans Pro:ital,wght@0,400;0,600;1,400;1,600&amp;family=IBM Plex Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="Wiki"/><meta property="og:title" content="Gudstjenesten — historisk og teologisk"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Gudstjenesten — historisk og teologisk"/><meta name="twitter:description" content="Hva er kristen gudstjeneste? Fra husmenigheter og Didache via Justins klassiske beskrivelse til dagens struktur — gudstjenestens elementer, utvikling og teologiske mening."/><meta property="og:description" content="Hva er kristen gudstjeneste? Fra husmenigheter og Didache via Justins klassiske beskrivelse til dagens struktur — gudstjenestens elementer, utvikling og teologiske mening."/><meta property="og:image:alt" content="Hva er kristen gudstjeneste? Fra husmenigheter og Didache via Justins klassiske beskrivelse til dagens struktur — gudstjenestens elementer, utvikling og teologiske mening."/><meta property="og:image" content="https://knut02.github.io/wiki/static/og-image.png"/><meta property="og:image:url" content="https://knut02.github.io/wiki/static/og-image.png"/><meta name="twitter:image" content="https://knut02.github.io/wiki/static/og-image.png"/><meta property="og:image:type" content="image/.png"/><meta property="twitter:domain" content="knut02.github.io/wiki"/><meta property="og:url" content="https://knut02.github.io/wiki/kirkehistorie/gudstjenesten"/><meta property="twitter:url" content="https://knut02.github.io/wiki/kirkehistorie/gudstjenesten"/><link rel="icon" href="../static/icon.png"/><meta name="description" content="Hva er kristen gudstjeneste? Fra husmenigheter og Didache via Justins klassiske beskrivelse til dagens struktur — gudstjenestens elementer, utvikling og teologiske mening."/><meta name="generator" content="Quartz"/><link href="../index.css" rel="stylesheet" type="text/css" data-persist="true"/><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VSb290IjoiQzpcXFVzZXJzXFxrbnV0bFxcUHJvdG9uIERyaXZlXFxrbnV0Lmxva2VuXFxNeSBmaWxlc1xcY2xhdWRlXFxxdWFydHotd2lraVxccXVhcnR6XFxjb21wb25lbnRzXFxzdHlsZXMiLCJzb3VyY2VzIjpbIm1lcm1haWQuaW5saW5lLnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFO0VBQ0E7O0FBR0Y7RUFDRTtFQUNBOztBQUdGO0VBQ0U7OztBQUtGO0VBQ0U7RUFDQTs7O0FBSUo7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7O0FBR0Y7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFO0VBQ0E7O0FBR0Y7RUFDRTtFQUNBOztBQUlKO0VBQ0U7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7O0FBRUE7RUFDRTs7QUFHRjtFQUNFOztBQUlGO0VBQ0U7RUFDQTtFQUNBIiwic291cmNlc0NvbnRlbnQiOlsiLmV4cGFuZC1idXR0b24ge1xuICBwb3NpdGlvbjogYWJzb2x1dGU7XG4gIGRpc3BsYXk6IGZsZXg7XG4gIGZsb2F0OiByaWdodDtcbiAgcGFkZGluZzogMC40cmVtO1xuICBtYXJnaW46IDAuM3JlbTtcbiAgcmlnaHQ6IDA7IC8vIE5PVEU6IHJpZ2h0IHdpbGwgYmUgc2V0IGluIG1lcm1haWQuaW5saW5lLnRzXG4gIGNvbG9yOiB2YXIoLS1ncmF5KTtcbiAgYm9yZGVyLWNvbG9yOiB2YXIoLS1kYXJrKTtcbiAgYmFja2dyb3VuZC1jb2xvcjogdmFyKC0tbGlnaHQpO1xuICBib3JkZXI6IDFweCBzb2xpZDtcbiAgYm9yZGVyLXJhZGl1czogNXB4O1xuICBvcGFjaXR5OiAwO1xuICB0cmFuc2l0aW9uOiAwLjJzO1xuXG4gICYgPiBzdmcge1xuICAgIGZpbGw6IHZhcigtLWxpZ2h0KTtcbiAgICBmaWx0ZXI6IGNvbnRyYXN0KDAuMyk7XG4gIH1cblxuICAmOmhvdmVyIHtcbiAgICBjdXJzb3I6IHBvaW50ZXI7XG4gICAgYm9yZGVyLWNvbG9yOiB2YXIoLS1zZWNvbmRhcnkpO1xuICB9XG5cbiAgJjpmb2N1cyB7XG4gICAgb3V0bGluZTogMDtcbiAgfVxufVxuXG5wcmUge1xuICAmOmhvdmVyID4gLmV4cGFuZC1idXR0b24ge1xuICAgIG9wYWNpdHk6IDE7XG4gICAgdHJhbnNpdGlvbjogMC4ycztcbiAgfVxufVxuXG4jbWVybWFpZC1jb250YWluZXIge1xuICBwb3NpdGlvbjogZml4ZWQ7XG4gIGNvbnRhaW46IGxheW91dDtcbiAgei1pbmRleDogOTk5O1xuICBsZWZ0OiAwO1xuICB0b3A6IDA7XG4gIHdpZHRoOiAxMDB2dztcbiAgaGVpZ2h0OiAxMDB2aDtcbiAgb3ZlcmZsb3c6IGhpZGRlbjtcbiAgZGlzcGxheTogbm9uZTtcbiAgYmFja2Ryb3AtZmlsdGVyOiBibHVyKDRweCk7XG4gIGJhY2tncm91bmQ6IHJnYmEoMCwgMCwgMCwgMC41KTtcblxuICAmLmFjdGl2ZSB7XG4gICAgZGlzcGxheTogaW5saW5lLWJsb2NrO1xuICB9XG5cbiAgJiA+ICNtZXJtYWlkLXNwYWNlIHtcbiAgICBib3JkZXI6IDFweCBzb2xpZCB2YXIoLS1saWdodGdyYXkpO1xuICAgIGJhY2tncm91bmQtY29sb3I6IHZhcigtLWxpZ2h0KTtcbiAgICBib3JkZXItcmFkaXVzOiA1cHg7XG4gICAgcG9zaXRpb246IGZpeGVkO1xuICAgIHRvcDogNTAlO1xuICAgIGxlZnQ6IDUwJTtcbiAgICB0cmFuc2Zvcm06IHRyYW5zbGF0ZSgtNTAlLCAtNTAlKTtcbiAgICBoZWlnaHQ6IDgwdmg7XG4gICAgd2lkdGg6IDgwdnc7XG4gICAgb3ZlcmZsb3c6IGhpZGRlbjtcblxuICAgICYgPiAubWVybWFpZC1jb250ZW50IHtcbiAgICAgIHBvc2l0aW9uOiByZWxhdGl2ZTtcbiAgICAgIHRyYW5zZm9ybS1vcmlnaW46IDAgMDtcbiAgICAgIHRyYW5zaXRpb246IHRyYW5zZm9ybSAwLjFzIGVhc2U7XG4gICAgICBvdmVyZmxvdzogdmlzaWJsZTtcbiAgICAgIG1pbi1oZWlnaHQ6IDIwMHB4O1xuICAgICAgbWluLXdpZHRoOiAyMDBweDtcblxuICAgICAgcHJlIHtcbiAgICAgICAgbWFyZ2luOiAwO1xuICAgICAgICBib3JkZXI6IG5vbmU7XG4gICAgICB9XG5cbiAgICAgIHN2ZyB7XG4gICAgICAgIG1heC13aWR0aDogbm9uZTtcbiAgICAgICAgaGVpZ2h0OiBhdXRvO1xuICAgICAgfVxuICAgIH1cblxuICAgICYgPiAubWVybWFpZC1jb250cm9scyB7XG4gICAgICBwb3NpdGlvbjogYWJzb2x1dGU7XG4gICAgICBib3R0b206IDIwcHg7XG4gICAgICByaWdodDogMjBweDtcbiAgICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgICBnYXA6IDhweDtcbiAgICAgIHBhZGRpbmc6IDhweDtcbiAgICAgIGJhY2tncm91bmQ6IHZhcigtLWxpZ2h0KTtcbiAgICAgIGJvcmRlcjogMXB4IHNvbGlkIHZhcigtLWxpZ2h0Z3JheSk7XG4gICAgICBib3JkZXItcmFkaXVzOiA2cHg7XG4gICAgICBib3gtc2hhZG93OiAwIDJweCA0cHggcmdiYSgwLCAwLCAwLCAwLjEpO1xuICAgICAgei1pbmRleDogMjtcblxuICAgICAgLm1lcm1haWQtY29udHJvbC1idXR0b24ge1xuICAgICAgICBkaXNwbGF5OiBmbGV4O1xuICAgICAgICBhbGlnbi1pdGVtczogY2VudGVyO1xuICAgICAgICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjtcbiAgICAgICAgd2lkdGg6IDMycHg7XG4gICAgICAgIGhlaWdodDogMzJweDtcbiAgICAgICAgcGFkZGluZzogMDtcbiAgICAgICAgYm9yZGVyOiAxcHggc29saWQgdmFyKC0tbGlnaHRncmF5KTtcbiAgICAgICAgYmFja2dyb3VuZDogdmFyKC0tbGlnaHQpO1xuICAgICAgICBjb2xvcjogdmFyKC0tZGFyayk7XG4gICAgICAgIGJvcmRlci1yYWRpdXM6IDRweDtcbiAgICAgICAgY3Vyc29yOiBwb2ludGVyO1xuICAgICAgICBmb250LXNpemU6IDE2cHg7XG4gICAgICAgIGZvbnQtZmFtaWx5OiB2YXIoLS1ib2R5Rm9udCk7XG4gICAgICAgIHRyYW5zaXRpb246IGFsbCAwLjJzIGVhc2U7XG5cbiAgICAgICAgJjpob3ZlciB7XG4gICAgICAgICAgYmFja2dyb3VuZDogdmFyKC0tbGlnaHRncmF5KTtcbiAgICAgICAgfVxuXG4gICAgICAgICY6YWN0aXZlIHtcbiAgICAgICAgICB0cmFuc2Zvcm06IHRyYW5zbGF0ZVkoMXB4KTtcbiAgICAgICAgfVxuXG4gICAgICAgIC8vIFN0eWxlIHRoZSByZXNldCBidXR0b24gZGlmZmVyZW50bHlcbiAgICAgICAgJjpudGgtY2hpbGQoMikge1xuICAgICAgICAgIHdpZHRoOiBhdXRvO1xuICAgICAgICAgIHBhZGRpbmc6IDAgMTJweDtcbiAgICAgICAgICBmb250LXNpemU6IDE0cHg7XG4gICAgICAgIH1cbiAgICAgIH1cbiAgICB9XG4gIH1cbn1cbiJdfQ== */</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" data-persist="true"/><script src="../prescript.js" type="application/javascript" data-persist="true"></script><script type="application/javascript" data-persist="true">const fetchData = fetch("../static/contentIndex.json").then(data => data.json())</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://knut02.github.io/wiki/index.xml"/></head><body data-slug="kirkehistorie/gudstjenesten"><div id="quartz-root" class="page"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="..">Wiki</a></h2><div class="spacer mobile-only"></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 1rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>Søk</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Søk etter noe" placeholder="Søk etter noe"/><div class="search-layout" data-preview="true"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Mørk modus"><title>Mørk modus</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Lys modus"><title>Lys modus</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Læsemodus"><title>Læsemodus</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a,b)=>!a.isFolder&amp;&amp;!b.isFolder||a.isFolder&amp;&amp;b.isFolder?a.displayName.localeCompare(b.displayName,void 0,{numeric:!0,sensitivity:\&quot;base\&quot;}):!a.isFolder&amp;&amp;b.isFolder?1:-1&quot;,&quot;filterFn&quot;:&quot;node=>node.slugSegment!==\&quot;tags\&quot;&quot;,&quot;mapFn&quot;:&quot;node=>node&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-222"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Utforsker</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-222" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#"></a></li></template><template id="template-folder"><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../kirkehistorie/">Kirkehistorie</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>Gudstjenesten — historisk og teologisk</a></div></nav><h1 class="article-title">Gudstjenesten — historisk og teologisk</h1><p class="front-description">Hva er kristen gudstjeneste? Fra husmenigheter og Didache via Justins klassiske beskrivelse til dagens struktur — gudstjenestens elementer, utvikling og teologiske mening.</p><p show-comma="true" class="content-meta"><time datetime="2025-07-08T22:00:00.000Z">09. juli 2025</time><span>11 min lesning</span></p></div></div><article class="popover-hint"><blockquote>
+<p>«De holdt fast ved apostlenes lære og fellesskapet, ved brødets brytelse og ved bønnene.» — Apg 2:42</p>
+</blockquote>
+<blockquote>
+<p>«Den første dag i uken samles vi alle på ett sted.» — Justin Martyr, <em>Første apologi</em>, ca. 155 e.Kr.</p>
+</blockquote>
+<hr/>
+<h2 id="hva-er-gudstjeneste">Hva er gudstjeneste?<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#hva-er-gudstjeneste" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Det norske ordet «gudstjeneste» dekker to dimensjoner som henger uatskillelig sammen i bibelsk og historisk sammenheng:</p>
+<p><strong>Guds tjeneste for oss</strong> — det som skjer i gudstjenesten er ikke primært menneskers prestasjon. Det er Guds tilnærmelse til sitt folk gjennom Ord og sakrament. Han taler; vi hører. Han gir; vi mottar.</p>
+<p><strong>Vår tjeneste for Gud</strong> — responsen er tilbedelse, takk, tro og bønn. Det latinske <em>liturgia</em> (fra gresk <em>leiturgia</em> — «offentlig tjeneste») betegner opprinnelig en borgers tjeneste for fellesskapet: Gudstjenesten er menighetens kollektive tjeneste rettet mot Gud og mot verden.</p>
+<p>Disse to dimensjonene — Guds nedstigning og menighetens respons — er gudstjenestens grunnstruktur i alle kristne tradisjoner, selv om vektleggingen varierer.</p>
+<hr/>
+<h2 id="oldkirkens-varierte-utgangspunkt">Oldkirkens varierte utgangspunkt<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#oldkirkens-varierte-utgangspunkt" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>McGowan (2014) understreker et viktig poeng som ofte glemmes: Den tidligkristne gudstjenesten var ikke én ting. Det fantes stor variasjon mellom menigheter i ulike byer, regioner og kulturelle kontekster. Tanken om en opprinnelig «enkel, ensartet» gudstjeneste som siden ble mer kompleks og differensiert, er en myte.</p>
+<p>Det vi kan si er at den tidligkristne gudstjenesten hadde en rekke felles elementer — hentet fra den jødiske synagogetradisjonen og formet av Jesu egne handlinger — men at disse elementene ble kombinert og vektlagt ulikt.</p>
+<hr/>
+<h2 id="jødiske-røtter">Jødiske røtter<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#jødiske-røtter" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Kirkens gudstjenesteliv er ikke skapt fra ingenting. Det vokste ut av jødisk synagogepraksis, som igjen hadde røtter i Mosebøkenes offertjeneste og GT’s bønnetradisjon.</p>
+<p>Fra synagogen arvet kirken:</p>
+<ul>
+<li><strong>Lesning av Skriften</strong> — fra GT og profetene, etterfulgt av utleggelse</li>
+<li><strong>Bønnens rytme</strong> — tre daglige bønnetider (morgen, middag, kveld; jf. Dan 6:10)</li>
+<li><strong>Vending mot øst</strong> — rettet mot Jerusalem</li>
+<li><strong>Salmesang</strong> — Salmenes bok som den fremste bønneboken</li>
+<li><strong>Ukentlig samling</strong> — sabbaten ble erstattet av «Herrens dag», den første dag i uken (søndag), til minne om oppstandelsen</li>
+</ul>
+<p>Urkirken i Jerusalem (Apg 2) kombinerte i begynnelsen både tempelbesøk og husfellesskap. Men etter hvert — særlig etter templets fall i 70 e.Kr. — ble synagogepraksis den dominerende modellen for menighetens samliv.</p>
+<hr/>
+<h2 id="husmenigheter--de-første-to-tre-hundre-år">Husmenigheter — de første to-tre hundre år<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#husmenigheter--de-første-to-tre-hundre-år" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>De første kristne hadde ingen særskilte gudstjenestebygg. De møttes i private hjem — <em>huskirker</em> — der familier åpnet sine hus for menigheten.</p>
+<p>Pedersen (2012) viser at disse husmenigheter i en by som Roma var tallrike og geografisk spredte. De var ikke identiske med en «bolig» i moderne forstand: Mange av husmenighetene holdt til i håndverkerbutikker eller større rom i leilighetskomplekser. Betegnelsen «Akvila og Priska og menigheten i deres hus» (Rom 16:5) viser at familien som eide rommet, naturlig dannet menighetens kjerne.</p>
+<p>Gudstjenestens rammer var dermed uformelle etter moderne standard: Ikke kirkebygning, ikke fast liturgi, ikke presteklær. Det var en levende forsamling rundt et bord.</p>
+<hr/>
+<h2 id="didache--kirkens-eldste-håndbok">Didache — kirkens eldste håndbok<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#didache--kirkens-eldste-håndbok" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p><em>Didache</em> («De tolv apostlers lære», ca. 70–90 e.Kr.) er det eldste bevarte dokumentet om kristen gudstjenesteliv utenfor NT. Den gir konkrete instrukser om:</p>
+<p><strong>Dåp (kap. 7):</strong> Fortrinnsvis i rennende vann etter en katekumenperiode, men med pragmatiske alternativer. Foranlediges av fasting fra begge parter.</p>
+<p><strong>Faste (kap. 8):</strong> Kristne faster onsdag og fredag — bevisst forskjellig fra jødenes mandag og torsdag.</p>
+<p><strong>Bønn (kap. 8):</strong> Fadervår bes tre ganger daglig. Didaches versjon av Fadervår er nær Matteus-teksten og avsluttes med doksologien «for din er makten og æren i evighet» — en liturgisk form som ikke er i de tidligste Matteus-manuskriptene.</p>
+<p><strong>Nattverd (kap. 9–10):</strong> Bønn over kalken, deretter over brødet. Forsamlingen avslutter med det aramaiske ropet <em>Marana ta</em> — «Kom, Herre!» — et eukaristisk utrop der forventningen om Herrens nærvær og gjenkomst holdes sammen. Bare døpte kan delta.</p>
+<p><strong>Søndagens samling (kap. 14):</strong> «Søndagen for Herren skal dere samles, bryte brødet og takke — etter først å ha bekjent syndene, for at offeret skal være rent.»</p>
+<p>Didache er verdifull nettopp fordi den er pragmatisk og uformell. Det er ikke et systematisk teologisk verk, men en praktisk håndbok for levende menigheter med virkelige utfordringer.</p>
+<hr/>
+<h2 id="justins-klassiske-beskrivelse-ca-155-ekr">Justins klassiske beskrivelse (ca. 155 e.Kr.)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#justins-klassiske-beskrivelse-ca-155-ekr" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Den første detaljerte beskrivelsen av en søndagsgudstjeneste stammer fra Justin Martyr, en kristen filosof og apologet i Roma. I sin <em>Første apologi</em> til keiser Antoninus Pius beskriver han gudstjenesten for å vise at kristne ikke driver med hemmelige og farlige ritualer.</p>
+<p>Justins beskrivelse er historisk uerstattelig:</p>
+<blockquote>
+<p>«På den dagen som kalles solens dag, samles alle som bor i byene og på landet på ett sted. Da leses det fra apostlenes memoirs (evangeliene) eller fra profetenes skrifter, så lenge tid tillater det. Deretter, når leseren er ferdig, holder presidenten en tale der han formaner og oppfordrer til etterfølgelse av disse gode ting. Så reiser vi oss alle og ber, og som vi sa, etter avsluttet bønn bæres frem brød og vin og vann, og presidenten sender bønner og takkebønner til Gud, etter evne, og folket svarer: Amen. Og det utdeles og deles ut til hver den del av det som ble viet til takk, og til dem som er fraværende sendes det gjennom diakonene.»</p>
+</blockquote>
+<p>I Justins beskrivelse er gudstjenestens grunnstruktur allerede klar:</p>
+<ol>
+<li><strong>Skriftlesning</strong> — fra apostelskrifter og profeter</li>
+<li><strong>Preken</strong> — «presidentens» utlegging og formaning</li>
+<li><strong>Felles bønn</strong> — menigheten reiser seg og ber</li>
+<li><strong>Eukaristi</strong> — brød og vin innviet med takkebønn, fordelt til de tilstedeværende og sendt til de fraværende via diakonene</li>
+<li><strong>Kollekt</strong> — frivillige gaver samlet til fattige, enker, foreldreløse og fremmede</li>
+</ol>
+<p>Dette mønsteret — Ordets liturgi etterfulgt av Nattverdens liturgi — er i sin grunnform identisk med søndagsgudstjenesten i de fleste kristne tradisjoner i dag, nesten 1900 år senere.</p>
+<hr/>
+<h2 id="gudstjenestens-fem-hovedelementer">Gudstjenestens fem hovedelementer<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#gudstjenestens-fem-hovedelementer" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>McGowan (2014) organiserer sin analyse av tidligkristens gudstjenesteliv rundt fem hovedelementer:</p>
+<h3 id="1-bønn-prayer">1. Bønn (<em>Prayer</em>)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#1-bønn-prayer" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Den tidligkristne bønnen hadde dype røtter i jødisk tradisjon. Stillingsform, retning og tid var ikke likegyldige:</p>
+<p><strong>Stående med løftede armer</strong> (<em>orans</em>): Den vanligste bønneformen — dokumentert fra katakombenes maleri. Knefall var reservert for botssituasjoner og ble unngått på søndager: Teologisk begrunnelse — vi er oppstandne med Kristus, ikke knelende under syndens åk.</p>
+<p><strong>Vendt mot øst</strong> (<em>oriens</em>): Kristne ba vendt mot øst — symbolet på Kristi gjenkomst. Dette er grunnen til at kirkebygg i oldkirken ble «orientert» med koret mot øst (derav det norske ordet «orientering»).</p>
+<p><strong>Tidebønnen</strong>: Fra Didaches tre daglige bønnetider utviklet klostervesenet en full «timeorden» (<em>Liturgia Horarum</em>) med bønn ved åtte faste tider gjennom døgnet. Dette er grunnlaget for den katolske og ortodokse tidebønnen som praktiseres den dag i dag.</p>
+<h3 id="2-måltid-meal">2. Måltid (<em>Meal</em>)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#2-måltid-meal" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>McGowans mest originale bidrag er å vise at den tidligkristne nattverd opprinnelig var et reelt festmåltid — ikke et miniatyr-ritual med en brokk brød og en slurk vin.</p>
+<p><strong>Banketttradisjonen</strong>: Det første kristne «nattverdet» var et <em>deipnon</em> — en kveldsmiddag med kulturelt bestemte normer for opptreden, tale og fellesskap. Paulus’ kritikk i 1 Kor 11 gir et tydelig bilde: «Når dere samles til bords, er det ikke Herrens nattverd dere feirer. For når dere spiser, sørger enhver for å få i seg sin egen mat, og én er sulten mens en annen er full.» Det er et virkelig måltid der sosiale ulikheter ble synlige og kritikkverdige.</p>
+<p><strong>Gradvis separasjon</strong>: Det rituelle brødet og begeret ble gradvis løsrevet fra det større måltidet. Hos Justin (ca. 155) er de allerede atskilt. Denne prosessen reflekterte menighetens sosiologiske forandring: Fra husmenigheter av relativt jevnbyrdige til hierarkisk organiserte forsamlinger med hundrevis av medlemmer.</p>
+<p><strong>Agapémåltidet</strong>: I mange tradisjoner overlevde det opprinnelige fellesskapsmåltidet som et separat «agapémåltid» — et kjærlighetsmåltid holdt atskilt fra nattverdselve. Tertullian beskriver agapémåltidet med åpenlys glede i det 3. århundre.</p>
+<h3 id="3-ordet-word">3. Ordet (<em>Word</em>)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#3-ordet-word" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Lesning og forkynnelse av Skriften er en av de mest stabile elementene i kristen gudstjeneste gjennom hele historien.</p>
+<p><strong>Lesningens former</strong>: I oldkirken ble tekstene lest av en lekmann (lektor) — ikke av presidenten/biskopen selv. Det var en æresoppgave å lese for forsamlingen. Etter lesningene fulgte presidentens homilie — en mer eller mindre fri utlegning av teksten.</p>
+<p><strong>Hvilke tekster</strong>: I begynnelsen GT + apostelbrev og evangelier etter hvert som de ble samlet og sirkulert. Prosessen med å fastlegge NT-kanon var også delvis en prosess med å fastlegge hvilke tekster som skulle leses i gudstjenesten.</p>
+<p><strong>Katekumenene forlater</strong>: I den klassiske gudstjenesteorden fikk ikke-døpte katekumener være til stede under ordets del, men ble bedt om å forlate rommet før nattverd. Gudstjenestens to halvdeler — Ordets liturgi og Nattverdens liturgi — var tydelig atskilt med dette skillet.</p>
+<h3 id="4-dåpen-bath">4. Dåpen (<em>Bath</em>)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#4-dåpen-bath" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Dåpen er kirkens innvielsesrite — overgangen fra å stå utenfor til å tilhøre Guds folk.</p>
+<p><strong>Katekumenat</strong>: Nyomvendte gjennomgikk en lengre forberedelsesperiode. I <em>Den apostoliske tradisjon</em> (Hippolyt, ca. 215–220) er opptil tre år beskrevet. Perioden inkluderte undervisning i kristen lære og etikk (jf. Didaches «to veier»), exorcismer, faste og intensivert bønn.</p>
+<p><strong>Påskenatt</strong>: I vestkirkens klassiske tradisjon ble dåp utført påskenatt — med bevisst symbolikk: Israel gikk gjennom Rødehavet til frihet, de troende går gjennom dåpens vann til oppstandelsens liv.</p>
+<p><strong>Neddykking</strong>: Tredelt neddykking (én gang ved hvert av treenighetens navn) var standardformen. Didache tillater øsing ved nød.</p>
+<p><strong>Salvelse, hvitt klede, lys</strong>: Etter dåpen ble den nyomvendte salvet med olje («Kristus» = «den salvede»), ikledd hvit drakt (symbol på ren, ny identitet) og gitt et lys. Disse symbolene lever videre i mange dåpsritualer i dag.</p>
+<h3 id="5-tid-rom-og-sang">5. Tid, rom og sang<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#5-tid-rom-og-sang" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p><strong>Søndagen</strong>: Den første dag i uken ble fra tidligste tid «Herrens dag» (<em>kyriakē hēmera</em> — Åp 1:10). Det er ikke Moseloven som bestemmer søndagsfeiringen, men minnene om oppstandelsen. Justin begrunner søndagen: «Fordi Jesus Kristus stod opp fra de døde på denne dag.»</p>
+<p><strong>Kirkekalender</strong>: Den kristne liturgiske kalender vokste frem gradvis:</p>
+<ul>
+<li>Påske (den eldste og viktigste festen) — med fasteperioden (Quadragesima) foran</li>
+<li>Pinse (50 dager etter påske)</li>
+<li>Advent og jul (sent — advent kom ikke fullt ut før 500-tallet i vest)</li>
+<li>Helgenenes minnedager</li>
+</ul>
+<p><strong>Rommet</strong>: Fra huskirker til tilpassede rom (<em>domus ecclesiae</em>) til, etter Konstantin (313), storstilte basilikaer. Rommets arkitektur formet gudstjenesten: Basilikaen la til rette for prosesjon, hierarkisk plassering og klart skille mellom kor og skip.</p>
+<p><strong>Sang</strong>: Salmesang, hymnesang og responsorialt (vekselsvis) sang var sentrale fra begynnelsen. Paulus nevner «salmer, hymner og åndelige sanger» (Kol 3:16; Ef 5:19). Augustin bekjente sin ambivalens: Han var bekymret for å la musikken rive ham bort fra tekstens mening — og likte det. Sang ble forstått som bønn i fordoblet form: «Den som synger, ber to ganger» (tilskrevet Augustin).</p>
+<hr/>
+<h2 id="gudstjenestens-grunnstruktur-i-dag">Gudstjenestens grunnstruktur i dag<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#gudstjenestens-grunnstruktur-i-dag" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Til tross for enormt variasjon mellom luthersk søndagsgudstjeneste, katolsk messe, ortodoks liturgi, baptistisk søndagsmøte og karismatisk lovsangsgudstjeneste — bærer nesten alle kristne samlinger spor av den strukturen Justin beskrev rundt 155 e.Kr.:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Element</th><th>Oldkirkelig form</th><th>Luthersk tradisjon</th><th>Fri tradisjon</th></tr></thead><tbody><tr><td>Samling</td><td>Prosesjon, inntreden</td><td>Preludium, inngangsord</td><td>Lovsang, velkomst</td></tr><tr><td>Skriftlesning</td><td>Lektor leser GT og NT</td><td>Tekster fra perikopeserien</td><td>Predikerens tekst</td></tr><tr><td>Forkynnelse</td><td>Homilie</td><td>Preken</td><td>Preken</td></tr><tr><td>Fellesbønn</td><td>Stående menighetsbon</td><td>Forbønn</td><td>Forbønn</td></tr><tr><td>Nattverd</td><td>Taksigelsesbønn + utdeling</td><td>Innstiftelsesord + kommunion</td><td>Varierer</td></tr><tr><td>Sending</td><td>Velsignelse</td><td>Velsignelse + utsendelse</td><td>«Gå i fred»</td></tr></tbody></table></div>
+<hr/>
+<h2 id="teologisk-mening--hvorfor-samles-vi">Teologisk mening — hvorfor samles vi?<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#teologisk-mening--hvorfor-samles-vi" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<h3 id="guds-folk-samlet-rundt-guds-ord">Guds folk samlet rundt Guds Ord<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#guds-folk-samlet-rundt-guds-ord" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Gudstjenesten er ikke primært en læringsseanse, et sosialt arrangement eller en konsertopplevelse. Det er Guds folk — det folket han har kalt ut (<em>ekklēsia</em>) — som samles rundt hans Ord og hans bord. Samlingen er i seg selv et teologisk utsagn: Vi er ikke enkeltindivider som lever vår tro privat; vi er et folk som tilhører hverandre fordi vi alle tilhører Gud.</p>
+<h3 id="gjentakelse-som-formende-kraft">Gjentakelse som formende kraft<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#gjentakelse-som-formende-kraft" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>En av de lite påaktede dimensjonene ved gudstjenesten er den formende kraften i gjentakelse. Å be Fadervår uke etter uke, år etter år, former bønneorientingen innenfra. Å høre Skriften lest og forklart formen en bestemt forståelse av virkeligheten. Å motta nattverden gjentagende ganger formdyktiggjør kroppen og sinnet i Kristi minnes retning.</p>
+<p>James K.A. Smith (<em>Liturgy as Pedagogy</em>) kaller dette «liturgical formation»: Gudstjenestens ritualer og gjentakelser former, over tid, hva vi elsker — ikke bare hva vi tror.</p>
+<h3 id="forutsmak-av-det-kommende">Forutsmak av det kommende<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#forutsmak-av-det-kommende" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p>Nattverd og forsamling er, i NT, ikke bare minnehøytider — de er eskatologiske handlinger. Paulus: «Hver gang dere spiser dette brødet og drikker av begeret, forkynner dere Herrens død, inntil han kommer» (1 Kor 11:26). Gudstjenesten holder fortid (Jesu død og oppstandelse), nåtid (menighetens samling) og fremtid (Herrens gjenkomst) i én og samme handling. Didaches <em>Marana ta</em> — «Kom, Herre!» — er det eukaristiske ropet som binder alle tre tidsplan sammen.</p>
+<hr/>
+<h2 id="sammenheng-med-andre-artikler">Sammenheng med andre artikler<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#sammenheng-med-andre-artikler" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ul>
+<li><a href="../kirkehistorie/nattverd-i-oldkirken" class="internal" data-slug="kirkehistorie/nattverd-i-oldkirken">nattverd-i-oldkirken</a> — nattverdens teologi og praksis i oldkirken</li>
+<li><a href="../kirkehistorie/didache" class="internal" data-slug="kirkehistorie/didache">didache</a> — den eldste kirkehåndboken</li>
+<li><a href="../kirkehistorie/tidligkristen-bønnepraksis" class="internal alias" data-slug="kirkehistorie/tidligkristen-bønnepraksis">tidligkristen-bønnepraksis</a> — bønnens former og tidebønnen</li>
+<li><a href="../tro-og-liv/dapen" class="internal" data-slug="tro-og-liv/dapen">dapen</a> — dåpsteologi og dåpspraksis</li>
+<li><a href="../tro-og-liv/bønn" class="internal alias" data-slug="tro-og-liv/bønn">bønn</a> — bønn generelt</li>
+<li><a href="../tro-og-liv/fellesskap" class="internal" data-slug="tro-og-liv/fellesskap">fellesskap</a> — menigheten som fellesskap</li>
+<li><a href="../kirkehistorie/apostoliske-fedre" class="internal" data-slug="kirkehistorie/apostoliske-fedre">apostoliske-fedre</a> — Justin Martyr og Ignatius om gudstjenesten</li>
+<li><a href="../Bibelen---det-Nye-Testamentet/den-fortapte-sonnen" class="internal alias" data-slug="Bibelen---det-Nye-Testamentet/den-fortapte-sonnen">den-fortapte-sonnen</a> — bordfellesskap som teologisk symbol</li>
+</ul>
+<hr/>
+<h2 id="kilder">Kilder<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#kilder" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ul>
+<li><a href="../sources/McGowan-2014-ancient-christian-worship" class="internal" data-slug="sources/McGowan-2014-ancient-christian-worship">McGowan-2014-ancient-christian-worship</a> — McGowan, A.B. (2014): <em>Ancient Christian Worship</em>. Baker Academic</li>
+<li><a href="../sources/Pedersen-2012-oldkirken" class="internal" data-slug="sources/Pedersen-2012-oldkirken">Pedersen-2012-oldkirken</a> — Pedersen, N.A. (2012): <em>Kirkens historie: Oldkirken</em>, kap. 3: Gudstjeneste, fromhet og huskirker. Cappelen Damm</li>
+<li><a href="../sources/Didache-primærtekst" class="internal alias" data-slug="sources/Didache-primærtekst">Didache-primærtekst</a> — Didache (ca. 70–90 e.Kr.), kap. 7–15</li>
+<li><a href="../sources/studier-personlige" class="internal" data-slug="sources/studier-personlige">studier-personlige</a> — egne studier og notater</li>
+</ul></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Graf-visning</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="toc desktop-only"><button type="button" class="toc-header" aria-controls="toc-96" aria-expanded="true"><h3>Oversikt</h3><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><ul id="list-1" class="toc-content overflow"><li class="depth-0"><a href="#hva-er-gudstjeneste" data-for="hva-er-gudstjeneste">Hva er gudstjeneste?</a></li><li class="depth-0"><a href="#oldkirkens-varierte-utgangspunkt" data-for="oldkirkens-varierte-utgangspunkt">Oldkirkens varierte utgangspunkt</a></li><li class="depth-0"><a href="#jødiske-røtter" data-for="jødiske-røtter">Jødiske røtter</a></li><li class="depth-0"><a href="#husmenigheter--de-første-to-tre-hundre-år" data-for="husmenigheter--de-første-to-tre-hundre-år">Husmenigheter — de første to-tre hundre år</a></li><li class="depth-0"><a href="#didache--kirkens-eldste-håndbok" data-for="didache--kirkens-eldste-håndbok">Didache — kirkens eldste håndbok</a></li><li class="depth-0"><a href="#justins-klassiske-beskrivelse-ca-155-ekr" data-for="justins-klassiske-beskrivelse-ca-155-ekr">Justins klassiske beskrivelse (ca. 155 e.Kr.)</a></li><li class="depth-0"><a href="#gudstjenestens-fem-hovedelementer" data-for="gudstjenestens-fem-hovedelementer">Gudstjenestens fem hovedelementer</a></li><li class="depth-1"><a href="#1-bønn-prayer" data-for="1-bønn-prayer">1. Bønn (Prayer)</a></li><li class="depth-1"><a href="#2-måltid-meal" data-for="2-måltid-meal">2. Måltid (Meal)</a></li><li class="depth-1"><a href="#3-ordet-word" data-for="3-ordet-word">3. Ordet (Word)</a></li><li class="depth-1"><a href="#4-dåpen-bath" data-for="4-dåpen-bath">4. Dåpen (Bath)</a></li><li class="depth-1"><a href="#5-tid-rom-og-sang" data-for="5-tid-rom-og-sang">5. Tid, rom og sang</a></li><li class="depth-0"><a href="#gudstjenestens-grunnstruktur-i-dag" data-for="gudstjenestens-grunnstruktur-i-dag">Gudstjenestens grunnstruktur i dag</a></li><li class="depth-0"><a href="#teologisk-mening--hvorfor-samles-vi" data-for="teologisk-mening--hvorfor-samles-vi">Teologisk mening — hvorfor samles vi?</a></li><li class="depth-1"><a href="#guds-folk-samlet-rundt-guds-ord" data-for="guds-folk-samlet-rundt-guds-ord">Guds folk samlet rundt Guds Ord</a></li><li class="depth-1"><a href="#gjentakelse-som-formende-kraft" data-for="gjentakelse-som-formende-kraft">Gjentakelse som formende kraft</a></li><li class="depth-1"><a href="#forutsmak-av-det-kommende" data-for="forutsmak-av-det-kommende">Forutsmak av det kommende</a></li><li class="depth-0"><a href="#sammenheng-med-andre-artikler" data-for="sammenheng-med-andre-artikler">Sammenheng med andre artikler</a></li><li class="depth-0"><a href="#kilder" data-for="kilder">Kilder</a></li><li class="overflow-end"></li></ul></div><div class="backlinks"><h3>Tilbakekoblinger</h3><ul id="list-2" class="overflow"><li><a href="../kirkehistorie/" class="internal">Kirkehistorie</a></li><li><a href="../kirkehistorie/tidligkristen-bønnepraksis" class="internal">Tidlig kristen bønnepraksis</a></li><li><a href="../lese-og-forstå-bibelen/bibelen" class="internal">Bibelen — oversikt</a></li><li><a href="../tro-og-liv/bønn" class="internal">Bønn</a></li><li><a href="../tro-og-liv/kirken" class="internal">Kirken</a></li><li class="overflow-end"></li></ul></div></div><footer class><p>Laget med <a href="https://quartz.jzhao.xyz/">Quartz v4.5.2</a> © 2026</p><ul><li><a href="https://github.com/jackyzha0/quartz">GitHub</a></li><li><a href="https://discord.gg/cRFFHYye7t">Discord Community</a></li></ul></footer></div></div></body><script type="application/javascript" data-persist="true">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function c(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let o=e.classList.contains("is-collapsed");s.style.gridTemplateRows=o?"0fr":"1fr"}}document.addEventListener("nav",c);
+</script><script type="module" data-persist="true">function E(a,e){if(!a)return;function t(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function n(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}a?.addEventListener("click",t),window.addCleanup(()=>a?.removeEventListener("click",t)),document.addEventListener("keydown",n),window.addCleanup(()=>document.removeEventListener("keydown",n))}function f(a){for(;a.firstChild;)a.removeChild(a.firstChild)}var m=class{constructor(e,t){this.container=e;this.content=t;this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}isDragging=!1;startPan={x:0,y:0};currentPan={x:0,y:0};scale=1;MIN_SCALE=.5;MAX_SCALE=3;cleanups=[];setupEventListeners(){let e=this.onMouseDown.bind(this),t=this.onMouseMove.bind(this),n=this.onMouseUp.bind(this),o=this.onTouchStart.bind(this),r=this.onTouchMove.bind(this),i=this.onTouchEnd.bind(this),s=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",t),document.addEventListener("mouseup",n),this.container.addEventListener("touchstart",o,{passive:!1}),document.addEventListener("touchmove",r,{passive:!1}),document.addEventListener("touchend",i),window.addEventListener("resize",s),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",t),()=>document.removeEventListener("mouseup",n),()=>this.container.removeEventListener("touchstart",o),()=>document.removeEventListener("touchmove",r),()=>document.removeEventListener("touchend",i),()=>window.removeEventListener("resize",s))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let t=this.createButton("+",()=>this.zoom(.1)),n=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(n),e.appendChild(o),e.appendChild(t),this.container.appendChild(e)}createButton(e,t){let n=document.createElement("button");return n.textContent=e,n.className="mermaid-control-button",n.addEventListener("click",t),window.addCleanup(()=>n.removeEventListener("click",t)),n}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}onTouchStart(e){if(e.touches.length!==1)return;this.isDragging=!0;let t=e.touches[0];this.startPan={x:t.clientX-this.currentPan.x,y:t.clientY-this.currentPan.y}}onTouchMove(e){if(!this.isDragging||e.touches.length!==1)return;e.preventDefault();let t=e.touches[0];this.currentPan={x:t.clientX-this.startPan.x,y:t.clientY-this.startPan.y},this.updateTransform()}onTouchEnd(){this.isDragging=!1}zoom(e){let t=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),n=this.content.getBoundingClientRect(),o=n.width/2,r=n.height/2,i=t-this.scale;this.currentPan.x-=o*i,this.currentPan.y-=r*i,this.scale=t,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){let t=this.content.querySelector("svg").getBoundingClientRect(),n=t.width/this.scale,o=t.height/this.scale;this.scale=1,this.currentPan={x:(this.container.clientWidth-n)/2,y:(this.container.clientHeight-o)/2},this.updateTransform()}},T=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],y;document.addEventListener("nav",async()=>{let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;y||=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs");let t=y.default,n=new WeakMap;for(let r of e)n.set(r,r.innerText);async function o(){for(let s of e){s.removeAttribute("data-processed");let c=n.get(s);c&&(s.innerHTML=c)}let r=T.reduce((s,c)=>(s[c]=window.getComputedStyle(document.documentElement).getPropertyValue(c),s),{}),i=document.documentElement.getAttribute("saved-theme")==="dark";t.initialize({startOnLoad:!1,securityLevel:"loose",theme:i?"dark":"base",themeVariables:{fontFamily:r["--codeFont"],primaryColor:r["--light"],primaryTextColor:r["--darkgray"],primaryBorderColor:r["--tertiary"],lineColor:r["--darkgray"],secondaryColor:r["--secondary"],tertiaryColor:r["--tertiary"],clusterBkg:r["--light"],edgeLabelBackground:r["--highlight"]}}),await t.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let r=0;r<e.length;r++){let v=function(){let g=l.querySelector("#mermaid-space"),h=l.querySelector(".mermaid-content");if(!h)return;f(h);let w=i.querySelector("svg").cloneNode(!0);h.appendChild(w),l.classList.add("active"),g.style.cursor="grab",u=new m(g,h)},M=function(){l.classList.remove("active"),u?.cleanup(),u=null},i=e[r],s=i.parentElement,c=s.querySelector(".clipboard-button"),d=s.querySelector(".expand-button"),p=window.getComputedStyle(c),L=c.offsetWidth+parseFloat(p.marginLeft||"0")+parseFloat(p.marginRight||"0");d.style.right=`calc(${L}px + 0.3rem)`,s.prepend(d);let l=s.querySelector("#mermaid-container");if(!l)return;let u=null;d.addEventListener("click",v),E(l,M),window.addCleanup(()=>{u?.cleanup(),d.removeEventListener("click",v)})}});
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript" data-persist="true"></script><script type="application/javascript" data-persist="true">
+        const socket = new WebSocket('ws://localhost:3001')
+        // reload(true) ensures resources like images and scripts are fetched again in firefox
+        socket.addEventListener('message', () => document.location.reload(true))
+      </script><script src="../postscript.js" type="module" data-persist="true"></script></html>

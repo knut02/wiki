@@ -6,6 +6,7 @@ updated: 2025-06-13
 sources: 3
 kategori: Teologi
 sub-kategori: Frelseslære og forsoning
+tags: [kristendom, definisjon, kjerne, tro, Kristus, kirke, inkarnasjon]
 ---
 
 # Hva er kristendom?

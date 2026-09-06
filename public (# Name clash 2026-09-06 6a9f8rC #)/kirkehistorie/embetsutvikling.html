@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="nb" dir="ltr"><head><title>Embetsutvikling i oldkirken — frem til år 900</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Schibsted Grotesk:wght@400;700&amp;family=Source Sans Pro:ital,wght@0,400;0,600;1,400;1,600&amp;family=IBM Plex Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="Wiki"/><meta property="og:title" content="Embetsutvikling i oldkirken — frem til år 900"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Embetsutvikling i oldkirken — frem til år 900"/><meta name="twitter:description" content="Fra løse menighetsledere til monepiskopat, metropolitter, patriarker og paveembetets framvekst — kirkens embetsstruktur fra det 1. til det 9. århundre."/><meta property="og:description" content="Fra løse menighetsledere til monepiskopat, metropolitter, patriarker og paveembetets framvekst — kirkens embetsstruktur fra det 1. til det 9. århundre."/><meta property="og:image:alt" content="Fra løse menighetsledere til monepiskopat, metropolitter, patriarker og paveembetets framvekst — kirkens embetsstruktur fra det 1. til det 9. århundre."/><meta property="og:image" content="https://knut02.github.io/wiki/static/og-image.png"/><meta property="og:image:url" content="https://knut02.github.io/wiki/static/og-image.png"/><meta name="twitter:image" content="https://knut02.github.io/wiki/static/og-image.png"/><meta property="og:image:type" content="image/.png"/><meta property="twitter:domain" content="knut02.github.io/wiki"/><meta property="og:url" content="https://knut02.github.io/wiki/kirkehistorie/embetsutvikling"/><meta property="twitter:url" content="https://knut02.github.io/wiki/kirkehistorie/embetsutvikling"/><link rel="icon" href="../static/icon.png"/><meta name="description" content="Fra løse menighetsledere til monepiskopat, metropolitter, patriarker og paveembetets framvekst — kirkens embetsstruktur fra det 1. til det 9. århundre."/><meta name="generator" content="Quartz"/><link href="../index.css" rel="stylesheet" type="text/css" data-persist="true"/><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VSb290IjoiQzpcXFVzZXJzXFxrbnV0bFxcUHJvdG9uIERyaXZlXFxrbnV0Lmxva2VuXFxNeSBmaWxlc1xcY2xhdWRlXFxxdWFydHotd2lraVxccXVhcnR6XFxjb21wb25lbnRzXFxzdHlsZXMiLCJzb3VyY2VzIjpbIm1lcm1haWQuaW5saW5lLnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFO0VBQ0E7O0FBR0Y7RUFDRTtFQUNBOztBQUdGO0VBQ0U7OztBQUtGO0VBQ0U7RUFDQTs7O0FBSUo7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7O0FBR0Y7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFO0VBQ0E7O0FBR0Y7RUFDRTtFQUNBOztBQUlKO0VBQ0U7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7O0FBRUE7RUFDRTs7QUFHRjtFQUNFOztBQUlGO0VBQ0U7RUFDQTtFQUNBIiwic291cmNlc0NvbnRlbnQiOlsiLmV4cGFuZC1idXR0b24ge1xuICBwb3NpdGlvbjogYWJzb2x1dGU7XG4gIGRpc3BsYXk6IGZsZXg7XG4gIGZsb2F0OiByaWdodDtcbiAgcGFkZGluZzogMC40cmVtO1xuICBtYXJnaW46IDAuM3JlbTtcbiAgcmlnaHQ6IDA7IC8vIE5PVEU6IHJpZ2h0IHdpbGwgYmUgc2V0IGluIG1lcm1haWQuaW5saW5lLnRzXG4gIGNvbG9yOiB2YXIoLS1ncmF5KTtcbiAgYm9yZGVyLWNvbG9yOiB2YXIoLS1kYXJrKTtcbiAgYmFja2dyb3VuZC1jb2xvcjogdmFyKC0tbGlnaHQpO1xuICBib3JkZXI6IDFweCBzb2xpZDtcbiAgYm9yZGVyLXJhZGl1czogNXB4O1xuICBvcGFjaXR5OiAwO1xuICB0cmFuc2l0aW9uOiAwLjJzO1xuXG4gICYgPiBzdmcge1xuICAgIGZpbGw6IHZhcigtLWxpZ2h0KTtcbiAgICBmaWx0ZXI6IGNvbnRyYXN0KDAuMyk7XG4gIH1cblxuICAmOmhvdmVyIHtcbiAgICBjdXJzb3I6IHBvaW50ZXI7XG4gICAgYm9yZGVyLWNvbG9yOiB2YXIoLS1zZWNvbmRhcnkpO1xuICB9XG5cbiAgJjpmb2N1cyB7XG4gICAgb3V0bGluZTogMDtcbiAgfVxufVxuXG5wcmUge1xuICAmOmhvdmVyID4gLmV4cGFuZC1idXR0b24ge1xuICAgIG9wYWNpdHk6IDE7XG4gICAgdHJhbnNpdGlvbjogMC4ycztcbiAgfVxufVxuXG4jbWVybWFpZC1jb250YWluZXIge1xuICBwb3NpdGlvbjogZml4ZWQ7XG4gIGNvbnRhaW46IGxheW91dDtcbiAgei1pbmRleDogOTk5O1xuICBsZWZ0OiAwO1xuICB0b3A6IDA7XG4gIHdpZHRoOiAxMDB2dztcbiAgaGVpZ2h0OiAxMDB2aDtcbiAgb3ZlcmZsb3c6IGhpZGRlbjtcbiAgZGlzcGxheTogbm9uZTtcbiAgYmFja2Ryb3AtZmlsdGVyOiBibHVyKDRweCk7XG4gIGJhY2tncm91bmQ6IHJnYmEoMCwgMCwgMCwgMC41KTtcblxuICAmLmFjdGl2ZSB7XG4gICAgZGlzcGxheTogaW5saW5lLWJsb2NrO1xuICB9XG5cbiAgJiA+ICNtZXJtYWlkLXNwYWNlIHtcbiAgICBib3JkZXI6IDFweCBzb2xpZCB2YXIoLS1saWdodGdyYXkpO1xuICAgIGJhY2tncm91bmQtY29sb3I6IHZhcigtLWxpZ2h0KTtcbiAgICBib3JkZXItcmFkaXVzOiA1cHg7XG4gICAgcG9zaXRpb246IGZpeGVkO1xuICAgIHRvcDogNTAlO1xuICAgIGxlZnQ6IDUwJTtcbiAgICB0cmFuc2Zvcm06IHRyYW5zbGF0ZSgtNTAlLCAtNTAlKTtcbiAgICBoZWlnaHQ6IDgwdmg7XG4gICAgd2lkdGg6IDgwdnc7XG4gICAgb3ZlcmZsb3c6IGhpZGRlbjtcblxuICAgICYgPiAubWVybWFpZC1jb250ZW50IHtcbiAgICAgIHBvc2l0aW9uOiByZWxhdGl2ZTtcbiAgICAgIHRyYW5zZm9ybS1vcmlnaW46IDAgMDtcbiAgICAgIHRyYW5zaXRpb246IHRyYW5zZm9ybSAwLjFzIGVhc2U7XG4gICAgICBvdmVyZmxvdzogdmlzaWJsZTtcbiAgICAgIG1pbi1oZWlnaHQ6IDIwMHB4O1xuICAgICAgbWluLXdpZHRoOiAyMDBweDtcblxuICAgICAgcHJlIHtcbiAgICAgICAgbWFyZ2luOiAwO1xuICAgICAgICBib3JkZXI6IG5vbmU7XG4gICAgICB9XG5cbiAgICAgIHN2ZyB7XG4gICAgICAgIG1heC13aWR0aDogbm9uZTtcbiAgICAgICAgaGVpZ2h0OiBhdXRvO1xuICAgICAgfVxuICAgIH1cblxuICAgICYgPiAubWVybWFpZC1jb250cm9scyB7XG4gICAgICBwb3NpdGlvbjogYWJzb2x1dGU7XG4gICAgICBib3R0b206IDIwcHg7XG4gICAgICByaWdodDogMjBweDtcbiAgICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgICBnYXA6IDhweDtcbiAgICAgIHBhZGRpbmc6IDhweDtcbiAgICAgIGJhY2tncm91bmQ6IHZhcigtLWxpZ2h0KTtcbiAgICAgIGJvcmRlcjogMXB4IHNvbGlkIHZhcigtLWxpZ2h0Z3JheSk7XG4gICAgICBib3JkZXItcmFkaXVzOiA2cHg7XG4gICAgICBib3gtc2hhZG93OiAwIDJweCA0cHggcmdiYSgwLCAwLCAwLCAwLjEpO1xuICAgICAgei1pbmRleDogMjtcblxuICAgICAgLm1lcm1haWQtY29udHJvbC1idXR0b24ge1xuICAgICAgICBkaXNwbGF5OiBmbGV4O1xuICAgICAgICBhbGlnbi1pdGVtczogY2VudGVyO1xuICAgICAgICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjtcbiAgICAgICAgd2lkdGg6IDMycHg7XG4gICAgICAgIGhlaWdodDogMzJweDtcbiAgICAgICAgcGFkZGluZzogMDtcbiAgICAgICAgYm9yZGVyOiAxcHggc29saWQgdmFyKC0tbGlnaHRncmF5KTtcbiAgICAgICAgYmFja2dyb3VuZDogdmFyKC0tbGlnaHQpO1xuICAgICAgICBjb2xvcjogdmFyKC0tZGFyayk7XG4gICAgICAgIGJvcmRlci1yYWRpdXM6IDRweDtcbiAgICAgICAgY3Vyc29yOiBwb2ludGVyO1xuICAgICAgICBmb250LXNpemU6IDE2cHg7XG4gICAgICAgIGZvbnQtZmFtaWx5OiB2YXIoLS1ib2R5Rm9udCk7XG4gICAgICAgIHRyYW5zaXRpb246IGFsbCAwLjJzIGVhc2U7XG5cbiAgICAgICAgJjpob3ZlciB7XG4gICAgICAgICAgYmFja2dyb3VuZDogdmFyKC0tbGlnaHRncmF5KTtcbiAgICAgICAgfVxuXG4gICAgICAgICY6YWN0aXZlIHtcbiAgICAgICAgICB0cmFuc2Zvcm06IHRyYW5zbGF0ZVkoMXB4KTtcbiAgICAgICAgfVxuXG4gICAgICAgIC8vIFN0eWxlIHRoZSByZXNldCBidXR0b24gZGlmZmVyZW50bHlcbiAgICAgICAgJjpudGgtY2hpbGQoMikge1xuICAgICAgICAgIHdpZHRoOiBhdXRvO1xuICAgICAgICAgIHBhZGRpbmc6IDAgMTJweDtcbiAgICAgICAgICBmb250LXNpemU6IDE0cHg7XG4gICAgICAgIH1cbiAgICAgIH1cbiAgICB9XG4gIH1cbn1cbiJdfQ== */</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" data-persist="true"/><script src="../prescript.js" type="application/javascript" data-persist="true"></script><script type="application/javascript" data-persist="true">const fetchData = fetch("../static/contentIndex.json").then(data => data.json())</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://knut02.github.io/wiki/index.xml"/></head><body data-slug="kirkehistorie/embetsutvikling"><div id="quartz-root" class="page"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="..">Wiki</a></h2><div class="spacer mobile-only"></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 1rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg><p>Søk</p></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Søk etter noe" placeholder="Søk etter noe"/><div class="search-layout" data-preview="true"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Mørk modus"><title>Mørk modus</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Lys modus"><title>Lys modus</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Læsemodus"><title>Læsemodus</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a,b)=>!a.isFolder&amp;&amp;!b.isFolder||a.isFolder&amp;&amp;b.isFolder?a.displayName.localeCompare(b.displayName,void 0,{numeric:!0,sensitivity:\&quot;base\&quot;}):!a.isFolder&amp;&amp;b.isFolder?1:-1&quot;,&quot;filterFn&quot;:&quot;node=>node.slugSegment!==\&quot;tags\&quot;&quot;,&quot;mapFn&quot;:&quot;node=>node&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-211"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Utforsker</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div id="explorer-211" class="explorer-content" aria-expanded="false" role="group"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#"></a></li></template><template id="template-folder"><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../kirkehistorie/">Kirkehistorie</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>Embetsutvikling i oldkirken — frem til år 900</a></div></nav><h1 class="article-title">Embetsutvikling i oldkirken — frem til år 900</h1><p class="front-description">Fra løse menighetsledere til monepiskopat, metropolitter, patriarker og paveembetets framvekst — kirkens embetsstruktur fra det 1. til det 9. århundre.</p><p show-comma="true" class="content-meta"><time datetime="2025-06-01T22:00:00.000Z">02. juni 2025</time><span>9 min lesning</span></p></div></div><article class="popover-hint"><h1 id="embetsutvikling-i-oldkirken--frem-til-år-900">Embetsutvikling i oldkirken — frem til år 900<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#embetsutvikling-i-oldkirken--frem-til-år-900" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<blockquote>
+<p>«Uten biskop, presbytere og diakoner kan det ikke kalles noen kirke.» — Ignatius av Antiokia, ca. 110 e.Kr.</p>
+</blockquote>
+<blockquote>
+<p>«Biskopene er ikke sterkere enn konsilene, og konsilene er ikke sterkere enn Skriften.» — Augustin, ca. 400 e.Kr.</p>
+</blockquote>
+<hr/>
+<h2 id="utgangspunktet-løs-organisasjon-12-århundre">Utgangspunktet: løs organisasjon (1.–2. århundre)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#utgangspunktet-løs-organisasjon-12-århundre" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Urkirken hadde ingen fast embetsstruktur. De paulinske menighetene var preget av karismatiske nådegaver — tungetale, profeti, helbredelse — der Ånden fordelte oppgaver fritt (1 Kor 12). Det fantes heller ikke institusjonelle bånd mellom menighetene som kunne sikre kontinuitet utover enkeltpersonenes død.</p>
+<p>Pedersen (2012) understreker at denne situasjonen med løs organisasjon og udefinert lære sannsynligvis vedvarte i mange menigheter rundt år 100. Da <em>parusia</em> uteble og de som hadde møtt Jesus personlig var døde, ble spørsmålet presserende: Hvem sitter på autoriteten? Hva er den sanne lære?</p>
+<hr/>
+<h2 id="presbyterordningen">Presbyterordningen<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#presbyterordningen" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Det første tydelige lederskapet i menighetene var <strong>presbyterne</strong> — «de eldste» (gresk: <em>presbyteros</em>, rot til det norske «prest»). Ordningen er sannsynligvis arvet fra jødedommen, der lokale råd av eldste ledet synagogene.</p>
+<p>I NT nevnes presbyterne i Apostlenes gjerninger og pastoralebrevene (1 Tim, 2 Tim, Tit). I Roma holdt menighetene til i private hus — huskirker — organisert i separate grupper. Det var trolig en lederpresbyter som forfattet <strong>1. Klemensbrev</strong> (ca. 95 e.Kr.) på vegne av Romakirken til Korint.</p>
+<ol>
+<li>Klemensbrev er et tidlig vitnesbyrd om embetstenkning: Gud vil orden. Apostlene innsatte de første biskopene, og det skal være et varig embede. Men det mangler fortsatt: Ingen biskop i entall over Roma, ingen interesse for ordinasjonen, ingen biskop som bærer av apostolisk tradisjon mot vranglærere. Det kommer senere.</li>
+</ol>
+<hr/>
+<h2 id="monepiskopatet--én-biskop-over-menigheten-2-århundre">Monepiskopatet — én biskop over menigheten (2. århundre)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#monepiskopatet--én-biskop-over-menigheten-2-århundre" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Det avgjørende skrittet var <strong>monepiskopatet</strong>: én biskop (<em>episkopos</em>, «tilsynsmann») øverst, med presbyterne og diakonene under seg. Denne strukturen kjenner vi fra <strong>Ignatius av Antiokia</strong> (ca. 110 e.Kr.).</p>
+<p>Ignatius’ begrunnelse er ikke tradisjon men <strong>enhetens sakrament</strong>: Biskopen er menighetens midtpunkt, slik Kristus er universets midtpunkt. «Bare den nattverd som holdes av en biskop, eller av en han har utpekt, skal være gyldig.»</p>
+<p><strong>Ireneus av Lyon</strong> (ca. 180) artikulerte det videre: Den sanne lære er den biskopene har mottatt fra apostlene i ubrutt rekke. Suksesjonslister tilbake til apostlene ble kirkerettslige dokumenter like mye som historiske.</p>
+<p>Pedersen er klar: Monepiskopatet ble ikke utviklet mot karismer eller demokrati. Det var et svar på <strong>gnostisisme og splittelse</strong> — ingen annen instans kunne avgjøre hva som var sann kristendom.</p>
+<hr/>
+<h2 id="den-treddelte-embetsstrukturen">Den treddelte embetsstrukturen<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#den-treddelte-embetsstrukturen" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Fra slutten av det 2. århundre var den klassiske strukturen konsolidert:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Embete</th><th>Gresk</th><th>Funksjon</th></tr></thead><tbody><tr><td>Biskop</td><td><em>episkopos</em></td><td>Øverste leder; lærevokter; leder nattverden; ordinerer</td></tr><tr><td>Presbyter/Prest</td><td><em>presbyteros</em></td><td>Råd under biskopen; gudstjeneste i lokalmenigheter</td></tr><tr><td>Diakon</td><td><em>diakonos</em></td><td>Praktisk tjeneste; bistand ved gudstjenesten</td></tr></tbody></table></div>
+<p>Alexandria hadde lenge en kollegial presbyter-ledelse. Roma hadde mange husmenigheter som ikke ble sentralt ledet av én biskop før Fabianus (236–250).</p>
+<hr/>
+<h2 id="den-montanistiske-krisen-ca-156172-ekr">Den montanistiske krisen (ca. 156/172 e.Kr.)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#den-montanistiske-krisen-ca-156172-ekr" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Den latente spenningen mellom embede og karisma ble manifest i <strong>montanismen</strong> (Frygia). Profeten Montanos hevdet at Ånden hadde kommet på ny. Talen i ekstase var Åndens direkte stemme.</p>
+<p>Kirkens respons: Ekskommunikasjon og teologisk avvisning — ekte profeti skjer ikke i ekstase. Konsekvensen: Ekstatisk profeti ble trengt tilbake. Tertullian (som ble montanist) formulerte kritikken som siden har gjenklunget: Biskoppen har ingen rett til å sette seg over Ånden.</p>
+<hr/>
+<h2 id="konstantin-og-kirkens-nye-stilling-300-tallet">Konstantin og kirkens nye stilling (300-tallet)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#konstantin-og-kirkens-nye-stilling-300-tallet" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Konstantins omvendelse og Milanoediktet (313) endret alt. Fra forfulgt minoritet til begunstiget statskirke — og med det, ny struktur.</p>
+<p><strong>Nikea-konsilet 325</strong> vedtok 20 kirkerettslige bestemmelser (<em>canones</em>) om organisasjon. Det viktigste: En formalisert differensiering mellom biskopene basert på Romerrikets provinsinndelingen.</p>
+<p><strong>Metropolit-systemet:</strong> Biskopen i provinsens hovedstad (<em>metropolis</em>) ble metropolitt — overhode over provinsens øvrige biskoper. En ny biskop skulle ordineres av minst tre andre biskoper, men bekreftes av metropolitten.</p>
+<blockquote>
+<p>«Middelalderens vestlige ‘ærkebiskopper’ er blot en anden betegnelse for metropolitterne, og det var i Nikæa, at denne sondring mellem biskopperne blev indført.» — Pedersen</p>
+</blockquote>
+<p>Metropolittene var i oldtiden ikke sterkt overordnet — de skulle via konsilinstitusjonen sikre at provinsens biskoper utgjorde et kollegium.</p>
+<hr/>
+<h2 id="de-fem-patriarkatene-300700-tallet">De fem patriarkatene (300–700-tallet)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#de-fem-patriarkatene-300700-tallet" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Over metropolittene vokste frem enda et lag: <strong>patriarkene</strong>. De fem store sentrene ble:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Sete</th><th>Status</th><th>Begrunnelse</th></tr></thead><tbody><tr><td>Roma</td><td>Fremste ærings</td><td>Peters grav; apostolisk grunnleggelse</td></tr><tr><td>Konstantinopel</td><td>Nr. 2 etter 381</td><td>«Det nye Roma» — keisernes by</td></tr><tr><td>Alexandria</td><td>Nr. 3</td><td>Markus’ grunnleggelse; Egyptens sentrum</td></tr><tr><td>Antiokia</td><td>Nr. 4</td><td>Peters første sete; oldkirkelig tyngde</td></tr><tr><td>Jerusalem</td><td>Nr. 5</td><td>Urmenigheten; hellig geografi</td></tr></tbody></table></div>
+<p>Kalkedon-konsilet 451 fastslo grensene mellom de fem patriarkatene. Den endelige kirkerettslige formuleringen kom på konsilet <em>Anden Trullanum</em> i 692.</p>
+<p><strong>Striden om Konstantinopels rang:</strong> Da Konstantinopel i 381 ble erklært nr. 2 «fordi Konstantinopel er det nye Roma», protesterte Roma og Alexandria: Forrangen måtte bygge på apostolsk grunnleggelse, ikke politiske forhold. Paven protesterte igjen i 451. Da patriarken i Konstantinopel i 588 tok tittelen «økumenisk patriark», nektet Roma å anerkjenne den.</p>
+<hr/>
+<h2 id="paveembetets-framvekst-37-århundre">Paveembetets framvekst (3.–7. århundre)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#paveembetets-framvekst-37-århundre" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>«Pave» (<em>papa</em> — «far») var opprinnelig en ærestitel for biskoper generelt, særlig brukt om biskopene i Alexandria og Roma. Utviklingen av Roma-biskopens særstilling er et av kirkehistoriens store temaer.</p>
+<h3 id="nøkkelsteg-i-pavemaktens-utvikling">Nøkkelsteg i pavemaktens utvikling<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#nøkkelsteg-i-pavemaktens-utvikling" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h3>
+<p><strong>Stefan av Roma (ca. 255):</strong> Første gang vi vet at en Romabiskog brukte Matt 16:18 («du er Peter…») som argument for sin autoritet. Stefan hevdet at han som Peters etterfølger hadde fullmakten til å treffe avgjørelser. Kyprian av Kartago avviste dette.</p>
+<p><strong>Julius av Roma (ca. 340–343):</strong> I forbindelse med den arianske striden ønsket pave Julius et nytt konsil og bebrejdet østens biskoper for å ha ignorert ham. Hevdet at han som Peters etterfølger «ifølge tradisjonen burde ha blitt kontaktet». Konsilet i Serdika (343) ga avlsatte biskoper rett til å appellere til paven — men paven fikk ikke alene treffe endelig avgjørelse.</p>
+<p><strong>Damasus (366–384):</strong> Forsvarte den nikenske tro i en befal ende stil. Peters etterfølgerskap ble nå mer sentralt enn den tidligere vanlige henvisningen til både Peter og Paulus som Romas grunnleggere.</p>
+<p><strong>Leo den store (440–461):</strong> Fikk keiser Valentinian III til å underlegge alle vestlige biskoper pavens domsmakt (edikt 445). Formulerte klarest: Paven er «hode» (<em>caput</em>) for de øvrige kirker. Konsiler er ugyldige uten pavens aksept. Peters etterfølger — og Peter lever videre i paven. Leos lærebrev <em>Tomus</em> ble triumfert på Kalkedon 451 da biskopene ropte: «Peter har talt gjennom Leo!»</p>
+<p><strong>Siricius (384–399):</strong> Første pave til å utstede en pavelig rettslig kjennelse (<em>dekret</em>) som svar på spørsmål fra biskoper — et nytt juridisk instrument.</p>
+<p><strong>Gelasius I (492–496):</strong> Formulerte «de to makter»-læren: <em>regnum</em> (kongemakt) og <em>sacerdotium</em> (prestemakt) er atskilte sfærer. I himmelske mysterier og teologi bestemmer biskopene under pavens ledelse; i verdslige saker underkaster biskopene seg keiseren.</p>
+<p><strong>Gregorius den store (590–604):</strong> En av de mest innflytelsesrike pavene i historien. Organiserte Roma-kirken som en effektiv administrativ og sosial institusjon. Misjonerte aktivt — sendte Augustin til England (596). Videreutviklet liturgi og gregoriansk sang. Konsoliderte pavens faktiske makt i vest i en tid der det vestromerske riket var falt og Byzantium var svekket. Betegnet seg selv som «Guds tjeneres tjener» (<em>servus servorum Dei</em>) — en tittel som pavene beholder.</p>
+<hr/>
+<h2 id="cæsaropapisme-og-kirkens-selvstendighet-300700-tallet">Cæsaropapisme og kirkens selvstendighet (300–700-tallet)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#cæsaropapisme-og-kirkens-selvstendighet-300700-tallet" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Med Konstantin oppstod en ny utfordring: Keiserne grep aktivt inn i kirkens indre saker. De innkalte konsiler, avsatte biskoper, presset fram teologiske kompromisser.</p>
+<p><strong>Cæsaropapisme</strong> — keiserens dominans over kirken — var den øst-romerske (bysantinske) modellen. Keiseren ble sett som en slags representant for Kristus i det jordiske rike: Han innkalte og ledet konsilene, formulerte trosedikter, avgjorde teologiske stridigheter.</p>
+<p>I vest utviklet det seg en mer selvstendig kirkemodell. Ambrosius av Milano (340–397) demonstrerte dette dramatisk da han tvang keiser Theodosius til offentlig botgang etter massakren i Thessaloniki (390) — en biskop som gjennomtvang ydmygelse av imperiets mektigste mann.</p>
+<p>Augustins <em>De civitate Dei</em> avviste enhver guddommelig status for det politiske riket: Keiseren sikrer <em>pax terrena</em> (jordisk fred) — ikke mer. Den himmelske by er kirkens, ikke rikets.</p>
+<hr/>
+<h2 id="synodeinstitusjonen">Synodeinstitusjonen<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#synodeinstitusjonen" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Fra montanist-striden (ca. 170) oppstod synoder — forsamlinger av biskoper som treffer bindende beslutninger. Gjennom det 4.–5. århundre ble stadig flere <em>canones</em> vedtatt: Ekteskaps- og seksualregulering, behandling av hæretikere og frafalne, liturgi, ordinasjoner, biskopers adferd, forholdet mellom biskop, metropolitt og patriark.</p>
+<p><strong>De syv økumeniske konsilene (325–787)</strong> er alle bysantinske og holdt i det nåværende Tyrkia:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Konsil</th><th>År</th><th>Tema</th></tr></thead><tbody><tr><td>Nikea I</td><td>325</td><td>Mot arianismen; <em>homoousios</em></td></tr><tr><td>Konstantinopel I</td><td>381</td><td>Fullføring av treenighetsläran; Åndens guddommelighet</td></tr><tr><td>Efesos</td><td>431</td><td><em>Theotokos</em>; mot nestorianismen</td></tr><tr><td>Kalkedon</td><td>451</td><td>To naturer i én person; mot monofysitismen</td></tr><tr><td>Konstantinopel II</td><td>553</td><td>Ytterligere anti-nestoriansk</td></tr><tr><td>Konstantinopel III</td><td>680–681</td><td>Mot monotelittismen</td></tr><tr><td>Nikea II</td><td>787</td><td>Ikonforsvaret; mot ikonoklasme</td></tr></tbody></table></div>
+<p>Østkirkene anerkjenner bare de to første, orientalsk-ortodokse kirker de tre første.</p>
+<hr/>
+<h2 id="det-store-skismaet-nærmer-seg-700900-tallet">Det store skismaet nærmer seg (700–900-tallet)<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#det-store-skismaet-nærmer-seg-700900-tallet" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>I perioden 700–900 dypnet kløften mellom øst og vest på tre fronter:</p>
+<p><strong>Teologisk:</strong> Vestkirken tilføyde <em>filioque</em> («og Sønnen») i Nikea-Konstantinopel-bekjennelsen — Ånden utgår fra Faderen <em>og Sønnen</em>. Østkirken avviste dette som et ulovlig tillegg til et konsil-vedtatt symbol.</p>
+<p><strong>Kirkerettslig:</strong> Roma hevdet primatet over hele kirken inkludert østkirken. Konstantinopel godtok bare «æresforrang».</p>
+<p><strong>Politisk:</strong> Pave Leo III kronet Karl den store til «romersk keiser» i 800 — uten å spørre Bysants. For østkirken var dette en provokasjon: Det fantes allerede en romersk keiser i Konstantinopel.</p>
+<p><strong>Fotios-schisma (863–867):</strong> Pave Nikolaus I og patriark Fotios av Konstantinopel ekskommuniserte hverandre gjensidig — et forvarsel om 1054. Fotios anklaget Roma for <em>filioque</em> og ulovlig innblanding i Bulgaria.</p>
+<hr/>
+<h2 id="munkevesenet-og-den-parallelle-autoritetsstrukturen">Munkevesenet og den parallelle autoritetsstrukturen<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#munkevesenet-og-den-parallelle-autoritetsstrukturen" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Parallelt med biskopsstrukturen vokste frem et <strong>monastisk embede</strong> — abbeder og abbedisser som ledet klostre. Klostervesenet representerte en alternativ autoritet: ikke biskopens juridiske og sakramentale makt, men den åndelige faderskapet og «tuktelærerens» veiledning.</p>
+<p>Konflikten som Tertullian formulerte — embede mot karisma — dukket opp igjen her. Noen klostre lå under biskopen; andre var de facto selvstendige. Benedikts regel (ca. 530) skapte en modell der abbeden styrte klosteret med full autoritet, men uten nødvendigvis å være prest.</p>
+<p>Gregorius den store bygget en bro: Han var munk som ble pave, og fremmet det monastiske idealet i hele vestkirken. Under ham ble klosterne viktige misjonsinstrumenter — og pavens forlengede arm.</p>
+<hr/>
+<h2 id="sammendrag-embetsstrukturens-utvikling-1900-ekr">Sammendrag: Embetsstrukturens utvikling 1–900 e.Kr<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#sammendrag-embetsstrukturens-utvikling-1900-ekr" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="table-container"><table><thead><tr><th>Periode</th><th>Nøkkelutvikling</th></tr></thead><tbody><tr><td>1.–2. årh.</td><td>Presbyter-råd → monepiskopat; gnostisisme tvinger frem struktur</td></tr><tr><td>2.–3. årh.</td><td>Ireneus: apostolisk suksesjon som kriterium; Tertullian og montanistene</td></tr><tr><td>3.–4. årh.</td><td>Konstantin; statskirke; Nikea og metropolittsystemet</td></tr><tr><td>4.–5. årh.</td><td>De fem patriarkatene; Leo den store og paveembetets juridiske primat</td></tr><tr><td>5.–6. årh.</td><td>Gelasius’ to-makter-lære; klostervesenet; Gregorius den store</td></tr><tr><td>6.–7. årh.</td><td>Bysantinsk cæsaropapisme; Konstantinopels «økumeniske patriark»-tittel</td></tr><tr><td>7.–9. årh.</td><td><em>Filioque</em>-striden; Karl den stores kroning; Fotios-schisma</td></tr></tbody></table></div>
+<hr/>
+<h2 id="sammenheng-med-andre-artikler">Sammenheng med andre artikler<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#sammenheng-med-andre-artikler" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ul>
+<li><a href="../kirkehistorie/kristendommens-tilblivelse" class="internal" data-slug="kirkehistorie/kristendommens-tilblivelse">kristendommens-tilblivelse</a> — urkirken og den apostolske tid</li>
+<li><a href="../kirkehistorie/apostoliske-fedre" class="internal" data-slug="kirkehistorie/apostoliske-fedre">apostoliske-fedre</a> — Ignatius, Klemens og Polykarp</li>
+<li><a href="../kirkehistorie/gnostisisme" class="internal" data-slug="kirkehistorie/gnostisisme">gnostisisme</a> — drivkraften bak monepiskopatet</li>
+<li><a href="../kirkehistorie/nikea-konsilet" class="internal" data-slug="kirkehistorie/nikea-konsilet">nikea-konsilet</a> — metropolittsystemets opprettelse</li>
+<li><a href="../kirkehistorie/arianismen" class="internal" data-slug="kirkehistorie/arianismen">arianismen</a> — embetsstrukturens rolle i dogmestridene</li>
+<li><a href="../kirkehistorie/kalkedon-kristologi" class="internal" data-slug="kirkehistorie/kalkedon-kristologi">kalkedon-kristologi</a> — de fem patriarkatene</li>
+<li><a href="../kirkehistorie/statsreligion" class="internal" data-slug="kirkehistorie/statsreligion">statsreligion</a> — Konstantin og kirkens nye stilling</li>
+<li><a href="../kirkehistorie/klosterlivet" class="internal" data-slug="kirkehistorie/klosterlivet">klosterlivet</a> — den monastiske parallellstrukturen</li>
+<li><a href="../kirkehistorie/kirken-ost-og-vest" class="internal" data-slug="kirkehistorie/kirken-ost-og-vest">kirken-ost-og-vest</a> — veien mot schismaet i 1054</li>
+<li><a href="../personer/augustin" class="internal" data-slug="personer/augustin">augustin</a> — Augustins embetsteologi og <em>De civitate Dei</em></li>
+</ul>
+<hr/>
+<h2 id="kilder">Kilder<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#kilder" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<ul>
+<li><a href="../sources/Pedersen-2012-oldkirken" class="internal" data-slug="sources/Pedersen-2012-oldkirken">Pedersen-2012-oldkirken</a> — Pedersen, N.A. (2012): <em>Kirkens historie: Oldkirken</em>, kap. 2–8. Cappelen Damm</li>
+<li><a href="../sources/TEOL2310-teologihistorie-oldkirken" class="internal" data-slug="sources/TEOL2310-teologihistorie-oldkirken">TEOL2310-teologihistorie-oldkirken</a> — Kaufman og Ignatius-brevene</li>
+<li><a href="../sources/kirkehistorie-middelalderen" class="internal" data-slug="sources/kirkehistorie-middelalderen">kirkehistorie-middelalderen</a> — TEOL2310 middelaldermodulen</li>
+<li><a href="../sources/studier-personlige" class="internal" data-slug="sources/studier-personlige">studier-personlige</a> — egne studier og notater</li>
+</ul></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Graf-visning</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="toc desktop-only"><button type="button" class="toc-header" aria-controls="toc-91" aria-expanded="true"><h3>Oversikt</h3><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><ul id="list-1" class="toc-content overflow"><li class="depth-0"><a href="#embetsutvikling-i-oldkirken--frem-til-år-900" data-for="embetsutvikling-i-oldkirken--frem-til-år-900">Embetsutvikling i oldkirken — frem til år 900</a></li><li class="depth-1"><a href="#utgangspunktet-løs-organisasjon-12-århundre" data-for="utgangspunktet-løs-organisasjon-12-århundre">Utgangspunktet: løs organisasjon (1.–2. århundre)</a></li><li class="depth-1"><a href="#presbyterordningen" data-for="presbyterordningen">Presbyterordningen</a></li><li class="depth-1"><a href="#monepiskopatet--én-biskop-over-menigheten-2-århundre" data-for="monepiskopatet--én-biskop-over-menigheten-2-århundre">Monepiskopatet — én biskop over menigheten (2. århundre)</a></li><li class="depth-1"><a href="#den-treddelte-embetsstrukturen" data-for="den-treddelte-embetsstrukturen">Den treddelte embetsstrukturen</a></li><li class="depth-1"><a href="#den-montanistiske-krisen-ca-156172-ekr" data-for="den-montanistiske-krisen-ca-156172-ekr">Den montanistiske krisen (ca. 156/172 e.Kr.)</a></li><li class="depth-1"><a href="#konstantin-og-kirkens-nye-stilling-300-tallet" data-for="konstantin-og-kirkens-nye-stilling-300-tallet">Konstantin og kirkens nye stilling (300-tallet)</a></li><li class="depth-1"><a href="#de-fem-patriarkatene-300700-tallet" data-for="de-fem-patriarkatene-300700-tallet">De fem patriarkatene (300–700-tallet)</a></li><li class="depth-1"><a href="#paveembetets-framvekst-37-århundre" data-for="paveembetets-framvekst-37-århundre">Paveembetets framvekst (3.–7. århundre)</a></li><li class="depth-2"><a href="#nøkkelsteg-i-pavemaktens-utvikling" data-for="nøkkelsteg-i-pavemaktens-utvikling">Nøkkelsteg i pavemaktens utvikling</a></li><li class="depth-1"><a href="#cæsaropapisme-og-kirkens-selvstendighet-300700-tallet" data-for="cæsaropapisme-og-kirkens-selvstendighet-300700-tallet">Cæsaropapisme og kirkens selvstendighet (300–700-tallet)</a></li><li class="depth-1"><a href="#synodeinstitusjonen" data-for="synodeinstitusjonen">Synodeinstitusjonen</a></li><li class="depth-1"><a href="#det-store-skismaet-nærmer-seg-700900-tallet" data-for="det-store-skismaet-nærmer-seg-700900-tallet">Det store skismaet nærmer seg (700–900-tallet)</a></li><li class="depth-1"><a href="#munkevesenet-og-den-parallelle-autoritetsstrukturen" data-for="munkevesenet-og-den-parallelle-autoritetsstrukturen">Munkevesenet og den parallelle autoritetsstrukturen</a></li><li class="depth-1"><a href="#sammendrag-embetsstrukturens-utvikling-1900-ekr" data-for="sammendrag-embetsstrukturens-utvikling-1900-ekr">Sammendrag: Embetsstrukturens utvikling 1–900 e.Kr</a></li><li class="depth-1"><a href="#sammenheng-med-andre-artikler" data-for="sammenheng-med-andre-artikler">Sammenheng med andre artikler</a></li><li class="depth-1"><a href="#kilder" data-for="kilder">Kilder</a></li><li class="overflow-end"></li></ul></div><div class="backlinks"><h3>Tilbakekoblinger</h3><ul id="list-2" class="overflow"><li><a href="../Bibelen---det-Nye-Testamentet/efeserbrevet" class="internal">Efeserbrevet</a></li><li><a href="../Bibelen---det-Nye-Testamentet/johannesbrevene" class="internal">Johannesbrevene — 1., 2. og 3. Johannes</a></li><li><a href="../Bibelen---det-Nye-Testamentet/pastoralbrevene" class="internal">Pastoralbrevene — 1-2 Timoteus og Titus</a></li><li><a href="../historie/fra-oldtid-til-middelalder" class="internal">Fra oldtid til middelalder — ca. 300–750</a></li><li><a href="../kirkehistorie/" class="internal">Kirkehistorie</a></li><li><a href="../kirkehistorie/begine-mystikken" class="internal">Begine-mystikken og vernakulær teologi</a></li><li><a href="../kirkehistorie/gnostisisme" class="internal">Gnostisisme</a></li><li><a href="../kirkehistorie/kristologi-fra-nikea-til-kalkedon" class="internal">Kristologi fra Nikea til Kalkedon</a></li><li><a href="../kirkehistorie/kristologi-frem-til-nikea" class="internal">Kristologi frem til Nikea — striden om Jesu natur</a></li><li><a href="../kirkehistorie/nattverd-i-oldkirken" class="internal">Nattverden i oldkirken</a></li><li><a href="../tro-og-liv/kirken" class="internal">Kirken</a></li><li><a href="../tro-og-liv/kongelig-presteskap" class="internal">Presterollen og kongelig presteskap</a></li><li class="overflow-end"></li></ul></div></div><footer class><p>Laget med <a href="https://quartz.jzhao.xyz/">Quartz v4.5.2</a> © 2026</p><ul><li><a href="https://github.com/jackyzha0/quartz">GitHub</a></li><li><a href="https://discord.gg/cRFFHYye7t">Discord Community</a></li></ul></footer></div></div></body><script type="application/javascript" data-persist="true">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function c(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let o=e.classList.contains("is-collapsed");s.style.gridTemplateRows=o?"0fr":"1fr"}}document.addEventListener("nav",c);
+</script><script type="module" data-persist="true">function E(a,e){if(!a)return;function t(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function n(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}a?.addEventListener("click",t),window.addCleanup(()=>a?.removeEventListener("click",t)),document.addEventListener("keydown",n),window.addCleanup(()=>document.removeEventListener("keydown",n))}function f(a){for(;a.firstChild;)a.removeChild(a.firstChild)}var m=class{constructor(e,t){this.container=e;this.content=t;this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}isDragging=!1;startPan={x:0,y:0};currentPan={x:0,y:0};scale=1;MIN_SCALE=.5;MAX_SCALE=3;cleanups=[];setupEventListeners(){let e=this.onMouseDown.bind(this),t=this.onMouseMove.bind(this),n=this.onMouseUp.bind(this),o=this.onTouchStart.bind(this),r=this.onTouchMove.bind(this),i=this.onTouchEnd.bind(this),s=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",t),document.addEventListener("mouseup",n),this.container.addEventListener("touchstart",o,{passive:!1}),document.addEventListener("touchmove",r,{passive:!1}),document.addEventListener("touchend",i),window.addEventListener("resize",s),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",t),()=>document.removeEventListener("mouseup",n),()=>this.container.removeEventListener("touchstart",o),()=>document.removeEventListener("touchmove",r),()=>document.removeEventListener("touchend",i),()=>window.removeEventListener("resize",s))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let t=this.createButton("+",()=>this.zoom(.1)),n=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(n),e.appendChild(o),e.appendChild(t),this.container.appendChild(e)}createButton(e,t){let n=document.createElement("button");return n.textContent=e,n.className="mermaid-control-button",n.addEventListener("click",t),window.addCleanup(()=>n.removeEventListener("click",t)),n}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}onTouchStart(e){if(e.touches.length!==1)return;this.isDragging=!0;let t=e.touches[0];this.startPan={x:t.clientX-this.currentPan.x,y:t.clientY-this.currentPan.y}}onTouchMove(e){if(!this.isDragging||e.touches.length!==1)return;e.preventDefault();let t=e.touches[0];this.currentPan={x:t.clientX-this.startPan.x,y:t.clientY-this.startPan.y},this.updateTransform()}onTouchEnd(){this.isDragging=!1}zoom(e){let t=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),n=this.content.getBoundingClientRect(),o=n.width/2,r=n.height/2,i=t-this.scale;this.currentPan.x-=o*i,this.currentPan.y-=r*i,this.scale=t,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){let t=this.content.querySelector("svg").getBoundingClientRect(),n=t.width/this.scale,o=t.height/this.scale;this.scale=1,this.currentPan={x:(this.container.clientWidth-n)/2,y:(this.container.clientHeight-o)/2},this.updateTransform()}},T=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],y;document.addEventListener("nav",async()=>{let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;y||=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs");let t=y.default,n=new WeakMap;for(let r of e)n.set(r,r.innerText);async function o(){for(let s of e){s.removeAttribute("data-processed");let c=n.get(s);c&&(s.innerHTML=c)}let r=T.reduce((s,c)=>(s[c]=window.getComputedStyle(document.documentElement).getPropertyValue(c),s),{}),i=document.documentElement.getAttribute("saved-theme")==="dark";t.initialize({startOnLoad:!1,securityLevel:"loose",theme:i?"dark":"base",themeVariables:{fontFamily:r["--codeFont"],primaryColor:r["--light"],primaryTextColor:r["--darkgray"],primaryBorderColor:r["--tertiary"],lineColor:r["--darkgray"],secondaryColor:r["--secondary"],tertiaryColor:r["--tertiary"],clusterBkg:r["--light"],edgeLabelBackground:r["--highlight"]}}),await t.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let r=0;r<e.length;r++){let v=function(){let g=l.querySelector("#mermaid-space"),h=l.querySelector(".mermaid-content");if(!h)return;f(h);let w=i.querySelector("svg").cloneNode(!0);h.appendChild(w),l.classList.add("active"),g.style.cursor="grab",u=new m(g,h)},M=function(){l.classList.remove("active"),u?.cleanup(),u=null},i=e[r],s=i.parentElement,c=s.querySelector(".clipboard-button"),d=s.querySelector(".expand-button"),p=window.getComputedStyle(c),L=c.offsetWidth+parseFloat(p.marginLeft||"0")+parseFloat(p.marginRight||"0");d.style.right=`calc(${L}px + 0.3rem)`,s.prepend(d);let l=s.querySelector("#mermaid-container");if(!l)return;let u=null;d.addEventListener("click",v),E(l,M),window.addCleanup(()=>{u?.cleanup(),d.removeEventListener("click",v)})}});
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript" data-persist="true"></script><script type="application/javascript" data-persist="true">
+        const socket = new WebSocket('ws://localhost:3001')
+        // reload(true) ensures resources like images and scripts are fetched again in firefox
+        socket.addEventListener('message', () => document.location.reload(true))
+      </script><script src="../postscript.js" type="module" data-persist="true"></script></html>

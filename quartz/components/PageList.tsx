@@ -74,15 +74,17 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
         return (
           <li class="section-li">
             <div class="section">
-              <p class="meta">
-                {page.dates && <Date date={getDate(cfg, page)!} locale={cfg.locale} />}
-              </p>
               <div class="desc">
                 <h3>
                   <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
                     {title}
                   </a>
                 </h3>
+                {page.dates && (
+                  <p class="meta">
+                    <Date date={getDate(cfg, page)!} locale={cfg.locale} />
+                  </p>
+                )}
                 <ul class="tags page-list-tags">
                   {tags.map((tag) => (
                     <li>
@@ -110,13 +112,42 @@ PageList.css = `
   margin: 0;
 }
 
+ul.section-ul {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 20rem), 1fr));
+  gap: 1rem;
+}
+
+li.section-li {
+  margin-bottom: 0;
+}
+
+.section {
+  display: block !important;
+  height: 100%;
+  padding: 1rem 1.1rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 8px;
+  background: var(--light);
+}
+
+.section h3 a {
+  color: var(--secondary);
+}
+
+.section .meta {
+  margin: 0.35rem 0 0;
+  color: var(--darkgray);
+  opacity: 0.75;
+}
+
 .page-list-description {
-  margin: 0.25rem 0 0;
+  margin: 0.55rem 0 0;
   color: var(--darkgray);
 }
 
 .section > .desc > .page-list-tags {
-  margin: 0;
+  margin: 0.65rem 0 0;
   display: flex;
   flex-wrap: wrap;
   gap: 0.4rem;
@@ -124,5 +155,13 @@ PageList.css = `
 
 .page-list-tags > li {
   margin: 0;
+}
+
+.page-list-tags .tag-link {
+  font-size: 0.85rem;
+}
+
+.popover .section {
+  display: block !important;
 }
 `

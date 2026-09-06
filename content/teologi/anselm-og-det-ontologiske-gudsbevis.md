@@ -6,6 +6,7 @@ updated: 2025-06-13
 sources: 2
 kategori: Teologi
 sub-kategori: Gudslære
+tags: [Anselm, ontologisk gudsbevis, Proslogion, fides quaerens intellectum, Gaunilo, middelalder, skolastikk]
 ---
 
 # Anselm og det ontologiske gudsbevis

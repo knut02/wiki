@@ -93,13 +93,18 @@ export default ((opts?: Partial<FolderContentOptions>) => {
     const listProps = {
       ...props,
       sort: options.sort,
-      allFiles: allPagesInFolder,
+    }
+
+    const pagesBySubcategory = new Map<string, QuartzPluginData[]>()
+    for (const page of allPagesInFolder) {
+      const subcategory = String(page.frontmatter?.["sub-kategori"] ?? "Uten underkategori")
+      const pages = pagesBySubcategory.get(subcategory) ?? []
+      pages.push(page)
+      pagesBySubcategory.set(subcategory, pages)
     }
 
     const content = (
-      (tree as Root).children.length === 0
-        ? fileData.description
-        : htmlToJsx(fileData.filePath!, tree)
+      (tree as Root).children.length === 0 ? null : htmlToJsx(fileData.filePath!, tree)
     ) as ComponentChildren
 
     return (
@@ -113,14 +118,31 @@ export default ((opts?: Partial<FolderContentOptions>) => {
               })}
             </p>
           )}
-          <div>
-            <PageList {...listProps} />
+          <div class="folder-subcategory-list">
+            {[...pagesBySubcategory.entries()].map(([subcategory, pages]) => (
+              <section class="folder-subcategory" key={subcategory}>
+                <h2>{subcategory}</h2>
+                <PageList {...listProps} allFiles={pages} />
+              </section>
+            ))}
           </div>
         </div>
       </div>
     )
   }
 
-  FolderContent.css = concatenateResources(style, PageList.css)
+  FolderContent.css = concatenateResources(
+    style,
+    PageList.css,
+    `
+.folder-subcategory {
+  margin-top: 2rem;
+}
+
+.folder-subcategory h2 {
+  margin-bottom: 0.75rem;
+}
+`,
+  )
   return FolderContent
 }) satisfies QuartzComponentConstructor

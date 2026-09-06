@@ -5,6 +5,7 @@ date: 2025-05-05
 kilder: 4
 kategori: Teologi
 sub-kategori: Etikk
+tags: [frigjøringsteologi, Latin-Amerika, Gustavo Gutiérrez, fattige, sosial rettferdighet, basis-fellesskap]
 ---
 
 ## Hva er frigjøringsteologi?

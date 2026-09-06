@@ -4,6 +4,7 @@ description: "Kristendommens historiske kontekst og kronologi fra Romerriket og 
 date: 2025-04-18
 kategori: Kirkehistorie
 sub-kategori: Oldkirken — Bakgrunn og kontekst
+tags: [kristendom, tilblivelse, urkirken, Romerriket, apostler, ekspansjon]
 updated: 2025-05-18
 ---
 
