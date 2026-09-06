@@ -2,6 +2,8 @@
 title: "Gudsbevis — argumenter for og mot Guds eksistens"
 description: "Hvordan kan det ha seg at det finnes noe i det hele tatt?» — Søvik & Davidsen 2022. Det er dette spørsmålet gudsbevisene forsøker å besvare."
 date: 2025-05-17
+kategori: Teologi
+sub-kategori: Gudslære
 modified: 2025-05-17
 Kilder: 3*
 ---

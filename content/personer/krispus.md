@@ -1,3 +1,11 @@
+---
+title: "Krispus"
+date: 2025-04-18
+kategori: Personer
+sub-kategori: NT og oldkirke-personer
+kilder: 1
+---
+
 # Krispus
 
 > Synagogeforstander i Korint, omvendt til kristendommen av Paulus, en av de første Paulus døpte personlig.

@@ -2,6 +2,8 @@
 title: "Hildegard av Bingen — profet, teolog og visionær"
 description: "Hildegard av Bingen (1098–1179) — abbedisse, visionær, teolog, komponist og lege. En av middelalderens mest originale kristne tenkere og en av kirkens få kvinnelige læreembeder."
 date: 2025-06-13
+kategori: Kirkehistorie
+sub-kategori: Middelalderen — Mystikk
 updated: 2025-07-09
 sources: 2
 ---

@@ -2,6 +2,8 @@
 title: "Offer og tilbedelse"
 description: "Praksis med å bringe gaver eller offerdyr til Gud — sentralt i GT og grunnlag for NT-teologi om Jesu soningsdød."
 date: 2025-04-18
+kategori: Verdensreligioner og livssyn
+sub-kategori: Religionsteori
 modified: 2025-04-23
 kilder: 1
 ---

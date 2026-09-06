@@ -2,6 +2,8 @@
 title: "Salme 22"
 description: "En klagesalme fra Det gamle testamentet som evangeliene siterer direkte i beretningen om Jesu korsfestelse."
 date: 2025-04-18
+kategori: Det gamle testamentet
+sub-kategori: Poetiske og visdomsbøker
 kilder: 1
 ---
 

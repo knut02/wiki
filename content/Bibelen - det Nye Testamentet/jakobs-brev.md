@@ -4,6 +4,7 @@ description: "Tro som virker i praksis — Jakobs brev er en visdomstale om fatt
 date: 2026-08-26
 updated: 2026-08-26
 kategori: Det nye testamentet
+sub-kategori: Katolske brev og Åpenbaringen
 studievei: [disippelskap, etikk, Bibelen]
 tags: [Jakobs brev, tro, gjerninger, visdom, tunge, fattige, rike, tålmodighet, Jakob, brev-essay]
 sources: 2

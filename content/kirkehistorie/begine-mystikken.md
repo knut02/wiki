@@ -2,6 +2,8 @@
 title: "Begine-mystikken og vernakulær teologi"
 description: "Hadewijch av Brabant, Mechthild av Magdeburg og Marguerite Porete — middelalderens kvinner som skrev teologi på folkespråk og skapte ny mystisk litteratur utenfor klosterets kontroll."
 date: 2025-06-13
+kategori: Kirkehistorie
+sub-kategori: Middelalderen — Mystikk
 updated: 2025-07-09
 sources: 2
 ---

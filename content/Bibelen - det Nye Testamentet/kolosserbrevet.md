@@ -4,6 +4,7 @@ description: "Kristus som universets midtpunkt — hymnen om Kristus som all tin
 date: 2026-08-26
 updated: 2026-08-26
 kategori: Det nye testamentet
+sub-kategori: Paulusteologi
 studievei: [kristologi, disippelskap, Bibelen]
 tags: [Kolosserbrevet, Kristushymnen, skapelse, pleroma, fullhet, åndsmakter, visdom, filosofi, Kolossai]
 sources: 2

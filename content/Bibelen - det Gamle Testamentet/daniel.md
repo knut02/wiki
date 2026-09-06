@@ -2,6 +2,8 @@
 title: "Daniels bok"
 description: "«Ikke noe menneske kan gjøre det. Bare gudene kan — men de har ikke sin bolig blant mennesker.» — Babylons vismenn til Nebukadnesar (Dan 2:11). Det som er umulig for mennesker, er mulig for Gud."
 date: 2025-05-14
+kategori: Det gamle testamentet
+sub-kategori: Profetene
 kilder: 2
 ---
 

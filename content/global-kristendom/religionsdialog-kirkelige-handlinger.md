@@ -2,6 +2,8 @@
 title: "Religionsdialog ved kirkelige handlinger"
 description: "Bispemøtets veiledning (2016) om hvordan Den norske kirke skal møte mennesker av annen tro ved dåp, konfirmasjon, vigsel og gravferd."
 date: 2025-05-02
+kategori: Global kristendom
+sub-kategori: Religionsdialog
 kilder: 2
 ---
 

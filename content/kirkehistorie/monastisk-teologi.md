@@ -2,6 +2,8 @@
 title: "Monastisk teologi — Bernard av Clairvaux og kjærlighetens vei"
 description: "Middelalderens monastiske teologi: Leclercqs skille mellom klosterskolen og skolastikken, Bernard av Clairvaux om kjærligheten til Gud, og Høysangen som mystikkens nøkkeltekst."
 date: 2025-06-13
+kategori: Kirkehistorie
+sub-kategori: Middelalderen
 updated: 2025-07-09
 sources: 3
 ---

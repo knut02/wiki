@@ -2,6 +2,8 @@
 title: "Hvem døde Jesus for?"
 description: "«Han som ikke sparte sin egen Sønn, men gav ham for oss alle — hvordan kan han annet enn å gi oss alt med ham?» — Rom 8:32"
 date: 2025-05-13
+kategori: Tro og liv
+sub-kategori: Grunnleggende trospørsmål
 kilder: 2
 ---
 

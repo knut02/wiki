@@ -2,6 +2,8 @@
 title: "Mester Eckhart og den tyske mystikken"
 description: "Mester Eckhart (ca. 1260–1328) og Rhinlandsmystikken — Guds fødsel i sjelen, adskilthet, sjelens gnist, preken 52 om åndelig fattigdom, og arven til Tauler og Theologia Deutsch."
 date: 2025-05-01
+kategori: Kirkehistorie
+sub-kategori: Middelalderen — Mystikk
 updated: 2025-07-09
 sources: 3
 ---

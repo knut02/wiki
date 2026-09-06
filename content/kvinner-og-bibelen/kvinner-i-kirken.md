@@ -2,6 +2,8 @@
 title: Kvinner i kirken — roller og tjeneste
 description: En grundig gjennomgang av debatten om kvinners rolle i kirken — bibelske eksempler, de vanskelige tekstene, og de to hovedposisjonene egalitarisme og komplementarisme.
 date: 2025-05-20
+kategori: Kvinner og Bibelen
+sub-kategori: Kvinner og Bibelen
 updated: 2025-05-20
 ---
 

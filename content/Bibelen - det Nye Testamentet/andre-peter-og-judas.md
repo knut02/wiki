@@ -4,6 +4,7 @@ description: "To korte brev om falske lærere, apokalyptisk tradisjon og kallet 
 date: 2026-08-26
 updated: 2026-08-26
 kategori: Det nye testamentet
+sub-kategori: Katolske brev og Åpenbaringen
 studievei: [kirkehistorie, Bibelen, disippelskap]
 tags: [2 Peter, Judas, falske lærere, apokalyptikk, 1 Enok, falne engler, Herrens dag, troens kamp, spotterne]
 sources: 2

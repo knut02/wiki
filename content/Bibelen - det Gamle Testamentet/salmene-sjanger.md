@@ -4,6 +4,7 @@ description: "En innføring i Salmebokens sjangre, poetiske form og teologiske p
 date: 2026-08-25
 updated: 2026-08-25
 kategori: Det gamle testamentet
+sub-kategori: Poetiske og visdomsbøker
 studievei: [gt, bønn, spiritualitet]
 tags: [salmene, poesi, klagesalme, lovprisning, hebraisk poesi, parallelisme, Davids salmer, bønnbok, lectio divina, tidebønn]
 sources: 3

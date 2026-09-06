@@ -1,3 +1,11 @@
+---
+title: "Jakob (Jesu bror)"
+date: 2025-04-18
+kategori: Personer
+sub-kategori: NT og oldkirke-personer
+kilder: 1
+---
+
 # Jakob (Jesu bror)
 
 > Bror av Jesus, ledende skikkelse i den tidlige kristne kirken i Jerusalem, tradisjonelt ansett som forfatter av Jakobs brev.

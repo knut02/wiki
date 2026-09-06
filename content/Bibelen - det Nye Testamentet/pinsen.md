@@ -4,6 +4,7 @@ description: "Pinsedagen er NT's store overgangsbegivenhet — Ånden utgyttes, 
 date: 2026-08-26
 updated: 2026-08-26
 kategori: Det nye testamentet
+sub-kategori: Sentrale tekster
 studievei: [evangeliene, kirkehistorie, gt]
 tags: [pinsen, Ånden, Peter, Joel, Babel, tungetale, dåp, Apg 2, pinsedagens teologi]
 sources: 2

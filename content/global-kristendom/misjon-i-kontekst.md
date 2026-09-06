@@ -2,6 +2,8 @@
 title: "Misjon i kontekst"
 description: "Det lutherske verdensforbunds misjonsforståelse og Den norske kirkes kontekstuelle misjonsteologi — forvandling, forsoning og myndiggjøring."
 date: 2025-05-14
+kategori: Global kristendom
+sub-kategori: Misjon
 modified: 2025-05-15
 kilder: 3
 ---

@@ -2,6 +2,8 @@
 title: "Nattverden i oldkirken"
 description: "Fra festmåltid til sakrament — nattverdens utvikling i oldkirken: bankettpraksis, Didaches bønner, Justin Martyrs beskrivelse, Ignatius' realisme og overgangen til liturgisk eukaristi."
 date: 2025-06-02
+kategori: Kirkehistorie
+sub-kategori: Oldkirken — Teologi og spiritualitet
 updated: 2026-07-12
 sources: 5
 ---

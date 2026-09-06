@@ -3,6 +3,8 @@ title: "Frigjøringsteologi"
 description: "Teologi fra Latin-Amerika, Afrika og Asia som setter de fattiges perspektiv i sentrum: Guds preferanse for de marginaliserte, og kirkens kall til sosial handling."
 date: 2025-05-05
 kilder: 4
+kategori: Teologi
+sub-kategori: Etikk
 ---
 
 ## Hva er frigjøringsteologi?

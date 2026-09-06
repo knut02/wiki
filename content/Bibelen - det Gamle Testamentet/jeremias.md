@@ -4,6 +4,7 @@ description: "Profeten som klagde og tvang seg selv til å tale — Jeremias som
 date: 2026-08-26
 updated: 2026-08-26
 kategori: Det gamle testamentet
+sub-kategori: Profetene
 studievei: [gt, Bibelen, spiritualitet]
 tags: [Jeremias, ny pakt, eksil, Jerusalem, klage, Jer 31, den nye pakten, Guds hjerte, loven på hjertet]
 sources: 2

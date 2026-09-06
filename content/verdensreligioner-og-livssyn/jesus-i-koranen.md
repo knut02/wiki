@@ -1,3 +1,11 @@
+---
+title: "Jesus i Koranen"
+date: 2025-05-03
+kategori: Verdensreligioner og livssyn
+sub-kategori: Abrahamittiske religioner
+kilder: 2
+---
+
 # Jesus i Koranen — rivaliserende fortellinger
 
 > Halvor Moxnes' analyse av Koranens Jesus-bilde: profet, Marias sønn, undergjerningsmann — og den bevisste avvisningen av inkarnasjons- og korsfestelsesteologien.

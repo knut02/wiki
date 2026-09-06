@@ -2,6 +2,8 @@
 title: "Misjonshistorie — lange linjer"
 description: "Fra apostlene til moderne tid: kontekstualisering, misjonsbevegelsenes fremvekst og norsk misjons rolle."
 date: 2025-05-02
+kategori: Global kristendom
+sub-kategori: Misjon
 kilder: 2
 ---
 

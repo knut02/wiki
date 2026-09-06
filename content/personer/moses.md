@@ -1,3 +1,11 @@
+---
+title: "Moses"
+date: 2025-04-18
+kategori: Personer
+sub-kategori: GT-personer
+kilder: 1
+---
+
 # Moses
 
 > Israels sentrale profet og leder — fikk Guds lov på Sinai, ledet folket ut av Egypt og gjennom ørkenen.

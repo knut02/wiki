@@ -4,6 +4,7 @@ description: "GT's dypeste teologiske verk — en uskyldig mann som lider, tre v
 date: 2026-08-26
 updated: 2026-08-26
 kategori: Det gamle testamentet
+sub-kategori: Poetiske og visdomsbøker
 studievei: [gt, Bibelen, spiritualitet]
 tags: [Job, lidelse, uskyld, visdom, Guds svar, stormen, klage, teodicé, bønn, Hebreerne 11]
 sources: 2

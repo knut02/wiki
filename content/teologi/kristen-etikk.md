@@ -4,6 +4,8 @@ description: "Hva er kristen etikk? Forholdet mellom lov og evangelium, dydsetik
 date: 2025-06-13
 updated: 2026-07-10
 sources: 4
+kategori: Teologi
+sub-kategori: Etikk
 ---
 
 > «Du skal elske Herren din Gud av hele ditt hjerte, av hele din sjel og av hele din tanke, og din neste som deg selv. På disse to budene hviler hele loven og profetene.» — Matt 22:37–40

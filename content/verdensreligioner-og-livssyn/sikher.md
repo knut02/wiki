@@ -2,6 +2,8 @@
 title: "Sikher i Norge"
 description: "Sikhisme som verdensreligion og norsk innvandrerhistorie — tro, praksis, de fem K-ene, gurdwara og sikhenes ankomst til Norge fra 1969."
 date: 2025-05-24
+kategori: Verdensreligioner og livssyn
+sub-kategori: Østlige religioner
 updated: 2025-05-24
 ---
 

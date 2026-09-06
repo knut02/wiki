@@ -2,6 +2,8 @@
 title: "Didache — De tolv apostlers lære"
 description: " «Det finnes to veier; den ene er livets vei, den andre dødens. Og det er stor forskjell mellom de to veiene.» — Didache 1,1"
 date: 2025-05-10
+kategori: Kirkehistorie
+sub-kategori: Oldkirken — Bakgrunn og kontekst
 kilder: 2
 ---
 

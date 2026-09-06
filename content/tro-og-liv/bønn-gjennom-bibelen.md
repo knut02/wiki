@@ -4,6 +4,7 @@ description: "En temaartikkel om bønnens utvikling fra Abraham til Åpenbaringe
 date: 2026-08-26
 updated: 2026-08-26
 kategori: Tro og liv
+sub-kategori: Spiritualitet og praksis
 studievei: [gt, evangeliene, spiritualitet]
 tags: [bønn, forbønn, klage, Abraham, Moses, Salomo, salmene, Jesu bønneliv, Fadervår, Rom 8, Ånden]
 sources: 3

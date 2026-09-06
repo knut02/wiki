@@ -4,6 +4,8 @@ description: "En innføring i kristendommens kjerne — hva kristne tror, hva so
 date: 2025-06-13
 updated: 2025-06-13
 sources: 3
+kategori: Teologi
+sub-kategori: Frelseslære og forsoning
 ---
 
 # Hva er kristendom?

@@ -1,3 +1,11 @@
+---
+title: "Kong David"
+date: 2025-04-18
+kategori: Personer
+sub-kategori: GT-personer
+kilder: 3
+---
+
 # Kong David
 
 > Israels mest berømte konge, grunnlegger av kongedynastiet som Messias-løftet er knyttet til.

@@ -2,6 +2,8 @@
 title: "Kirkens ledelse og sakramentene — fra karisma til institusjon"
 description: "I begynnelsen hadde de første kristne menighetene ingen av de formelle strukturene som kjennetegnet kirken gjennom middelalderen.» — Ehrman"
 date: 2025-04-27
+kategori: Kirkehistorie
+sub-kategori: Oldkirken — Gudstjeneste og kirkeliv
 Oppdatert: 2025-05-10
 Kilder: 3
 ---

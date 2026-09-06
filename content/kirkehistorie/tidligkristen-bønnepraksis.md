@@ -2,6 +2,8 @@
 title: Tidlig kristen bønnepraksis
 description: Bønn i oldkirken — former, tider, kroppslige praksiser, Fadervår, monastisk bønn og Evagrius/Cassians arv.
 date: 2025-05-10
+kategori: Kirkehistorie
+sub-kategori: Oldkirken — Teologi og spiritualitet
 updated: 2026-07-12
 ---
 

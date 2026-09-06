@@ -4,6 +4,8 @@ description: "«Vi er alle inklusivister.» — Knitter 2002. Ingen møter en an
 date: 2025-04-18
 modified: 2025-05-15
 kilder: 3
+kategori: Teologi
+sub-kategori: Frelseslære og forsoning
 ---
 
 ## Hva er religionsteologi?

@@ -2,6 +2,8 @@
 title: "Justin Martyr — den første kristne filosofen"
 description: "Justin Martyr (ca. 100–165) var den første store kristne apologeten og skaperen av Logos-teologien — broen mellom gresk filosofi og kristen inkarnasjonslære."
 date: 2025-05-10
+kategori: Personer
+sub-kategori: NT og oldkirke-personer
 updated: 2026-07-12
 sources: 3
 ---

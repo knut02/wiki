@@ -2,6 +2,8 @@
 title: "Middelalderens teologi — nyplatonisme og apofatisk teologi"
 description: "Augustins møte med nyplatonismen og Dionysios Areopagitens negative teologi som grunnlag for middelalderens spirituelle tenkning."
 date: 2025-05-01
+kategori: Kirkehistorie
+sub-kategori: Middelalderen
 kilder: 1
 ---
 

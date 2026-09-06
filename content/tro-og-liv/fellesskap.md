@@ -2,6 +2,8 @@
 title: "Fellesskap — å bære hverandres byrder"
 description: "Kristent fellesskap som byrdebæring og partnerskap — gresk analyse av koinōnia, baros vs. phortion i Gal 6, Ef 4:16 om alle ledd, og Åndens frukter som fellesskapets livsnerve."
 date: 2025-05-03
+kategori: Tro og liv
+sub-kategori: Kirke og fellesskap
 updated: 2026-07-10
 sources: 3
 ---

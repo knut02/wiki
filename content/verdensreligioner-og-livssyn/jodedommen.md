@@ -2,6 +2,8 @@
 title: "Jødedommen"
 description: "En innføring i jødedommens tro, praksis og tekster — Torah, Talmud, rabbinsk jødedom, og forholdet til kristendom og islam."
 date: 2025-05-11
+kategori: Verdensreligioner og livssyn
+sub-kategori: Abrahamittiske religioner
 modified: 2025-05-11
 ---
 

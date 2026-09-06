@@ -2,6 +2,8 @@
 title: "Kristendommens første århundrer"
 description: "Kristendommens historiske kontekst og kronologi fra Romerriket og Galilea, gjennom grunnleggelsen og ekspansjonen, til templets fall og rekonstruksjonen."
 date: 2025-04-18
+kategori: Kirkehistorie
+sub-kategori: Oldkirken — Bakgrunn og kontekst
 updated: 2025-05-18
 ---
 

@@ -2,6 +2,8 @@
 title: "Antonius av Egypt (ca. 251–356)"
 description: "«Han var daglig martyr for sin samvittighet og kjempet troens kamper.» — Athanasius om Antonius etter at forfølgelsen tok slutt"
 date: 2025-05-10
+kategori: Personer
+sub-kategori: NT og oldkirke-personer
 kilder: 2
 ---
 

@@ -2,6 +2,8 @@
 title: "Disippelskap"
 description: "Hva det betyr å følge Jesus — Willards kritikk av «bare tilgitt»-kristendom, åkets lethet, åndelig formasjon, de konkrete disiplinene, og Takles metafor om roing vs. seiling."
 date: 2025-04-18
+kategori: Tro og liv
+sub-kategori: Spiritualitet og praksis
 updated: 2025-05-24
 ---
 

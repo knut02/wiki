@@ -2,6 +2,8 @@
 title: "Fra oldtid til middelalder — ca. 300–750"
 description: "«Med etableringen av det arabiske imperiet i løpet av 600- og første halvdel av 700-tallet var overgangen fra det dominerende romerske imperiet og til middelalderens tredelte verden fullført.» — Bagge 2020"
 date: 2025-05-11
+kategori: Kirkehistorie
+sub-kategori: Middelalderen
 modified: 2025-05-11
 kilder: 2
 ---

@@ -2,6 +2,8 @@
 title: "Adam og Eva"
 description: "De første menneskene i bibelsk tradisjon, skapt av Gud og plassert i Paradis — og utvist etter syndefallet."
 date: 2025-04-18
+kategori: Personer
+sub-kategori: GT-personer
 kilder: 1
 ---
 

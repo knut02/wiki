@@ -2,6 +2,8 @@
 title: "Jesu avskjedstale — Joh 14-17"
 description: "Avskjedstalen er NT-s dypeste utlegging av forholdet mellom Faderen, Sønnen og Ånden — og av hva det innebærer å bli igjen i Kristus etter hans avgang."
 date: 2026-07-12
+kategori: Det nye testamentet
+sub-kategori: Sentrale tekster
 updated: 2026-07-12
 sources: 3
 ---

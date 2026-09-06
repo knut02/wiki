@@ -2,6 +2,8 @@
 title: "Menneskets verdi — kun Gud kan definere den"
 description: "Hva gir et menneske verdi? Bibelen peker på en verdi som ikke er opptjent, ikke kan mistes og ikke kan defineres av andre mennesker — bare av Skaperen."
 date: 2025-06-07
+kategori: Tro og liv
+sub-kategori: Menneskesyn og identitet
 updated: 2025-06-07
 sources: 3
 ---

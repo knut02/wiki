@@ -2,6 +2,8 @@
 title: "Kristendom i Vest- og Sentral-Europa"
 description: "Kristendommens endrede stilling i Europa — fra kulturell norm til aktiv minoritet, og debattene om kristendommens rolle i offentligheten."
 date: 2025-05-24
+kategori: Global kristendom
+sub-kategori: Kristendom i verden
 updated: 2025-05-24
 Kilder: 0
 ---

@@ -2,6 +2,8 @@
 title: "Guds rike"
 description: "Guds rike som Jesu kjerneforkynnelse — «allerede og ennå ikke», rikets omvendte logikk, Willards forståelse av riket som Guds faktiske styrevelde, og Wrights teologi om å bygge for riket."
 date: 2025-05-13
+kategori: Tro og liv
+sub-kategori: Guds rike og eskatologi
 updated: 2025-06-13
 sources: 2
 ---

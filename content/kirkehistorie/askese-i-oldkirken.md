@@ -2,6 +2,8 @@
 title: "Askese i oldkirken"
 description: "Kristen askese fra NT til ørkenfadrene — hva askese er, dets røtter, ørkenbevegelsens fremvekst, Apophtegmata Patrum og askesens teologiske logikk."
 date: 2025-06-06
+kategori: Kirkehistorie
+sub-kategori: Oldkirken — Teologi og spiritualitet
 updated: 2025-07-09
 sources: 4
 ---

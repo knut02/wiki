@@ -2,8 +2,8 @@
 title: "Fransiskansk og dominikansk bevegelse"
 description: "To tiggermunkeordener som forvandlet middelalderkirken — Frans av Assisi og fattigdomsidealet, Dominikus og lærdomsidealet, og deres teologiske skoler."
 date: 2026-08-26
-updated: 2026-08-26
 kategori: Kirkehistorie
+sub-kategori: Middelalderen
 studievei: [kirkehistorie, spiritualitet]
 tags: [Frans av Assisi, Dominikus, fransiskanere, dominikanere, tiggermunker, middelalder, fattigdom, skolastikk, Bonaventura, Aquinas]
 sources: 2

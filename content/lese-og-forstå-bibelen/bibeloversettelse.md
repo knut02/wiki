@@ -2,6 +2,8 @@
 title: "Bibeloversettelse — metode, ideologi og norsk historie"
 description: "Oversettelse er alltid tolkning — om de to grunnleggende oversettelsesstrategiene, norsk bibeloversettelseshistorie fra 1904 til Bibel 2011, og Beckmanns analyse av kristologisk ideologi i norske oversettelser."
 date: 2025-05-15
+kategori: Lese og forstå Bibelen
+sub-kategori: Innføring
 updated: 2025-07-09
 kilder: 3
 ---

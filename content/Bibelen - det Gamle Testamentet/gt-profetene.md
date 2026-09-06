@@ -2,6 +2,8 @@
 title: "GT-profetene — oversikt"
 description: "Profetene er ikke først og fremst fremtidsseere — de er Guds talspersoner til sin samtid. En oversikt over alle de skriftlige profetene, deres historiske kontekst og felles teologi."
 date: 2025-05-15
+kategori: Det gamle testamentet
+sub-kategori: Profetene
 updated: 2026-07-10
 kilder: 2
 ---

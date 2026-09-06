@@ -2,6 +2,8 @@
 title: "Klosterlivet i middelalderen"
 description: "Klostervesenet som oppsto på 300-tallet som en reaksjon på kirkens statsliggjøring, og utviklet seg gjennom tre hovedfaser i middelalderen."
 date: 2025-04-18
+kategori: Kirkehistorie
+sub-kategori: Middelalderen
 updated: 2025-06-13
 kilder: 1
 ---

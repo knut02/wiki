@@ -2,6 +2,8 @@
 title: "Kirken i øst og vest — splittelsen av kristendommen"
 description: "«Kongen er ikke øversteprest; øverstepresten er ikke konge.» — Ambrosius av Milano til keiser Theodosius"
 date: 2025-05-10
+kategori: Kirkehistorie
+sub-kategori: Middelalderen
 kilder: 2
 ---
 

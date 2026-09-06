@@ -4,6 +4,7 @@ description: "Eksegetisk gjennomgang av Joh 15: det sanne vintreet, å bli i Jes
 date: 2025-05-31
 updated: 2026-08-25
 kategori: Det nye testamentet
+sub-kategori: Sentrale tekster
 studievei: [evangeliene, disippelskap, spiritualitet]
 tags: [Johannes, vintreet, ménō, kjærlighet, vennskap, Paraklētos, avskjedstalen]
 sources: 3
@@ -36,13 +37,13 @@ Vintreet og vingården var ett av Israels mest brukte symboler på folkets forho
 - Jes 5:1–7 — Jahve forventet gode druer, men fikk sure
 - Esek 15; Jer 2:21; Hos 10:1–2 — Israel som vintre som ikke bærer frukt
 
-I GT er vintre-bildet nesten alltid negativt: Israel svikter som vingård. Mynt fra Hasmoneer- og herodeisk tid viste drueklaser som nasjonal identitet. I templet i Jerusalem hang et gigantisk forgyllt vintre over inngangen til Det hellige — et nasjonalt og religiøst symbol.
+I GT er vintre-bildet nesten alltid negativt: Israel svikter som vingård. Mynt fra Hasmoneer- og herodeisk tid viste drueklaser som nasjonal identitet. I templet i Jerusalem hang et gigantisk forgylt vintre over inngangen til Det hellige — et nasjonalt og religiøst symbol.
 
 Burge peker på at Jesus bryter radikalt med dette. I det siste av sine syv store «Jeg er»-utsagn sier han: *Jeg* er det sanne vintreet (15:1). Ikke Israel. Jesus tar vintre-bildet og omformer det: Nå er det én ranke — Kristus — og spørsmålet for Guds folk er ikke lenger «bor jeg i vingården?» men «er jeg festet til den ene vinranken?»
 
 ### Keener: GT-bakgrunnen og templets gylne vintre
 
-Keener (IVP, Joh 15:1) utdyper billedets røtter: GT og jødisk litteratur portretterte Israel som en vingård (*Jes 5:7*) eller vintre (*Sal 80:8; Hos 10:1*), og Gud som vingårdsmannen (*Jes 5:1-3*). I det herodiske templet hang et berømt forgyllt vintre over inngangen til Det hellige — et nasjonalt symbol på Israel. Hasmonéer- og herodisk mynt viste drueklaser. Jesus tar dette ladede bildet og omformer det: Han er det *sanne* vintreet — det Israel ikke klarte å være.
+Keener (IVP, Joh 15:1) utdyper billedet røtter: GT og jødisk litteratur portretterte Israel som en vingård (*Jes 5:7*) eller vintre (*Sal 80:8; Hos 10:1*), og Gud som vingårdsmannen (*Jes 5:1-3*). I det herodiske templet hang et berømt forgylt vintre over inngangen til Det hellige — et nasjonalt symbol på Israel. Hasmonéer- og herodisk mynt viste drueklaser. Jesus tar dette ladede bildet og omformer det: Han er det *sanne* vintreet — det Israel ikke klarte å være.
 
 Keener bemerker at *ménō* («bli», v. 4-10) er den verbale formen av «bolig» (*monē*) fra 14:2 og 14:23 — det eneste andre stedet i NT der dette substantivet brukes. I GT hadde Gud lovet å *bo* hos sitt lydige paktsfolk (2 Mos 25:8; 29:45; 3 Mos 26:11-12; Esek 37:27-28; 43:9). Å «bli» i Kristus er altså ikke en passiv tilstand, men oppfyllelsen av paktens bostedsprinsipp — Gud bor hos dem som bor i ham.
 

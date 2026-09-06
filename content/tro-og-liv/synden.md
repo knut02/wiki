@@ -2,6 +2,8 @@
 title: "Synden"
 description: "Hva er synd i bibelsk forstand? Syndens mange dimensjoner — brudd, vridning, skyld, makt — og forholdet mellom synd og nåde."
 date: 2025-06-13
+kategori: Tro og liv
+sub-kategori: Grunnleggende trospørsmål
 updated: 2025-06-13
 sources: 3
 ---

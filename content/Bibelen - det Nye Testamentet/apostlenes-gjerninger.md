@@ -4,6 +4,7 @@ description: "Lukas-dobbelverkets andre del — Åndens bok, evangeliets ekspans
 date: 2025-05-06
 updated: 2026-08-25
 kategori: Det nye testamentet
+sub-kategori: Apostlenes gjerninger
 studievei: [evangeliene, kirkehistorie, Bibelen]
 tags: [Apostlenes gjerninger, Lukas, pinsen, Ånden, misjon, Peter, Paulus, Areopagen, juridisk apologetikk]
 sources: 2

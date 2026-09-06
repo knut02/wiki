@@ -2,6 +2,8 @@
 title: "Statsreligion"
 description: "Da kristendommen gikk fra forfulgt minoritet til romersk riksreligion — og hva det gjorde med kirken."
 date: 2025-05-06
+kategori: Kirkehistorie
+sub-kategori: Oldkirken — Forflølgelse og statsreligion
 kilder: 2
 ---
 

@@ -2,6 +2,8 @@
 title: "Kirkefedrenes tidslinje"
 description: "Kirkefedre er betegnelsen på tidlige kristne forfattere og lærde som levde i de første århundrene etter Jesu tid, og som spilte en avgjørende rolle i utviklingen av kristen teologi og lære."
 date: 2025-04-18
+kategori: Tidslinjer
+sub-kategori: Bibelske og historiske tidslinjer
 modified: 2025-05-14
 kilder: 2
 ---

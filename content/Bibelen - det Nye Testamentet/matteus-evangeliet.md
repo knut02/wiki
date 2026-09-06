@@ -2,6 +2,8 @@
 title: "Matteusevangeliet"
 description: "Matteus' jødiske og universelle kristologi — ættetavlen, oppfyllelsessitatene, Bergprekenen, messianske undere, misjonsbefalingen og global lesning."
 date: 2025-04-18
+kategori: Det nye testamentet
+sub-kategori: Evangeliene
 updated: 2025-05-18
 ---
 

@@ -2,6 +2,8 @@
 title: "Jesu dåp og fristelse — Mark 1:9-13 / Matt 3:13-4:11"
 description: "Dåpen og fristelsen er NT-s dobbelte identitetsetablering for Jesus — hvem han er (Sønn) og hva han ikke vil gjøre (bruke makt på egne premisser)."
 date: 2026-07-12
+kategori: Det nye testamentet
+sub-kategori: Sentrale tekster
 updated: 2026-07-12
 sources: 3
 ---

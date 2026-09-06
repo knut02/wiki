@@ -2,6 +2,8 @@
 title: "Hvordan lese brev — NT-brev og paulusbrev"
 description: "Paulus' brev er den eldste kristne litteraturen vi har — skrevet før evangeliene, til virkelige menigheter med konkrete problemer. Å lese dem godt betyr å forstå kommunikasjonssituasjonen de springer ut av."
 date: 2025-05-06
+kategori: Lese og forstå Bibelen
+sub-kategori: Hermeneutikk
 modified: 2025-05-06
 kilder: 3
 ---

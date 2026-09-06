@@ -2,6 +2,8 @@
 title: "Abel"
 description: "Andre eldste sønn av Adam og Eva, offer i bibelhistoriens første drap, kjent for sin tro og sitt offer som ble akseptert av Gud."
 date: 2025-04-18
+kategori: Personer
+sub-kategori: GT-personer
 kilder: 1
 ---
 

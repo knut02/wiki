@@ -2,6 +2,8 @@
 title: "Jesus fra Nasaret"
 description: "Hvem er Jesus? Historisk person, Messias og Guds Sønn — hans liv, lære, død og oppstandelse, og hva kirkens bekjennelse sier om ham."
 date: 2025-04-18
+kategori: Kristologi
+sub-kategori: Jesu identitet
 updated: 2025-07-09
 sources: 5
 ---

@@ -2,6 +2,8 @@
 title: "Kirkehistorie: Det andre århundret (100–200 e.Kr.)"
 description: "Perioden med de fem gode keiserne — kirken vokser under press, og de første store kjetteriene utfordrer ortodoks lære."
 date: 2025-04-27
+kategori: Kirkehistorie
+sub-kategori: Oldkirken — Bakgrunn og kontekst
 kilder: 1
 ---
 

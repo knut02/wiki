@@ -2,6 +2,8 @@
 title: "Embetsutvikling i oldkirken — frem til år 900"
 description: "Fra løse menighetsledere til monepiskopat, metropolitter, patriarker og paveembetets framvekst — kirkens embetsstruktur fra det 1. til det 9. århundre."
 date: 2025-05-26
+kategori: Kirkehistorie
+sub-kategori: Oldkirken — Gudstjeneste og kirkeliv
 updated: 2025-06-02
 sources: 4
 ---

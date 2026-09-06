@@ -2,6 +2,8 @@
 title: "Ritualer — perspektiver og dimensjoner"
 description: "Catherine Bells systematiske analyse av ritualbegrepet: teorier fra 1800-tallet til i dag, seks sjangre for rituelle handlinger, og Bells eget bidrag om *ritualisering* som situert, strategisk praksis."
 date: 2025-05-03
+kategori: Verdensreligioner og livssyn
+sub-kategori: Religionsteori
 modified: 2025-05-03
 Kilder: 1
 ---

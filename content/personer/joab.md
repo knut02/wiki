@@ -1,3 +1,11 @@
+---
+title: "Joab"
+date: 2025-04-18
+kategori: Personer
+sub-kategori: GT-personer
+kilder: 1
+---
+
 # Joab
 
 > Davids hærfører, kjent for politisk drablighet og lojalitet til David — men på egne premisser.

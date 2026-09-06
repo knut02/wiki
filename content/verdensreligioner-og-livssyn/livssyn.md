@@ -1,3 +1,11 @@
+---
+title: "Livssyn"
+date: 2025-04-18
+kategori: Verdensreligioner og livssyn
+sub-kategori: Livssyn og samfunn
+kilder: 2
+---
+
 # Livssyn
 
 > «Livssyn er dei grunnleggjande oppfatningane ein person har om tilværet, seg sjølv og sitt forhold til omgjevnadene.» — Aadnanes 2012

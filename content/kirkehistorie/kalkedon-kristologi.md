@@ -2,6 +2,8 @@
 title: "Kalkedon-kristologi — fra Nikea til Kalkedon"
 description: "«Vi bekjenner den éne og samme Kristus, Sønn, Herre, enbåren, som erkjennes i to naturer, uten sammenblanding og uforvandlet, uoppdelt og uten atskillelse.» — Kalkedon 451 e.Kr."
 date: 2025-04-18
+kategori: Kirkehistorie
+sub-kategori: Oldkirken — Kristologi og treenighet
 modified: 2025-05-11
 kilder: 4
 ---

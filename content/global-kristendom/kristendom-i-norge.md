@@ -2,6 +2,8 @@
 title: "Kristendom i Norge"
 description: "Kristendommen i Norge er et resultat av importerte ideer og praksiser, som har fått et lokalt preg med tiden. — Nikolajsen 2018"
 date: 2025-04-18
+kategori: Global kristendom
+sub-kategori: Kristendom i verden
 modified: 2025-05-15
 kilder: 2
 ---

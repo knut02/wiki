@@ -2,6 +2,8 @@
 title: "Maria — Jesu mor"
 description: "Maria som teologisk nøkkelfigur — bebudelsen, Magnificat, ved korset, theotokos-tittelen, evig jomfru, den andre Eva, oldtidens røtter, og Peelers analyse av hennes tjeneste."
 date: 2025-04-18
+kategori: Personer
+sub-kategori: NT og oldkirke-personer
 updated: 2025-05-18
 ---
 

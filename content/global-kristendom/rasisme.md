@@ -2,6 +2,8 @@
 title: "Rasisme"
 description: "Rasismens definisjon, former og historiske utvikling — fra vitenskapelig rasisme via kolonitiden til hverdagsrasisme og rasisme i Norge i dag."
 date: 2025-04-18
+kategori: Global kristendom
+sub-kategori: Kirke og samfunn
 updated: 2025-05-18
 kilder: 2
 ---

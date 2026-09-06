@@ -2,6 +2,8 @@
 title: Klemens av Alexandria (ca. 150–215)
 description: Filosof, teolog og leder av kateketskolen i Alexandria — den første store syntesen mellom gresk filosofi og kristen tro.
 date: 2025-05-05
+kategori: Personer
+sub-kategori: NT og oldkirke-personer
 kilder: 3
 ---
 

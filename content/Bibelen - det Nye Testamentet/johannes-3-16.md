@@ -4,6 +4,7 @@ description: "«For så høyt elsket Gud verden at han gav sin enbårne Sønn» 
 date: 2026-07-12
 updated: 2026-07-12
 kategori: Det nye testamentet
+sub-kategori: Sentrale tekster
 studievei: [evangeliene, kristologi]
 tags: [johannesevangeliet, Nikodemus, monogenes, evig liv, kjærlighet, verden, inkarnasjon]
 sources: 2

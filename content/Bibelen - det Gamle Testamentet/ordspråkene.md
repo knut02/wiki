@@ -4,6 +4,7 @@ description: "Visdomslitteraturens praktiske hjerte — Ordspråkene om frykt fo
 date: 2026-08-26
 updated: 2026-08-26
 kategori: Det gamle testamentet
+sub-kategori: Poetiske og visdomsbøker
 studievei: [gt, disippelskap, Bibelen]
 tags: [Ordspråkene, visdom, frykt for Herren, Salomo, personifisert visdom, kortform, hverdagsetikk, tunge, arbeid, vennskap]
 sources: 2

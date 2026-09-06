@@ -4,6 +4,7 @@ description: "Bergprekenen er Jesu fremste undervisning — en sammenhengende ta
 date: 2025-05-30
 updated: 2026-08-26
 kategori: Det nye testamentet
+sub-kategori: Sentrale tekster
 studievei: [evangeliene, disippelskap, etikk]
 tags: [bergprekenen, saligprisningene, antitesene, Guds rike, Matt 5-7, fiendekjærlighet, Fadervår, fromhet, bekymring]
 sources: 4

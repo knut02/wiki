@@ -2,6 +2,8 @@
 title: "Klagesangene"
 description: "Fem hebraiske klagedikt over Jerusalems fall 587 f.Kr. — sjanger, teologi, alfabetakrostikk, datter Sion, stemmer og resepsjon."
 date: 2025-05-17
+kategori: Det gamle testamentet
+sub-kategori: Poetiske og visdomsbøker
 updated: 2025-05-25
 sources: 3
 ---

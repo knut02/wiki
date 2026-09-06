@@ -3,6 +3,8 @@ title: "Den Hellige Ånd"
 description: "Guds ånd — tredje person i Treenigheten, gjennomgående tilstedeværende fra skapelsen i GT til pinsedagen og den tidlige kirken i NT."
 date: 2025-04-27
 updated: 2025-05-20
+kategori: Teologi
+sub-kategori: Gudslære
 kilder: 1
 ---
 

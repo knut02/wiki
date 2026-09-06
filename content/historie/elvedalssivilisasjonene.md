@@ -2,6 +2,8 @@
 title: "Elvedalssivilisasjonene og de fire klassiske imperiene"
 description: "Knutsens historiske oversikt fra de første sivilisasjonene (4000 f.Kr.) til Europas fremvekst — med særlig vekt på Mesopotamia, de klassiske imperiene og kristendommens og islams historiske rolle."
 date: 2025-05-01
+kategori: Historie
+sub-kategori: Oldtid og sivilisasjon
 Kilder: 1
 ---
 

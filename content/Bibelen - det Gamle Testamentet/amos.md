@@ -4,6 +4,7 @@ description: "Hyrden fra Tekoa som talte mot sosial urettferdighet — Amos er G
 date: 2026-08-26
 updated: 2026-08-26
 kategori: Det gamle testamentet
+sub-kategori: Profetene
 studievei: [gt, etikk, Bibelen]
 tags: [Amos, sosialetikk, rettferdighet, profeti, Israel, fattige, rike, kultskritikk, dom, Herrens dag]
 sources: 2

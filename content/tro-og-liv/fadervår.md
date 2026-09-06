@@ -2,6 +2,8 @@
 title: "Fadervår"
 description: "En gjennomgang av Fadervår — de to bibeltekstene, sju bønneledd, oldkirkens kommentarer (Didache, Tertullian, Origenes), og Willards forståelse av bønnen som kart over virkeligheten."
 date: 2025-05-20
+kategori: Tro og liv
+sub-kategori: Spiritualitet og praksis
 updated: 2025-05-20
 ---
 

@@ -2,6 +2,8 @@
 title: "Bibeltolkning — innføring"
 description: "Bibelen er antakelig den mest leste, brukte og drøftede skriftsamlingen gjennom hele verdenshistorien.» — Tveito 2021"
 date: 2025-04-18
+kategori: Lese og forstå Bibelen
+sub-kategori: Hermeneutikk
 updated: 2025-07-09
 kilder: 4
 ---

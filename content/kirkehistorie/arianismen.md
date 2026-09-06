@@ -2,6 +2,8 @@
 title: "Arianismen"
 description: "Den kristologiske læren fra Arius (ca. 260–336) om at Sønnen er skapt og underordnet Faderen — og den store konflikten den utløste i det fjerde århundret."
 date: 2025-05-01
+kategori: Kirkehistorie
+sub-kategori: Oldkirken — Kristologi og treenighet
 kilder: 2
 ---
 

@@ -2,6 +2,8 @@
 title: "Sekularisering i Norge"
 description: "Hva er sekularisering? Dobbelaeres tredelte modell, drivkrefter, tall og trender fra 1988 til 2020, og det religionskomplekse Norge."
 date: 2025-05-24
+kategori: Verdensreligioner og livssyn
+sub-kategori: Livssyn og samfunn
 updated: 2025-05-26
 sources: 3
 ---

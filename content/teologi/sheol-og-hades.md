@@ -4,6 +4,8 @@ description: "Det hebraiske Sheol og det greske Hades — hva Bibelen sier om ti
 date: 2025-05-26
 updated: 2025-05-26
 sources: 2
+kategori: Teologi
+sub-kategori: Eskatologi
 ---
 
 ---

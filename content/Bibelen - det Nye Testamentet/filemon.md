@@ -4,6 +4,7 @@ description: "NT's korteste brev — et mesterstykke i retorisk overtalelse der 
 date: 2026-08-26
 updated: 2026-08-26
 kategori: Det nye testamentet
+sub-kategori: Paulusteologi
 studievei: [disippelskap, kirkehistorie, Bibelen]
 tags: [Filemon, slaveri, Onesimus, anbefalingsbrev, retorisk overtalelse, broderskap, Paulus, frihet]
 sources: 2

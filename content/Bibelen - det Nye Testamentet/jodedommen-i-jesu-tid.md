@@ -2,6 +2,8 @@
 title: "Jødedommen i Jesu tid — de religiøse grupperingene"
 description: "Fariseere, sadukeere, essenes og selotene: de fire store religiøse og politiske grupperingene i det første århundrets Palestina — og hva de betyr for å forstå evangeliene."
 date: 2026-07-12
+kategori: Det nye testamentet
+sub-kategori: Bakgrunn og kontekst
 updated: 2026-07-12
 sources: 2
 ---

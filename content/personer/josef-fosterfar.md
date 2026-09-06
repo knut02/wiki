@@ -1,3 +1,11 @@
+---
+title: "Josef (Jesu fosterfar)"
+date: 2025-04-18
+kategori: Personer
+sub-kategori: NT og oldkirke-personer
+kilder: 2
+---
+
 # Josef (Jesu fosterfar)
 
 > Håndverker fra Nasaret, juridisk far til Jesus etter jødisk lov, etterkommer av kong David.

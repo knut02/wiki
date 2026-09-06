@@ -2,6 +2,8 @@
 title: "Uten meg kan dere ingen ting gjøre — Joh 15:5"
 description: "Hva betyr Jesu utsagn om at vi ingen ting kan gjøre uten ham? En gjennomgang av avhengighetens teologi — ikke som passivitet, men som livgivende forbindelse."
 date: 2025-05-31
+kategori: Tro og liv
+sub-kategori: Tekstbaserte refleksjoner
 updated: 2025-05-31
 sources: 4
 ---

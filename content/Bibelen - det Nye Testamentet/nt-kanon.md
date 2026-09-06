@@ -2,6 +2,8 @@
 title: "Det nye testamentet — kanonprosessens tre århundrer"
 description: "Da velsignet jeg dere alle i det hellige og faste håp om at dere holder fast ved det som er nedtegnet for vår instruksjon.» — Klemens av Roma, ca. 96 e.Kr., som siterer en tekst som ennå ikke har status som «Skriften\""
 date: 2025-05-06
+kategori: Det nye testamentet
+sub-kategori: Oversikt
 Oppdatert: 2025-05-15
 kilder: 4
 ---

@@ -2,6 +2,8 @@
 title: "Hellige skrifter i verdensreligionene"
 description: "Hva er hellig tekst? Skriftreligionene — abrahamittiske og ikke-abrahamittiske — og skriftens funksjon og autoritet."
 date: 2025-05-24
+kategori: Lese og forstå Bibelen
+sub-kategori: Innføring
 updated: 2025-05-24
 ---
 

@@ -2,6 +2,8 @@
 title: Religion og politisk konflikt
 description: Religionens rolle i politisk konflikt og vold — Brubakers skille mellom særpregede religiøse konflikter og konflikter som ligner andre maktstrider, med modeller og eksempler.
 date: 2025-05-11
+kategori: Verdensreligioner og livssyn
+sub-kategori: Livssyn og samfunn
 updated: 2025-05-18
 ---
 

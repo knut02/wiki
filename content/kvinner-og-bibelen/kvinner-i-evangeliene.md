@@ -2,6 +2,8 @@
 title: Kvinner i evangeliene
 description: En systematisk gjennomgang av alle kvinner i evangeliene — navngitte og ikke-navngitte, med Peelers analyse av Maria som mønster for kristen tjeneste.
 date: 2025-05-15
+kategori: Kvinner og Bibelen
+sub-kategori: Kvinner og Bibelen
 updated: 2025-05-18
 ---
 

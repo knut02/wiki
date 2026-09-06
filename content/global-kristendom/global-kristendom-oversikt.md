@@ -2,6 +2,8 @@
 title: "Global kristendom"
 description: "Kristendommens geografiske tyngdepunktskifte fra Nord til Sør, pinsekirkenes vekst, og regional oversikt over Afrika, Amerika, Midtøsten, Asia og Europa."
 date:  2025-05-02
+kategori: Global kristendom
+sub-kategori: Oversikt
 modified: 2025-05-18
 ---
 

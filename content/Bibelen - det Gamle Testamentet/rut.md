@@ -4,6 +4,7 @@ description: "En kort fortelling om troskap, kjærlighet og innlemmelse — Rut 
 date: 2026-08-26
 updated: 2026-08-26
 kategori: Det gamle testamentet
+sub-kategori: Narrative bøker
 studievei: [gt, Bibelen, disippelskap]
 tags: [Rut, Naomi, Boas, troskap, hesed, innlemmelse, moabitt, David, løseren, korninntil]
 sources: 2

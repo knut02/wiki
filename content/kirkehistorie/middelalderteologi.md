@@ -2,6 +2,8 @@
 title: "Middelalderteologi"
 description: "Middelalderens to hovedteologiske strømninger — monastisk teologi (Benedikt, Bernard, Hildegard) og skolastisk teologi (Anselm, Aquinas, Bonaventura) — med nøkkelskikkelser og overgang til reformasjonen."
 date: 2025-05-01
+kategori: Kirkehistorie
+sub-kategori: Middelalderen
 updated: 2025-05-18
 ---
 

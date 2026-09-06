@@ -2,6 +2,8 @@
 title: "Buddhisme og hellige tekster — bokkult i Tibet og Mongolia"
 description: "Buddhistiske teksters rituelle og magiske funksjoner i tibetansk tradisjon — tilbedelse, resitasjon, beskyttelse og politisk makt."
 date: 2025-05-26
+kategori: Verdensreligioner og livssyn
+sub-kategori: Østlige religioner
 updated: 2025-05-26
 sources: 2
 ---

@@ -2,6 +2,8 @@
 title: "Maria, Guds mor — theotokos og historiske røtter"
 description: "Hvem er jomfru Maria? Theotokos-tittelen fra konsilet i Efesos 431, Marias roller som jomfru, mor og dronning, og hennes historiske røtter i antikkens gudinnekult."
 date: 2025-06-02
+kategori: Kristologi
+sub-kategori: Kristologisk teologi
 updated: 2025-06-02
 sources: 2
 ---

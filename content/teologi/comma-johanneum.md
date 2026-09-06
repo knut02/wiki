@@ -4,6 +4,8 @@ description: " «For det er tre som vitner: Ånden, vannet og blodet, og disse t
 date: 2025-05-03
 modified: 2025-05-17
 kilder: 2
+kategori: Teologi
+sub-kategori: Bibeltekst og tekstkritikk
 ---
 
 ## Hva er Comma Johanneum?

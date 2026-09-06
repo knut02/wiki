@@ -4,6 +4,7 @@ description: "Fra forflgelse til statsreligion — hvordan Konstantins omvendels
 date: 2026-08-26
 updated: 2026-08-26
 kategori: Kirkehistorie
+sub-kategori: Oldkirken — Forflølgelse og statsreligion
 studievei: [kirkehistorie, Bibelen]
 tags: [Konstantin, Ediktet av Milano, statsreligion, forfolgelse, kirke og stat, Milvian Bridge, 313, patristikk]
 sources: 2

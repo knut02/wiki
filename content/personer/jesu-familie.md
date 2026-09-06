@@ -2,6 +2,8 @@
 title: Jesu familie og slekt
 description: "Oversikt over Jesu nærmeste familie — foreldre, søsken og slektninger — slik de fremstilles i evangeliene."
 date: 2025-05-02
+kategori: Personer
+sub-kategori: NT og oldkirke-personer
 Kilder: 2
 ---
 

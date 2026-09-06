@@ -2,6 +2,8 @@
 title: "Apostlene — de tolv"
 description: "«Kom og følg meg, så vil jeg gjøre dere til menneskefiskere.» — Matt 4:19"
 date: 2025-04-18
+kategori: Personer
+sub-kategori: NT og oldkirke-personer
 modified: 2025-05-13
 kilder: 2
 ---

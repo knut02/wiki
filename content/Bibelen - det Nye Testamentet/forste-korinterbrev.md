@@ -4,6 +4,7 @@ description: "Paulus' pastoral krisehåndtering av en splittet menighet — kors
 date: 2026-08-25
 updated: 2026-08-25
 kategori: Det nye testamentet
+sub-kategori: Paulusteologi
 studievei: [disippelskap, kirkehistorie, Bibelen]
 tags: [1 Korinterbrev, Korint, korset, visdom, åndsgaver, kjærlighet, oppstandelse, nattverd, enhet]
 sources: 2

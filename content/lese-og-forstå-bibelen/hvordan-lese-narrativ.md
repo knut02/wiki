@@ -2,6 +2,8 @@
 title: "Hvordan lese narrativ"
 description: "«En tekst er en komponent i en kommunikasjonsprosess.» — Tveito 2021. Og en bibelfortelling er en bevisst konstruert tekst der ingenting er tilfeldig."
 date: 2025-04-18
+kategori: Lese og forstå Bibelen
+sub-kategori: Hermeneutikk
 modified: 2025-05-15
 kilder: 4
 ---

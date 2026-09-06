@@ -4,6 +4,8 @@ description: "Den østlige kristendommens frelsesforståelse: Frelsen er ikke pr
 date: 2025-05-05
 updated: 2025-06-13
 kilder: 4
+kategori: Teologi
+sub-kategori: Gudslære
 ---
 
 ## Hva er theosis?

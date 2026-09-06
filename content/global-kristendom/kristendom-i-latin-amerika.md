@@ -2,6 +2,8 @@
 title: "Global kristendom — Latin-Amerika"
 description: "Katolisismens historiske dominans, pinsebevegelsens fremvekst og kristendommens mangfold i Latin-Amerika."
 date: 2025-05-26
+kategori: Global kristendom
+sub-kategori: Kristendom i verden
 updated: 2025-05-26
 sources: 2
 ---

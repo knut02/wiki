@@ -2,6 +2,8 @@
 title: "Fra oldtid til middelalder — ca. 300–750"
 description: "Romerrikets krise og fall, kristendommens gjennombrudd som statsreligion, de germanske invasjonene og arabernes ekspansjon — overgangen til middelalderens tredelte verden."
 date: 2025-05-30
+kategori: Historie
+sub-kategori: Oldtid og sivilisasjon
 updated: 2025-05-30
 sources: 2
 ---

@@ -2,6 +2,8 @@
 title: "Hvem er Jesus for vanlige kirkegjengere?"
 description: "Uavhengig av hva skrift og tradisjon lærer, vil vi ikke la Jesus Kristus være noe mer eller mindre enn det vi tror vi trenger for vår frelse.» — Tyron Inbody, sitert i Christie (2007)"
 date: 2025-05-10
+kategori: Kristologi
+sub-kategori: Jesu identitet
 Kilder: 2
 ---
 

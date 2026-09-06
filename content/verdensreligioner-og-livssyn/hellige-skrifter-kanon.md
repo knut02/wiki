@@ -2,6 +2,8 @@
 title: "Hellige skrifter — kanonbegrepet og verdensreligionene"
 description: "Braarvig og Justnes' innføring i hellige skrifters kjennetegn: kanon, åpenbaring, kultisk funksjon og forholdet mellom innenfra- og utenfra-perspektiver."
 date: 2025-05-04
+kategori: Verdensreligioner og livssyn
+sub-kategori: Religionsteori
 Kilder: 1
 ---
 

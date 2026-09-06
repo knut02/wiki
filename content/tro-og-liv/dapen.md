@@ -2,6 +2,8 @@
 title: "Dåpen"
 description: "Dåpens teologi og praksis fra NT til i dag — innsettelse i Kristus, syndsforlatelse, Den hellige ånd, dåp og frelse, og spørsmålet om barnedåp vs. troendes dåp."
 date: 2025-05-05
+kategori: Tro og liv
+sub-kategori: Spiritualitet og praksis
 updated: 2025-06-02
 sources: 5
 ---

@@ -2,6 +2,8 @@
 title: "Guds vilje for mitt liv — om valg og retning"
 description: "Hva betyr det å leve i Guds vilje? Ikke primært som et spørsmål om riktige beslutninger, men som en retning for hele livet — formet av disippelskap, karakter og Ånden."
 date: 2025-05-25
+kategori: Tro og liv
+sub-kategori: Guds rike og eskatologi
 updated: 2025-05-25
 sources: 5
 ---

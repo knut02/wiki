@@ -2,6 +2,8 @@
 title: "GT-kanon og teksthistorie — oppbygging og struktur"
 description: "GT's inndeling i tre deler (Torah, Profeter, Skrifter) og tekstens overlevering — fra hebraisk originalspråk til Septuaginta og tekstkritikk."
 date: 2025-05-03
+kategori: Det gamle testamentet
+sub-kategori: Kanon og teksthistorie
 modified: 2025-05-15
 kilder: 3
 ---

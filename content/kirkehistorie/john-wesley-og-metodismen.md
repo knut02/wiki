@@ -2,8 +2,8 @@
 title: "John Wesley og metodismen"
 description: "Hjertet som ble merkelig varmt — Wesleys omvendelse i 1738, metodismens vekst og dens teologi om helliggjørelse og sosial omsorg."
 date: 2026-08-26
-updated: 2026-08-26
 kategori: Kirkehistorie
+sub-kategori: Nyere tid
 studievei: [kirkehistorie, disippelskap]
 tags: [Wesley, metodisme, helliggjørelse, vekkelse, Aldersgate, pietisme, sosial omsorg, arminiansk, levende tro]
 sources: 2

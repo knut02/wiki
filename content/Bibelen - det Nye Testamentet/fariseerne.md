@@ -2,6 +2,8 @@
 title: "Fariseerne"
 description: "Alle gjerningene de gjør, gjør de for å bli sett av mennesker.» — Matt 23:5. Jesus' kritikk er skarp — men forteller oss også at fariseerne var tatt på alvor."
 date: 2025-04-18
+kategori: Det nye testamentet
+sub-kategori: Bakgrunn og kontekst
 updated: 2025-05-15
 Kilder: 2
 ---

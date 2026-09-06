@@ -2,6 +2,8 @@
 title: "Genesis — Fohrman og parasja-tradisjonen"
 description: "David Fohrman leser 1. Mosebok med jødisk parasja-metode: nærlesning, ordmønstre og tolkningslag som åpner klassiske fortellinger på nytt."
 date: 2025-06-02
+kategori: Det gamle testamentet
+sub-kategori: Skapelse og tidlighistorie
 updated: 2025-06-02
 sources: 2
 ---

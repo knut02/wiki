@@ -2,8 +2,8 @@
 title: "Eskatologi — kristent fremtidshåp"
 description: "Det kristne håpet om fremtiden — fra GT-profetenes forventning via Jesu rikets-forkynnelse til Paulus' oppstandelsesteologi, Åpenbaringens ny skapelse og kirkehistoriske posisjoner."
 date: 2025-05-17
-updated: 2026-08-26
 kategori: Teologi
+sub-kategori: Eskatologi
 studievei: [kristologi, gt, Bibelen]
 tags: [eskatologi, oppstandelse, ny skapelse, Guds rike, parousia, Sheol, himmel, dom, Wright, inaugurert eskatologi]
 sources: 4

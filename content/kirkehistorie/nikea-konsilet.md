@@ -2,6 +2,8 @@
 title: "Nikea-konsilet 325 — det første ekumeniske konsilet"
 description: "«Jeg tror på én Gud, den allmektige Fader... og på én Herre Jesus Kristus, Guds enbårne Sønn... av samme vesen som Faderen (*homoousios*).» — Den nikenske bekjennelsen, 325 e.Kr."
 date: 2025-04-18
+kategori: Kirkehistorie
+sub-kategori: Oldkirken — Kristologi og treenighet
 modified: 2025-05-11
 kilder: 3
 ---

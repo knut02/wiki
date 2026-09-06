@@ -4,6 +4,7 @@ description: "Lignelsene er ikke illustrasjoner til en lære som kan formuleres 
 date: 2025-05-11
 updated: 2026-08-25
 kategori: Det nye testamentet
+sub-kategori: Sentrale tekster
 studievei: [evangeliene, disippelskap]
 tags: [lignelser, Guds rike, fortapte sønn, barmhjertige samaritan, parabolē, Lukas 15]
 kilder: 4

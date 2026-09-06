@@ -2,6 +2,8 @@
 title: "Universaliestrid og vernakulær teologi"
 description: "Senmiddelalderens store filosofiske strid om allmennbegrepenes natur — og lekfolksteologiens fremvekst på folkespråket."
 date:  2025-05-01
+kategori: Kirkehistorie
+sub-kategori: Middelalderen
 modified: 2025-05-01
 Kilder: 1
 ---

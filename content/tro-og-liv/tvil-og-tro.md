@@ -2,6 +2,8 @@
 title: "Tvil og tro — vanskelige spørsmål"
 description: "Ti vanlige snublesteiner i kristen tro — jomfrufødsel, oppstandelse, helvete, lidelse og mer — med ærlige svar og filosofisk begrunnelse for at tvil og tro ikke utelukker hverandre."
 date: 2025-04-18
+kategori: Tro og liv
+sub-kategori: Grunnleggende trospørsmål
 updated: 2025-05-18
 ---
 

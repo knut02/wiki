@@ -5,6 +5,7 @@ date: 2025-05-01
 updated: 2026-08-26
 sources: 4
 kategori: Teologi
+sub-kategori: Gudslære
 ---
 
 > «Treenighetslæren er ikke en spekulativ leketoyslære som henger i luften. Den er en nødvendig konsekvens av det som skjedde i Jesu liv, død og oppstandelse.» — Alister McGrath

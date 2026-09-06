@@ -4,6 +4,7 @@ description: "NT's mest systematiske argument for Jesu overhøyhet — større e
 date: 2026-08-25
 updated: 2026-08-25
 kategori: Det nye testamentet
+sub-kategori: Katolske brev og Åpenbaringen
 studievei: [kristologi, kirkehistorie, Bibelen]
 tags: [Hebreerbrevet, yppersteprest, Melkisedek, pakt, tabernaklet, tro, utholdenhet, skygge]
 sources: 2

@@ -2,6 +2,8 @@
 title: "Bønn"
 description: "Hva er bønn? Bønnens mange former i Bibelen — klage, takk, forbønn, tilbedelse — Fadervår som mønster, ubesvart bønn, og bønn som livsholdning."
 date: 2025-05-11
+kategori: Tro og liv
+sub-kategori: Spiritualitet og praksis
 updated: 2026-07-10
 sources: 3
 ---

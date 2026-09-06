@@ -2,6 +2,8 @@
 title: "Én Gud Fader Allmektig» — treenighetsgrammatikken"
 description: "Jeg tror ikke at den ene Gud er en Treenighet.» — tenkt elev hos Behr. Men det er det heller ikke Nikea-bekjennelsen sier."
 date: 2025-05-10
+kategori: Teologi
+sub-kategori: Gudslære
 Kilder: 2
 ---
 

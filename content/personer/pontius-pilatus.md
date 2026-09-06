@@ -2,6 +2,8 @@
 title: "Pontius Pilatus"
 description: "Den romerske prefekten som dømte Jesus til korsfestelse — hans embete, historiske belegg, og rollen i lidelseshistorien."
 date: 2025-05-11
+kategori: Personer
+sub-kategori: NT og oldkirke-personer
 modified: 2025-05-11
 ---
 

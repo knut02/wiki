@@ -4,6 +4,7 @@ description: "Tre brev til Paulus' medarbeidere om menighetsledelse, sund lære 
 date: 2026-08-26
 updated: 2026-08-26
 kategori: Det nye testamentet
+sub-kategori: Paulusteologi
 studievei: [kirkehistorie, disippelskap, Bibelen]
 tags: [pastoralbrev, Timoteus, Titus, menighetsledelse, eldste, diakon, sund lære, falsk lære, Efesos, Kreta]
 sources: 2

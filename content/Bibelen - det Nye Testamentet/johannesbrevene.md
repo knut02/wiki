@@ -4,6 +4,7 @@ description: "Tre brev fra den johanneiske tradisjonen: fellesskapet under press
 date: 2025-05-11
 updated: 2026-08-26
 kategori: Det nye testamentet
+sub-kategori: Katolske brev og Åpenbaringen
 studievei: [evangeliene, disippelskap]
 tags: [Johannesbrevene, kjærlighet, doketisme, antikrist, Diotrefes, inkarnasjon, fellesskap, gjestfrihet]
 sources: 4

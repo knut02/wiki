@@ -2,6 +2,8 @@
 title: "Moskéarkitektur — bønnerommet i islam"
 description: "Moskeens rom og funksjon — bønnerommets tre retninger, utsmykning, mihrab, minaret og eksempler fra nybygde moskeer i Oslo."
 date: 2025-05-24
+kategori: Verdensreligioner og livssyn
+sub-kategori: Abrahamittiske religioner
 updated: 2025-05-26
 sources: 2
 ---

@@ -2,6 +2,8 @@
 title: "Historisk Jesus"
 description: "Det akademiske feltet historisk Jesus-forskning — metodiske spørsmål, ikke-kristne kilder, og hva vi med rimelig sikkerhet kan si om Jesus av Nasaret."
 date: 2025-05-11
+kategori: Kristologi
+sub-kategori: Jesu identitet
 modified: 2025-05-11
 ---
 

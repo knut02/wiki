@@ -2,6 +2,8 @@
 title: "GT-Guds tilsynelatende brutalitet"
 description: "«Dreper, straffer, sender plager, utsletter folk... Er dette samme Gud som 'elsker alle'?» — Et av de vanligste spørsmålene unge stiller om kristendommen"
 date: 2025-05-10
+kategori: Det gamle testamentet
+sub-kategori: Profetene
 kilder: 3
 ---
 

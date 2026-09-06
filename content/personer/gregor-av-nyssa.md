@@ -2,6 +2,8 @@
 title: Gregor av Nyssa (ca. 335–395)
 description: Kappadokisk biskop og mystiker — arkitekten bak epektasis-tanken og den kristne mystikkens negative teologi.
 date: 2025-05-05
+kategori: Personer
+sub-kategori: NT og oldkirke-personer
 kilder: 3
 ---
 

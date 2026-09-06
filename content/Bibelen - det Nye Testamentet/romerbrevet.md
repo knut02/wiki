@@ -4,6 +4,7 @@ description: "Paulus' teologiske mesterverk — evangeliet som Guds kraft til fr
 date: 2026-08-25
 updated: 2026-08-25
 kategori: Det nye testamentet
+sub-kategori: Paulusteologi
 studievei: [disippelskap, kristologi, Bibelen]
 tags: [Romerbrevet, rettferdiggjørelse, nåde, Ånden, Abraham, Israel, hedninger, frelse]
 sources: 2

@@ -1,3 +1,11 @@
+---
+title: "Kong Saul"
+date: 2025-04-18
+kategori: Personer
+sub-kategori: GT-personer
+kilder: 1
+---
+
 # Kong Saul
 
 > Israels første konge, som regjerte ca. 1050–1010 f.Kr., og hvis fall baner vei for David.

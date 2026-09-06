@@ -2,6 +2,8 @@
 title: "Nåde"
 description: "Guds gave uten fortjeneste — charis, Paulus' rettferdiggjørelseslære, billig vs. kostbar nåde, og nådens kirkehistoriske debatt fra Augustin til Luther."
 date: 2025-05-11
+kategori: Tro og liv
+sub-kategori: Grunnleggende trospørsmål
 updated: 2026-07-10
 ---
 

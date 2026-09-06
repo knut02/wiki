@@ -2,6 +2,8 @@
 title: "Abner"
 description: "Israels hærfører under kong Saul, senere alliert med David, drept av Joab som hevn."
 date: 2025-04-18
+kategori: Personer
+sub-kategori: GT-personer
 kilder: 1
 ---
 

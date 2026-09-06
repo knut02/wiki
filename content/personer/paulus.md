@@ -2,6 +2,8 @@
 title: Paulus — apostel, misjonær og teolog
 description: «Jeg lever ikke lenger selv, men Kristus lever i meg.» — Gal 2:20
 date: 2025-05-03
+kategori: Personer
+sub-kategori: NT og oldkirke-personer
 updated: 2025-05-15
 kilder: 4
 ---

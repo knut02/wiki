@@ -2,6 +2,8 @@
 title: "Evangeliene"
 description: "De fire bibelske skriftene om Jesu liv og virke — deres tilblivelse, særpreg, det synoptiske problemet og historisk pålitelighet."
 date: 2025-04-18
+kategori: Det nye testamentet
+sub-kategori: Oversikt
 updated: 2026-07-10
 kilder: 4
 ---

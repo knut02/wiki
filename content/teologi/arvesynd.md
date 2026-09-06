@@ -4,6 +4,8 @@ description: " «For likesom alle dør i Adam, skal alle bli gjort levende i Kri
 date: 2025-04-18
 modified: 2025-05-17
 kilder: 3
+kategori: Teologi
+sub-kategori: Antropologi og syndelære
 ---
 
 ## Hva er arvesynd?

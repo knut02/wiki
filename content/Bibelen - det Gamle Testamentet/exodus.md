@@ -2,6 +2,8 @@
 title: Exodus — bok, teologi og historisitet
 description: Exodus-boken i GT — struktur, nøkkeltemaer, teologisk arv, og debatten om historisitet mellom minimalisme og maximalisme.
 date: 2025-04-27
+kategori: Det gamle testamentet
+sub-kategori: Patriarker og pakt
 updated: 2025-05-18
 ---
 

@@ -2,6 +2,8 @@
 title: "Bibelens tilblivelse"
 description: "Bibelen er ikke én bok men et bibliotek — 66 skrifter skrevet over 1500 år. En innføring i kanonprosessen, teksthistorien, oversettelsene og spørsmålet om inspirasjon."
 date: 2025-05-06
+kategori: Lese og forstå Bibelen
+sub-kategori: Innføring
 updated: 2026-07-10
 kilder: 3
 ---

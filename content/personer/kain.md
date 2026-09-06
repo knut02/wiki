@@ -4,6 +4,7 @@ description: "Den første morderen — fortellingen om Kain og Abel i 1 Mos 4, d
 date: 2026-08-26
 updated: 2026-08-26
 kategori: Personer
+sub-kategori: GT-personer
 studievei: [gt, kristologi, disippelskap]
 tags: [Kain, Abel, 1 Mosebok, misunnelse, mord, Guds merke, forbannelse, blodet, offer, NT-bruk, typologi, etterslekt, Lamek, Adam og Eva]
 sources: 3

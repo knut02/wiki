@@ -4,6 +4,7 @@ description: "GT's mest radikale visdomsbok — Qohelet stirrer rett inn i livet
 date: 2026-08-26
 updated: 2026-08-26
 kategori: Det gamle testamentet
+sub-kategori: Poetiske og visdomsbøker
 studievei: [gt, spiritualitet, Bibelen]
 tags: [Forkynneren, Qohelet, hebel, tomhet, visdom, glede, arbeid, tid, døden, frykt for Herren]
 sources: 2

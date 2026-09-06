@@ -2,6 +2,8 @@
 title: "Frelse"
 description: "Hva betyr det å bli frelst? Frelsens mange bilder i NT — rettferdiggjørelse, forsoning, gjenløsning, forening — og frelsens struktur som fortid, nåtid og fremtid."
 date: 2025-06-13
+kategori: Tro og liv
+sub-kategori: Grunnleggende trospørsmål
 updated: 2025-06-13
 sources: 4
 ---

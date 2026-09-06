@@ -2,6 +2,8 @@
 title: "Kirken"
 description: "Hva er kirken teologisk? Guds folk, Kristi kropp og Åndens tempel — de tre store NT-bildene, forholdet mellom synlig og usynlig kirke, og kirken og Guds rike."
 date: 2025-06-13
+kategori: Tro og liv
+sub-kategori: Kirke og fellesskap
 updated: 2026-07-12
 sources: 4
 ---

@@ -2,6 +2,8 @@
 title: "Kristendommens historie — oversikt"
 description: "«Historien er ikke tilfeldig. Den beveger seg mot et mål.» — En grunnforutsetning i kristen historieteologi."
 date: 2025-04-18
+kategori: Kirkehistorie
+sub-kategori: Oldkirken — Bakgrunn og kontekst
 modified: 2025-05-15
 kilder: 3
 ---

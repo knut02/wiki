@@ -2,6 +2,8 @@
 title: "Lignelsen om den fortapte sønn — Lukas 15:11–32"
 description: "Utfyllende analyse av Luk 15:11–32: tekstens oppbygning, de tre karakterene, kulturell kontekst, teologiske temaer, tolkningshistorie og lignelsens åpne slutt."
 date: 2025-06-02
+kategori: Det nye testamentet
+sub-kategori: Sentrale tekster
 updated: 2025-06-02
 sources: 4
 ---

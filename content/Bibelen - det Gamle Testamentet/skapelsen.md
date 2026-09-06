@@ -2,6 +2,8 @@
 title: "Skapelsen"
 description: "1 Mosebok 1–3 i historisk, teologisk og litterær analyse — skapelsesberetningens mesopotamiske bakgrunn, imago Dei, syndefallet og skaperverkets gode karakter."
 date: 2025-05-14
+kategori: Det gamle testamentet
+sub-kategori: Skapelse og tidlighistorie
 updated: 2025-07-09
 sources: 5
 ---

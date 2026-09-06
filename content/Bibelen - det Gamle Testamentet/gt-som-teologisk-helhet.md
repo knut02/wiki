@@ -4,6 +4,7 @@ description: "Det gamle testamentet er ikke en samling løsrevne tekster, men et
 date: 2026-08-25
 updated: 2026-08-25
 kategori: Det gamle testamentet
+sub-kategori: Oversikt
 studievei: [gt, Bibelen, kirkehistorie]
 tags: [GT, teologi, pakt, løfte, Israel, skapelse, eksil, profetene, kanon, TANAKH, heilsgeschichte]
 sources: 2

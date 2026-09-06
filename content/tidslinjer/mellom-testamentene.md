@@ -2,6 +2,8 @@
 title: Mellom testamentene — perioden 333 f.Kr.–30 e.Kr.
 description: "Da tidens fylde kom, sendte Gud sin Sønn.» — Gal 4:4. Bakgrunnen for den «fylde» er fire hundre år med gresk kultur, jødisk opprør og romersk herredømme."
 date: 2025-04-18
+kategori: Tidslinjer
+sub-kategori: Bibelske og historiske tidslinjer
 modified: 2025-05-14
 kilder: 2
 ---

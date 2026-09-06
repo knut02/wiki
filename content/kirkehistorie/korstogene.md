@@ -2,8 +2,8 @@
 title: "Korstogene (1095-1291)"
 description: "To hundre år med væpnede pilegrimsferder til Det hellige land — motivasjoner, forløp, konsekvenser for kirke-islam-relasjonen og korstogenes teologiske arv."
 date: 2026-08-26
-updated: 2026-08-26
 kategori: Kirkehistorie
+sub-kategori: Middelalderen
 studievei: [kirkehistorie]
 tags: [korstogene, Urban II, Jerusalem, Saladin, middelalder, kirke og stat, islam, pilegrimsferd, ridderordener]
 sources: 2

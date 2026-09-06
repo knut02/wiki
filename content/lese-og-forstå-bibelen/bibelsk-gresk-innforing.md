@@ -2,6 +2,8 @@
 title: "Bibelgresk — innføring"
 description: "I begynnelsen var Ordet.» — Joh 1:1. På gresk: *En archē ēn ho Logos.* Tre ord som har formet vestlig teologi."
 date: 2025-05-14
+kategori: Lese og forstå Bibelen
+sub-kategori: Originalspråk
 kilder: 1
 ---
 

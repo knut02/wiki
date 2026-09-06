@@ -2,6 +2,8 @@
 title: "Bibelhistorie — nøkkelhendelser"
 description: "Bibelens fortelling er én fortelling — fra skapelse til ny skapelse. Her er de viktigste hendelsene i kronologisk rekkefølge."
 date: 2025-04-18
+kategori: Tidslinjer
+sub-kategori: Bibelske og historiske tidslinjer
 modified: 2025-05-14
 kilder: 2
 ---

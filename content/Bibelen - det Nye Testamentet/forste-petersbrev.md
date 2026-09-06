@@ -4,6 +4,7 @@ description: "Håp under press — et brev til diasporaen som lider, om identite
 date: 2026-08-26
 updated: 2026-08-26
 kategori: Det nye testamentet
+sub-kategori: Katolske brev og Åpenbaringen
 studievei: [disippelskap, kirkehistorie, Bibelen]
 tags: [1 Peter, diaspora, fremmed, håp, lidelse, kongelig presteskap, dåp, underordning, Babylon]
 sources: 2

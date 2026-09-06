@@ -2,6 +2,8 @@
 title: "Kvinner som bibeltolkere"
 description: "Hvem leser Bibelen, fra hvilken posisjon — og hva ser de da? Dette er ikke bare et feministisk spørsmål. Det er et hermeneutisk spørsmål som gjelder alle lesere."
 date: 2025-05-06
+kategori: Kvinner og Bibelen
+sub-kategori: Kvinner og Bibelen
 kilder: 2
 ---
 

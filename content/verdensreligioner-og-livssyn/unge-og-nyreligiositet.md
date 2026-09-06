@@ -2,6 +2,8 @@
 title: "Unge og nyreligiøsitet"
 description: "Unge mennesker, individualisering og alternativ spiritualitet — «Stine-tro», den subjektive vendingen og nyreligiøsitetens kjennetegn."
 date: 2025-05-24
+kategori: Verdensreligioner og livssyn
+sub-kategori: Livssyn og samfunn
 updated: 2025-05-24
 ---
 

@@ -2,6 +2,8 @@
 title: "Kristologi fra Nikea til Kalkedon"
 description: "Striden om Kristi natur i det 4. og 5. århundre: Apollinaris, Nestorius og Kyrillos, Theotokos-striden, Efesos 431, Kalkedon 451 og det varige skismaet mellom dyofysitter og monofysitter."
 date: 2025-06-13
+kategori: Kirkehistorie
+sub-kategori: Oldkirken — Kristologi og treenighet
 updated: 2025-06-13
 sources: 3
 ---

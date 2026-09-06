@@ -2,6 +2,8 @@
 title: "Johannes-evangeliet — oversikt"
 description: "Tematisk oversikt over Johannes-evangeliet — prologen, tegnene, jeg-er-utsagnene, avskjedstalen, den Hellige Ånd, kjærlighetsbudet og oppstandelsen."
 date: 2025-05-25
+kategori: Det nye testamentet
+sub-kategori: Evangeliene
 updated: 2025-05-26
 sources: 3
 ---

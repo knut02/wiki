@@ -4,6 +4,7 @@ description: "Barmhjertighetens evangelium — Lukas som historiker, de utstøtt
 date: 2025-05-06
 updated: 2026-08-25
 kategori: Det nye testamentet
+sub-kategori: Evangeliene
 studievei: [evangeliene, disippelskap, spiritualitet]
 tags: [Lukas, Lukasevangeliet, fattige, kvinner, bønn, Ånden, samaritaner, historieskriving, Teofilus]
 sources: 2

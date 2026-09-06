@@ -2,6 +2,8 @@
 title: "Homo sapiens og den kognitive revolusjon"
 description: "Hararis perspektiv på menneskenes utvikling — fra ubetydelig savannedyr til planetens dominerende art gjennom tre revolusjoner."
 date: 2025-05-01
+kategori: Historie
+sub-kategori: Oldtid og sivilisasjon
 Kilder: 1
 ---
 

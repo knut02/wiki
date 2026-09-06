@@ -2,6 +2,8 @@
 title: "Jesus i Johannes-evangeliet — Gud og Messias"
 description: "Hvordan Johannes-evangeliet presenterer Jesus: som den pre-eksistente Logos, som Jahve selv i egō eimi-utsagnene, og som den jødisk ventede Messias."
 date: 2025-05-26
+kategori: Kristologi
+sub-kategori: Kristologisk teologi
 updated: 2025-05-26
 sources: 3
 ---

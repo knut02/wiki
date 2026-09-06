@@ -2,6 +2,8 @@
 title: "Johannesevangeliet — 30 dagers studieplan"
 description: "«I begynnelsen var Ordet, og Ordet var hos Gud, og Ordet var Gud.» — Joh 1:1. Johannesevangeliet er kristologiens evangelium — en meditasjon over hvem Jesus er, fra evighet til oppstandelse."
 date: 2025-05-14
+kategori: Det nye testamentet
+sub-kategori: Evangeliene
 kilder: 1
 ---
 

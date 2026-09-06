@@ -2,6 +2,8 @@
 title: "Gudstjenesten — historisk og teologisk"
 description: "Hva er kristen gudstjeneste? Fra husmenigheter og Didache via Justins klassiske beskrivelse til dagens struktur — gudstjenestens elementer, utvikling og teologiske mening."
 date: 2025-06-13
+kategori: Kirkehistorie
+sub-kategori: Oldkirken — Gudstjeneste og kirkeliv
 updated: 2025-07-09
 sources: 4
 ---

@@ -4,6 +4,7 @@ description: "Apokalyptisk profeti til syv menigheter i Lilleasia — et motnarr
 date: 2026-08-25
 updated: 2026-08-25
 kategori: Det nye testamentet
+sub-kategori: Katolske brev og Åpenbaringen
 studievei: [kirkehistorie, kristologi, Bibelen]
 tags: [Åpenbaringen, apokalyptikk, keiserkult, Babylon, Lammet, ny Jerusalem, syv menigheter, Domitian]
 sources: 2

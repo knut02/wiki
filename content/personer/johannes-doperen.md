@@ -2,6 +2,8 @@
 title: "Johannes Døperen"
 description: "Profet, asket og Jesu forløper — hans fødsel, kall og forkynnelse om dom og omvendelse, dåpspraksisen som snudde jødisk tradisjon på hodet, Jesu vitnesbyrd om ham, og hans martyrdød."
 date: 2026-07-10
+kategori: Personer
+sub-kategori: NT og oldkirke-personer
 updated: 2026-07-10
 sources: 2
 ---

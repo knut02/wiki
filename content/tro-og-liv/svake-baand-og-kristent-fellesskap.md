@@ -2,6 +2,8 @@
 title: "Svake bånd og kristent fellesskap"
 description: "«Tro spredde seg gjennom svake bånd.» — Ikke gjennom de nære og trygge relasjonene, men gjennom de perifere."
 date: 2025-05-03
+kategori: Tro og liv
+sub-kategori: Kirke og fellesskap
 modified: 2025-05-15
 kilder: 3
 ---

@@ -4,6 +4,7 @@ description: "Paulus' tidligste brev — skrevet til en ung menighet under press
 date: 2026-08-26
 updated: 2026-08-26
 kategori: Det nye testamentet
+sub-kategori: Paulusteologi
 studievei: [disippelskap, Bibelen, kirkehistorie]
 tags: [Tessalonikerne, eskatologi, Herrens dag, håp, oppstandelse, lovløshetens menneske, arbeid, forfølgelse]
 sources: 2

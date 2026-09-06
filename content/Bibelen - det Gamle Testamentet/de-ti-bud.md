@@ -2,6 +2,8 @@
 title: "De ti bud — dekalogen"
 description: "Analyse av de ti bud i historisk, teologisk og etisk perspektiv — hva de betydde i sin samtid, hvordan de er blitt tolket, og hvilken rolle de spiller for dagens kristne."
 date: 2025-06-02
+kategori: Det gamle testamentet
+sub-kategori: Loven
 updated: 2026-07-10
 sources: 4
 ---

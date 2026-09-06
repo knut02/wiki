@@ -2,6 +2,8 @@
 title: "Luthers teologi — en fordypning"
 description: "Luthers teologiske kjerne: rettferdiggjørelse ved tro, korsets teologi, lov og evangelium, Skriften alene og toregimentslæren."
 date: 2025-04-18
+kategori: Kirkehistorie
+sub-kategori: Reformasjonen
 updated: 2025-07-09
 kilder: 3
 ---

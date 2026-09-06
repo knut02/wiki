@@ -4,6 +4,7 @@ description: "Den vestlige kirkens største teolog — Augustins omvendelse, han
 date: 2026-08-26
 updated: 2026-08-26
 kategori: Kirkehistorie
+sub-kategori: Oldkirken — Store teologer
 studievei: [kirkehistorie, teologi, Bibelen]
 tags: [Augustin, nåde, arvesynd, predestinasjon, Pelagius, donatister, Bekjennelsene, Gudsstaten, patristikk]
 sources: 2

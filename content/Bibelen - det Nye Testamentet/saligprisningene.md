@@ -2,6 +2,8 @@
 title: "Saligprisningene (Matt 5:3–12)"
 description: "De åtte saligprisningene i Bergprekenen — Willards lesning av dem som annonseringer fremfor krav, Keeners kulturhistoriske bakgrunn, og saligprisningene som Bergprekenens nøkkel."
 date: 2026-07-10
+kategori: Det nye testamentet
+sub-kategori: Sentrale tekster
 updated: 2026-07-10
 sources: 2
 ---

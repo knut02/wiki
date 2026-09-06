@@ -2,6 +2,8 @@
 title: "Tidlig kristent mangfold — ortodoksi og heterodoksi"
 description: "Var den tidlige kristendommen én bevegelse med avvikere i utkanten — eller et mangfold av bevegelser der «ortodoksien» er én av mange? Dette er ikke bare et historisk spørsmål, men et teologisk."
 date: 2025-05-10
+kategori: Kirkehistorie
+sub-kategori: Oldkirken — Bakgrunn og kontekst
 modified: 2025-05-14
 kilder: 2
 ---

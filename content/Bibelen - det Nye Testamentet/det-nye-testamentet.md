@@ -2,6 +2,8 @@
 title: "Det nye testamentet"
 description: "NT er en samling av 27 skrifter på gresk fra det første kristne århundret — evangeliene, Apostlenes gjerninger, brevene og Åpenbaringen. En inngang til samlingens sjangre, forfattere og kanonhistorie."
 date: 2025-04-18
+kategori: Det nye testamentet
+sub-kategori: Oversikt
 updated: 2025-07-09
 kilder: 2
 ---

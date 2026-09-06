@@ -2,6 +2,8 @@
 title: Tidslinje for det Gamle Testamentet — fra skapelsen til eksilet
 description: "En oversikt over de viktigste periodene i Det gamle testamente, med nøkkelhendelser og bibellokasjon."
 date: 2025-04-18
+kategori: Tidslinjer
+sub-kategori: Bibelske og historiske tidslinjer
 modified: 2025-05-16
 kilder: 2
 ---

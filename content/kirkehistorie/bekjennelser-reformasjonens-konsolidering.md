@@ -2,6 +2,8 @@
 title: "Reformasjonen — bekjennelser og motreformasjon"
 description: " Reformasjonstidens bekjennelsesskrifter (Confessio Augustana, Schleitheim, Wittenbergkonkordien), reformasjonens fem retninger, og den katolske motreformasjonen (Ignatius av Loyola, Trentkonsilet)."
 date: 2025-05-01
+kategori: Kirkehistorie
+sub-kategori: Reformasjonen
 updated: 2025-07-09
 ---
 

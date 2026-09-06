@@ -4,6 +4,7 @@ description: "Det femte evangeliet — Jesaja er det GT-skriftet som siteres mes
 date: 2026-08-26
 updated: 2026-08-26
 kategori: Det gamle testamentet
+sub-kategori: Profetene
 studievei: [gt, kristologi, Bibelen]
 tags: [Jesaja, profeti, Herrens tjener, Deuterojesaja, Tritojesaja, trøst, Guds hellighet, Jes 53, ny skapelse, eksil]
 sources: 2

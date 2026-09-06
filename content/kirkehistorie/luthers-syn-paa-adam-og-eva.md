@@ -2,6 +2,8 @@
 title: "Luthers syn på Adam, Eva og ekteskapet"
 description: "Luthers tolkning av syndefallet i Genesis 3 og hans reformatoriske ekteskapsteologi — skapelsens godhet, syndens konsekvenser og ekteskapet som Guds gave."
 date: 2025-05-01
+kategori: Kirkehistorie
+sub-kategori: Reformasjonen
 kilder: 1
 ---
 

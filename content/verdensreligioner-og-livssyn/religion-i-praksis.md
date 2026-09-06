@@ -2,6 +2,8 @@
 title: "Religion i praksis — å leve med religiøst mangfold"
 description: "Horsfjords tilnærming til religiøst mangfold i hverdagen — kunnskap og dømmekraft fremfor prinsipper og jus, triviell religion og levd religion."
 date: 2025-05-24
+kategori: Verdensreligioner og livssyn
+sub-kategori: Religionsteori
 updated: 2025-05-24
 ---
 

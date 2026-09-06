@@ -2,6 +2,8 @@
 title: "Johannesprologen — Joh 1:1-18"
 description: "I begynnelsen var Ordet — Johannes' åpning er teologiens tetteste tekst: Logos som guddommelig fornuft og personlig vesen, inkarnasjonens paradoks, og lys som skinner i mørke."
 date: 2026-07-12
+kategori: Det nye testamentet
+sub-kategori: Sentrale tekster
 updated: 2026-07-12
 sources: 3
 ---

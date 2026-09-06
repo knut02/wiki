@@ -4,6 +4,7 @@ description: "En kort innføring i hva Bibelen er, hvordan den er bygget opp, og
 date: 2026-08-26
 updated: 2026-08-26
 kategori: Lese og forstå Bibelen
+sub-kategori: Innføring
 studievei: [Bibelen, evangeliene, gt]
 tags: [Bibelen, innføring, kanon, GT, NT, sjanger, lesning]
 sources: 1

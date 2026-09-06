@@ -4,6 +4,7 @@ description: "Eksegetisk og teologisk gjennomgang av Rom 8:28 — hva verset sie
 date: 2025-05-25
 updated: 2026-08-25
 kategori: Det nye testamentet
+sub-kategori: Sentrale tekster
 studievei: [disippelskap, bønn, spiritualitet]
 tags: [Romerne, lidelsesteologi, predestinasjon, Guds forsett, Ånden, håp]
 sources: 4

@@ -4,6 +4,7 @@ description: "Paulus' mest personlige brev — et forsvar for apostolisk svakhet
 date: 2026-08-25
 updated: 2026-08-25
 kategori: Det nye testamentet
+sub-kategori: Paulusteologi
 studievei: [disippelskap, spiritualitet, Bibelen]
 tags: [2 Korinterbrev, svakhet, ny pakt, forsoning, tjeneste, apostolisk autoritet, torn i kjødet, ny skapelse]
 sources: 2

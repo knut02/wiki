@@ -2,6 +2,8 @@
 title: "Misjonerende folkekirke"
 description: "Harald Hegstads analyse av spenningen mellom folkekirke og misjon — og argumentet for at en dynamisk, eskatologisk kirkeforståelse løser den opp."
 date: 2025-05-02
+kategori: Global kristendom
+sub-kategori: Misjon
 modified: 2025-05-02
 Kilder: 1
 ---

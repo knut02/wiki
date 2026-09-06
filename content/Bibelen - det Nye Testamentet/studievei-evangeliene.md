@@ -2,6 +2,8 @@
 title: "Studievei — evangeliene"
 description: "En strukturert inngang til de fire evangeliene: fra sjanger og historisk bakgrunn til Jesu liv, undervisning og oppstandelse."
 date: 2026-07-12
+kategori: Det nye testamentet
+sub-kategori: Oversikt
 updated: 2026-07-12
 ---
 

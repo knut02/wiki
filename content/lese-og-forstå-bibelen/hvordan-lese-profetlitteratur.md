@@ -2,6 +2,8 @@
 title: "Hvordan lese profetlitteratur"
 description: "Profetene er ikke primært spåmenn som forutser fremtiden. De er Guds talsmenn i sin egen samtid — og å forstå dem krever å forstå den samtiden de taler inn i."
 date: 2025-05-06
+kategori: Lese og forstå Bibelen
+sub-kategori: Hermeneutikk
 kilder: 2
 ---
 

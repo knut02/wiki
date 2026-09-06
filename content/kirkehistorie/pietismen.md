@@ -2,8 +2,8 @@
 title: "Pietismen"
 description: "En bevegelse for hjertets religion — Speners Pia desideria, Zinzendorfs Herrnhuter-fellesskap og en reaksjon mot ortodoksiens tørre dogmatisme."
 date: 2026-08-26
-updated: 2026-08-26
 kategori: Kirkehistorie
+sub-kategori: Nyere tid
 studievei: [kirkehistorie, spiritualitet]
 tags: [pietisme, Spener, Zinzendorf, Herrnhut, ortodoksi, hjertets religion, vekkelse, levende tro, Pia desideria]
 sources: 2

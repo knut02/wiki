@@ -2,6 +2,8 @@
 title: "Jesus sin oppstandelse"
 description: "Oppstandelsen som historisk hendelse og teologisk kjerne — de fire faktaene, hva slags kropp, frelseteologisk betydning, og kirkehistorisk forståelse."
 date: 2025-05-13
+kategori: Kristologi
+sub-kategori: Kristologisk teologi
 updated: 2025-05-18
 kilder: 3
 ---

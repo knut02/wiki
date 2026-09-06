@@ -1,3 +1,11 @@
+---
+title: "Maria Magdalena"
+date: 2025-04-18
+kategori: Personer
+sub-kategori: NT og oldkirke-personer
+kilder: 2
+---
+
 # Maria Magdalena
 
 > Kvinne fra Magdala, tilhenger av Jesus, den første som så ham etter oppstandelsen.

@@ -1,3 +1,11 @@
+---
+title: "Abraham i tre religioner"
+date: 2025-05-06
+kategori: Verdensreligioner og livssyn
+sub-kategori: Abrahamittiske religioner
+kilder: 2
+---
+
 # Abraham i tre religioner
 
 > Abraham er stamfar for jødedom, kristendom og islam — men de tre religionene forteller historien om ham på tre ulike måter, og disse ulikhetene er teologisk avgjørende.

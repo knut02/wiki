@@ -2,6 +2,8 @@
 title: "Hinduisme"
 description: "Hinduisme som verdensreligion — gudsmangfold, puja, bhakti, dharma, karma, moksha og hinduer i Norge."
 date: 2025-05-24
+kategori: Verdensreligioner og livssyn
+sub-kategori: Østlige religioner
 updated: 2025-05-24
 ---
 

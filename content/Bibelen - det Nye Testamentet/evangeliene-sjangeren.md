@@ -2,6 +2,8 @@
 title: "Hva er et evangelium? Sjangeren *euangelion*"
 description: "Evangeliene er ikke biografier i moderne forstand, ikke historiske rapporter og ikke dogmatiske lærebøker. De er et nytt slag tekst — kunngjøringen om at noe avgjørende har skjedd."
 date: 2026-07-12
+kategori: Det nye testamentet
+sub-kategori: Oversikt
 updated: 2026-07-12
 sources: 3
 ---

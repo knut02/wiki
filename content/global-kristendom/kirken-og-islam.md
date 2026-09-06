@@ -2,6 +2,8 @@
 title: "Kirken og islam"
 description: "En positiv og dialogisk holdning til islam kan aldri avlyse vitnesbyrdet om Jesus Kristus som verdens frelser."
 date: 2025-04-18
+kategori: Global kristendom
+sub-kategori: Religionsdialog
 update: 2025-05-17
 kilder: 2
 ---

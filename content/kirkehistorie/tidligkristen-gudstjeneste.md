@@ -2,6 +2,8 @@
 title: "Den tidlige kirkens gudstjeneste"
 description: "Hvordan de første kristne møttes, spiste, ba, sang og tok imot nye medlemmer — gudstjenestepraksis i kirken fra år 30 til ca. 300."
 date: 2026-07-12
+kategori: Kirkehistorie
+sub-kategori: Oldkirken — Gudstjeneste og kirkeliv
 updated: 2026-07-12
 sources: 3
 ---

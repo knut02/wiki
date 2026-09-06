@@ -2,6 +2,8 @@
 title: "Presterollen og kongelig presteskap"
 description: "Bibelsk gjennomgang av prestebegrepet — fra GT-prester av Levis stamme til NT-læren om alle troende som et kongelig presteskap."
 date: 2025-04-27
+kategori: Tro og liv
+sub-kategori: Menneskesyn og identitet
 updated: 2026-07-10
 kilder: 2
 ---

@@ -4,6 +4,7 @@ description: "Det eldste evangeliet — Messiashemmeligheten, disiplenes feil, M
 date: 2026-07-10
 updated: 2026-08-26
 kategori: Det nye testamentet
+sub-kategori: Evangeliene
 studievei: [evangeliene, kristologi, Bibelen]
 tags: [Markus, Markusevangeliet, Messiashemmeligheten, disiplene, koinē, Rome, lidelse, euthys, Guds rike]
 sources: 2

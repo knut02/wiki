@@ -4,6 +4,8 @@ description: "Alt i den kristne troen har blitt til i løpet av historien» — 
 date: 2025-04-18
 Oppdatert: 2025-05-10
 Kilder: 2
+kategori: Teologi
+sub-kategori: Antropologi og syndelære
 ---
 
 ## Harnack og spørsmålet om essensen

@@ -4,6 +4,7 @@ description: "Paulus' biografi og teologi: fra jødisk fariseer og kristenforfø
 date: 2025-05-20
 updated: 2026-08-25
 kategori: Det nye testamentet
+sub-kategori: Paulusteologi
 studievei: [evangeliene, kirkehistorie, disippelskap]
 tags: [Paulus, Romerbrevet, rettferdiggjørelse, nåde, hedningemisjon, Abraham]
 sources: 5

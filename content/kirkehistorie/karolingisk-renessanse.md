@@ -2,8 +2,8 @@
 title: "Karolingisk renessanse"
 description: "Karl den stores program for intellektuell og kirkelig fornyelse på 700-800-tallet — kloster- og katedralskoler som la grunnlaget for middelalderens teologiske blomstring."
 date: 2026-08-26
-updated: 2026-08-26
 kategori: Kirkehistorie
+sub-kategori: Middelalderen
 studievei: [kirkehistorie]
 tags: [Karl den store, karolingisk, renessanse, Alcuin, klosterskoler, katedralskoler, middelalder, Benedikt av Nursia, skriptorium]
 sources: 2

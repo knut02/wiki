@@ -2,6 +2,8 @@
 title: "Messias — den salvede"
 description: "Du er Messias, den levende Guds Sønn.» — Peters bekjennelse, Matt 16:16"
 date: 2025-04-18
+kategori: Kristologi
+sub-kategori: Jesu identitet
 updated: 2026-07-10
 kilder: 3
 ---

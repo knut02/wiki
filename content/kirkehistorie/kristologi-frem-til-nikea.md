@@ -2,6 +2,8 @@
 title: "Kristologi frem til Nikea — striden om Jesu natur"
 description: "Den pre-niceanske kristologidebatten: adoptianisme, modalisme, Origenes, Arius og veien til Nikea 325."
 date: 2025-06-06
+kategori: Kirkehistorie
+sub-kategori: Oldkirken — Kristologi og treenighet
 updated: 2025-06-06
 sources: 4
 ---

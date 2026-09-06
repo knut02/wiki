@@ -2,6 +2,8 @@
 title: "Tilgivelse"
 description: "Tilgivelse i Bibelen — hva tilgivelse er og ikke er, den ubarmhjertige tjeneren, å gi og ta imot tilgivelse, tilgivelse og rettferdighet, og Guds tilgivelse som grunnlag."
 date: 2025-05-11
+kategori: Tro og liv
+sub-kategori: Grunnleggende trospørsmål
 updated: 2025-06-13
 sources: 3
 ---

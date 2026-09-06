@@ -2,6 +2,8 @@
 title: "Global kristendom — Afrika"
 description: "Kristendommens eksplosive vekst i Afrika siden 1910, religiøs pluralisme, afrikansk kristendom og kirkens samfunnsrolle."
 date: 2025-05-26
+kategori: Global kristendom
+sub-kategori: Kristendom i verden
 updated: 2025-05-26
 sources: 2
 ---

@@ -4,6 +4,7 @@ description: "Kirkens kosmiske kall — Guds evige plan om å samle alt i Kristu
 date: 2026-08-26
 updated: 2026-08-26
 kategori: Det nye testamentet
+sub-kategori: Paulusteologi
 studievei: [disippelskap, kristologi, Bibelen]
 tags: [Efeserbrevet, kirken, Guds rustning, mysteriet, jøde og hedning, åndsmakter, Kristus kropp, hustavlen]
 sources: 2

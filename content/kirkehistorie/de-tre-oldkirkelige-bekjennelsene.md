@@ -2,6 +2,8 @@
 title: "De tre oldkirkelige bekjennelsene"
 description: "Bekjennelsene er ikke sammendrag av hele den kristne lære. De er grensestener — de markerer hva som er innenfor og utenfor, og gjør det i negativer like mye som i positiver."
 date: 2025-04-18
+kategori: Kirkehistorie
+sub-kategori: Oldkirken — Kristologi og treenighet
 modified: 2025-05-11
 kilder: 3
 ---

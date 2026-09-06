@@ -2,6 +2,8 @@
 title: "Gnostisisme"
 description: "Det mest utbredte «kjetteriet» i det 2. og 3. århundre — og en av de viktigste utfordringene som tvang den tidlige kirken til å definere seg selv."
 date: 2025-05-06
+kategori: Kirkehistorie
+sub-kategori: Oldkirken — Teologi og spiritualitet
 modified: 2025-05-26
 sources: 4
 ---

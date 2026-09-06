@@ -4,6 +4,7 @@ description: "Presten i eksil — Esekiels dramatiske visjoner om Guds herlighet
 date: 2026-08-26
 updated: 2026-08-26
 kategori: Det gamle testamentet
+sub-kategori: Profetene
 studievei: [gt, Bibelen, kirkehistorie]
 tags: [Esekiel, eksil, Guds herlighet, tørre knokler, ny ånd, nytt tempel, profeti, Babylon, Merkabah]
 sources: 2

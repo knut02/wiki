@@ -4,6 +4,7 @@ description: "Hvordan forstår vi at Jesu død frelser? En gjennomgang av de sto
 date: 2026-08-26
 updated: 2026-08-26
 kategori: Teologi
+sub-kategori: Frelseslære og forsoning
 studievei: [kristologi, kirkehistorie, Bibelen]
 tags: [forsoning, forsoningslære, Christus Victor, satisfaksjon, Anselm, penal substitusjon, moralsk innflytelse, Abelard, soningslære, kors]
 sources: 3

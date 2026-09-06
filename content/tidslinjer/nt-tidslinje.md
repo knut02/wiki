@@ -2,6 +2,8 @@
 title: Tidslinje for det nye testamentet — det første kristne århundret
 description: "Perioden fra Jesu fødsel til slutten av det første århundret — da NT-skriftene ble til og den kristne bevegelsen spredte seg fra Jerusalem til Roma."
 date: 2025-04-18
+kategori: Tidslinjer
+sub-kategori: Bibelske og historiske tidslinjer
 modified: 2025-05-16
 kilder: 2
 ---

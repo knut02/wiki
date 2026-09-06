@@ -4,6 +4,8 @@ description: "Fra martyrenes blod til helgenkultens fremvekst — forfølgelsene
 date: 2025-05-06
 updated: 2026-07-12
 sources: 6
+kategori: Kirkehistorie
+sub-kategori: Oldkirken — Forflølgelse og statsreligion
 ---
 
 > «Blodet til martyrene er Kirkens såkorn.» — Tertullian, *Apologeticum* 50
