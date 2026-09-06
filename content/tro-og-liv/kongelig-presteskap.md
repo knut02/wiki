@@ -4,6 +4,7 @@ description: "Bibelsk gjennomgang av prestebegrepet — fra GT-prester av Levis 
 date: 2025-04-27
 kategori: Tro og liv
 sub-kategori: Menneskesyn og identitet
+tags: [kongelig presteskap, alle troende, prester, Levi, NT, 1 Pet 2, identitet]
 updated: 2026-07-10
 kilder: 2
 ---

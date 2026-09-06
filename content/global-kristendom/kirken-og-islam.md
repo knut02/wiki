@@ -4,6 +4,7 @@ description: "En positiv og dialogisk holdning til islam kan aldri avlyse vitnes
 date: 2025-04-18
 kategori: Global kristendom
 sub-kategori: Religionsdialog
+tags: [kirken og islam, religionsdialog, misjon, muslimer, kristen-muslimsk, kontekst]
 update: 2025-05-17
 kilder: 2
 ---

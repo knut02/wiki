@@ -4,6 +4,7 @@ description: "Det mest utbredte «kjetteriet» i det 2. og 3. århundre — og e
 date: 2025-05-06
 kategori: Kirkehistorie
 sub-kategori: Oldkirken — Teologi og spiritualitet
+tags: [gnostisisme, Valentinus, Marcion, demiurg, gnosis, pleroma, Irenaeus]
 modified: 2025-05-26
 sources: 4
 ---

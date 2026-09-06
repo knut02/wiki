@@ -4,6 +4,7 @@ description: "Den første og eldste delen av Bibelen, som dekker perioden fra sk
 date: 2025-04-18
 kategori: Det gamle testamentet
 sub-kategori: Oversikt
+tags: [GT, oversikt, kanon, Torah, profetene, skriftene, hebraisk Bibel]
 updated: 2025-07-09
 Kilder: 1
 ---

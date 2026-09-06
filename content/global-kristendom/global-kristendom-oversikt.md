@@ -4,6 +4,7 @@ description: "Kristendommens geografiske tyngdepunktskifte fra Nord til Sør, pi
 date:  2025-05-02
 kategori: Global kristendom
 sub-kategori: Oversikt
+tags: [global kristendom, sør, vekst, Afrika, Asia, Latin-Amerika, senter]
 modified: 2025-05-18
 ---
 

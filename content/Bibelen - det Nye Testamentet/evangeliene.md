@@ -4,6 +4,7 @@ description: "De fire bibelske skriftene om Jesu liv og virke — deres tilblive
 date: 2025-04-18
 kategori: Det nye testamentet
 sub-kategori: Oversikt
+tags: [evangeliene, synoptisk problem, Q-kilde, historisk pålitelighet, sjanger, Markus, Matteus, Lukas, Johannes]
 updated: 2026-07-10
 kilder: 4
 ---

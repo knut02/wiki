@@ -4,6 +4,7 @@ description: Religionens rolle i politisk konflikt og vold — Brubakers skille 
 date: 2025-05-11
 kategori: Verdensreligioner og livssyn
 sub-kategori: Livssyn og samfunn
+tags: [religion og konflikt, Brubaker, politisk vold, religionskrig, årsaker]
 updated: 2025-05-18
 ---
 

@@ -4,6 +4,7 @@ description: "Utfyllende analyse av Luk 15:11–32: tekstens oppbygning, de tre 
 date: 2025-06-02
 kategori: Det nye testamentet
 sub-kategori: Sentrale tekster
+tags: [fortapte sønn, Luk 15, nåde, mottakelse, far, eldre brør, lignelse]
 updated: 2025-06-02
 sources: 4
 ---

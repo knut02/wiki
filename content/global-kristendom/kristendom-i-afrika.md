@@ -4,6 +4,7 @@ description: "Kristendommens eksplosive vekst i Afrika siden 1910, religiøs plu
 date: 2025-05-26
 kategori: Global kristendom
 sub-kategori: Kristendom i verden
+tags: [Afrika, kristendom, vekst, pinsebevegelse, uavhengige kirker, misjon]
 updated: 2025-05-26
 sources: 2
 ---

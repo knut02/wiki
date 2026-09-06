@@ -3,6 +3,7 @@ title: "Betania"
 date: 2025-04-18
 kategori: Steder
 sub-kategori: Bibelske steder
+tags: [Betania, landsby, Oljeberget, Lasarus, Maria, Marta, Jesus]
 updated: 2025-04-23
 description: "Liten landsby øst for Oljeberget, nær Jerusalem — et av Jesu hyppigste oppholdsstedene."
 Kilder: 1*

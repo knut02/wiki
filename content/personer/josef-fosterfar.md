@@ -3,6 +3,7 @@ title: "Josef (Jesu fosterfar)"
 date: 2025-04-18
 kategori: Personer
 sub-kategori: NT og oldkirke-personer
+tags: [Josef, Jesu fosterfar, snekker, drømmer, Nasaret, Matt 1-2, Davids ætt]
 kilder: 2
 ---
 

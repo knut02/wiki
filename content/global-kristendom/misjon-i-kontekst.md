@@ -4,6 +4,7 @@ description: "Det lutherske verdensforbunds misjonsforståelse og Den norske kir
 date: 2025-05-14
 kategori: Global kristendom
 sub-kategori: Misjon
+tags: [misjon, kontekstualisering, inkarnasjon, kultur, Bosch, missio Dei]
 modified: 2025-05-15
 kilder: 3
 ---

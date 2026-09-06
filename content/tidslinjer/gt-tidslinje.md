@@ -4,6 +4,7 @@ description: "En oversikt over de viktigste periodene i Det gamle testamente, me
 date: 2025-04-18
 kategori: Tidslinjer
 sub-kategori: Bibelske og historiske tidslinjer
+tags: [GT, tidslinje, skapelse, eksil, patriarker, konger, profeter]
 modified: 2025-05-16
 kilder: 2
 ---

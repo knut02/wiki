@@ -4,6 +4,7 @@ description: "Hva betyr Jesu utsagn om at vi ingen ting kan gjøre uten ham? En 
 date: 2025-05-31
 kategori: Tro og liv
 sub-kategori: Tekstbaserte refleksjoner
+tags: [Joh 15:5, avhengighet, vintreet, uten meg, forbindelse, Kristus, disippelskap]
 updated: 2025-05-31
 sources: 4
 ---

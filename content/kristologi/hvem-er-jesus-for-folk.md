@@ -4,6 +4,7 @@ description: "Uavhengig av hva skrift og tradisjon lærer, vil vi ikke la Jesus 
 date: 2025-05-10
 kategori: Kristologi
 sub-kategori: Jesu identitet
+tags: [hvem er Jesus, folk, kristologi, meningsmangfold, kulturell Jesus, Inbody]
 Kilder: 2
 ---
 

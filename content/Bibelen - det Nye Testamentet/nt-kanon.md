@@ -4,6 +4,7 @@ description: "Da velsignet jeg dere alle i det hellige og faste håp om at dere 
 date: 2025-05-06
 kategori: Det nye testamentet
 sub-kategori: Oversikt
+tags: [NT, kanon, kanonprosess, Muratorifragmentet, Athanasios, tekstkritikk]
 Oppdatert: 2025-05-15
 kilder: 4
 ---

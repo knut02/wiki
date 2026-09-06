@@ -3,6 +3,7 @@ title: "Kong David"
 date: 2025-04-18
 kategori: Personer
 sub-kategori: GT-personer
+tags: [David, Israel, konge, salmer, Batseba, Messias-stamtre, pakt, Davids by]
 kilder: 3
 ---
 

@@ -3,6 +3,7 @@ title: "Abraham i tre religioner"
 date: 2025-05-06
 kategori: Verdensreligioner og livssyn
 sub-kategori: Abrahamittiske religioner
+tags: [Abraham, jødedom, kristendom, islam, tre religioner, pakt, Aqedah]
 kilder: 2
 ---
 

@@ -4,6 +4,7 @@ description: "Praksis med å bringe gaver eller offerdyr til Gud — sentralt i 
 date: 2025-04-18
 kategori: Verdensreligioner og livssyn
 sub-kategori: Religionsteori
+tags: [offer, tilbedelse, GT, soningsoffer, NT, Kristus offer, kultus]
 modified: 2025-04-23
 kilder: 1
 ---

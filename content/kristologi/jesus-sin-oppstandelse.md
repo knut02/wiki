@@ -4,6 +4,7 @@ description: "Oppstandelsen som historisk hendelse og teologisk kjerne — de fi
 date: 2025-05-13
 kategori: Kristologi
 sub-kategori: Kristologisk teologi
+tags: [oppstandelse, historisitet, tom grav, øyenvitner, 1 Kor 15, frelseteologi, legemlig]
 updated: 2025-05-18
 kilder: 3
 ---

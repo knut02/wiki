@@ -4,6 +4,7 @@ description: "De første kristne forfatterne etter apostlene — Klemens av Roma
 date: 2025-05-06
 kategori: Kirkehistorie
 sub-kategori: Oldkirken — Bakgrunn og kontekst
+tags: [apostoliske fedre, Ignatius, Klemens, Polykarp, Didache, oldkirken]
 updated: 2026-07-12
 sources: 3
 ---

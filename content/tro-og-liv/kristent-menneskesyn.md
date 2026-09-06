@@ -4,6 +4,7 @@ description: "Hva er et menneske? Det bibelske svaret handler ikke primært om n
 date: 2025-05-06
 kategori: Tro og liv
 sub-kategori: Menneskesyn og identitet
+tags: [menneskesyn, imago Dei, relasjon, skapelse, kropp og sjel, verdighet]
 updated: 2026-07-10
 kilder: 2
 ---

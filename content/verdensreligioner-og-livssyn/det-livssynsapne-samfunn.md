@@ -4,6 +4,7 @@ description: "Det norske livssynslandskapet i endring — fra statskirke til liv
 date: 2025-04-18
 kategori: Verdensreligioner og livssyn
 sub-kategori: Livssyn og samfunn
+tags: [livssynsåpent samfunn, Stålsett, sekularisering, tros- og livssynspolitikk, Norge]
 updated: 2025-05-18
 ---
 

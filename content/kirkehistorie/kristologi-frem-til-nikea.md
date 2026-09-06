@@ -4,6 +4,7 @@ description: "Den pre-niceanske kristologidebatten: adoptianisme, modalisme, Ori
 date: 2025-06-06
 kategori: Kirkehistorie
 sub-kategori: Oldkirken — Kristologi og treenighet
+tags: [kristologi, adoptianisme, modalisme, Origenes, Arius, Nikea, pre-nicensk]
 updated: 2025-06-06
 sources: 4
 ---

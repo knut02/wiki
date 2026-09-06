@@ -3,6 +3,7 @@ title: "Jakob (Jesu bror)"
 date: 2025-04-18
 kategori: Personer
 sub-kategori: NT og oldkirke-personer
+tags: [Jakob, Jesu bror, Jerusalem, martyrium, Jakobs brev, oldkirken]
 kilder: 1
 ---
 

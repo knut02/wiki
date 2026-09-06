@@ -4,6 +4,7 @@ description: "Matteus' jødiske og universelle kristologi — ættetavlen, oppfy
 date: 2025-04-18
 kategori: Det nye testamentet
 sub-kategori: Evangeliene
+tags: [Matteus, jødisk, bergprekenen, oppfyllelsessitater, misjonsbefalingen, fem taler]
 updated: 2025-05-18
 ---
 

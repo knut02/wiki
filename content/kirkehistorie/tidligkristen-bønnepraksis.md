@@ -4,6 +4,7 @@ description: Bønn i oldkirken — former, tider, kroppslige praksiser, Fadervå
 date: 2025-05-10
 kategori: Kirkehistorie
 sub-kategori: Oldkirken — Teologi og spiritualitet
+tags: [bønn, tidebønn, Faderr, Cassian, Evagrius, oldkirken, liturgi]
 updated: 2026-07-12
 ---
 

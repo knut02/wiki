@@ -3,6 +3,7 @@ title: "Jesus i Koranen"
 date: 2025-05-03
 kategori: Verdensreligioner og livssyn
 sub-kategori: Abrahamittiske religioner
+tags: [Jesus i Koranen, Isa, profet, Maria, Moxnes, islam og kristendom]
 kilder: 2
 ---
 

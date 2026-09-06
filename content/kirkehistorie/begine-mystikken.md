@@ -4,6 +4,7 @@ description: "Hadewijch av Brabant, Mechthild av Magdeburg og Marguerite Porete 
 date: 2025-06-13
 kategori: Kirkehistorie
 sub-kategori: Middelalderen — Mystikk
+tags: [beginer, Hadewijch, Mechthild, Marguerite Porete, mystikk, kvinner, middelalder]
 updated: 2025-07-09
 sources: 2
 ---

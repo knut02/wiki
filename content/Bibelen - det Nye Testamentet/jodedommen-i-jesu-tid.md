@@ -4,6 +4,7 @@ description: "Fariseere, sadukeere, essenes og selotene: de fire store religiøs
 date: 2026-07-12
 kategori: Det nye testamentet
 sub-kategori: Bakgrunn og kontekst
+tags: [jødedommen, Jesu tid, fariseere, saddukeere, essenes, selotene, Palestina]
 updated: 2026-07-12
 sources: 2
 ---

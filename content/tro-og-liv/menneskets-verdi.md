@@ -4,6 +4,7 @@ description: "Hva gir et menneske verdi? Bibelen peker på en verdi som ikke er 
 date: 2025-06-07
 kategori: Tro og liv
 sub-kategori: Menneskesyn og identitet
+tags: [menneskets verdi, Gud som definerer, skapt, identitet, ukrenkelig, menneskeverd]
 updated: 2025-06-07
 sources: 3
 ---

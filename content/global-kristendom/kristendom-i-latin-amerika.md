@@ -4,6 +4,7 @@ description: "Katolisismens historiske dominans, pinsebevegelsens fremvekst og k
 date: 2025-05-26
 kategori: Global kristendom
 sub-kategori: Kristendom i verden
+tags: [Latin-Amerika, kristendom, katolisisme, pinsebevegelse, frigjøringsteologi, Brasil]
 updated: 2025-05-26
 sources: 2
 ---

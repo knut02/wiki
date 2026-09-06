@@ -4,6 +4,7 @@ description: "Den kristologiske læren fra Arius (ca. 260–336) om at Sønnen e
 date: 2025-05-01
 kategori: Kirkehistorie
 sub-kategori: Oldkirken — Kristologi og treenighet
+tags: [arianisme, Arius, homoiousios, Konstantinopel, kristologi, kjetteri]
 kilder: 2
 ---
 

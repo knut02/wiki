@@ -4,6 +4,7 @@ description: "«En tekst er en komponent i en kommunikasjonsprosess.» — Tveit
 date: 2025-04-18
 kategori: Lese og forstå Bibelen
 sub-kategori: Hermeneutikk
+tags: [narrativ, fortellingsteologi, plot, karakterer, standpunkt, bibelfortelling]
 modified: 2025-05-15
 kilder: 4
 ---

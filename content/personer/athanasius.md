@@ -4,6 +4,7 @@ description: "«Athanasius contra mundum» — Athanasius mot verden. Biskop, te
 date: 2025-05-05
 kategori: Personer
 sub-kategori: NT og oldkirke-personer
+tags: [Athanasius, Nikea, homoousios, arianisme, eksil, Alexandria, 296-373]
 modified: 2025-05-10
 kilder: 3
 ---

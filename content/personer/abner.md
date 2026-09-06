@@ -4,6 +4,7 @@ description: "Israels hærfører under kong Saul, senere alliert med David, drep
 date: 2025-04-18
 kategori: Personer
 sub-kategori: GT-personer
+tags: [Abner, hærfører, Saul, David, Joab, 2 Sam, drap]
 kilder: 1
 ---
 

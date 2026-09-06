@@ -4,6 +4,7 @@ description: "«Kom og følg meg, så vil jeg gjøre dere til menneskefiskere.»
 date: 2025-04-18
 kategori: Personer
 sub-kategori: NT og oldkirke-personer
+tags: [apostlene, tolv, Peter, Johannes, kall, misjon, disippelskap]
 modified: 2025-05-13
 kilder: 2
 ---

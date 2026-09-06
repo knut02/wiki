@@ -4,6 +4,7 @@ description: "GT's inndeling i tre deler (Torah, Profeter, Skrifter) og tekstens
 date: 2025-05-03
 kategori: Det gamle testamentet
 sub-kategori: Kanon og teksthistorie
+tags: [kanon, teksthistorie, Septuaginta, Masoretisk tekst, TANAKH, Dødehavsrullene]
 modified: 2025-05-15
 kilder: 3
 ---

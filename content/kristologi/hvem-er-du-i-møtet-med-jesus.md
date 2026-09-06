@@ -4,6 +4,7 @@ description: "«Hvem sier dere at jeg er?» — Matt 16:15. Det er ikke bare et 
 date: 2025-04-18
 kategori: Kristologi
 sub-kategori: Jesu identitet
+tags: [hvem er du, Jesus, Peters spørsmål, identitet, bekjennelse, møte med Jesus]
 updated: 2025-07-09
 kilder: 2
 ---

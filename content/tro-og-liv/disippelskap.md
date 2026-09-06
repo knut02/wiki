@@ -4,6 +4,7 @@ description: "Hva det betyr å følge Jesus — Willards kritikk av «bare tilgi
 date: 2025-04-18
 kategori: Tro og liv
 sub-kategori: Spiritualitet og praksis
+tags: [disippelskap, Willard, åndelig formasjon, åket, hvile, vekst, disipliner]
 updated: 2025-05-24
 ---
 

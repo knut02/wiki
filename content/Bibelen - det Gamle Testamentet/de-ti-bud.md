@@ -4,6 +4,7 @@ description: "Analyse av de ti bud i historisk, teologisk og etisk perspektiv â€
 date: 2025-06-02
 kategori: Det gamle testamentet
 sub-kategori: Loven
+tags: [dekalogen, ti bud, lov, Sinai, etikk, GT-lov, 2 Mos 20]
 updated: 2026-07-10
 sources: 4
 ---

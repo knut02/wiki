@@ -4,6 +4,7 @@ description: "To av oldkirkens viktigste frelseslærer — Athanasius' inkarnasj
 date: 2025-05-01
 kategori: Kirkehistorie
 sub-kategori: Oldkirken — Store teologer
+tags: [Athanasius, Augustin, theosis, nåde, inkarnasjon, frelseslæ re, oldkirken]
 updated: 2025-05-24
 ---
 

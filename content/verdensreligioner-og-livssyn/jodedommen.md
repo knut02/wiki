@@ -4,6 +4,7 @@ description: "En innføring i jødedommens tro, praksis og tekster — Torah, Ta
 date: 2025-05-11
 kategori: Verdensreligioner og livssyn
 sub-kategori: Abrahamittiske religioner
+tags: [jødedom, Torah, Talmud, rabbinsk, synagoge, Shabbat, halakha]
 modified: 2025-05-11
 ---
 

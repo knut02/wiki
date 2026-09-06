@@ -4,6 +4,7 @@ description: "NT er en samling av 27 skrifter på gresk fra det første kristne 
 date: 2025-04-18
 kategori: Det nye testamentet
 sub-kategori: Oversikt
+tags: [NT, oversikt, kanon, evangeliene, Paulus, Åpenbaringen, gresk, 27 skrifter]
 updated: 2025-07-09
 kilder: 2
 ---

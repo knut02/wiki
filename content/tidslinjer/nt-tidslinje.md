@@ -4,6 +4,7 @@ description: "Perioden fra Jesu fødsel til slutten av det første århundret �
 date: 2025-04-18
 kategori: Tidslinjer
 sub-kategori: Bibelske og historiske tidslinjer
+tags: [NT, tidslinje, det første århundret, Jesus, Paulus, urkirken, Romerriket]
 modified: 2025-05-16
 kilder: 2
 ---

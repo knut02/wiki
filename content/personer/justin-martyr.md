@@ -4,6 +4,7 @@ description: "Justin Martyr (ca. 100–165) var den første store kristne apolog
 date: 2025-05-10
 kategori: Personer
 sub-kategori: NT og oldkirke-personer
+tags: [Justin Martyr, apologet, Logos-teologi, filosofi, martyr, 100-165, Dialog med Tryfo]
 updated: 2026-07-12
 sources: 3
 ---

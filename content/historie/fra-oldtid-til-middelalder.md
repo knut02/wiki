@@ -4,6 +4,7 @@ description: "Romerrikets krise og fall, kristendommens gjennombrudd som statsre
 date: 2025-05-30
 kategori: Historie
 sub-kategori: Oldtid og sivilisasjon
+tags: [Romerriket, germaner, arabere, middelalder, overgang, 300-750, Karl Martel]
 updated: 2025-05-30
 sources: 2
 ---

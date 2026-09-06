@@ -4,6 +4,7 @@ description: "Du er Messias, den levende Guds Sønn.» — Peters bekjennelse, M
 date: 2025-04-18
 kategori: Kristologi
 sub-kategori: Jesu identitet
+tags: [Messias, salvet, Kristus, GT-løfter, Peters bek jennelse, Davids sønn]
 updated: 2026-07-10
 kilder: 3
 ---

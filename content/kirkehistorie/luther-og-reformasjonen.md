@@ -4,6 +4,7 @@ description: "Martin Luther (1483–1546) og den reformatoriske bevegelsen — 9
 date: 2025-06-13
 kategori: Kirkehistorie
 sub-kategori: Reformasjonen
+tags: [Luther, reformasjon, 95 teser, Worms, avlat, Bibelen alene, kirkebruddet]
 updated: 2025-07-09
 sources: 4
 ---

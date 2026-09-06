@@ -4,6 +4,7 @@ description: "Hva er synd i bibelsk forstand? Syndens mange dimensjoner — brud
 date: 2025-06-13
 kategori: Tro og liv
 sub-kategori: Grunnleggende trospørsmål
+tags: [synd, hamartia, brudd, vridning, skyld, makt, Rom 6, Rom 7]
 updated: 2025-06-13
 sources: 3
 ---

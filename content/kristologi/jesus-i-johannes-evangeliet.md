@@ -4,6 +4,7 @@ description: "Hvordan Johannes-evangeliet presenterer Jesus: som den pre-eksiste
 date: 2025-05-26
 kategori: Kristologi
 sub-kategori: Kristologisk teologi
+tags: [Jesus i Johannes, Logos, jeg er-utsagn, Messias, Guds Sønn, egō eimi]
 updated: 2025-05-26
 sources: 3
 ---

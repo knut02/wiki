@@ -3,6 +3,7 @@ title: "Joab"
 date: 2025-04-18
 kategori: Personer
 sub-kategori: GT-personer
+tags: [Joab, hærfører, David, loyalitet, drap, 2 Sam, politikk]
 kilder: 1
 ---
 

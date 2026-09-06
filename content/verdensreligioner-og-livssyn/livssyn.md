@@ -3,6 +3,7 @@ title: "Livssyn"
 date: 2025-04-18
 kategori: Verdensreligioner og livssyn
 sub-kategori: Livssyn og samfunn
+tags: [livssyn, definisjon, Aadnanes, sekulær, religion, verdensanskuelse]
 kilder: 2
 ---
 

@@ -9,6 +9,8 @@ import { QuartzPluginData } from "../../plugins/vfile"
 import { ComponentChildren } from "preact"
 import { concatenateResources } from "../../util/resources"
 import { trieFromAllFiles } from "../../util/ctx"
+// @ts-ignore
+import subcategoryFilterScript from "../scripts/subcategory-filter.inline"
 
 interface FolderContentOptions {
   /**
@@ -112,15 +114,41 @@ export default ((opts?: Partial<FolderContentOptions>) => {
         <article class={classes}>{content}</article>
         <div class="page-listing">
           {options.showFolderCount && (
-            <p>
+            <p data-filtered-article-count>
               {i18n(cfg.locale).pages.folderContent.itemsUnderFolder({
                 count: allPagesInFolder.length,
               })}
             </p>
           )}
+          <fieldset class="subcategory-filter" data-subcategory-filter>
+            <legend>Filtrer på underkategori</legend>
+            <div class="subcategory-filter-controls">
+              <details class="subcategory-filter-menu">
+                <summary data-subcategory-summary>Alle underkategorier</summary>
+                <div class="subcategory-filter-panel">
+                  <div class="subcategory-filter-options">
+                    {[...pagesBySubcategory.keys()].map((subcategory) => (
+                      <label key={subcategory}>
+                        <input type="checkbox" value={subcategory} />
+                        <span>{subcategory}</span>
+                      </label>
+                    ))}
+                  </div>
+                  <button type="button" data-subcategory-reset disabled>
+                    Nullstill
+                  </button>
+                </div>
+              </details>
+            </div>
+          </fieldset>
           <div class="folder-subcategory-list">
             {[...pagesBySubcategory.entries()].map(([subcategory, pages]) => (
-              <section class="folder-subcategory" key={subcategory}>
+              <section
+                class="folder-subcategory"
+                data-subcategory-section
+                data-subcategory={subcategory}
+                key={subcategory}
+              >
                 <h2>{subcategory}</h2>
                 <PageList {...listProps} allFiles={pages} />
               </section>
@@ -142,7 +170,118 @@ export default ((opts?: Partial<FolderContentOptions>) => {
 .folder-subcategory h2 {
   margin-bottom: 0.75rem;
 }
+
+.subcategory-filter {
+  margin: 1.5rem 0 1rem;
+  padding: 0;
+  border: 0;
+}
+
+.subcategory-filter legend {
+  padding: 0;
+  margin-bottom: 0.45rem;
+  font-family: var(--headerFont);
+  color: var(--dark);
+  font-weight: 600;
+}
+
+.subcategory-filter-controls {
+  display: flex;
+  align-items: flex-start;
+}
+
+.subcategory-filter-menu {
+  position: relative;
+  flex: 0 1 15rem;
+  min-width: 12rem;
+}
+
+.subcategory-filter-menu summary {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 0.55rem 0.7rem;
+  border: 1px solid var(--gray);
+  border-radius: 6px;
+  background: var(--light);
+  color: var(--dark);
+  cursor: pointer;
+  list-style-position: inside;
+}
+
+.subcategory-filter-menu summary::marker {
+  color: var(--secondary);
+}
+
+.subcategory-filter-panel {
+  position: absolute;
+  z-index: 10;
+  top: calc(100% + 0.35rem);
+  left: 0;
+  right: 0;
+  box-sizing: border-box;
+  padding: 0.8rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  background: var(--light);
+  box-shadow: 0 0.5rem 1.5rem rgba(0, 0, 0, 0.12);
+}
+
+.subcategory-filter-options {
+  display: grid;
+  gap: 0.45rem;
+  max-height: 16rem;
+  overflow-y: auto;
+}
+
+.subcategory-filter label {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  cursor: pointer;
+}
+
+.subcategory-filter-options label {
+  gap: 0.55rem;
+  padding: 0.45rem 0.55rem;
+  border-radius: 5px;
+}
+
+.subcategory-filter-options label:has(input:checked) {
+  background: var(--highlight);
+  color: var(--dark);
+}
+
+.subcategory-filter-options input[type="checkbox"] {
+  margin: 0;
+  flex: 0 0 auto;
+  width: 1rem;
+  height: 1rem;
+  accent-color: var(--secondary);
+}
+
+.subcategory-filter-panel > button {
+  margin-top: 0.75rem;
+  padding: 0.35rem 0.7rem;
+}
+
+.subcategory-filter-panel > button:disabled {
+  cursor: default;
+  opacity: 0.55;
+}
+
+@media all and (max-width: 800px) {
+  .subcategory-filter-controls {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+
+  .subcategory-filter-menu {
+    width: 100%;
+    min-width: 0;
+  }
+}
 `,
   )
+  FolderContent.afterDOMLoaded = subcategoryFilterScript
   return FolderContent
 }) satisfies QuartzComponentConstructor

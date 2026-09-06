@@ -4,6 +4,7 @@ description: "Hva er sekularisering? Dobbelaeres tredelte modell, drivkrefter, t
 date: 2025-05-24
 kategori: Verdensreligioner og livssyn
 sub-kategori: Livssyn og samfunn
+tags: [sekularisering, Dobbelaere, Norge, kirkemedlemskap, trender, religion]
 updated: 2025-05-26
 sources: 3
 ---

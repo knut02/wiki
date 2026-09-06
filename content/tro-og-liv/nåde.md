@@ -4,6 +4,7 @@ description: "Guds gave uten fortjeneste — charis, Paulus' rettferdiggjørelse
 date: 2025-05-11
 kategori: Tro og liv
 sub-kategori: Grunnleggende trospørsmål
+tags: [nåde, charis, Paulus, rettferdiggjørelse, billig nåde, Bonhoeffer, Luther]
 updated: 2026-07-10
 ---
 

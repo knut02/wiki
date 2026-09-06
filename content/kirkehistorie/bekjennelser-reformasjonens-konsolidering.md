@@ -4,6 +4,7 @@ description: " Reformasjonstidens bekjennelsesskrifter (Confessio Augustana, Sch
 date: 2025-05-01
 kategori: Kirkehistorie
 sub-kategori: Reformasjonen
+tags: [Confessio Augustana, Schleitheim, motreformasjon, Trent, kalvinisme, bekjennelser]
 updated: 2025-07-09
 ---
 

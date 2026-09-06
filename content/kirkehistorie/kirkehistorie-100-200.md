@@ -4,6 +4,7 @@ description: "Perioden med de fem gode keiserne — kirken vokser under press, o
 date: 2025-04-27
 kategori: Kirkehistorie
 sub-kategori: Oldkirken — Bakgrunn og kontekst
+tags: [det annet århundre, apologetikk, gnostisisme, Irenaeus, Tertullian, forflølgelse]
 kilder: 1
 ---
 

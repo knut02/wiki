@@ -4,6 +4,7 @@ description: "Hva er kristen gudstjeneste? Fra husmenigheter og Didache via Just
 date: 2025-06-13
 kategori: Kirkehistorie
 sub-kategori: Oldkirken — Gudstjeneste og kirkeliv
+tags: [gudstjeneste, liturgi, Didache, Justin Martyr, struktur, ordning, historisk]
 updated: 2025-07-09
 sources: 4
 ---

@@ -4,6 +4,7 @@ description: "Profetene er ikke primært spåmenn som forutser fremtiden. De er 
 date: 2025-05-06
 kategori: Lese og forstå Bibelen
 sub-kategori: Hermeneutikk
+tags: [profetlitteratur, profet, nabi, samtidsforkynnelse, dom, håp, sjanger]
 kilder: 2
 ---
 

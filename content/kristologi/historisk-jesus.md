@@ -4,6 +4,7 @@ description: "Det akademiske feltet historisk Jesus-forskning — metodiske spø
 date: 2025-05-11
 kategori: Kristologi
 sub-kategori: Jesu identitet
+tags: [historisk Jesus, metodikk, Josefus, Tacitus, ikke-kristne kilder, tredje søk]
 modified: 2025-05-11
 ---
 

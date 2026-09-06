@@ -4,6 +4,7 @@ description: "«I begynnelsen var Ordet, og Ordet var hos Gud, og Ordet var Gud.
 date: 2025-05-14
 kategori: Det nye testamentet
 sub-kategori: Evangeliene
+tags: [Johannes, studieplan, 30 dager, leseguide, Logos, tegn, oppstandelse]
 kilder: 1
 ---
 

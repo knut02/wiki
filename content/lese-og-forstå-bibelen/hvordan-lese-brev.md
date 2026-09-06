@@ -4,6 +4,7 @@ description: "Paulus' brev er den eldste kristne litteraturen vi har — skrevet
 date: 2025-05-06
 kategori: Lese og forstå Bibelen
 sub-kategori: Hermeneutikk
+tags: [brev, NT-brev, Paulus, kommunikasjonssituasjon, sjanger, hermeneutikk]
 modified: 2025-05-06
 kilder: 3
 ---

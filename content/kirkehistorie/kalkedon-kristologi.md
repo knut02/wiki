@@ -4,6 +4,7 @@ description: "«Vi bekjenner den éne og samme Kristus, Sønn, Herre, enbåren, 
 date: 2025-04-18
 kategori: Kirkehistorie
 sub-kategori: Oldkirken — Kristologi og treenighet
+tags: [Kalkedon, 451, to naturer, én person, dyofysitter, monofysitter, bek jennelse]
 modified: 2025-05-11
 kilder: 4
 ---

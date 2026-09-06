@@ -4,6 +4,7 @@ description: "«Jeg tror på én Gud, den allmektige Fader... og på én Herre J
 date: 2025-04-18
 kategori: Kirkehistorie
 sub-kategori: Oldkirken — Kristologi og treenighet
+tags: [Nikea, 325, homoousios, Athanasius, Arius, bek jennelse, konsil]
 modified: 2025-05-11
 kilder: 3
 ---

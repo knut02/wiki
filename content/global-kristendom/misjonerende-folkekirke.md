@@ -4,6 +4,7 @@ description: "Harald Hegstads analyse av spenningen mellom folkekirke og misjon 
 date: 2025-05-02
 kategori: Global kristendom
 sub-kategori: Misjon
+tags: [misjonerende folkekirke, Den norske kirke, tilhørighet, misjon, dåp, fellesskap]
 modified: 2025-05-02
 Kilder: 1
 ---

@@ -4,6 +4,7 @@ description: "Hvordan de første kristne møttes, spiste, ba, sang og tok imot n
 date: 2026-07-12
 kategori: Kirkehistorie
 sub-kategori: Oldkirken — Gudstjeneste og kirkeliv
+tags: [gudstjeneste, huskirke, liturgi, dåp, nattverd, Justin Martyr, ordning]
 updated: 2026-07-12
 sources: 3
 ---

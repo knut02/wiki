@@ -4,6 +4,7 @@ description: "Hva er hellig tekst? Skriftreligionene — abrahamittiske og ikke-
 date: 2025-05-24
 kategori: Lese og forstå Bibelen
 sub-kategori: Innføring
+tags: [hellige skrifter, religion, kanon, Braarvig, Justnes, kultisk funksjon]
 updated: 2025-05-24
 ---
 

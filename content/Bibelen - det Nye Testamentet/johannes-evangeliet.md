@@ -4,6 +4,7 @@ description: "Tematisk oversikt over Johannes-evangeliet — prologen, tegnene, 
 date: 2025-05-25
 kategori: Det nye testamentet
 sub-kategori: Evangeliene
+tags: [Johannes, prologen, tegn, jeg-er-utsagn, k jærlighet, Logos, lys og mørke]
 updated: 2025-05-26
 sources: 3
 ---

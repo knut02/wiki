@@ -3,6 +3,7 @@ title: "Jødedommen i Norge"
 date: 2025-04-18
 kategori: Verdensreligioner og livssyn
 sub-kategori: Abrahamittiske religioner
+tags: [jødedom, Norge, 1851, Grunnloven, Shoah, synagoge, norsk jødisk historie]
 kilder: 2
 ---
 

@@ -4,6 +4,7 @@ description: "Bekjennelsene er ikke sammendrag av hele den kristne lære. De er 
 date: 2025-04-18
 kategori: Kirkehistorie
 sub-kategori: Oldkirken — Kristologi og treenighet
+tags: [Apostolicum, Nikea-bek jennelsen, Athanasius-trosen, bek jennelser, treenighet]
 modified: 2025-05-11
 kilder: 3
 ---

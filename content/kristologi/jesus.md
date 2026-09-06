@@ -4,6 +4,7 @@ description: "Hvem er Jesus? Historisk person, Messias og Guds Sønn — hans li
 date: 2025-04-18
 kategori: Kristologi
 sub-kategori: Jesu identitet
+tags: [Jesus, Nasaret, Messias, Guds Sønn, liv, lære, død, oppstandelse, kristologi]
 updated: 2025-07-09
 sources: 5
 ---

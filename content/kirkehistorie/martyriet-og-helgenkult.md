@@ -6,6 +6,7 @@ updated: 2026-07-12
 sources: 6
 kategori: Kirkehistorie
 sub-kategori: Oldkirken — Forflølgelse og statsreligion
+tags: [martyrium, helgenkult, forflølgelse, Perpetua, Polykarp, Tertullian, blodet]
 ---
 
 > «Blodet til martyrene er Kirkens såkorn.» — Tertullian, *Apologeticum* 50

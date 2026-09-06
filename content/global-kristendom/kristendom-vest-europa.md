@@ -4,6 +4,7 @@ description: "Kristendommens endrede stilling i Europa — fra kulturell norm ti
 date: 2025-05-24
 kategori: Global kristendom
 sub-kategori: Kristendom i verden
+tags: [Vest-Europa, kristendom, sekularisering, postkristen, tilstedeværelse, minoritet]
 updated: 2025-05-24
 Kilder: 0
 ---

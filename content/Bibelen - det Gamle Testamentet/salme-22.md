@@ -4,6 +4,7 @@ description: "En klagesalme fra Det gamle testamentet som evangeliene siterer di
 date: 2025-04-18
 kategori: Det gamle testamentet
 sub-kategori: Poetiske og visdomsbøker
+tags: [Salme 22, klage, korsfestelse, NT-bruk, psalteret, David, forlatelse]
 kilder: 1
 ---
 

@@ -4,6 +4,7 @@ description: "Evangeliene er ikke biografier i moderne forstand, ikke historiske
 date: 2026-07-12
 kategori: Det nye testamentet
 sub-kategori: Oversikt
+tags: [evangelium, sjanger, euangelion, biografi, kunngjøring, historieskriving]
 updated: 2026-07-12
 sources: 3
 ---

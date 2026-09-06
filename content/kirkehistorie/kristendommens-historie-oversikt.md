@@ -4,6 +4,7 @@ description: "«Historien er ikke tilfeldig. Den beveger seg mot et mål.» — 
 date: 2025-04-18
 kategori: Kirkehistorie
 sub-kategori: Oldkirken — Bakgrunn og kontekst
+tags: [kirkehistorie, oversikt, periodisering, oldkirken, middelalder, reformasjon]
 modified: 2025-05-15
 kilder: 3
 ---

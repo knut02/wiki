@@ -4,6 +4,7 @@ description: "Den romerske prefekten som dømte Jesus til korsfestelse — hans 
 date: 2025-05-11
 kategori: Personer
 sub-kategori: NT og oldkirke-personer
+tags: [Pontius Pilatus, prefekt, dom, korsfestelse, Jesus, romersk styre, Judea]
 modified: 2025-05-11
 ---
 

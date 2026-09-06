@@ -4,6 +4,7 @@ description: "Knutsens historiske oversikt fra de første sivilisasjonene (4000 
 date: 2025-05-01
 kategori: Historie
 sub-kategori: Oldtid og sivilisasjon
+tags: [sivilisasjon, Mesopotamia, Egypt, elvedalen, oldtid, Harari, Sumer]
 Kilder: 1
 ---
 

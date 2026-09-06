@@ -4,6 +4,7 @@ description: En systematisk gjennomgang av alle kvinner i evangeliene — navngi
 date: 2025-05-15
 kategori: Kvinner og Bibelen
 sub-kategori: Kvinner og Bibelen
+tags: [kvinner, evangeliene, Maria Magdalena, Peeler, tjeneste, disippel]
 updated: 2025-05-18
 ---
 

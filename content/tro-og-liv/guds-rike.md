@@ -4,6 +4,7 @@ description: "Guds rike som Jesu kjerneforkynnelse — «allerede og ennå ikke�
 date: 2025-05-13
 kategori: Tro og liv
 sub-kategori: Guds rike og eskatologi
+tags: [Guds rike, allerede og ennå ikke, lignelser, Willard, Wright, rikets logikk]
 updated: 2025-06-13
 sources: 2
 ---

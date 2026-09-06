@@ -2,6 +2,9 @@
 title: "Moderniteten og opplysningen"
 description: "En dag kommer det øyeblikket da solen bare lyser over frie mennesker som ikke kjenner noen annen herre enn sin egen fornuft.» — Condorcet, 1794"
 date: 2025-04-18
+kategori: Kirkehistorie
+sub-kategori: Nyere tid
+tags: [modernitet, opplysningstiden, Kant, Schleiermacher, sekularisering, historisk kritikk]
 Oppdatert: 2025-05-17
 Kilder: 3
 ---

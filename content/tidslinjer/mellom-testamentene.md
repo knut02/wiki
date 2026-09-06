@@ -4,6 +4,7 @@ description: "Da tidens fylde kom, sendte Gud sin Sønn.» — Gal 4:4. Bakgrunn
 date: 2025-04-18
 kategori: Tidslinjer
 sub-kategori: Bibelske og historiske tidslinjer
+tags: [mellomtestamentlig, 333 f.Kr, Hellenisme, Makkabeer, Roma, jødedom, NT-bakgrunn]
 modified: 2025-05-14
 kilder: 2
 ---

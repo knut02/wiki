@@ -4,6 +4,7 @@ description: Exodus-boken i GT — struktur, nøkkeltemaer, teologisk arv, og de
 date: 2025-04-27
 kategori: Det gamle testamentet
 sub-kategori: Patriarker og pakt
+tags: [Exodus, utvandringen, Moses, Sinai, dekalogen, historisitet, Egypt]
 updated: 2025-05-18
 ---
 

@@ -4,6 +4,7 @@ description: Kappadokisk biskop og mystiker — arkitekten bak epektasis-tanken 
 date: 2025-05-05
 kategori: Personer
 sub-kategori: NT og oldkirke-personer
+tags: [Gregor av Nyssa, kappadokier, epektasis, mystikk, treenighet, 335-395]
 kilder: 3
 ---
 

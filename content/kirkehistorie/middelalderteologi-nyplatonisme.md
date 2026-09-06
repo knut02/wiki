@@ -4,6 +4,7 @@ description: "Augustins møte med nyplatonismen og Dionysios Areopagitens negati
 date: 2025-05-01
 kategori: Kirkehistorie
 sub-kategori: Middelalderen
+tags: [nyplatonisme, Augustin, Dionysios, middelalder, mystikk, apofatisk]
 kilder: 1
 ---
 

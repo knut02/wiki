@@ -3,6 +3,7 @@ title: "Maria Magdalena"
 date: 2025-04-18
 kategori: Personer
 sub-kategori: NT og oldkirke-personer
+tags: [Maria Magdalena, oppstandelsesvitne, disippel, Magdala, evangeliene, kvinner]
 kilder: 2
 ---
 

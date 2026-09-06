@@ -4,6 +4,7 @@ description: "Avskjedstalen er NT-s dypeste utlegging av forholdet mellom Fadere
 date: 2026-07-12
 kategori: Det nye testamentet
 sub-kategori: Sentrale tekster
+tags: [avskjedstale, Joh 14-17, Talsmannen, Parakletos, kjærlighetsbud, enhet]
 updated: 2026-07-12
 sources: 3
 ---

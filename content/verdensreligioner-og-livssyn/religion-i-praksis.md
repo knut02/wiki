@@ -4,6 +4,7 @@ description: "Horsfjords tilnærming til religiøst mangfold i hverdagen — kun
 date: 2025-05-24
 kategori: Verdensreligioner og livssyn
 sub-kategori: Religionsteori
+tags: [religion i praksis, Horsfjord, mangfold, triviell religion, levd religion]
 updated: 2025-05-24
 ---
 

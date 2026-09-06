@@ -4,6 +4,7 @@ description: "Vibia Perpetua — aristokrat, nylig blitt mor, henrettet i Kartag
 date: 2025-04-18
 kategori: Personer
 sub-kategori: NT og oldkirke-personer
+tags: [Perpetua, martyr, Kartago, dagbok, 203 e.Kr, fengsel, kvinner, Felicitas]
 updated: 2025-07-09
 kilder: 3
 ---

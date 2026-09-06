@@ -4,6 +4,7 @@ description: "Fra apostlene til moderne tid: kontekstualisering, misjonsbevegels
 date: 2025-05-02
 kategori: Global kristendom
 sub-kategori: Misjon
+tags: [misjonshistorie, kolonitiden, Bosch, missio Dei, apostolisk misjon, tradisjoner]
 kilder: 2
 ---
 

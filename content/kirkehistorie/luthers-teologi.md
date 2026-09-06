@@ -4,6 +4,7 @@ description: "Luthers teologiske kjerne: rettferdiggjørelse ved tro, korsets te
 date: 2025-04-18
 kategori: Kirkehistorie
 sub-kategori: Reformasjonen
+tags: [Luther, rettferdiggjørelse, korsets teologi, lov og evangelium, Skriften alene, nåde]
 updated: 2025-07-09
 kilder: 3
 ---

@@ -4,6 +4,7 @@ description: "«Han som ikke sparte sin egen Sønn, men gav ham for oss alle —
 date: 2025-05-13
 kategori: Tro og liv
 sub-kategori: Grunnleggende trospørsmål
+tags: [forsoningen, kors, hvem Jesus døde for, universalisme, begrenset forsoning]
 kilder: 2
 ---
 

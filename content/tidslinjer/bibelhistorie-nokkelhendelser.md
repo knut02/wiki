@@ -4,6 +4,7 @@ description: "Bibelens fortelling er én fortelling — fra skapelse til ny skap
 date: 2025-04-18
 kategori: Tidslinjer
 sub-kategori: Bibelske og historiske tidslinjer
+tags: [bibelhistorie, tidslinje, nøkkelhendelser, GT, NT, kronologi]
 modified: 2025-05-14
 kilder: 2
 ---

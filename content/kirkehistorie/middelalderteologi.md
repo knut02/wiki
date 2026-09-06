@@ -4,6 +4,7 @@ description: "Middelalderens to hovedteologiske strømninger — monastisk teolo
 date: 2025-05-01
 kategori: Kirkehistorie
 sub-kategori: Middelalderen
+tags: [middelalderteologi, skolastikk, Anselm, Aquinas, Bonaventura, universitetene]
 updated: 2025-05-18
 ---
 

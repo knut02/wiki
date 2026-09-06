@@ -4,6 +4,7 @@ description: "Oversettelse er alltid tolkning — om de to grunnleggende overset
 date: 2025-05-15
 kategori: Lese og forstå Bibelen
 sub-kategori: Innføring
+tags: [bibeloversettelse, ekvivalens, Septuaginta, Bibel 2011, norsk oversettelse, oversettelsesmetode]
 updated: 2025-07-09
 kilder: 3
 ---

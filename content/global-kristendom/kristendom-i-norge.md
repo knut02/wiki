@@ -4,6 +4,7 @@ description: "Kristendommen i Norge er et resultat av importerte ideer og praksi
 date: 2025-04-18
 kategori: Global kristendom
 sub-kategori: Kristendom i verden
+tags: [kristendom i Norge, statskirke, sekularisering, frikirker, vekkelse, kirkehistorie]
 modified: 2025-05-15
 kilder: 2
 ---

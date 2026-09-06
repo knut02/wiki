@@ -4,6 +4,7 @@ description: "Kirkefedre er betegnelsen på tidlige kristne forfattere og lærde
 date: 2025-04-18
 kategori: Tidslinjer
 sub-kategori: Bibelske og historiske tidslinjer
+tags: [kirkefedre, tidslinje, oldkirken, patristikk, 90-700 e.Kr]
 modified: 2025-05-14
 kilder: 2
 ---

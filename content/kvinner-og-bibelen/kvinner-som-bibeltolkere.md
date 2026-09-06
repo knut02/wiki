@@ -4,6 +4,7 @@ description: "Hvem leser Bibelen, fra hvilken posisjon — og hva ser de da? Det
 date: 2025-05-06
 kategori: Kvinner og Bibelen
 sub-kategori: Kvinner og Bibelen
+tags: [kvinner som bibeltolkere, hermeneutikk, leserperspektiv, feministisk teologi]
 kilder: 2
 ---
 

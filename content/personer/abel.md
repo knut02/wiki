@@ -4,6 +4,7 @@ description: "Andre eldste sønn av Adam og Eva, offer i bibelhistoriens første
 date: 2025-04-18
 kategori: Personer
 sub-kategori: GT-personer
+tags: [Abel, offeret, Kain, rettferdighet, 1 Mos 4, Hebreerne, martyr]
 kilder: 1
 ---
 

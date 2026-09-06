@@ -4,6 +4,7 @@ description: "Bispemøtets veiledning (2016) om hvordan Den norske kirke skal m�
 date: 2025-05-02
 kategori: Global kristendom
 sub-kategori: Religionsdialog
+tags: [religionsdialog, kirkelige handlinger, bønn, begravelse, vigsel, islam, jødedom]
 kilder: 2
 ---
 

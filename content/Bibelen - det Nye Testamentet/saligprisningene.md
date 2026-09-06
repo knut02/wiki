@@ -4,6 +4,7 @@ description: "De åtte saligprisningene i Bergprekenen — Willards lesning av d
 date: 2026-07-10
 kategori: Det nye testamentet
 sub-kategori: Sentrale tekster
+tags: [saligprisningene, bergprekenen, Matt 5, Willard, Guds rike, annonsering]
 updated: 2026-07-10
 sources: 2
 ---

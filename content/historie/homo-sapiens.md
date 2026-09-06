@@ -4,6 +4,7 @@ description: "Hararis perspektiv på menneskenes utvikling — fra ubetydelig sa
 date: 2025-05-01
 kategori: Historie
 sub-kategori: Oldtid og sivilisasjon
+tags: [Homo sapiens, kognitiv revolusjon, Harari, evolusjon, sapiens, landbruk]
 Kilder: 1
 ---
 

@@ -3,6 +3,7 @@ title: "Kong Saul"
 date: 2025-04-18
 kategori: Personer
 sub-kategori: GT-personer
+tags: [Saul, første kongen, Israel, avvisning, ånd, 1 Sam, Filisterene]
 kilder: 1
 ---
 

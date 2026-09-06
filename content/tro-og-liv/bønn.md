@@ -4,6 +4,7 @@ description: "Hva er bønn? Bønnens mange former i Bibelen — klage, takk, for
 date: 2025-05-11
 kategori: Tro og liv
 sub-kategori: Spiritualitet og praksis
+tags: [bønn, klage, takk, forbønn, tilbedelse, Faderr, ubesvart bønn]
 updated: 2026-07-10
 sources: 3
 ---

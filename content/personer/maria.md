@@ -4,6 +4,7 @@ description: "Maria som teologisk nøkkelfigur — bebudelsen, Magnificat, ved k
 date: 2025-04-18
 kategori: Personer
 sub-kategori: NT og oldkirke-personer
+tags: [Maria, Jesu mor, Magnificat, bebudelsen, theotokos, jomfru, Luk 1]
 updated: 2025-05-18
 ---
 

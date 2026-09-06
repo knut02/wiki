@@ -4,6 +4,7 @@ description: "De første menneskene i bibelsk tradisjon, skapt av Gud og plasser
 date: 2025-04-18
 kategori: Personer
 sub-kategori: GT-personer
+tags: [Adam, Eva, skapelse, syndefall, Edens hage, 1 Mosebok, imago Dei]
 kilder: 1
 ---
 

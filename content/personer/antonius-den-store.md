@@ -4,6 +4,7 @@ description: "«Han var daglig martyr for sin samvittighet og kjempet troens kam
 date: 2025-05-10
 kategori: Personer
 sub-kategori: NT og oldkirke-personer
+tags: [Antonius, ørkenfar, askese, Egypt, monastisisme, Athanasius, 251-356]
 kilder: 2
 ---
 

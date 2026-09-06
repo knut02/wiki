@@ -4,6 +4,7 @@ description: "«I min Fars hus er det mange rom.» — Joh 14:2. Men hva er Fars
 date: 2025-04-18
 kategori: Tro og liv
 sub-kategori: Tekstbaserte refleksjoner
+tags: [min Fars hus, Joh 14, himmel, hjemsted, relasjon, Guds nærhet, avskjedstalen]
 updated: 2025-06-13
 kilder: 2
 ---

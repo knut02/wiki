@@ -4,6 +4,7 @@ description: "«Kongen er ikke øversteprest; øverstepresten er ikke konge.» �
 date: 2025-05-10
 kategori: Kirkehistorie
 sub-kategori: Middelalderen
+tags: [schisma, 1054, filioque, Roma, Konstantinopel, pave, patriark, øst-vest]
 kilder: 2
 ---
 

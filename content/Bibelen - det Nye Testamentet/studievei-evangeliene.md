@@ -4,6 +4,7 @@ description: "En strukturert inngang til de fire evangeliene: fra sjanger og his
 date: 2026-07-12
 kategori: Det nye testamentet
 sub-kategori: Oversikt
+tags: [studievei, evangeliene, leseguide, Markus, Matteus, Lukas, Johannes]
 updated: 2026-07-12
 ---
 

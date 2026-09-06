@@ -4,6 +4,7 @@ description: "Profet, asket og Jesu forløper — hans fødsel, kall og forkynne
 date: 2026-07-10
 kategori: Personer
 sub-kategori: NT og oldkirke-personer
+tags: [Johannes Døperen, dåp, profet, forløper, Elias, Herodes, martyrium]
 updated: 2026-07-10
 sources: 2
 ---

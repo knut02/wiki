@@ -4,6 +4,7 @@ description: "I begynnelsen var Ordet.» — Joh 1:1. På gresk: *En archē ēn 
 date: 2025-05-14
 kategori: Lese og forstå Bibelen
 sub-kategori: Originalspråk
+tags: [bibelgresk, koinê, NT-gresk, alfabet, grammatikk, Joh 1:1, lesing]
 kilder: 1
 ---
 

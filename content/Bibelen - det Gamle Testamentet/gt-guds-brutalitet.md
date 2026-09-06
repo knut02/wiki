@@ -4,6 +4,7 @@ description: "«Dreper, straffer, sender plager, utsletter folk... Er dette samm
 date: 2025-05-10
 kategori: Det gamle testamentet
 sub-kategori: Profetene
+tags: [Guds brutalitet, GT, drap, straff, teodicé, vanskelige tekster, Herrem]
 kilder: 3
 ---
 

@@ -4,6 +4,7 @@ description: "Hildegard av Bingen (1098–1179) — abbedisse, visionær, teolog
 date: 2025-06-13
 kategori: Kirkehistorie
 sub-kategori: Middelalderen — Mystikk
+tags: [Hildegard, Bingen, visjon, profet, musikk, abbedisse, middelalder, kvinner]
 updated: 2025-07-09
 sources: 2
 ---

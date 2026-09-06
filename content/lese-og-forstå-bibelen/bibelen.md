@@ -4,6 +4,7 @@ description: "Hva er Bibelen? Samlingens karakter, tilblivelse, kanon, teksttrad
 date: 2025-04-27
 kategori: Lese og forstå Bibelen
 sub-kategori: Innføring
+tags: [Bibelen, oversikt, kanon, GT, NT, sjanger, teksthistorie, lesning]
 updated: 2025-07-09
 kilder: 4
 ---

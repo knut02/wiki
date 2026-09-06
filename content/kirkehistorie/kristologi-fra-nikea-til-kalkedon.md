@@ -4,6 +4,7 @@ description: "Striden om Kristi natur i det 4. og 5. århundre: Apollinaris, Nes
 date: 2025-06-13
 kategori: Kirkehistorie
 sub-kategori: Oldkirken — Kristologi og treenighet
+tags: [Apollinaris, Nestorius, Kyrillos, Efesos, Kalkedon, to naturer, kristologi]
 updated: 2025-06-13
 sources: 3
 ---

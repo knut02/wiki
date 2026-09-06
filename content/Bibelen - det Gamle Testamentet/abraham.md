@@ -4,6 +4,7 @@ description: "Abraham som bibelsk skikkelse og tros-far: kallet fra Ur, pakten o
 date: 2025-06-13
 kategori: Det gamle testamentet
 sub-kategori: Patriarker og pakt
+tags: [Abraham, kall, pakt, Aqedah, tro, løfte, Ur, far for mange]
 updated: 2025-07-09
 sources: 4
 ---

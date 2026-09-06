@@ -4,6 +4,7 @@ description: "Bibelsk visdom som sjanger og livspraksis — Ordspråkene, Job og
 date: 2025-04-18
 kategori: Det gamle testamentet
 sub-kategori: Poetiske og visdomsbøker
+tags: [visdomslitteratur, Ordsprkåkene, Job, Forkynneren, frykt for Herren, hokmah]
 updated: 2025-05-18
 ---
 

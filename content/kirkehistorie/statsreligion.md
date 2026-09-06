@@ -4,6 +4,7 @@ description: "Da kristendommen gikk fra forfulgt minoritet til romersk riksrelig
 date: 2025-05-06
 kategori: Kirkehistorie
 sub-kategori: Oldkirken — Forflølgelse og statsreligion
+tags: [statsreligion, Theodosius, 380, Romerriket, kirke og stat]
 kilder: 2
 ---
 

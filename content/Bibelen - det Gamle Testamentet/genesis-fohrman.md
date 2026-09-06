@@ -4,6 +4,7 @@ description: "David Fohrman leser 1. Mosebok med jødisk parasja-metode: nærles
 date: 2025-06-02
 kategori: Det gamle testamentet
 sub-kategori: Skapelse og tidlighistorie
+tags: [Genesis, Fohrman, parasja, nærlesning, jødisk tolkning, 1 Mosebok]
 updated: 2025-06-02
 sources: 2
 ---

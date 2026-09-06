@@ -4,6 +4,7 @@ description: "I begynnelsen var Ordet — Johannes' åpning er teologiens tettes
 date: 2026-07-12
 kategori: Det nye testamentet
 sub-kategori: Sentrale tekster
+tags: [Johannes-prologen, Logos, Joh 1:1-18, inkarnasjon, lys, mørke, Ordet]
 updated: 2026-07-12
 sources: 3
 ---

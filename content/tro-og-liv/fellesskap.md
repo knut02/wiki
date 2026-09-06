@@ -4,6 +4,7 @@ description: "Kristent fellesskap som byrdebæring og partnerskap — gresk anal
 date: 2025-05-03
 kategori: Tro og liv
 sub-kategori: Kirke og fellesskap
+tags: [fellesskap, koinōnia, byrdebæring, Gal 6, Ef 4, kirke, nærhet]
 updated: 2026-07-10
 sources: 3
 ---

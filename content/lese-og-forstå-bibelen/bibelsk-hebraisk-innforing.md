@@ -4,6 +4,7 @@ description: "I begynnelsen skapte Gud himmelen og jordens.» — 1 Mos 1:1 på 
 date: 2025-05-13
 kategori: Lese og forstå Bibelen
 sub-kategori: Originalspråk
+tags: [bibelhebraisk, GT-hebraisk, alfabet, alef-bet, 1 Mos 1:1, lesing, konsonanter]
 kilder: 1
 ---
 

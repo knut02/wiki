@@ -4,6 +4,7 @@ description: "«Med etableringen av det arabiske imperiet i løpet av 600- og f�
 date: 2025-05-11
 kategori: Kirkehistorie
 sub-kategori: Middelalderen
+tags: [overgang, Romerriket, germaner, arabere, Karl Martel, middelalder, 300-750]
 modified: 2025-05-11
 kilder: 2
 ---

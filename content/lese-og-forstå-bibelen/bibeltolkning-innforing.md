@@ -4,6 +4,7 @@ description: "Bibelen er antakelig den mest leste, brukte og drøftede skriftsam
 date: 2025-04-18
 kategori: Lese og forstå Bibelen
 sub-kategori: Hermeneutikk
+tags: [bibeltolkning, hermeneutikk, eksegetisk metode, kontekst, forfatter, leser]
 updated: 2025-07-09
 kilder: 4
 ---

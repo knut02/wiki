@@ -3,6 +3,7 @@ title: "Moses"
 date: 2025-04-18
 kategori: Personer
 sub-kategori: GT-personer
+tags: [Moses, befrier, Sinai, loven, profet, exodus, Herren ansikt til ansikt]
 kilder: 1
 ---
 

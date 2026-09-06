@@ -4,6 +4,7 @@ description: "Hva betyr det å leve i Guds vilje? Ikke primært som et spørsmå
 date: 2025-05-25
 kategori: Tro og liv
 sub-kategori: Guds rike og eskatologi
+tags: [Guds vilje, kall, valg, disippelskap, karakter, Ånden, retning]
 updated: 2025-05-25
 sources: 5
 ---

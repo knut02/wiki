@@ -4,6 +4,7 @@ description: «Jeg lever ikke lenger selv, men Kristus lever i meg.» — Gal 2:
 date: 2025-05-03
 kategori: Personer
 sub-kategori: NT og oldkirke-personer
+tags: [Paulus, apostel, omvendelse, misjon, brevene, rettferdiggjørelse, Gal 2:20]
 updated: 2025-05-15
 kilder: 4
 ---

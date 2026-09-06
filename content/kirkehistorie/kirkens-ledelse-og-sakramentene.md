@@ -4,6 +4,7 @@ description: "I begynnelsen hadde de første kristne menighetene ingen av de for
 date: 2025-04-27
 kategori: Kirkehistorie
 sub-kategori: Oldkirken — Gudstjeneste og kirkeliv
+tags: [kirkeledelse, sakramenter, dåp, nattverd, embete, Ignatius, karisma]
 Oppdatert: 2025-05-10
 Kilder: 3
 ---

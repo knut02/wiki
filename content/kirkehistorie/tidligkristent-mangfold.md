@@ -4,6 +4,7 @@ description: "Var den tidlige kristendommen én bevegelse med avvikere i utkante
 date: 2025-05-10
 kategori: Kirkehistorie
 sub-kategori: Oldkirken — Bakgrunn og kontekst
+tags: [tidlig kristendom, ortodoksi, heterodoksi, mangfold, gnosis, Bauer]
 modified: 2025-05-14
 kilder: 2
 ---

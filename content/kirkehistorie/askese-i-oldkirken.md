@@ -4,6 +4,7 @@ description: "Kristen askese fra NT til ørkenfadrene — hva askese er, dets r�
 date: 2025-06-06
 kategori: Kirkehistorie
 sub-kategori: Oldkirken — Teologi og spiritualitet
+tags: [askese, ørkenfedre, Antonius, Evagrius, Apophthegmata, monastisisme]
 updated: 2025-07-09
 sources: 4
 ---

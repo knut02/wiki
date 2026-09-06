@@ -4,6 +4,7 @@ description: "Navigasjonsoppslag over kirkefadrene fra ca. 90 til 700 e.Kr. — 
 date: 2025-04-18
 kategori: Kirkehistorie
 sub-kategori: Oldkirken — Store teologer
+tags: [kirkefedre, Tertullian, Origenes, Augustin, Hieronymus, Chrysostomos, patristikk]
 modified: 2025-05-06
 ---
 

@@ -4,6 +4,7 @@ description: "Ingen by er viktigere i Bibelen. Jerusalem er Davids by, Salomos t
 date: 2025-05-06
 kategori: Steder
 sub-kategori: Bibelske steder
+tags: [Jerusalem, David, tempel, Salomo, profetene, Jesus, pinsen, GT, NT]
 update: 
 Kilder: 2*
 ---

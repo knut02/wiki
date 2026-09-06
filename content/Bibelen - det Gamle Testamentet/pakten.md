@@ -4,6 +4,7 @@ description: "De bibelske paktene som GT-teologiens ryggrad — Noahpakten, Abra
 date: 2025-04-18
 kategori: Det gamle testamentet
 sub-kategori: Patriarker og pakt
+tags: [pakt, Noahpakten, Abrahampakten, Sinaipakten, Davidspakten, ny pakt, berith]
 updated: 2025-07-09
 kilder: 3
 ---

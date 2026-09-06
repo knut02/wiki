@@ -4,6 +4,7 @@ description: "«Tro spredde seg gjennom svake bånd.» — Ikke gjennom de nære
 date: 2025-05-03
 kategori: Tro og liv
 sub-kategori: Kirke og fellesskap
+tags: [svake bånd, fellesskap, misjon, spredning, nettverk, Granovetter, tro]
 modified: 2025-05-15
 kilder: 3
 ---

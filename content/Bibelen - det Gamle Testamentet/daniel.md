@@ -4,6 +4,7 @@ description: "«Ikke noe menneske kan gjøre det. Bare gudene kan — men de har
 date: 2025-05-14
 kategori: Det gamle testamentet
 sub-kategori: Profetene
+tags: [Daniel, apokalyptikk, Nebukadnesar, Babylon, drømmer, syner, GT]
 kilder: 2
 ---
 

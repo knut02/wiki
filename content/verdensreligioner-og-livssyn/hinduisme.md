@@ -4,6 +4,7 @@ description: "Hinduisme som verdensreligion — gudsmangfold, puja, bhakti, dhar
 date: 2025-05-24
 kategori: Verdensreligioner og livssyn
 sub-kategori: Østlige religioner
+tags: [hinduisme, puja, bhakti, dharma, karma, moksha, gudsmangfold, India]
 updated: 2025-05-24
 ---
 

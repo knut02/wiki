@@ -4,6 +4,7 @@ description: "Dåpens teologi og praksis fra NT til i dag — innsettelse i Kris
 date: 2025-05-05
 kategori: Tro og liv
 sub-kategori: Spiritualitet og praksis
+tags: [dåp, dåpsteologi, syndsforlatelse, Ånden, barnedåp, troende dåp, sakrament]
 updated: 2025-06-02
 sources: 5
 ---

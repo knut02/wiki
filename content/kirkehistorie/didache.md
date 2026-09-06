@@ -4,6 +4,7 @@ description: " «Det finnes to veier; den ene er livets vei, den andre dødens. 
 date: 2025-05-10
 kategori: Kirkehistorie
 sub-kategori: Oldkirken — Bakgrunn og kontekst
+tags: [Didache, to veier, dåp, nattverd, faste, oldkirken, katekese]
 kilder: 2
 ---
 

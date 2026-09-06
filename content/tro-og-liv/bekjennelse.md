@@ -4,6 +4,7 @@ description: "«Da sa Josva til Akan: Min sønn! Gi Herren, Israels Gud, ære og
 date: 2025-04-27
 kategori: Tro og liv
 sub-kategori: Spiritualitet og praksis
+tags: [bekjennelse, synd, tilgivelse, helbredelse, Josva, Jak 5, åpenhet]
 updated: 2026-07-10
 kilder: 2
 ---

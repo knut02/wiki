@@ -4,6 +4,7 @@ description: Filosof, teolog og leder av kateketskolen i Alexandria — den før
 date: 2025-05-05
 kategori: Personer
 sub-kategori: NT og oldkirke-personer
+tags: [Klemens, Alexandria, filosofi, gnosis, Paidagogos, kristen dannelse, 150-215]
 kilder: 3
 ---
 

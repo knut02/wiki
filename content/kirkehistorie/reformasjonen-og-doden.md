@@ -4,6 +4,7 @@ description: "Luther forandret ikke bare teologien — han forandret hva kristne
 date: 2025-05-06
 kategori: Kirkehistorie
 sub-kategori: Reformasjonen
+tags: [reformasjon, død, skjærsilden, avlat, Luther, dødspraksis, eskatologi]
 kilder: 2
 ---
 

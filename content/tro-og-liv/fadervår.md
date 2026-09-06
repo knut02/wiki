@@ -4,6 +4,7 @@ description: "En gjennomgang av Fadervår — de to bibeltekstene, sju bønneled
 date: 2025-05-20
 kategori: Tro og liv
 sub-kategori: Spiritualitet og praksis
+tags: [Faderr, bønn, Matt 6, Lukas 11, riket, tilgivelse, fristelse]
 updated: 2025-05-20
 ---
 

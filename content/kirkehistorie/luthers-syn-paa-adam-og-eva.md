@@ -4,6 +4,7 @@ description: "Luthers tolkning av syndefallet i Genesis 3 og hans reformatoriske
 date: 2025-05-01
 kategori: Kirkehistorie
 sub-kategori: Reformasjonen
+tags: [Luther, Adam, Eva, syndefall, Genesis, ekteskapet, skapelsesteologi]
 kilder: 1
 ---
 

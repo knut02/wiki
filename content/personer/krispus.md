@@ -3,6 +3,7 @@ title: "Krispus"
 date: 2025-04-18
 kategori: Personer
 sub-kategori: NT og oldkirke-personer
+tags: [Krispus, synagogeforstander, Korint, Paulus, dåp, Apg 18, omvendelse]
 kilder: 1
 ---
 
