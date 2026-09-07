@@ -6,7 +6,7 @@ kategori: Det gamle testamentet
 sub-kategori: Oversikt
 tags: [GT, oversikt, kanon, Torah, profetene, skriftene, hebraisk Bibel]
 updated: 2025-07-09
-Kilder: 1
+kilder: 1
 ---
 
 ## Hva er det?

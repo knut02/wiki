@@ -4,7 +4,7 @@ description: "Jeg tror ikke at den ene Gud er en Treenighet.» — tenkt elev ho
 date: 2025-05-10
 kategori: Teologi
 sub-kategori: Gudslære
-Kilder: 2
+kilder: 2
 ---
 
 ## Problemet med vanen

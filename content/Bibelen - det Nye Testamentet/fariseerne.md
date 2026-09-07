@@ -6,7 +6,7 @@ kategori: Det nye testamentet
 sub-kategori: Bakgrunn og kontekst
 tags: [fariseerne, Matteus 23, lovlydighet, hykleri, renhet, sabbat, Hillel, Shammai]
 updated: 2025-05-15
-Kilder: 2
+kilder: 2
 ---
 
 ## Hvem var de?

@@ -6,7 +6,7 @@ kategori: Kirkehistorie
 sub-kategori: Middelalderen
 tags: [universalier, nominalisme, realisme, Ockham, Abelard, folkespråk, lekteologi]
 modified: 2025-05-01
-Kilder: 1
+kilder: 1
 ---
 
 ## Universaliestriden

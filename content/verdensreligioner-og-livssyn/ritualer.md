@@ -6,7 +6,7 @@ kategori: Verdensreligioner og livssyn
 sub-kategori: Religionsteori
 tags: [ritualer, Bell, ritualisering, overgangsritualer, sjængre, praksis]
 modified: 2025-05-03
-Kilder: 1
+kilder: 1
 ---
 
 ## Hva er ritual?

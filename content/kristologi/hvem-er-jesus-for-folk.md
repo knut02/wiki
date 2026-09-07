@@ -5,7 +5,7 @@ date: 2025-05-10
 kategori: Kristologi
 sub-kategori: Jesu identitet
 tags: [hvem er Jesus, folk, kristologi, meningsmangfold, kulturell Jesus, Inbody]
-Kilder: 2
+kilder: 2
 ---
 
 ## Spørsmålet

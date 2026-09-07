@@ -5,7 +5,7 @@ date: 2025-05-02
 kategori: Personer
 sub-kategori: NT og oldkirke-personer
 tags: [Jesu familie, søsken, Josef, Maria, slækt, evangeliene]
-Kilder: 2
+kilder: 2
 ---
 
 ## Foreldre

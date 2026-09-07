@@ -5,7 +5,7 @@ kategori: Steder
 sub-kategori: Bibelske steder
 tags: [Abarim, fjell, Moab, Moses, Nebo, Jordan, GT]
 updated: 2025-04-23
-Kilder: "1"
+kilder: "1"
 description: "Fjellområde øst for Jordan i landet Moab, kjent som stedet der Moses fikk se Kanaanslandet"
 ---
 

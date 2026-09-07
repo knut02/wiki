@@ -5,8 +5,8 @@ date: 2025-04-18
 kategori: Kirkehistorie
 sub-kategori: Nyere tid
 tags: [modernitet, opplysningstiden, Kant, Schleiermacher, sekularisering, historisk kritikk]
-Oppdatert: 2025-05-17
-Kilder: 3
+updated: 2025-05-17
+kilder: 3
 ---
 
 ## Opplysningsprosjektet

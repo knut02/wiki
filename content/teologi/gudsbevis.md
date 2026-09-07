@@ -6,7 +6,7 @@ kategori: Teologi
 sub-kategori: Gudslære
 tags: [gudsbevis, kosmologisk argument, teleologisk argument, ontologisk argument, Aquinas, ateisme]
 modified: 2025-05-17
-Kilder: 3*
+kilder: 3*
 ---
 
 ## Hva er et gudsbevis?

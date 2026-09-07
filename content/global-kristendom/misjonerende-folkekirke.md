@@ -6,7 +6,7 @@ kategori: Global kristendom
 sub-kategori: Misjon
 tags: [misjonerende folkekirke, Den norske kirke, tilhørighet, misjon, dåp, fellesskap]
 modified: 2025-05-02
-Kilder: 1
+kilder: 1
 ---
 
 ## Det tilsynelatende motsetningsforholdet

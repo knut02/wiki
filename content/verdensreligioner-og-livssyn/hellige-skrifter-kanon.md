@@ -5,7 +5,7 @@ date: 2025-05-04
 kategori: Verdensreligioner og livssyn
 sub-kategori: Religionsteori
 tags: [hellige skrifter, kanon, åpenbaring, kultisk funksjon, verdensreligioner, Braarvig]
-Kilder: 1
+kilder: 1
 ---
 
 ## Hva er en hellig skrift?

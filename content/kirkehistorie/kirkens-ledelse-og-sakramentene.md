@@ -5,8 +5,8 @@ date: 2025-04-27
 kategori: Kirkehistorie
 sub-kategori: Oldkirken — Gudstjeneste og kirkeliv
 tags: [kirkeledelse, sakramenter, dåp, nattverd, embete, Ignatius, karisma]
-Oppdatert: 2025-05-10
-Kilder: 3
+updated: 2025-05-10
+kilder: 3
 ---
 
 ## De første menighetene — karismatisk struktur

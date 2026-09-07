@@ -1,168 +1,115 @@
 ---
-title: "Forsoningslærens modeller"
-description: "Hvordan forstår vi at Jesu død frelser? En gjennomgang av de store forsoningsteologiske modellene — fra løsepengen og Christus Victor via Anselms satisfaksjonslære til moralsk innflytelse og penal substitusjon."
-date: 2026-08-26
-updated: 2026-08-26
+title: "Forsoningslæren — modeller for Jesu død"
+description: "En gjennomgang av de fire hovedmodellene for å forstå hva som skjer i Jesu død: offer, Christus Victor, juridisk forsoning og eksemplarisme — og hvordan de utfyller hverandre."
+date: 2026-09-06
 kategori: Teologi
 sub-kategori: Frelseslære og forsoning
-studievei: [kristologi, kirkehistorie, Bibelen]
-tags: [forsoning, forsoningslære, Christus Victor, satisfaksjon, Anselm, penal substitusjon, moralsk innflytelse, Abelard, soningslære, kors]
-sources: 3
+tags: [forsoningslæren, Christus Victor, penal substitution, eksemplarisme, offer, kors, Anselm, Aulén, Barth, soteriologi]
+sources: 2
 ---
 
-> «Kristus døde for syndene våre, etter Skriftene.» — 1 Kor 15:3
-
-> «Han ble såret for våre overtredelser, knust for våre misgjerninger. Straffen lå på ham, så vi fikk fred.» — Jes 53:5
+> «Gud var i Kristus og forsonte verden med seg selv.» — 2 Kor 5:19
 
 ---
 
-## Spørsmålet bak spørsmålet
+## Et svar med mange ansikter
 
-Hvem døde Jesus for? Det er ett spørsmål. Et annet, mer grunnleggende: *Hvordan* frelser Jesu død? Hva skjedde egentlig på korset som gjør at mennesker kan bli forsonet med Gud?
+Korset er ikke et problem som trenger én løsning — det er en hendelse som trenger mange ord. Bibelen selv bruker en rekke bilder for å forklare Jesu død: offer, seier, løsepenge, forsoning, rettferdiggjørelse, forening. Ingen enkelt teori rommet hele meningen; de store forsoningsmodellene i kirkehistorien er forsøk på å løfte frem én dimensjon av noe som er for stort til å rommes av én formel.
 
-Bibelen bruker en rekke bilder — løsepenge, offer, seier, forsoning, straff, kjærlighet, eksempel. Kirkehistorien har ut fra disse bildene utviklet distinkte *modeller* for å forklare forsoningens logikk. Ingen av dem er den ene «offisielle» forklaringen — de er ulike innganger til ett og samme mysterium.
-
----
-
-## De bibelske bildene
-
-Bibelen bruker minst syv distinkte bilder for hva Jesu død gjør:
-
-**Løsepenge (*lytron*):** «Menneskesønnen er kommet [...] for å gi sitt liv som løsepenge for mange» (Mark 10:45). *Lytron* er prisen betalt for å frigjøre en slave eller krigsfange. Det er et juridisk, konkret bilde.
-
-**Offer:** NT leser Jesu død i lys av tempelsystemets offerpraksis — særlig syndofferet og Yom Kippur-ritualet. Hebreerbrevet 9-10 er den mest systematiske utlegningen: Kristus som evig yppersteprest som ofrer seg selv én gang for alle (*ephapax*).
-
-**Forsoning (*hilasterion*):** «Guds nåde ved forløsningen i Kristus Jesus, som Gud stilte fram som et soningsoffer» (Rom 3:24-25). *Hilasterion* er det samme greske ordet Septuaginta bruker om lokket over paktsarken — stedet der Guds hellighet og Israels synd møtes.
-
-**Seier over åndsmakter:** «Han avvæpnet fyrstene og myndighetene og stilte dem offentlig til skue, da han triumferte over dem på korset» (Kol 2:15). Korset som kosmisk seiershandling.
-
-**Forsoning (katallagē):** «Gud forsonet verden med seg selv i Kristus, og tilregnet dem ikke deres synder» (2 Kor 5:19). Relasjonsbildet: Et brutt forhold blir gjenopprettet.
-
-**Stedfortredelse:** «Ham som ikke kjente synd, gjorde han til synd for oss, for at vi skulle bli Guds rettferdighet i ham» (2 Kor 5:21). Byttebildet: Kristus tar vår plass, vi får hans.
-
-**Eksempel og kjærlighet:** «Kristus led for oss og etterlot dere et forbilde, for at dere skulle følge i hans fotspor» (1 Pet 2:21). Korset som den ytterste demonstrasjon av kjærlighet.
-
-Disse bildene er ikke alternative beskrivelser av det samme — de belyser ulike dimensjoner av én kompleks virkelighet.
+Det avgjørende spørsmålet som splitter modellene: er korset *konstitutivt* eller *illustrativt*? Det vil si — skaper Jesu død en ny situasjon, eller synliggjør den bare noe som alltid har vært sant? Martin Kähler stilte dette presist i 1898: «Gjorde Kristus bare kjent noen innsikter om en uforanderlig situasjon — eller etablerte han en ny situasjon?» Svaret avgjør hva slags teologi man ender opp med.
 
 ---
 
-## Modell 1: Christus Victor (oldkirken)
+## Modell 1: Offer
 
-Den dominerende forståelsen i oldkirken — og i dag særlig levende i den østlige kirken.
+Den tidligste og mest vedvarende forståelsen knytter Jesu død til det gammeltestamentlige offersystemet. Hebreerbrevet er den tydeligste formuleringen: Kristus er den store ypperstepresten som bringer det endelige offeret — seg selv — og dermed fullfører og overvinner alt det Levis prester pekte mot.
 
-**Kjerne:** Jesus' død og oppstandelse er en kosmisk seier over syndens, dødens og djevelens makter. Menneskeheten er fanget under disse maktenes herredømme; Kristus bryter inn og befrir oss.
+Augustin skriver at Kristus «ble gjort til et offer for synden, og ofret seg selv som et fullstendig brennoffer på lidelsens kors.» Offerbildet ble i middelalderens teologi koblet til det trefoldige embete (*munus triplex*): Kristus som profet, prest og konge — der prestens funksjon nettopp er å ofre.
 
-Den klassiske formuleringen er Irenaeus' *rekapitulasjonstenkning* (ca. 180): Adam tapte; Kristus som den nye Adam lever det livet Adam ikke klarte og overvinner der Adam falt. Gjennom inkarnasjonen og oppstandelsen reverserer Kristus fallet — ikke ved å betale en gjeld, men ved å gjennomsyre menneskenaturen med guddommelig liv.
+Siden opplysningstiden har offerbildet blitt problematisert. Kant og hans etterfølgere fant det moralsk suspekt at ett menneske skulle bære skylden for et annet. Og den folkelige bruken av «å ofre» — om soldater som «ofrer livet for fedrelandet» — tømte gradvis det religiøse begrepet for teologisk innhold. Etter 1945 er offerspråket sjeldnere i tyskspråklig teologi, delvis fordi nazistene hadde misbrukt offerrhetorikken til å rettferdiggjøre tap av liv og frihet.
 
-Gustaf Aulén gjenoppdaget denne modellen i 1930 og argumenterte for at den er den opprinnelige og mest bibelske: «Christus Victor» — Kristus som seierherre. Bibelske ankerpunkter: Kol 2:15, Heb 2:14-15 («For å gjøre ende på ham som hadde makt over døden, det vil si djevelen»), Åp 5:5.
-
-**Styrker:** Tar alvorlig det kosmiske — synden som makt, ikke bare synd som skyld. Passer godt med Jesu exorcismer og helbredelser som «forhåndsseirer». Oppstandelsen er sentral, ikke bare korset.
-
-**Svakheter:** Kan underforklare hva som skjer *på* korset — det er seieren over døden som er poenget, men *hvordan* korset virker seier, er ikke alltid tydelig.
+Likevel: offerbildet forsvant ikke. I katolsk sakramentsteologi holder eukaristien fast ved at messen er en deltakelse i Kristi ene offer, og bildet forblir sentralt i mange fromhetstradisjoner verden over.
 
 ---
 
-## Modell 2: Satisfaksjonsteorien — Anselm av Canterbury (1098)
+## Modell 2: Christus Victor — seierherren
 
-Det store skiftet i vestlig forsoningsteologi skjedde med Anselm av Canterbury i *Cur Deus Homo?* («Hvorfor ble Gud menneske?»).
+I oldkirken og Luthers teologi er korset primært en kamparena: Kristus slåss mot synden, dødsmakten og djevelen — og vinner. Påskens triumf er ikke primært juridisk, men dramatisk. Gud i Kristus bryter inn i fangenskapet og frigjør det fangne mennesket.
 
-**Kjerne:** Synd er en fornærmelse mot Guds ære (*honor*). I et middelaldersk æressamfunn krevde en fornærmelse mot en overordnet en kompensasjon proporsjonalt med den fornærmedes rang. En fornærmelse mot den uendelig ærerike Gud krever dermed uendelig kompensasjon — noe intet endelig menneske kan gi. Bare Gud kan gi uendelig kompensasjon. Men det er menneskets skyld å betale. Løsningen: Gud blir menneske — og det gudmennesket kan gi uendelig kompensasjon (ved å ofre et fullkomment liv) på menneskenes vegne.
+Gustaf Aulén systematiserte denne modellen i 1931 med boken *Christus Victor*, og hevdet at dette var den dominerende forståelsen i oldkirken og hos Luther. Aulén ville rehabilitere den mot de mer abstrakt-juridiske teoriene fra middelalderen: i stedet for skyld og betaling, seier og frigjøring.
 
-**Innovasjonen:** Anselm brøt med den dominerende ransom-theory der løsepengen ble betalt til djevelen. For Anselm er det Gud selv som «mottar» soninga — ikke som en egoistisk kreditorfigur, men som en som opprettholder moralens orden for universets skyld.
+Modellen fant ny gjenklang etter 1. verdenskrig. Freuds psykoanalyse hadde synliggjort at mennesket er slave under krefter det ikke fullt ut kontrollerer — dette ga troverdighet til ideen om å være *fanget* av noe og *frigjort* fra noe. Aulén tilbød en tredje vei mellom juridisk teoris moralske problemer og eksemplaristenes tynne subjektivisme.
 
-**Styrker:** Tar alvorlig syndens alvor og Guds hellighet. Forklarer hvorfor Jesu død er nødvendig (ikke bare *passende*). Grunnla vestlig forsoningsteologi i en logisk sammenhengende struktur.
+Kritikken er at *Christus Victor* ikke forklarer *hvorfor* korset: Hvorfor akkurat korsfestelse? Hvorfor ikke en annen seierrik handling? Modellen er sterk på å beskrive effekten, svakere på å begrunne formen.
 
-**Svakheter:** Sterkt preget av middelalderens æreskultur og føydale strukturer. Gjør forsoning til en transaksjon mellom Faderen og Sønnen snarere enn en trinitar handling. Abelard kritiserte: Hvem fornærmes av en skogsbrann? Har ikke Gud bare å tilgi?
-
----
-
-## Modell 3: Moralsk innflytelse — Peter Abelard (1100-tallet)
-
-Peter Abelard var Anselms samtidige og skarpe kritiker. Hans alternativ: Korset er primært en demonstrasjon av kjærlighet som forvandler oss.
-
-**Kjerne:** Syndens problem er ikke primært en juridisk skyld som må avregnes, men en relasjonell fremmedgjøring og et hjerte som er vendt bort fra Gud. Jesu død viser oss Guds kjærlighets ytterkant — og denne demonstrasjonen har transformerende makt: Den bryter ned vårt motstand, mykner hjertet og trekker oss tilbake til Gud.
-
-Abelard siterte «Gud beviser sin kjærlighet til oss ved at Kristus døde for oss mens vi ennå var syndere» (Rom 5:8) som nøkkelvers.
-
-**Styrker:** Tar det relasjonelle alvorlig. Jesu liv og karakter er del av frelsen, ikke bare hans død. Passer med Jesu eget fokus på hjertets forvandling.
-
-**Svakheter:** Risikerer å gjøre korset til et pedagogisk virkemiddel snarere enn et soningsoffer. Forklarer ikke *hvorfor* Gud ikke bare tilgir uten korset — korset blir nødvendig for oss, ikke for Gud. Kan bli et eksempel uten egentlig sonende kraft.
+Rudolf Bultmann og Paul Tillich fortsatte i eksistentialistisk retning: seieren over «de onde maktene» ble fortolket som en seier over eksistensielle krefter — frykt, meningsløshet, fremmedgjøring — innenfor menneskenes indre verden. Her gled den opprinnelig objektive modellen over i det subjektive.
 
 ---
 
-## Modell 4: Penal substitusjon — reformasjonens arv
+## Modell 3: Juridisk forsoning — dommeren som ble dømt
 
-Reformatorene — særlig Calvin — videreutviklet Anselms satisfaksjonsteori i en mer juridisk retning.
+Den tredje og mest omdiskuterte modellen er den juridiske, oftest kalt *penal substitution* (straffsoningsforsoningen). Dens klassiske utformer er Anselm av Canterbury (1033–1109) i *Cur Deus Homo* («Hvorfor ble Gud menneske?»). Anselm argumenterte at menneskets synd er en fornærmelse mot Guds ære — og at bare et menneske kunne rette opp fornærmelsen, men at ingen skapning kunne bære byrden. Løsningen: ett vesen som er *begge* — Gud og menneske.
 
-**Kjerne:** Syndens konsekvens er Guds rettferdige straff. Guds rettferdighet krever at synden straffes — ikke bare at kompensasjon gis. Kristus tar vår straff på seg (*penal* = straff; *substitusjon* = stedfortreder). Han er «gjort til synd for oss, for at vi skulle bli Guds rettferdighet i ham» (2 Kor 5:21). Gud ilegger sin rettferdige straff — men den rammes av Sønnen, ikke av synderne.
+Reformasjonen tok dette videre og presiserte: det er ikke Guds ære som krenkes, men Guds rettferdighet. Synden krever straff; Kristus tar straffen i menneskenes sted. Heidelberg-katekismen formulerer det presist: Guds rettferdighet krever at synden sones — og Kristus bærer dommen som vi fortjener.
 
-Luthers indre kamp — «Jeg fant ikke en nådig Gud» — og hans gjennombrudd i Rom 1:17 er denne modellens eksistensielle bakgrunn: Guds rettferdighet er ikke den dommende rettferdigheten som knuser, men den gavegivende rettferdigheten som frelser.
+**Barths reformulering.** Karl Barth gir den mest teologisk presise versjonen av juridisk forsoningslære i det 20. århundret. I *Kirchliche Dogmatik* IV/1 skriver han: «Dommeren som ble dømt i vårt sted.» Barth er eksplisitt substitusjonær — Kristus tar vår plass — men leser det inn i en trinitarisk ramme: det er Gud som dømmer Gud, i en fri kjærlighetsgjerning.
 
-**Bibelske ankerpunkter:** Jes 53:5-6 («straffen lå på ham»), 2 Kor 5:21, Gal 3:13 («Kristus kjøpte oss fri fra lovens forbannelse ved at han ble en forbannelse for oss»), Rom 3:25-26.
+> «Det som skjedde er at Guds Sønn fullbyrdet den rettferdige dommen over oss mennesker ved selv å ta vår plass som menneske, og i vår plass å undergå den dommen vi var underlagt.»
 
-**Styrker:** Tar syndens alvor på dypeste alvor. Forklarer rettferdiggjørelse av tro — vi erklæres skyldsfrie fordi Kristus har tatt vår skyld. Har sterk bibelsk forankring i stedfortreder-bildene. Er grunnlaget for den lutherske og reformerte tradisjons frelsesforståelse.
+«Against us» og «for us» henger uløselig sammen i Barth: korset avslører vår synd fullt ut — og tar den på seg. Uten «against us» ville det ikke vært et ekte «for us».
 
-**Svakheter:** Risikerer å sette Faderen og Sønnen mot hverandre — en «sint Gud» som må blidgjøres av en «kjærlighetsfull Sønn». Det er ikke bibelsk: «Gud var i Kristus og forsonet verden med seg selv» (2 Kor 5:19). Kan redusere frelse til juridisk transaksjoner og underkommunisere den relasjonelle og kosmiske dimensjonen.
+**Opplysningstidens kritikk** rammet hardt. Kant fant det moralsk uholdbart at Guds tilgivelse skulle avhenge av en tredjeparts offerdød. Schleiermacher ville beholde korsets religiøse verdi uten det juridiske rammeverket. Rashdall og liberale teologer på 1900-tallet avviste det som barbarisk.
 
----
-
-## Modell 5: Gouvernemental teori — Hugo Grotius (1617)
-
-En mellomposisjon: Gud som universets regent (*gubernator*) kan tilgi synden *uten* at Kristus tar vår spesifikke straff — men Kristus' lidelse demonstrerer at synden er alvorlig nok til å ha fått konsekvenser, slik at Guds moralske orden opprettholdes.
-
-Denne modellen ble grunnlaget for den arminiansk-metodistiske tradisjonen (Wesley, arminianerne). Frelse er genuint tilgjengelig for alle; Guds tilgivelse er ikke begrenset av en kalvinistisk predestinasjon.
+Forsvarerne svarer: Kristus er ikke «en tredjepart» — han er Gud selv. Det er ikke en fremmed som bærer dommen, men Skaperen som tar ansvar for skapelsens feil. Colin Gunton (1941–2003) formulerer det presist: For å unngå rent eksemplarisme — der korset bare *viser* noe — må vi si at Kristus gjør noe *for oss* som vi ikke kan gjøre selv. Uten en slik substitusjonær kjerne ender vi i pelagianisme: frelse som egeninnsats.
 
 ---
 
-## Modell 6: Inkarnasjonsbasert forsoning — østlig tradisjon
+## Modell 4: Eksemplarisme — kjærlighetens appell
 
-Athanasios' klassiske formulering: «Han ble menneske for at vi skulle bli Gud» (*De incarnatione* 54). Se [[kirkehistorie/frelse-athanasius-augustin]].
+Den fjerde modellen, eksemplarismen, er den Abelard (1079–1142) er mest kjent for. Kjernen er: Jesu død er den høyeste demonstrasjonen av Guds kjærlighet — og denne kjærligheten vekker en tilsvarende kjærlighet i oss. Korset er ikke primært en betaling eller en seier, men et kraftfullt eksempel som forvandler menneskenes hjerte.
 
-**Kjerne:** Frelsens tyngdepunkt ligger i inkarnasjonen og oppstandelsen, ikke primært i Golgata-hendelsen isolert. Gud gikk inn i menneskenaturens tilstand — synd, lidelse, dødelighet — og gjennomsyret den med guddommelig liv. Oppstandelsen er ikke bare en bekreftelse av at Jesu offer var akseptert; det er selve seieren over døden som åpner guddommelig liv for oss.
+Med opplysningstiden ble eksemplarismen dominerende i liberal teologi. Hastings Rashdalls Bampton Lectures (1915) er den klassiske britiske versjonen: det eneste tilfredsstillende korsteologien er å se Jesus som det høyeste moralske idealet.
 
-Theosis-tankegangen: Vi frelsers ikke primært *fra* noe (straff, dom), men *inn i* noe (Guds eget liv, deltakelse i den guddommelige natur — 2 Pet 1:4).
-
----
-
-## Hvordan holder vi modellene sammen?
-
-Ingen enkelt modell er tilstrekkelig alene. De belyser ulike sider:
-
-| Modell | Hva synden er | Hva frelsens problem er | Hva Kristus gjør |
-|--------|--------------|------------------------|-----------------|
-| Christus Victor | Makt som binder | Slaveri under ondskapen | Befrier og seirer |
-| Satisfaksjon | Fornærmelse mot Guds ære | Æresunderskudd | Yter kompensasjon |
-| Moralsk innflytelse | Fremmedgjøring fra Gud | Kaldt hjerte | Demonstrerer kjærlighet |
-| Penal substitusjon | Lovbrudd mot Guds lov | Straff som skyldes | Tar vår straff |
-| Inkarnatorisk | Ontologisk forfall | Menneskelig natur skadet | Fornyer vår natur |
-
-Bibelen bruker alle disse bildene — og det er klokt å la dem alle snakke. Theolog Joel Green og Mark Baker argumenterer i *Recovering the Scandal of the Cross* for at det er farlig å kollapere forsoningen til én modell, fordi Bibelens rikdom da mistes.
-
-Det som er sikkert: Korset er ikke en katastrofe som ble til frelse. Det er Guds frivillige, planlagte, treenige handling der han i Kristus gikk inn i syndens, lidelsens og dødens dypeste mørke — og brøt gjennom det fra innsiden.
+Styrken er at modellen er lettfattelig og moralsk intuitivt troverdig. Svakheten er at den ikke forklarer *nødvendigheten* av korset: Hvis poenget er å vise kjærlighet, hvorfor akkurat dødsoffer? Gunton: «Dersom Kristus bare avdekker noe, og ikke oppnår noe, trenger vi ham ikke for selve forsoningen — bare for informasjonen.»
 
 ---
 
-## Hvem døde Jesus for?
+## Kristologi og soteriologi henger sammen
 
-De ulike modellene gir ulike nyanser til dette spørsmålet. Men alle er enige om kjernen: Det er en universell, personlig, ufortjent gave. Se [[tro-og-liv/hvem-døde-jesus-for]] for den bibelske bredden i hvem Jesus døde for.
+En viktig utvikling i moderne teologi er erkjennelsen av at *hvem Jesus er* og *hva Jesus gjør* ikke kan skilles. Wolfhart Pannenberg formulerer det: «En atskillelse mellom kristologi og soteriologi er ikke mulig, fordi det soteriologiske interessen — interessen for frelse — er det som får oss til å spørre etter Jesu person.»
+
+Det betyr: Forsoningsteori er aldri bare teori om korset. Det er alltid også teori om hvem Kristus er. Og hvem Kristus er, beror på hvem Gud er. Trinitarisk teologi er dermed ikke et tillegg til forsoningslæren — det er dens forutsetning.
+
+---
+
+## Fire modeller — én hendelse
+
+De fire modellene utelukker ikke hverandre. De utfyller hverandre som ulike linser på samme hendelse:
+
+- **Offer** — Kristus som ypperstepresten som fullbyrder og avslutter offertjenesten
+- **Christus Victor** — Kristus som seierherren som bryter fangenskapets makt
+- **Juridisk forsoning** — Kristus som dommeren som ble dømt i vårt sted
+- **Eksemplarisme** — Kristus som kjærlighetens fullkomne uttrykk som vekker svar
+
+Det som er felles for alle seriøse forsoningsteologier, er at korset *gjør noe* — ikke bare *viser noe*. Det er det konstitutive elementet som skiller kristen forsoningsteologi fra ren moralfilosofi.
 
 ---
 
 ## Sammenheng med andre artikler
 
-- [[tro-og-liv/hvem-døde-jesus-for]] — hvem Jesu død gjelder
-- [[tro-og-liv/nåde]] — nådens teologi
-- [[tro-og-liv/frelse]] — frelsens mange bilder i NT
-- [[kirkehistorie/frelse-athanasius-augustin]] — oldkirkens frelseslære
-- [[Bibelen - det Nye Testamentet/hebreerbrevet]] — offertematikken og det nye tempelet
-- [[Bibelen - det Nye Testamentet/romerbrevet]] — *hilasterion* og rettferdiggjørelse
-- [[kristologi/inkarnasjon]] — inkarnasjonen som frelsens grunnlag
-- [[teologi/theosis]] — deltakelse i Guds eget liv
+- [[tro-og-liv/hvem-døde-jesus-for]] — hvem forsoningen gjelder
+- [[tro-og-liv/frelse]] — frelsens mange dimensjoner
+- [[kirkehistorie/frelse-athanasius-augustin]] — patristisk frelseteologi
+- [[kristologi/jesus-sin-oppstandelse]] — korset og oppstandelsen som én frelseshendelse
+- [[kirkehistorie/luthers-teologi]] — Luthers korsets teologi
+- [[kristologi/oppstandelsesdebatten]] — oppstandelsen som forsoningens besegling
 
 ---
 
 ## Kilder
 
-- [[sources/frelse-athanasius-augustin-wiki]] — [[kirkehistorie/frelse-athanasius-augustin]]
-- [[sources/studier-personlige]] — egne studier; primærtekster (Anselm, Abelard, Irenaeus, Athanasius)
-- [[sources/Keener-2014-IVP-background-commentary]] — Keener, C.S. (2014): *IVP Bible Background Commentary: NT*, Mark 10:45; Rom 3:25; 2 Kor 5:21
+- McGrath, A.E.: *Historical Theology*, part0010_split_001 (Case study 4.2)
+- Aulén, G. (1931): *Christus Victor*
+- Barth, K.: *Kirchliche Dogmatik* IV/1, §59.2
+- Anselm av Canterbury: *Cur Deus Homo*
+- Gunton, C. (1988): *The Actuality of Atonement*

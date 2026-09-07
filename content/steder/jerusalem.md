@@ -5,8 +5,8 @@ date: 2025-05-06
 kategori: Steder
 sub-kategori: Bibelske steder
 tags: [Jerusalem, David, tempel, Salomo, profetene, Jesus, pinsen, GT, NT]
-update: 
-Kilder: 2*
+updated: 
+kilder: 2*
 ---
 
 ## Geografi og beliggenhet
