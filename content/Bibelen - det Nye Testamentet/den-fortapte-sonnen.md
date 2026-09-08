@@ -274,7 +274,7 @@ En av grunnene til at lignelsen er uuttømmelig, er at den rommer flere tolkning
 - [[tro-og-liv/nåde]] — nådens logikk mot fortjenestens logikk
 - [[tro-og-liv/tilgivelse]] — tilgivelse uten betingelser
 - [[tro-og-liv/disippelskap]] — den eldste broderens «slaveforhold» til faren
-- [[Bibelen - det Nye Testamentet/lukas-evangeliet]] — Lukas som «evangeliet for de marginaliserte»
+- [[Bibelen - det Nye Testamentet/lukasevangeliet]] — Lukas som «evangeliet for de marginaliserte»
 
 ---
 

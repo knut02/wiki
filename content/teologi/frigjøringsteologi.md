@@ -125,19 +125,22 @@ Frigjøringsteologien utfordrer forestillingen om religion som privatanliggende.
 
 ## Sammenheng med andre artikler
 
-- [[concepts/teologibegrepet]] — Gutiérrez som en av de fire klassiske definisjonene
-- [[concepts/misjon-i-kontekst]] — LVFs misjonsteologi med frigjøringsteologisk profil
-- [[concepts/kristendom-i-afrika]] — afrikansk frigjøringsteologi og anti-apartheid
-- [[concepts/kristendom-i-amerika]] — latinamerikansk og svart frigjøringsteologi
-- [[concepts/kristendom-midtøsten-asia-europa]] — dalitteologi i India
-- [[concepts/det-livssynsapne-samfunn]] — religion og det politiske rom
-- [[concepts/misjonerende-folkekirke]] — Hegstads analogi til kirkens dynamiske oppdrag
+- [[teologibegrepet]] — Gutiérrez som en av de fire klassiske definisjonene
+- [[kirkehistorie/moltmann-og-pannenberg]] — Moltmanns håpsteologi som parallell til frigjøringsteologien
+- [[teologi/dommen-som-godt-nytt]] — dommen som håp for de undertrykte
+- [[global-kristendom/global-kristendom-oversikt]] — frigjøringsteologiens globale spredning
+- [[global-kristendom/kristendom-i-latin-amerika]] — latinamerikansk kontekst
+- [[global-kristendom/kristendom-i-afrika]] — afrikansk frigjøringsteologi og anti-apartheid
+- [[global-kristendom/misjon-i-kontekst]] — LVFs misjonsteologi med frigjøringsteologisk profil
+- [[kirkehistorie/schleiermacher-og-liberal-protestantisme]] — liberalteologien som frigjøringsteologien delvis reagerer mot
+- [[kirkehistorie/moltmann-og-pannenberg]] — Moltmanns håpsteologi som parallell
+- [[verdensreligioner-og-livssyn/det-livssynsapne-samfunn]] — religion og det politiske rom
 
 ---
 
 ## Kilder
 
+- McGrath, A.E.: *Historical Theology*, part0009_split_028 (Liberation theology)
 - [[sources/TEO2610-støtteark-1-2023]] — Frigjøringsteologi i misjonshistorisk kontekst
-- [[sources/TEO2610-PP01-Afrika]] — Afrikansk frigjøringsteologi
 - [[sources/TEO2610-PP02-Latinamerika]] — Latin-Amerika, Gutiérrez, basemenigheter
 - [[sources/TEO2610-misjon-i-kontekst-2011]] — LVF: frigjøringsteologiens innflytelse på misjonsforståelse

@@ -101,7 +101,7 @@ Begge ordenene viser at middelalderkirken ikke var intellektuelt stagnant — de
 
 - [[kirkehistorie/klosterlivet]] — det monastiske idealet som bakgrunn
 - [[kirkehistorie/middelalderteologi]] — skolastikken og teologiens utvikling
-- [[kirkehistorie/reformasjonen]] — Luther som augustinermunk; ordenenes arv
+- [[kirkehistorie/luther-og-reformasjonen]] — Luther som augustinermunk; ordenenes arv
 - [[teologi/gudsbevis]] — Aquinas' fem veier
 
 ---

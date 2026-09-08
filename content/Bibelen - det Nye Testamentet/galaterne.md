@@ -106,9 +106,27 @@ Det er ikke abstrakt teologi. Det er erfaringsteologi. Og det er grunnlaget for 
 
 ---
 
+## N.T. Wright og galaterbrevet
+
+Wright leser Galaterbrevet som et brev om *grensene for Guds folk* — ikke primært om individuell frelse. Det sentrale spørsmålet er: Hvem tilhører Abraham-familien? Og svaret Paulus gir, er radikalt: Alle som tror på Jesus Kristus — uavhengig av nasjonal tilhørighet, sosial status eller kjønn.
+
+**Gal 3:28 som sosial virkelighet.** Det berømte verset «Her er ikke jøde eller greker, ikke slave eller fri, ikke mann og kvinne» er for Wright ikke en abstrakt åndelig påstand om likeverd — det er en beskrivelse av en faktisk sosial virkelighet i de paulinske menighetene. Slave og slaveier delte bord. Jøde og greker tilhørte samme menighetsfamilie. Det var et alternativt samfunn som utfordret Romerrikets grunnleggende hierarkier.
+
+Dette er det Wright kaller Paulus' radikale sosiale program — og det er forankret teologisk: Den nye identiteten i Kristus overskrider alle kulturelt og sosialt betingede identitetsmarkorer.
+
+**Antiokia-konflikten (2:11-21) som praktisk test.** Når Paulus konfronterer Peter i Antiokia fordi Peter trakk seg tilbake fra bords-fellesskap med hedningkristne (av frykt for de omskårne), er det nettopp dette prinsippet som står på spill. Å spise ved samme bord var i antikken en dyp markering av fellesskap og likeverd. Peters tilbaketrekning var ikke bare et praktisk spørsmål om kosher-regler — det var et angrep på evangeliets logikk: at jøde og hedning er like i Kristus.
+
+**Gal 5 og dydsetikken.** Wrights lesning av Gal 5:22-23 — Åndens frukt — er et eksempel på paulinsk dydsetikk: Paulus formulerer ikke regler, men beskriver en *karakter* som Ånden former. Frihet fra loven er ikke frihet til å leve uten forpliktelse — det er frihet til å bli den slags menneske som spontant gjør det gode, fordi Ånden bor i en og former en innenfra.
+
+→ Se [[Bibelen - det Nye Testamentet/paulusteologi-wright]], [[tro-og-liv/dydsetikk-og-aandens-frukt]] og [[Bibelen - det Nye Testamentet/paulus-og-romerriket]] for utdypning.
+
+---
+
 ## Sammenheng med andre artikler
 
 - [[Bibelen - det Nye Testamentet/romerbrevet]] — parallelt brev; samme Abraham-argument, mer systematisk
+- [[Bibelen - det Nye Testamentet/paulusteologi-wright]] — Wrights lesning av Gal 3:28 og rettferdiggjørelse
+- [[tro-og-liv/dydsetikk-og-aandens-frukt]] — Åndens frukt i Gal 5 som dydsetikk
 - [[Bibelen - det Nye Testamentet/paulus-teologi]] — Paulus' teologi samlet
 - [[tro-og-liv/nåde]] — frihetens evangelium
 - [[tro-og-liv/disippelskap]] — «Kristus lever i meg» som disippelskapets grunnlag

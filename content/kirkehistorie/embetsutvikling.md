@@ -195,6 +195,9 @@ Gregorius den store bygget en bro: Han var munk som ble pave, og fremmet det mon
 
 ## Sammenheng med andre artikler
 
+- [[kirkehistorie/cyprian-av-karthago]] — Cyprian som episkopat-teolog; kirkens enhet og embetets teologi
+- [[kirkehistorie/tertullian]] — Tertullians bidrag til embetsforståelsen
+- [[kirkehistorie/oldkirkens-gudstjeneste-struktur-og-praksis]] — embetenes liturgiske roller
 - [[kirkehistorie/kristendommens-tilblivelse]] — urkirken og den apostolske tid
 - [[kirkehistorie/apostoliske-fedre]] — Ignatius, Klemens og Polykarp
 - [[kirkehistorie/gnostisisme]] — drivkraften bak monepiskopatet
@@ -204,7 +207,7 @@ Gregorius den store bygget en bro: Han var munk som ble pave, og fremmet det mon
 - [[kirkehistorie/statsreligion]] — Konstantin og kirkens nye stilling
 - [[kirkehistorie/klosterlivet]] — den monastiske parallellstrukturen
 - [[kirkehistorie/kirken-ost-og-vest]] — veien mot schismaet i 1054
-- [[personer/augustin]] — Augustins embetsteologi og *De civitate Dei*
+- [[personer/augustin]] — Augustins embetsteologi
 
 ---
 

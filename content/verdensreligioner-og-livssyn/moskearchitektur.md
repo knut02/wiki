@@ -98,7 +98,7 @@ Alle tre moskeene har separate bønnerom for kvinner, med egne innganger og vask
 
 - [[verdensreligioner-og-livssyn/islam]] — islamsk tro og praksis
 - [[verdensreligioner-og-livssyn/religion-i-praksis]] — religiøst mangfold og hellige rom
-- [[verdensreligioner-og-livssyn/sekularisering-i-norge]] — muslimer i norsk kontekst
+- [[verdensreligioner-og-livssyn/sekularisering]] — muslimer i norsk kontekst
 
 ---
 

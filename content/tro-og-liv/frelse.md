@@ -159,6 +159,7 @@ Frelse er den endelige oppfyllelsen av det Gud begynte i skapelsen. Se [[teologi
 
 - [[tro-og-liv/synden]] — det frelsen er svar på
 - [[tro-og-liv/nåde]] — nåden som frelsens grunnlag
+- [[teologi/forsoningslæren]] — modellene for hva som skjer i Jesu død
 - [[kristologi/jesus-sin-oppstandelse]] — oppstandelsen som frelsens sentrum
 - [[kristologi/inkarnasjon]] — inkarnasjonen som frelsesbetingelse
 - [[teologi/arvesynd]] — syndetilstanden frelsen helbreder

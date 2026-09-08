@@ -116,6 +116,7 @@ Varden er tydelig på to avgjørende punkter:
 ## Sammenheng med andre artikler
 
 - [[kirkehistorie/klosterlivet]] — klostervesenet som asketisk institusjon
+- [[kirkehistorie/kontemplativ-bonn-og-lectio-divina]] — Cassian, Benedikt og lectio divina
 - [[kirkehistorie/martyriet-og-helgenkult]] — martyriet som asketismens forløper og helgenkultens fremvekst
 - [[teologi/theosis]] — forvandlingens mål i østlig teologi
 - [[tro-og-liv/disippelskap]] — askese og kristen formasjon

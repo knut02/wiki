@@ -157,7 +157,7 @@ Det betyr at en profetbok som Jesaja kan inneholde materiale fra ulike perioder 
 - [[concepts/gt-profetene]] — alle skriftlige profeter etter periode
 - [[concepts/messias]] — messianske profetier i GT
 - [[concepts/nt-kanon]] — NT-kanonens bruk av GT-profetiene
-- [[concepts/sheol-og-oppstandelsen]] — apokalyptikkens eskatologi
+- [[teologi/sheol-og-hades]] — apokalyptikkens eskatologi
 - [[concepts/bibelens-tilblivelse]] — profetbøkenes redaksjonshistorie
 
 ---

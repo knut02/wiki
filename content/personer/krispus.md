@@ -30,7 +30,7 @@ På grunn av [[personer/paulus]] sin forkynnelse kom Krispus til tro og ble døp
 ## Sammenheng med andre artikler
 
 - [[personer/paulus]] — forkynte for ham og døpte ham
-- [[concepts/oldkirken]] — kontekst for menighetsbygging i Korint i det første århundre
+- [[kirkehistorie/kristendommens-tilblivelse]] — kontekst for menighetsbygging i Korint i det første århundre
 
 ---
 

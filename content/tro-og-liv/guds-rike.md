@@ -147,6 +147,10 @@ Kirken er ikke identisk med Guds rike. Kirken er det fellesskapet som lever inn 
 
 - [[tro-og-liv/disippelskap]] — å følge Jesus er å leve inn i riket
 - [[teologi/eskatologi]] — rikets fullendelse i den nye skapelsen
+- [[teologi/eskatologi-wright]] — Wright om ny skapelse og Guds rikes kosmiske dimensjon
+- [[teologi/eskatologi-og-etikk]] — nåtidig arbeid for riket og eskatologisk motivasjon
+- [[teologi/dommen-som-godt-nytt]] — dommen som del av rikets fullendelse
+- [[Bibelen - det Nye Testamentet/paulusteologi-wright]] — rettferdiggjørelse som grunnlag for et folk som forandrer verden
 - [[Bibelen - det Nye Testamentet/bergprekenen]] — Bergprekenen som rikets program
 - [[tro-og-liv/guds-kjærlighet]] — Guds karakter som rikets grunnlag
 - [[tro-og-liv/nåde]] — rikets logikk som nådens logikk

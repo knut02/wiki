@@ -83,7 +83,7 @@ I USA ble metodismen en kraft i «the Great Awakening» og i den sosiale reformb
 ## Sammenheng med andre artikler
 
 - [[kirkehistorie/pietismen]] — pietismen som Wesleys intellektuelle bakgrunn
-- [[kirkehistorie/reformasjonen]] — ortodoksien Wesley reagerte mot og videreførte
+- [[kirkehistorie/luther-og-reformasjonen]] — ortodoksien Wesley reagerte mot og videreførte
 - [[kirkehistorie/moderniteten-og-opplysningen]] — vekkelse som svar på opplysningstidens rasjonalisme
 - [[tro-og-liv/nåde]] — arminianismens nådelære
 - [[tro-og-liv/disippelskap]] — helliggjørelse og praktisk kristendom

@@ -72,6 +72,9 @@ Reformasjonen og opplysningen deler impulser: begge vektlegger individets tilgan
 
 ## Sammenheng med andre artikler
 
+- [[kirkehistorie/opplysningstiden-og-kristen-teologi]] — dybdeanalyse av de teologiske utfordringene: åpenbaring, Bibelen, historisk Jesus
+- [[kirkehistorie/schleiermacher-og-liberal-protestantisme]] — liberalteologiens svar utdypet
+- [[kirkehistorie/karl-barth-og-neo-ortodoksien]] — bruddet med liberalteologien
 - [[verdensreligioner-og-livssyn/sekularisering]] — opplysningens langsiktige konsekvenser
 - [[verdensreligioner-og-livssyn/livssyn]] — humanisme som opplysningstidens livssyn
 - [[teologi/gudsbevis]] — det apologetiske svaret på opplysningskritikken

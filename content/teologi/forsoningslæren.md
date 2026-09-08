@@ -97,6 +97,7 @@ Det som er felles for alle seriøse forsoningsteologier, er at korset *gjør noe
 
 ## Sammenheng med andre artikler
 
+- [[kristologi/kristologi-systematisk]] — hvem Kristus er som grunnlag for hva han gjør
 - [[tro-og-liv/hvem-døde-jesus-for]] — hvem forsoningen gjelder
 - [[tro-og-liv/frelse]] — frelsens mange dimensjoner
 - [[kirkehistorie/frelse-athanasius-augustin]] — patristisk frelseteologi

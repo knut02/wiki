@@ -48,12 +48,12 @@ Kommentarlitteratur kan vokse og nesten få kanonisk status — som muslimenes *
 
 ## Sammenheng med andre artikler
 
-- [[concepts/bibelen]] og [[concepts/bibelens-kanon]] — GT og NT-kanonens tilblivelse
-- [[concepts/gt-kanon-og-teksthistorie]] — TaNaK, Septuaginta, Dødehavsrullene
-- [[concepts/islam]] — Koranens åpenbaringslære
-- [[concepts/jodedommen]] — Toraen og den muntlige tradisjonen
-- [[concepts/hinduisme]] — Vedaen og Upanishadene
-- [[concepts/ritualer]] — kultisk bruk av skrifter som ritualsjanger
+- [[lese-og-forstå-bibelen/hva-er-bibelen]] og [[Bibelen - det Nye Testamentet/nt-kanon]] — GT og NT-kanonens tilblivelse
+- [[Bibelen - det Gamle Testamentet/gt-kanon-og-teksthistorie]] — TaNaK, Septuaginta, Dødehavsrullene
+- [[verdensreligioner-og-livssyn/islam]] — Koranens åpenbaringslære
+- [[verdensreligioner-og-livssyn/jodedommen]] — Toraen og den muntlige tradisjonen
+- [[verdensreligioner-og-livssyn/hinduisme]] — Vedaen og Upanishadene
+- [[verdensreligioner-og-livssyn/ritualer]] — kultisk bruk av skrifter som ritualsjanger
 
 ## Kilder
 

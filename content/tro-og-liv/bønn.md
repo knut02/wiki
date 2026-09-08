@@ -175,6 +175,8 @@ Sal 131:2 beskriver det med et enkelt bilde: «Jeg har stillnet og roet min sjel
 ## Sammenheng med andre artikler
 
 - [[tro-og-liv/fadervår]] — Fadervår som bønnens mønster
+- [[kirkehistorie/kontemplativ-bonn-og-lectio-divina]] — kontemplativ bønn, lectio divina, Cassian og Benedikt
+- [[tro-og-liv/faste]] — faste og bønn hører alltid sammen
 - [[Bibelen - det Nye Testamentet/lukasevangeliet]] — Luk 11 og bønnens evangelium
 - [[Bibelen - det Gamle Testamentet/klagesangene]] — klagen som bønnssjanger
 - [[Bibelen - det Gamle Testamentet/salme-22]] — klagepsalmen

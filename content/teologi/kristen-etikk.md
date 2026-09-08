@@ -217,6 +217,9 @@ Etikk er derfor uatskillelig fra spiritualitet i kristen tradisjon: Man kan ikke
 
 - [[Bibelen - det Gamle Testamentet/de-ti-bud]] — dekalogen som etisk grunntekst
 - [[Bibelen - det Nye Testamentet/bergprekenen]] — Jesu etiske undervisning
+- [[tro-og-liv/dydsetikk-og-aandens-frukt]] — Åndens frukt som dydsetikk; karakter og habituering
+- [[Bibelen - det Nye Testamentet/paulusteologi-wright]] — Paulus' etikk som karakterdannelse, ikke regelmoralisering
+- [[teologi/eskatologi-og-etikk]] — eskatologi som etisk motivasjon
 - [[tro-og-liv/nåde]] — nåden som etikkens motivasjon, ikke grunnlag
 - [[tro-og-liv/disippelskap]] — karakter og formasjon som etikkens fundament
 - [[tro-og-liv/guds-rike]] — rikets logikk som etisk orientering

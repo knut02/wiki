@@ -73,7 +73,7 @@ Kjernen er dette: De avdøde troende hviler i Guds hånd. Vi trenger ikke gjøre
 
 ## Sammenheng med andre artikler
 
-- [[concepts/sheol-og-oppstandelsen]] — hva Bibelen sier om de dødenes tilstand
+- [[teologi/sheol-og-hades]] — hva Bibelen sier om de dødenes tilstand
 - [[concepts/luthers-teologi]] — troen alene som frigjørende prinsipp
 - [[concepts/arvesynd]] — menneskets fall og Guds gjenopprettelse
 - [[concepts/dapen]] — barnedåpens teologi og reformasjonens posisjoner

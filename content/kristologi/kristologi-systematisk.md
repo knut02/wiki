@@ -104,9 +104,11 @@ Pannenbergs svar er klart: oppstandelsen, forstått apokalyptisk, krever en høy
 ## Sammenheng med andre artikler
 
 - [[kristologi/inkarnasjon]] — inkarnasjonens teologiske logikk
+- [[kirkehistorie/irenaeus-av-lyon]] — rekapitulasjonsteorien som kristologisk forankring
 - [[kirkehistorie/kalkedon-kristologi]] — den historiske vedtakelsen av Kalkedon
 - [[kristologi/jesus-sin-oppstandelse]] — oppstandelsen som kristologisk grunnlag
 - [[kristologi/oppstandelsesdebatten]] — den moderne metodologiske debatten
+- [[teologi/eskatologi-wright]] — oppstandelsens kosmiske betydning
 - [[teologi/forsoningslæren]] — forholdet mellom Kristi person og verk
 - [[kirkehistorie/kristologi-fra-nikea-til-kalkedon]] — den historiske debatten frem til 451
 

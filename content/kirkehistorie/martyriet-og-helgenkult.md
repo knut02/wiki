@@ -153,6 +153,9 @@ Fra 300-tallet vokste frem en ny helgenkategori: den asketiske helgenen — munk
 ## Sammenheng med andre artikler
 
 - [[personer/perpetua]] — den viktigste enkeltkilden
+- [[kirkehistorie/tertullian]] — *Apologeticum* og teologien om martyriets særlige kraft
+- [[kirkehistorie/cyprian-av-karthago]] — Cyprian som martyr og teolog for de frafalne
+- [[Bibelen - det Nye Testamentet/paulus-og-romerriket]] — politisk kontekst for martyriene
 - [[kirkehistorie/askese-i-oldkirken]] — askesen som martyriets etterfølger
 - [[kirkehistorie/klosterlivet]] — klostervesenet som institusjonalisert «hvitt martyrium»
 - [[kirkehistorie/kristendommens-tilblivelse]] — kirkens første århundrer

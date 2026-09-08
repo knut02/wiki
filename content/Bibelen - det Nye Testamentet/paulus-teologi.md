@@ -76,6 +76,7 @@ Det er ikke abstrakt teologi. Det er erfaring. Og det er nøkkelen til å forst�
 ## Sammenheng med andre artikler
 
 - [[tro-og-liv/nåde]] — nådens teologi i Romerbrevet
+- [[Bibelen - det Nye Testamentet/paulusteologi-wright]] — Wright om rettferdiggjørelse, fortelling og imperiet
 - [[teologi/arvesynd]] — Adam og synd (Rom 5)
 - [[Bibelen - det Nye Testamentet/romerne-8-28]] — Rom 8 utdypet
 - [[teologi/inaugurert-eskatologi-og-kjonn]] — Paulus om kjønn og eskatologi

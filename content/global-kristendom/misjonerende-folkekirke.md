@@ -78,7 +78,7 @@ Hegstad: Det er å håpe at norsk kirke kan gjøre tilsvarende erkjennelser *fø
 - [[concepts/kristendom-i-norge]] — norsk kristendom i dag
 - [[concepts/global-kristendom-oversikt]] — den globale konteksten
 - [[concepts/det-livssynsapne-samfunn]] — sekularisering og pluralisering som bakteppe
-- [[concepts/misjonsteologi]] → [[concepts/misjon-i-kontekst]] — teologisk grunnlag
+- [[global-kristendom/misjon-i-kontekst]] → [[concepts/misjon-i-kontekst]] — teologisk grunnlag
 
 ---
 

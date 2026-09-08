@@ -49,7 +49,7 @@ Denne tradisjonen går rett inn i Mester Eckhart og den tyske mystikken. Se [[co
 - [[personer/augustin]] — Augustins biografi og teologi
 - [[concepts/frelse-athanasius-augustin]] — Augustins frelseslære
 - [[concepts/monastisk-teologi]] — nyplatonismen lever videre i klosterteologien
-- [[concepts/skolastisk-teologi]] — skolastikken tok opp tråden fra Augustin og Dionysios
+- [[kirkehistorie/middelalderteologi]] — skolastikken tok opp tråden fra Augustin og Dionysios
 - [[concepts/mester-eckhart-mystikken]] — Dionysios Areopagiten som direkte inspirasjon
 
 ---

@@ -118,7 +118,7 @@ For den vanlige bibelleser er konklusjonen enkel: Det er verdifullt å lese i fl
 - [[lese-og-forstå-bibelen/bibelens-tilblivelse]] — tekstens vei fra originalspråk til norsk
 - [[kirkehistorie/kristologi-frem-til-nikea]] — kristologien Beckmann analyserer oversettelsene i lys av
 - [[kirkehistorie/arianismen]] — den arianistiske tolkningen av de omstridte tekstene
-- [[teologi/comma-johanneum]] — et klassisk eksempel på tekstkritikk i NT
+- [[Bibelen - det Nye Testamentet/comma-johanneum]] — et klassisk eksempel på tekstkritikk i NT
 
 ---
 

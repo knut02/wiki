@@ -61,6 +61,8 @@ Apollinaris av Laodicea (ca. 310–390), som hevdet at Kristi menneskelige ånd 
 
 ## Sammenheng med andre artikler
 
+- [[kristologi/oppstandelsesdebatten]] — den moderne debatten: Strauss, Bultmann, Barth, Pannenberg, Wright
+- [[teologi/eskatologi-wright]] — oppstandelsen som begynnelsen på ny skapelse
 - [[kristologi/jesus]] — Jesu liv som helhet
 - [[kirkehistorie/frelse-athanasius-augustin]] — oppstandelsens plass i frelseteologien
 - [[teologi/eskatologi]] — Kristi oppstandelse som mønster for den kommende

@@ -180,7 +180,10 @@ Innen midten av det 3. århundret ble onsdag koblet til Jesu forræderiet og fre
 - [[tro-og-liv/dapen]] — dåpens teologi og praksis
 - [[tro-og-liv/bønn]] — bønnelivet utdypet
 - [[tro-og-liv/fellesskap]] — *koinōnia* og det eukaristiske fellesskapet
-- [[tro-og-liv/fadervår]] — Fadervår som bønnens kjerne
+- [[kirkehistorie/oldkirkens-gudstjeneste-struktur-og-praksis]] — gudstjenestens videre utvikling fra det 3. århundret
+- [[kirkehistorie/nattverd-i-oldkirken]] — eukaristiens utvikling
+- [[kirkehistorie/tertullian]] — Tertullians beskrivelse av menighetens liv i *Apologeticum*
+- [[tro-og-liv/faderr]] — Faderr som bønnens kjerne
 - [[kirkehistorie/kristendommens-tilblivelse]] — den første menighetens kontekst
 - [[kirkehistorie/monastisk-teologi]] — tidebønnens utvikling i klostrene
 - [[kirkehistorie/apostoliske-fedre]] — Didake og Justin Martyrs vitnesbyrd

@@ -38,7 +38,7 @@ Det er riktig at jomfrufødsel bryter med det vi kjenner som biologiske lover. D
 
 Dette er kristendommens mest kritiske påstand — og den behandles som et historisk spørsmål, ikke bare et trosspørsmål. Fire fakta aksepteres av nesten alle historikere, troende som ikke-troende: Graven var tom. Disipler opplevde møter med den de trodde var den oppstandne. De var villige til å dø for denne overbevisningen. Paulus siterer en tidlig bekjennelsesformel fra ca. fem år etter korsfestelsen.
 
-Naturlige forklaringer møter alle alvorlige historiske problemer. Se [[concepts/jesu-oppstandelse]].
+Naturlige forklaringer møter alle alvorlige historiske problemer. Se [[kristologi/jesus-sin-oppstandelse]].
 
 ---
 

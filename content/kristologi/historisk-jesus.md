@@ -63,6 +63,8 @@ Hva som skjedde etter hans død — oppstandelsen — er et historisk-teologisk 
 ## Sammenheng med andre artikler
 
 - [[kristologi/jesus]] — hovedartikkelen om Jesus som person
+- [[kirkehistorie/opplysningstiden-og-kristen-teologi]] — Reimarus og questen etter den historiske Jesus
+- [[kristologi/oppstandelsesdebatten]] — den moderne debatten
 - [[Bibelen - det Nye Testamentet/evangeliene]] — primærkildene og deres begrensninger
 - [[personer/jakob-jesu-bror]] — Josefus' omtale regnes som et av de sterkeste eksterne bevisene
 

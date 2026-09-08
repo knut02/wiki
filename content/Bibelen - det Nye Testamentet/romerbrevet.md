@@ -124,9 +124,27 @@ N.T. Wright: «Paulus stiller ikke spørsmålet 'Hvordan kan jeg finne en nådig
 
 ---
 
+## N.T. Wright og romerbrevet
+
+Wright er den teologen som mest systematisk har lest Romerbrevet mot sin jødiske og politiske kontekst. Hans lesning har tre hoveddimensjoner:
+
+**Rettferdiggjørelse som folkelig begrep.** I tradisjonell luthersk lesning er rettferdiggjørelse svaret på det individuelle spørsmålet: «Hvordan kan *jeg* stå rettferdig for Gud?» Wright mener dette er en mislesning. I jødisk kontekst er *dikaiosyne* («rettferdighet») et pakts-begrep: det handler om hvem som tilhører Guds folk, hvem som er «innenfor pakten». Rettferdiggjørelse er erklæringen om at både jøder og hedninger tilhører Abraham-familien — på grunnlag av tro, ikke nasjonal identitet eller lovgjerninger.
+
+Formuleringen i Rom 3:22 er avgjørende: «Guds rettferdighet gjennom tro på Jesus Kristus for alle som tror — det er ingen forskjell.» «Ingen forskjell» er for Wright ikke primært en antropologisk påstand (alle har syndet), men en eklesiologisk påstand: jøde og greker er på lik linje i Abrahams familie.
+
+**Evangeliet som kongsmelding.** Rom 1:1–4 presenterer *euangelion* — «evangelium» — som en kongsmelding: David-etterkommeren Jesus er utpekt til Guds Sønn med makt ved oppstandelsen. I det romerske keiserdømmets vokabular er dette en direkte kontramelding til keiserens *euangelion*. «Jesus er Herre» er ikke bare et fromhetsutsagn — det er en politisk erklæring.
+
+**Rom 8 og ny skapelse.** Wrights lesning av kap. 8:18–25 er sentral for hans eskatologi: Det er ikke sjelen som skal reddes ut av materien, men skaperverket selv som skal frigjøres fra forgjengeligheten. Kristi oppstandelse er «førstegrøden» (1 Kor 15:20) — begynnelsen på en kosmisk fornyelse, ikke bare en individuell frelse. Dette knytter Romerbrevet direkte til Wrights eskatologi om ny skapelse.
+
+→ Se [[Bibelen - det Nye Testamentet/paulusteologi-wright]] og [[teologi/eskatologi-wright]] for utdypning.
+
+---
+
 ## Sammenheng med andre artikler
 
 - [[Bibelen - det Nye Testamentet/romerne-8-28]] — Rom 8:28 utdypet
+- [[Bibelen - det Nye Testamentet/paulusteologi-wright]] — Wright om rettferdiggjørelse som grunnlag for et folk
+- [[Bibelen - det Nye Testamentet/paulus-og-romerriket]] — evangelium som politisk proklamasjon mot keiserkulten
 - [[Bibelen - det Nye Testamentet/paulus-teologi]] — Paulus' teologi samlet
 - [[Bibelen - det Nye Testamentet/galaterne]] — parallell brevl; rettferdiggjørelse og loven
 - [[teologi/arvesynd]] — Adam-argumentet i Rom 5

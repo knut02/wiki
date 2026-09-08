@@ -113,7 +113,7 @@ For det store skismaets fulle behandling, se [[kirkehistorie/kirken-ost-og-vest]
 - [[kirkehistorie/middelalderteologi]] — teologisk kontekst
 - [[verdensreligioner-og-livssyn/kirken-og-islam]] — kirke-islam-relasjonen
 - [[kirkehistorie/fransiskansk-og-dominikansk-bevegelse]] — Frans' fredelige tilnærming til islam
-- [[kirkehistorie/reformasjonen]] — Luthers angrep på avlatsystemet
+- [[kirkehistorie/luther-og-reformasjonen]] — Luthers angrep på avlatsystemet
 
 ---
 

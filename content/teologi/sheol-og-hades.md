@@ -76,6 +76,8 @@ Det er viktig å skille Sheol/Hades fra *Geenna* — det NT bruker om den endeli
 ## Sammenheng med andre artikler
 
 - [[tro-og-liv/eskatologi]] — oppstandelsen og Guds fremtid
+- [[teologi/eskatologi-wright]] — Wright: mellomtilstand vs. oppstandelse som sluttmål
+- [[teologi/dommen-som-godt-nytt]] — dom og mellomtilstand
 - [[Bibelen - det Nye Testamentet/paulus-teologi]] — Paulus om de døde og oppstandelsen
 - [[teologi/theosis]] — frelse som deltakelse i Guds liv
 

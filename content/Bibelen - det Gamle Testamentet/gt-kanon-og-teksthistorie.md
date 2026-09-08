@@ -101,12 +101,12 @@ Se [[concepts/gt-profetene]] for en systematisk gjennomgang av alle de skriftlig
 
 ## Sammenheng med andre artikler
 
-- [[concepts/bibelen]] — Bibelen som helhet
-- [[concepts/bibelens-kanon]] — kanonprosessen
-- [[concepts/gt-profetene]] — oversikt over profetbøkene
-- [[concepts/bibeltolkning-innforing]] — de eksgetiske metodene
-- [[concepts/comma-johanneum]] — tekstkritikk: et NT-eksempel
-- [[concepts/bibelsk-hebraisk-innforing]] — det hebraiske originalspråket
+- [[lese-og-forstå-bibelen/hva-er-bibelen]] — Bibelen som helhet
+- [[Bibelen - det Nye Testamentet/nt-kanon]] — NT-kanonprosessen som parallell
+- [[Bibelen - det Gamle Testamentet/gt-profetene]] — oversikt over profetbøkene
+- [[lese-og-forstå-bibelen/bibeltolkning-innforing]] — de eksgetiske metodene
+- [[Bibelen - det Nye Testamentet/comma-johanneum]] — tekstkritikk: et NT-eksempel
+- [[lese-og-forstå-bibelen/bibelsk-hebraisk-innforing]] — det hebraiske originalspråket
 
 ---
 

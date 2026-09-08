@@ -85,7 +85,7 @@ For mange er dette et spørsmål som avgjør om de kan tro på Bibelen i det hel
 - [[concepts/exodus-historisitet]] — Meyers om GT-tekstenes sjanger
 - [[concepts/bibelens-tilblivelse]] — tekstenes redaksjonshistorie
 - [[concepts/tvil-og-tro]] — de ti vanskelige spørsmålene
-- [[concepts/historisk-relativisme-kristendom]] — Kaufman om historisk betingede formuleringer
+- [[teologi/historisk-relativisme-kristendom]] — Kaufman om historisk betingede formuleringer
 - [[concepts/guds-kjærlighet]] — NT-bildet av Gud som tolkningsnøkkel
 - [[concepts/bergprekenen]] — Jesu «men jeg sier dere»-refortolkning
 

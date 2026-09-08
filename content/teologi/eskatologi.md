@@ -130,6 +130,11 @@ Eskatologien er ikke en unnskyldning for passivitet («verden er uansett fortapt
 
 - [[kristologi/jesus-sin-oppstandelse]] — Jesu oppstandelse som grunnlag og mønster
 - [[tro-og-liv/guds-rike]] — riket som eskatologiens nåtidsramme
+- [[teologi/eskatologi-wright]] — Wrights perspektiv: ny skapelse, ikke flukt; dommen som godt nytt
+- [[teologi/eskatologi-og-etikk]] — hvorfor nåtidig arbeid teller
+- [[teologi/dommen-som-godt-nytt]] — dom som håp for offeret
+- [[kristologi/oppstandelsesdebatten]] — den moderne debatten om oppstandelsens historisitet
+- [[kirkehistorie/moltmann-og-pannenberg]] — Moltmanns håpsteologi og Pannenbergs historiske argument
 - [[Bibelen - det Nye Testamentet/tessalonikerne]] — parousia-motivet
 - [[Bibelen - det Nye Testamentet/aapenbaringen]] — Åpenbaringens eskatologiske visjon
 - [[Bibelen - det Gamle Testamentet/jesaja]] — ny skapelse fra Jes 65-66

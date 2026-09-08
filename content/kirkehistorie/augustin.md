@@ -102,7 +102,7 @@ Augustins innflytelse er nær universell i vestlig kristendom: Katolsk kirke, lu
 - [[kirkehistorie/frelse-athanasius-augustin]] — Augustins frelseteologi i sammenheng
 - [[teologi/arvesynd]] — arvesyndbegrepets teologihistorie
 - [[tro-og-liv/nåde]] — nådens teologi
-- [[kirkehistorie/reformasjonen]] — Luther og Kalvin viderefører Augustin
+- [[kirkehistorie/luther-og-reformasjonen]] — Luther og Kalvin viderefører Augustin
 
 ---
 

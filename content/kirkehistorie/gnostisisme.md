@@ -97,7 +97,23 @@ Hans strategi:
 3. **Skriftkanon** — fire evangelier (ikke flere, ikke færre) er normgivende
 4. **Skaperverkets godhet** — mot gnostisk dualisme: GT's Gud og NT's Gud er én og samme; kropp og materie er gode
 
-Ireneus' motangrep tvang den tidlige kirken til å klargjøre: Hva er kanon? Hvem er biskop? Hva er den apostoliske lære? I denne forstand bidro gnostisismen til å *forme* proto-ortodoks kristendom.
+**Hippolytus av Roma** (ca. 170–235) utdyper Ireneus' arbeid i *Gjendrivelse av alle kjetterier* — oldkirkens mest systematiske kjetterkatalog. Hippolytus' strategi er å vise at alle gnostiske systemer i grunnen er lånt fra gresk filosofi: Valentinus er Platon med kristent vokabular, Basilides er Pythagoras. Hans verk bevarer detaljerte beskrivelser av over tretti gnostiske sekter — og Nag Hammadi-funnene (1945) bekreftet at han gjengir dem korrekt.
+
+Ireneus' og Hippolytus' motangrep tvang den tidlige kirken til å klargjøre: Hva er kanon? Hvem er biskop? Hva er den apostoliske lære? I denne forstand bidro gnostisismen til å *forme* proto-ortodoks kristendom.
+
+---
+
+## Ortodoksi og gnostisisme — hva skilte dem?
+
+| Gnostisisme | Ortodoksi |
+|---|---|
+| Skaperguden er lavere eller ond | Skaperguden er Jesu Far — én og samme Gud |
+| Materie er fengsel for sjelen | Kroppen er god og skapt av Gud |
+| Frelse er flukt fra materien | Frelse er legemets gjenoppstandelse |
+| Kunnskap (*gnosis*) frelser | Tro og nåde frelser |
+| Mange guddommer i hierarki (*pleroma*) | Én Gud i tre personer |
+| Hemmelig tradisjon for de innvidde | Apostolisk offentlig tradisjon |
+| Kristus bare tilsynelatende menneskelig | Kristus fullt ut Gud og fullt ut menneske |
 
 ---
 
@@ -122,13 +138,15 @@ Gnostiske ideer har levd videre i:
 
 ## Sammenheng med andre artikler
 
+- [[kirkehistorie/irenaeus-av-lyon]] — Irenaeus' rekapitulasjonsteori som motpol til gnostisisme
+- [[kirkehistorie/hippolytus-og-gnostisismens-mangfold]] — detaljert katalog over de gnostiske sektene
 - [[kirkehistorie/apostoliske-fedre]] — Ignatius' tidlige anti-doketisme
+- [[kirkehistorie/tertullian]] — Tertullian om foreskrivning mot kjetterne
 - [[kirkehistorie/embetsutvikling]] — gnostisismen som katalysator for monepiskopatet
 - [[Bibelen - det Nye Testamentet/nt-kanon]] — Ireneus som kanonbygger
-- [[kirkehistorie/inkarnasjon]] — mot gnostisk doketisme
+- [[Bibelen - det Nye Testamentet/apokryfe-skrifter-og-nt-kanon]] — gnostiske tekster og kanongrenser
 - [[kirkehistorie/statsreligion]] — gnostisismen marginalisert etter Nikea
 - [[kirkehistorie/kristendommens-tilblivelse]] — tidlig kristent mangfold
-- [[personer/klemens-av-alexandria]] — Klemens som svar på gnostisismen
 
 ---
 

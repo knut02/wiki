@@ -96,6 +96,7 @@ Se [[kirkehistorie/statsreligion]] for konteksten rundt Konstantins omvendelse o
 ## Sammenheng med andre artikler
 
 - [[kirkehistorie/apostoliske-fedre]] — Ignatius og det tidligste syn på biskoper
+- [[kirkehistorie/cyprian-av-karthago]] — Cyprian som episkopat-teolog; kirkens enhet
 - [[kirkehistorie/didache]] — Didaches instrukser om valg av tilsynsmenn
 - [[kirkehistorie/statsreligion]] — kirkens institusjonalisering etter Konstantin
 - [[kirkehistorie/gnostisisme]] — eksklusjon av gnostikere som ledd i institusjonalisering

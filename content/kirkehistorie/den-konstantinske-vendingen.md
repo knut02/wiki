@@ -87,7 +87,8 @@ Vendingen skapte umiddelbart en ny krise: Donatister i Nord-Afrika nektet å ane
 
 ## Sammenheng med andre artikler
 
-- [[kirkehistorie/martyriet-og-helgenkult]] — forfolelsestidens arv
+- [[kirkehistorie/martyriet-og-helgenkult]] — forfølgelsestidens arv
+- [[Bibelen - det Nye Testamentet/paulus-og-romerriket]] — Paulus' kontraerklæring mot keiserkulten; politisk bakgrunn for martyriene
 - [[kirkehistorie/nikea-konsilet]] — den teologiske debatten Konstantin utloste
 - [[kirkehistorie/statsreligion]] — fra toleranse til statsreligion under Theodosius (380)
 - [[kirkehistorie/kirken-ost-og-vest]] — spenningene som begynner her

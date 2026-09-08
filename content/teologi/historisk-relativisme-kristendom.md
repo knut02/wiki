@@ -2,87 +2,67 @@
 title: "Historisk relativisme og kristendommens kjerne"
 description: "Alt i den kristne troen har blitt til i løpet av historien» — John Kaufman, Vårt Land 2019. Spørsmålet er hva dette betyr for om kristendommen har noen normativ kjerne"
 date: 2025-04-18
-updated: 2025-05-10
-kilder: 2
+updated: 2026-09-07
 kategori: Teologi
 sub-kategori: Antropologi og syndelære
 tags: [historisk relativisme, kristendom, Harnack, teologihistorie, tradisjon, dogmeutvikling]
+kilder: 2
 ---
 
-## Harnack og spørsmålet om essensen
+## Problemstillingen
 
-I år 1900 holdt **Adolf von Harnack** sine berømte forelesninger «Das Wesen des Christentums» — Kristendommens vesen. Bak tittelen ligger en forutsetning: at kristendommen *har* et vesen, en uforanderlig kjerne som kan avdekkes bak historiens mange lag.
+«Alt i den kristne troen har blitt til i løpet av historien.» Dette er historisk relativismens grunnpåstand. Kristendommens lære, struktur og praksis er menneskelige konstruksjoner formet av tid, kultur og makt. Ingen del av det er gitt direkte fra oven, ferdig pakket.
 
-Harnack var selv en av tidens fremste kirkehistorikere og visste godt at kristendommen hadde gjennomgått enorme forandringer. Men han mente likevel at man ved å skrelle av lag etter lag av seinere tradisjoner og korrupsjoner, kunne finne det opprinnelige, urene evangeliet.
-
-Hans diagnose: Det store fallet skjedde på 200-tallet, da kristen tro ble transformert fra en levende bevegelse til et kredosystem:
-> Troen ble til en bekjennelse, hengivenheten til Kristus ble til kristologi, det brennende håpet om riket ble til en lære om udødelighet, profetene ble til teknikere i eksegese, de åndelige tjenerne ble til klerus, brødrene ble til legmenn...
-
-For Harnack: Middelalderkirken er fallet. Det opprinnelige evangeliet er kjerne. Reformasjonen er gjenopprettelsen.
+Spørsmålet er: Betyr det at kristendommen mangler en normativ kjerne? Er alt like mye — eller like lite — sant?
 
 ---
 
-## Den protestantiske «fall og gjenopprettelse»-metaforen
+## Harnacks svar: kjernen er Jesu lære
 
-Harnacks posisjon er ikke unik — den er en variant av et gjennomgripende protestantisk mønster: **fall og gjenopprettelse**.
+Adolf von Harnack (1851–1930) er liberal teologis klassiske svar på spørsmålet. I *Das Wesen des Christentums* (1900) argumenterer han for at kristendommens historiske utvikling er lagvis: Under alle de dogmatiske og institusjonelle lagene finnes en kjerne — Jesu enkle lære om Guds Faderskap og menneskenes broderfølelse.
 
-Tradisjonen falt på ett eller annet punkt. Den normative kjernen eksisterte *før* fallet. Reformasjonen — eller NT-kirken, eller urkirken — gjenopprettet det opprinnelige.
-
-Ulike protestantiske tradisjoner plasserer fallet ulikt:
-
-- **Lutheranere/anglikanske**: Fallet kom etter de fire første konsil. Nikea-bekjennelsen er normativ.
-- **Anabaptister/pinsebevegelsen**: Fallet kom allerede i det 1. eller 2. århundre. Bare NT er normativt.
-
-Men alle deler samme logikk: Sannheten ligger i fortiden. Normen er det opprinnelige.
+Harnack ville skille mellom «evangeliet Jesu forkynte» og «evangeliet om Jesus» — det siste er kirkens tillegg, det første er originalen.
 
 ---
 
-## Kaufmans utfordring
+## Problemet med Harnacks løsning
 
-**John Kaufman** (Studia Theologica 2016) utfordrer denne logikken fra historikernes side.
+Kritikerne påpeker at Harnack gjør sin egen tids verdier til kriteriet for hva som er «opprinnelig». Hans «enkle Jesus» er mistenkelig likt et liberalt, borgerlig 1800-tallsmenneske.
 
-Historisk studium viser at kristendommen alltid har vært i endring: Dens representanter har riktignok insistert på uforanderlig kontinuitet — men de faktiske teologiene, praksisene og kirkestrukturene har forandret seg radikalt fra generasjon til generasjon. Det er ingen periode der kristendommen var «ferdig» og bare videreformidlet seg uendret.
-
-Konsekvensen: Det gir ikke historisk mening å peke på et bestemt punkt i fortiden og si «der er den normative kjernen». Enhver slik identifikasjon er allerede et teologisk valg, ikke en historisk observasjon.
-
-**Kaufmans konklusjon**: Han avviser ideen om at religioner har en uforanderlig normativ kjerne. Som enhver menneskelig institusjon har kristendommen kontinuerlig tilpasset seg nye kontekster — selv om dens representanter hevder uforanderlig kontinuitet.
+Alfred Loisy (1857–1940) svarte presist: «Jesus forkynte Guds rike, men det var kirken som kom.» Poenget er ikke ironisk — det er teologisk: Kirkens og dogmatikkens fremvekst er ikke nødvendigvis et forfall, men Jesu anliggendes historiske form.
 
 ---
 
-## En beskjeden teologi
+## Alternativet: tradisjon som levende organisme
 
-Kaufman avslutter med å skissere hva han kaller en «beskjeden teologi» (*modest theology*) informert av disse historistiske refleksjonene:
+Et annet svar er å akseptere den historiske karakteren fullt ut, men insistere på at tradisjon er en levende organisme, ikke bare en sum av menneskelige valg. Guds Ånd virker i og gjennom historien — ikke på tross av den.
 
-- Å vedkjenne at alle teologiske formuleringer er historisk betingede og kulturelt formet
-- Å oppgi kravet om en uforanderlig kjerne som norm for all kristendom
-- Å anerkjenne at kristendommen er et levende, foranderlig fenomen — ikke en essens som må bevares
-- Likevel: å beholde *noe* — ikke alle tolkninger er like gyldige, og Kaufman er ikke relativist
-
-Dette er ikke nihilisme. Det er ærlighet om kristendommens faktiske historiske natur.
+Chesterton: «Tradisjon er demokrati for de døde» — en måte å inkludere alle generasjonene i samtalen, ikke bare de nålevende.
 
 ---
 
-## Relevans
+## Hva som ikke kan relativeres
 
-For bibellesning: Å lese Bibelen «slik det alltid har vært forstått» er selv en historisk posisjon. De «opprinnelige» tolkningene vi henter frem, er allerede valgt og tolket.
+Selv innenfor historismens ramme er det mulig å identifisere et strukturelt minimum: Det som skiller kristendom fra alt annet er ikke en idé, men en person og en hendelse — Jesus av Nasaret, hans korsfestelse og oppstandelse. Ikke fordi dette er historisk relativt, men fordi oppstandelsen — dersom den skjedde — er en hendelse utenfor all historisk relativitet.
 
-For kirkepolitikk: Påstanden om at «slik har kirken alltid lært» er historisk nesten alltid feil i detaljer — og Kaufmans historistiske blikk hjelper oss å se dette.
-
-For dialog: Forskjeller mellom kristne tradisjoner er ikke avvik fra en original kjerne — de er alle historiske varianter.
+Pannenberg og Wright er enige: Oppstandelsen er ikke bare en fromhetspåstand. Den er en historisk påstand som enten er sann eller usann — og som ikke kan relativeres bort.
 
 ---
 
 ## Sammenheng med andre artikler
 
-- [[concepts/tidligkristent-mangfold]] — mangfoldet i tidligkristendommen
-- [[concepts/bibelens-tilblivelse]] — Bibelens tilblivelse som historisk prosess
-- [[concepts/nikea-konsilet]] — konsilet som kanoniserer en bestemt kristologi
-- [[concepts/bibeltolkning-innforing]] — hermeneutisk bevissthet om lesernes sted
-- [[concepts/reformasjonen-og-doden]] — reformasjonens «tilbake til kilden»-logikk
+- [[kirkehistorie/opplysningstiden-og-kristen-teologi]] — historisk-kritisk metode og dens konsekvenser
+- [[kirkehistorie/schleiermacher-og-liberal-protestantisme]] — liberalteologiens svar på historisk relativisme
+- [[kirkehistorie/karl-barth-og-neo-ortodoksien]] — neo-ortodoksiens svar på relativismens utfordring
+- [[kirkehistorie/moderniteten-og-opplysningen]] — den historiske konteksten
+- [[kirkehistorie/tidligkristent-mangfold]] — mangfoldet i tidligkristendommen
+- [[lese-og-forstå-bibelen/bibelens-tilblivelse]] — Bibelens tilblivelse som historisk prosess
+- [[kirkehistorie/nikea-konsilet]] — konsilet som kanoniserer en bestemt kristologi
+- [[lese-og-forstå-bibelen/bibeltolkning-innforing]] — hermeneutisk bevissthet om lesernes sted
 
 ---
 
 ## Kilder
 
-- [[sources/Kaufman-2016-historisk-relativisme]] — Kaufman, J. (2016): «Historical relativism and the essence of Christianity», *Studia Theologica*, DOI: 10.1080/0039338X.2016.1172108
-- [[sources/TEOL2310-teologihistorie-oldkirken]] — historisk kontekst
+- [[sources/Kaufman-2016-historisk-relativisme]] — Kaufman, J.: «Historisk relativisme», Vårt Land 2019
+- Harnack, A.v. (1900): *Das Wesen des Christentums*

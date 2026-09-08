@@ -116,12 +116,12 @@ Oversikten nedenfor er en navigasjonstabell — ikke en fullstendig fremstilling
 
 ## Sammenheng med andre artikler
 
-- [[concepts/kirkehistorie-0-100]] — det første århundret i detalj
-- [[concepts/nikea-konsilet]] — konsilet som satte premissene
-- [[concepts/fra-oldtid-til-middelalder]] — overgangen fra antikk til middelalder
-- [[concepts/luthers-teologi]] — reformasjonens kjerne
-- [[concepts/statsreligion]] — overgangen under Konstantin
-- [[timelines/kirkefedrene-tidslinje]] — de sentrale skikkelsene
+- [[kirkehistorie/kristendommens-tilblivelse]] — det første århundret i detalj
+- [[kirkehistorie/nikea-konsilet]] — konsilet som satte premissene
+- [[kirkehistorie/fra-oldtid-til-middelalder]] — overgangen fra antikk til middelalder
+- [[kirkehistorie/luthers-teologi]] — reformasjonens kjerne
+- [[kirkehistorie/statsreligion]] — overgangen under Konstantin
+- [[tidslinjer/kirkefedrene-tidslinje]] — de sentrale skikkelsene
 
 ---
 

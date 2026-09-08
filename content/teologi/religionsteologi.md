@@ -92,6 +92,7 @@ Bispemøtets vedtak om religionsdialog ved kirkelige handlinger og Kirkemøtets 
 ## Sammenheng med andre artikler
 
 - [[global-kristendom/misjon-i-kontekst]] — misjonsteologi i møte med andre religioner
+- [[kirkehistorie/schleiermacher-og-liberal-protestantisme]] — liberalteologiens åpning mot religionsdialog
 - [[global-kristendom/religionsdialog-kirkelige-handlinger]] — praktisk religionsdialog
 - [[global-kristendom/kirken-og-islam]] — Islam som den viktigste dialogpartneren i norsk kontekst
 - [[verdensreligioner-og-livssyn/jesus-i-koranen]] — Jesu plass i en annen religion

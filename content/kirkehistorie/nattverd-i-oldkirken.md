@@ -183,6 +183,7 @@ Oldkirkens nattverdsteologi er rikere og mer variert enn den ofte fremstilles:
 ## Sammenheng med andre artikler
 
 - [[tro-og-liv/dapen]] — dåp og nattverd som sammenhørende initiasjonsritualer
+- [[kirkehistorie/oldkirkens-gudstjeneste-struktur-og-praksis]] — nattverdens plass i gudstjenestens ordo
 - [[kirkehistorie/didache]] — Didaches samlede innhold
 - [[kirkehistorie/apostoliske-fedre]] — Ignatius' eukaristiteologi
 - [[kirkehistorie/embetsutvikling]] — biskopen som nødvendig for gyldig eukaristi

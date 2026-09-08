@@ -112,11 +112,11 @@ Asias utfordring: Kristendommen er det kontinentet der misjon har lykkes dårlig
 
 ## Sammenheng med andre artikler
 
-- [[concepts/misjonerende-folkekirke]] — norsk folkekirke i global kontekst
-- [[concepts/misjon-i-kontekst]] — LVFs misjonsforståelse
-- [[concepts/frigjøringsteologi]] — frigjøringsteologiens røtter og utbredelse
-- [[concepts/kirken-og-islam]] — kirken og islam i europeisk kontekst
-- [[concepts/religionsteologi]] — religionsteologi i møte med Asias religioner
+- [[global-kristendom/misjonerende-folkekirke]] — norsk folkekirke i global kontekst
+- [[global-kristendom/misjon-i-kontekst]] — LVFs misjonsforståelse
+- [[teologi/frigjøringsteologi]] — frigjøringsteologiens røtter og utbredelse
+- [[global-kristendom/kirken-og-islam]] — kirken og islam i europeisk kontekst
+- [[teologi/religionsteologi]] — religionsteologi i møte med Asias religioner
 - [[concepts/kristendom-i-norge]] — Norge som mottaker og sender av misjon
 
 ---

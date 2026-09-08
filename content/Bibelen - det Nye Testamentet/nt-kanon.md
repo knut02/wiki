@@ -67,6 +67,12 @@ Fragmentet lister opp: fire evangelier (begynner med Lukas som nr. 3 — de før
 
 Ehrman påpeker noe paradoksalt: De samme tekstene som var de mest autoritative, hadde den *mest ustabile teksten* i det 2. og 3. århundre — langt mer tekstlig variasjon enn seinere. Kaufman forklarer: Det er nettopp fordi *kanon* som eksklusiv avgrenset liste ikke eksisterte. Man kopierte og brukte tekstene, men uten det tekstkritiske behovet for «den korrekte versjonen».
 
+To eksempler på kanonprosessens kompleksitet:
+
+**Hermas' Hyrde** ble sitert som Skrift av Klemens av Alexandria og Origen. Den ble lest bredt i tre hundre år — og endte likevel ikke i NT. Muratori-fragmentet (ca. 170–400) nevner den men advarer: den er for ny til å leses som profetisk skrift i kirken. Hermas illustrerer at kanon ikke ble fastsatt av én myndighet på én gang — det var en lang prosess der praksis gradvis krystalliserte seg.
+
+**Tatians Diatessaron** (ca. 170 e.Kr.) — en harmonisering av nettop de fire kanoniske evangeliene til én sammenhengende tekst — ble den dominerende evangelieteksten i den syriske kirken i over to hundre år. At Tatian valgte *disse fire* å harmonisere, bekrefter at de var anerkjent tidlig. Men at han harmoniserte dem viser at formen «fire separate tekster» ikke var selvinnlysende. Først på 400-tallet erstattet biskop Theodoret Diatessaron med de fire separate evangeliene i Syria.
+
 ---
 
 ## Athanasius' påskebrev 367
@@ -113,9 +119,11 @@ Men det betyr *også* at det ikke er noe «naturlig» og «selvinnlysende» ved 
 
 ## Sammenheng med andre artikler
 
-- [[lese-og-forstå-bibelen/bibelens-tilblivelse]] — den bredere prosessen fra muntlig tradisjon til kanon og oversettelse
-- [[Bibelen - det Gamle Testamentet/gt-kanon-og-teksthistorie]] — GT-kanons tilblivelse; TaNaK; tekstkritikk; MT og LXX
-- [[lese-og-forstå-bibelen/bibeloversettelse]] — fra grunntekst til norsk
+- [[Bibelen - det Nye Testamentet/apokryfe-skrifter-og-nt-kanon]] — Peters evangelium, Diatessaron og andre tekster utenfor kanon
+- [[kirkehistorie/irenaeus-av-lyon]] — Irenaeus og de fire evangeliene
+- [[kirkehistorie/hippolytus-og-gnostisismens-mangfold]] — Hippolytus og kjettersynspunktet på kanonsprsmålet
+- [[lese-og-forstå-bibelen/bibelens-tilblivelse]] — den bredere prosessen fra muntlig tradisjon til kanon
+- [[Bibelen - det Gamle Testamentet/gt-kanon-og-teksthistorie]] — GT-kanons tilblivelse
 - [[kirkehistorie/gnostisisme]] — gnostikernes egne skrifter og kirkens respons
 - [[kirkehistorie/tidligkristent-mangfold]] — mangfoldet som drev frem kanondebatten
 - [[personer/athanasius]] — påskebrevet 367 og kanonens formelle avslutning

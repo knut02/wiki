@@ -156,7 +156,7 @@ En god rekkefølge gjennom en fortellende tekst:
 - [[concepts/lignelsene]] — lignelsene som særegen narrativ undersjanger
 - [[concepts/gt-guds-brutalitet]] — voldstekster som narrativ tolkningsutfordring
 - [[concepts/exodus]] — et eksempel på stor narrativ fortelling
-- [[concepts/hvordan-lese-salmer]] — poetisk litteratur som kontrast ⚪
+- [[lese-og-forstå-bibelen/salmene-sjanger]] — poetisk litteratur som kontrast ⚪
 - [[concepts/bibelsk-hebraisk-innforing]] — originalspråket i GT-fortellingene
 
 ---

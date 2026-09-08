@@ -81,7 +81,7 @@ Og via Athanasius' biografi: et ideal for helgenliv og helgenbiografi som formet
 
 ## Sammenheng med andre artikler
 
-- [[concepts/martyriet]] — martyriets logikk som bakgrunn for eremittlivet
+- [[kirkehistorie/martyriet-og-helgenkult]] — martyriets logikk som bakgrunn for eremittlivet
 - [[concepts/monastisk-teologi]] — den asketiske tradisjonen Antonius grunnlegger
 - [[concepts/tidligkristen-bønnepraksis]] — ørkenfadrenes bønneliv
 - [[people/athanasius]] — forfatteren av *Vita Antonii*

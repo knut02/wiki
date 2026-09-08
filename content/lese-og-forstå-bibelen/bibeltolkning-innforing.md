@@ -83,7 +83,7 @@ Moderne bibelvitenskap har utviklet en rekke metodiske verktøy for å lese bibe
 
 Ingen originalmanuskript er bevart. De tidligste fragmentene av GT på hebraisk er fra 200-tallet f.Kr.; det eldste NT-fragmentet er et Johannesevangeliets-fragment fra tidlig 200-tall e.Kr. Det finnes tusenvis av kopier, og ingen to er identiske.
 
-Tekstkritikk analyserer disse variantene for å rekonstruere den mest opprinnelige versjonen. Se [[lese-og-forstå-bibelen/bibelens-tilblivelse]] og [[teologi/comma-johanneum]] for konkrete eksempler.
+Tekstkritikk analyserer disse variantene for å rekonstruere den mest opprinnelige versjonen. Se [[lese-og-forstå-bibelen/bibelens-tilblivelse]] og [[Bibelen - det Nye Testamentet/comma-johanneum]] for konkrete eksempler.
 
 ### Historisk kritikk — teksten i sin tid og sitt sted
 
@@ -189,6 +189,7 @@ I praksis er skillet ikke alltid enkelt å holde klart — forforståelsen er al
 ## Sammenheng med andre artikler
 
 - [[lese-og-forstå-bibelen/bibelen]] — Bibelen som helhet
+- [[kirkehistorie/klemens-av-alexandria-og-origen]] — den allegoriske tolkningstradisjonen
 - [[lese-og-forstå-bibelen/bibeloversettelse]] — oversettelse som tolkning
 - [[lese-og-forstå-bibelen/bibelens-tilblivelse]] — tekstkritikk og kanonhistorie
 - [[lese-og-forstå-bibelen/bibelsk-hebraisk-innforing]] — originalspråket i GT

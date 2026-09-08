@@ -84,7 +84,7 @@ Pietismens arv er vidtrekkende:
 
 ## Sammenheng med andre artikler
 
-- [[kirkehistorie/reformasjonen]] — ortodoksien pietismen reagerte mot
+- [[kirkehistorie/luther-og-reformasjonen]] — ortodoksien pietismen reagerte mot
 - [[kirkehistorie/john-wesley-og-metodismen]] — pietismens engelske gren
 - [[kirkehistorie/moderniteten-og-opplysningen]] — pietisme som motpol til rasjonalismen
 - [[tro-og-liv/disippelskap]] — praktisk kristendom som pietistisk arv

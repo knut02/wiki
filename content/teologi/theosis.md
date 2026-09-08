@@ -103,6 +103,8 @@ Dette er ikke Luthers hovedanliggende — rettferdiggjørelsen ved tro alene er 
 ## Sammenheng med andre artikler
 
 - [[kristologi/inkarnasjon]] — inkarnasjonen som forutsetning for theosis
+- [[kirkehistorie/irenaeus-av-lyon]] — rekapitulasjon og guddommeliggjørelse
+- [[kirkehistorie/klemens-av-alexandria-og-origen]] — den alexandrinske teorien om theosis
 - [[tro-og-liv/frelse]] — frelsens bredere dimensjoner
 - [[teologi/gudskunnskap-og-danning]] — Klemens og Gregor av Nyssa
 - [[teologi/treenigheten]] — theosis som deltakelse i det trinitariske liv

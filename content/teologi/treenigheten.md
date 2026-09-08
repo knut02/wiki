@@ -155,6 +155,8 @@ Treenighetslæren er ikke primært akademisk. Den har dype implikasjoner for bø
 ## Sammenheng med andre artikler
 
 - [[teologi/hellige-ånd]] — Åndens rolle og treenige funksjon
+- [[kirkehistorie/tertullian]] — *trinitas*, *persona*, *substantia* — Tertullians grunnleggelse av trinitarisk terminologi
+- [[kirkehistorie/karl-barth-og-neo-ortodoksien]] — Barths trinitariske renessanse i det 20. århundret
 - [[kirkehistorie/arianismen]] — Arius og Nikea-konsilets svar
 - [[kirkehistorie/kristologi-frem-til-nikea]] — veien frem mot Nikea 325
 - [[kirkehistorie/kristologi-fra-nikea-til-kalkedon]] — fra Nikea til Kalkedon 451

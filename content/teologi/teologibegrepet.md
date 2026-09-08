@@ -47,7 +47,7 @@ Til tross for ulikheter deler alle forfatterne én ting: teologi er en form for 
 ## Sammenheng med andre artikler
 
 - [[concepts/historisk-relativisme-kristendom]] — Kaufmans refleksjon over teologiens historiske betingethet
-- [[concepts/skolastisk-teologi]] — Aquinas som teologisk systematiker
+- [[kirkehistorie/middelalderteologi]] — Aquinas som teologisk systematiker
 - [[concepts/monastisk-teologi]] — klosterteologien som alternativ til akademisk teologi
 - [[concepts/misjon-i-kontekst]] — Gutierrez' frigjøringsteologi i praksis
 

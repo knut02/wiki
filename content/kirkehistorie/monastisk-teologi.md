@@ -102,6 +102,7 @@ Bernards innflytelse strekker seg langt utover middelalderen:
 
 - [[kirkehistorie/klosterlivet]] — klostervesenets historiske utvikling
 - [[kirkehistorie/askese-i-oldkirken]] — askesens røtter som monastisk teologis bakgrunn
+- [[kirkehistorie/kontemplativ-bonn-og-lectio-divina]] — Cassian, Benedikt og lectio divina utdypet
 - [[teologi/theosis]] — guddommeliggjørelse som felles motiv
 - [[teologi/apofatisk-teologi]] — apofatikk og kontemplasjon
 - [[tro-og-liv/bønn]] — *lectio divina* og kontemplativ bønn

@@ -66,7 +66,7 @@ Arianismen tvang kirken til å presisere hva den mente med Kristi guddommelige n
 - [[kirkehistorie/nikea-konsilet]] — der arianismen ble fordømt
 - [[personer/augustin]] — virket etter den arianske krisens løsning
 - [[teologi/arvesynd]] — Augustin kom fra et miljø påvirket av manike isme, en annen "alternativ" teologi
-- [[kirkehistorie/kirke-100-200]] — bakgrunnen for teologisk mangfold
+- [[kirkehistorie/kirkehistorie-100-200]] — bakgrunnen for teologisk mangfold
 
 ---
 
