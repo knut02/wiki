@@ -122,6 +122,29 @@ Keener (IVP, 1:10 og 3:10): «Ny skapning» er bildet fra 1 Mos 1:26-27 — menn
 
 ---
 
+## Husholdningskodene (3:18–4:1)
+
+En av brevets mest diskuterte seksjoner er den såkalte *hustavlen*: instruksjoner til ektefeller, barn og foreldre, slaver og slaveiere.
+
+**Strukturen er gjensidig.** I motsetning til antikkens husholdetikk, som normalt bare henvendte seg til den overordnede, adresserer Paulus begge parter i hvert par. Konen *og* mannen, barnet *og* forelderen, slaven *og* slaveieren.
+
+**Slaverispørsmålet** er det vanskeligste: Paulus oppfordrer slaver til lydighet (3:22) uten å avvise slaveinstitusjonen direkte. Men han sier at slaveieren skal behandle slaven «rettferdig og riktig» og minne om at «dere selv har en herre i himmelen» (4:1). Evangeliets logikk undergraver over tid institusjonen det operer innenfor.
+
+**Tolkningstradisjonene** skiller seg:
+- *Konservativ*: Husholdningskodene er tidløse normative mønstre
+- *Progressiv*: Kontekstuell tilpasning til antikkens sosiale orden; evangeliets retning peker mot Gal 3:28
+- *Redemptive-movement*: Skriften beveger seg i en retning — kodene er et skritt mot full frihet, ikke det siste steget
+
+---
+
+## Spørsmålet om forfatterskap
+
+Kolosserbrevet er ett av de såkalte *deuteropaulinske* brevene. Mange forskere mener det er skrevet av en Paulus-disippel etter hans død — basert på mer avansert vokabular, høyere kristologi og stilvariasjon fra de udiskutert ækte brevene. Konservative forskere (inkl. Keener) holder fast på paulinsk ækthet og peker på sekretærtradisjonen (*amanuensis*) som forklaring på stilvariasjon.
+
+Uansett posisjon: Brevet ble tidlig lest som autoritativt og inneholder teologi av høyeste rang.
+
+---
+
 ## Sammenheng med andre artikler
 
 - [[Bibelen - det Nye Testamentet/efeserbrevet]] — parallelt fengselsbrev; kirken og åndsmaktene
