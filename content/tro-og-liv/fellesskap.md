@@ -67,7 +67,7 @@ Tre ting er verdt å merke seg:
 
 ## Hvilke gaver bygger fellesskapet?
 
-Ef 4:11 nevner apostler, profeter, evangelister, hyrder og lærere. Men Gal 5:22–23 peker på noe annet — Åndens frukter: kjærlighet, glede, fred, tålmodighet, mildhet, godhet, trofasthet, ydmykhet, selvbeherskelse.
+Ef 4:11 nevner apostler, profeter, evangelister, hyrder og lærere. Men Gal 5:22–23 peker på noe annet — Åndens frukt: kjærlighet, glede, fred, tålmodighet, mildhet, godhet, trofasthet, ydmykhet, selvbeherskelse.
 
 Disse er ikke embeter. De er egenskaper som vokser frem i alle troende som lever med Ånden — og det er disse som holder et fellesskap sammen over tid.
 
