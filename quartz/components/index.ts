@@ -27,6 +27,7 @@ import DirectoryList from "./DirectoryList"
 import DirectoryNavigation from "./DirectoryNavigation"
 import Description from "./Description"
 import AllTags from "./AllTags"
+import CategoryLinks from "./CategoryLinks"
 
 export {
   ArticleTitle,
@@ -58,4 +59,5 @@ export {
   DirectoryNavigation,
   Description,
   AllTags,
+  CategoryLinks,
 }

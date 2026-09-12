@@ -111,6 +111,8 @@ Kirken eksisterer ikke for seg selv. Den har et oppdrag rettet utover:
 
 **Misjon:** «Gå derfor og gjør alle folkeslag til disipler» (Matt 28:19). Kirken er sendt inn i verden med evangeliet.
 
+**Personlig vitnesbyrd:** Misjonsoppdraget er ikke bare institusjonelt — det er personlig. «Dere skal være mine vitner» (Apg 1:8). Vitnesbyrd er ikke primært en teknikk, men å fortelle sin egen erfaring av Kristus — slik den blindfødte i Joh 9:25: «Étt vet jeg: Jeg var blind, men nå ser jeg.» Det kjennetegner ikke retorikk, men ærlighet om hva Gud har gjørt.
+
 **Tjeneste og rettferdighet:** Profettradisjonen og Jesu lære gjør det umulig å skille evangeliet fra sosial omsorg. «Jeg var sulten, og dere ga meg mat» (Matt 25:35).
 
 **Tilbedelse:** Kirken samles for å tilbe Gud — som er dens første og dypeste kall, og kilden til all annen tjeneste. Se [[kirkehistorie/gudstjenesten]].

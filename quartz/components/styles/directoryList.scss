@@ -40,8 +40,24 @@
 
 .directory-description {
   margin: 0;
-  color: var(--darkgray);
+  color: var(--secondary);
+  font-size: 1rem;
   line-height: 1.6;
+}
+
+.directory-subcategories {
+  display: grid;
+  gap: 0.4rem;
+  margin-top: 1rem;
+  padding-left: 1rem;
+  border-left: 2px solid var(--tertiary);
+}
+
+.directory-subcategory h3 {
+  margin: 0;
+  color: var(--dark);
+  font-size: 1rem;
+  font-weight: 600;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -51,6 +67,6 @@
 
   .directory-count-summary,
   .directory-description {
-    color: var(--lightgray);
+    color: var(--darkgray);
   }
 }

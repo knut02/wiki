@@ -1,14 +1,25 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { FullSlug, resolveRelative } from "../util/path"
 import style from "./styles/directoryList.scss"
+import { QuartzPluginData } from "../plugins/vfile"
 
 interface DirectoryInfo {
   name: string
   slug: FullSlug
 }
 
-export default (() => {
-  const DirectoryList: QuartzComponent = ({ fileData, allFiles }: QuartzComponentProps) => {
+interface DirectoryListOptions {
+  showSubcategories: boolean
+}
+
+const defaultOptions: DirectoryListOptions = {
+  showSubcategories: false,
+}
+
+export default ((userOptions?: Partial<DirectoryListOptions>) => {
+  const options = { ...defaultOptions, ...userOptions }
+  const DirectoryList: QuartzComponent = (props: QuartzComponentProps) => {
+    const { fileData, allFiles } = props
     const directories = new Map<string, DirectoryInfo>()
 
     allFiles.forEach((file) => {
@@ -52,6 +63,9 @@ export default (() => {
                 </a>
               </h2>
               {description ? <p class="directory-description">{String(description).replace(/\n+/g, " ").trim()}</p> : null}
+              {options.showSubcategories && (
+                <DirectorySubcategories files={allFiles} category={headingText} />
+              )}
             </section>
           )
         })}
@@ -63,3 +77,36 @@ export default (() => {
 
   return DirectoryList
 }) satisfies QuartzComponentConstructor
+
+function DirectorySubcategories({
+  files,
+  category,
+}: {
+  files: QuartzPluginData[]
+  category: string
+}) {
+  const categoryKey = category.trim().toLocaleLowerCase()
+  const groups = new Map<string, QuartzPluginData[]>()
+
+  for (const file of files) {
+    const fileCategory = String(file.frontmatter?.kategori ?? "").trim().toLocaleLowerCase()
+    if (fileCategory !== categoryKey || file.slug?.endsWith("/index")) continue
+
+    const subcategory = String(file.frontmatter?.["sub-kategori"] ?? "Uten underkategori")
+    const group = groups.get(subcategory) ?? []
+    group.push(file)
+    groups.set(subcategory, group)
+  }
+
+  if (groups.size === 0) return null
+
+  return (
+    <div class="directory-subcategories">
+      {[...groups.keys()].map((subcategory) => (
+        <div class="directory-subcategory" key={subcategory}>
+          <h3>{subcategory}</h3>
+        </div>
+      ))}
+    </div>
+  )
+}
