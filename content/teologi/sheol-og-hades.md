@@ -1,12 +1,12 @@
 ---
 title: "Sheol og Hades — dødsriket i Bibelen"
-description: "Det hebraiske Sheol og det greske Hades — hva Bibelen sier om tilstanden etter døden før oppstandelsen."
+description: "Det hebraiske Sheol og det greske Hades — hva Bibelen sier om tilstanden etter døden før oppstandelsen, og de tre posisjonene om mellomtilstanden."
 date: 2025-05-26
-updated: 2025-05-26
-sources: 2
+updated: 2026-09-08
+sources: 3
 kategori: Teologi
 sub-kategori: Eskatologi
-tags: [Sheol, Hades, dødsriket, mellomtilstanden, GT, NT, oppstandelse]
+tags: [Sheol, Hades, dødsriket, mellomtilstanden, skjærsilden, sjøvnlæren, GT, NT, oppstandelse, Wright]
 ---
 
 ---
@@ -57,7 +57,17 @@ Bibelens håp er ikke sjelen som forlater kroppen og reiser til himmelen — det
 
 Paulus beskriver de dødes situasjon som å «sove i Kristus» (1 Tess 4:13–14) — ikke som bevisstløs ikke-eksistens, men som hvile i Guds varetekt.
 
-N.T. Wright understreker at det bibelske håpet er «liv etter livet etter døden» — oppstandelse til den nye skapelse, ikke flukt fra den materielle verden.
+### Tre posisjoner om mellomtilstanden
+
+**Bevisst mellomtilstand** — den vanligste posisjonen i vestlig kristendom: Sjelen er bevisst og i Guds nærvær mellom død og oppstandelse. Luk 23:43 («i dag skal du være med meg i paradis») og Fil 1:23 («å bryte opp og være med Kristus, det er langt det beste») støtter dette. Den er en tilstand av hvile og glede, men ikke ennå den fulle frelsens realitet.
+
+**Sjøvnlæren (*soul sleep*)** — en minoritetsposisjon med røtter i Luther og i anabaptistisk tradisjon, i dag særlig holdt av adventister: Sjelen «sover» bevisstløst mellom død og oppstandelse. Bibelen bruker konsekvent «søvn» som metafor for de døde (1 Tess 4:13; 1 Kor 15:51). Mot: Luk 23:43 og Fil 1:23 synes å forutsette en umiddelbar bevisst tilstand.
+
+**Skjærsilden (*purgatorium*)** — katolsk og ortodoks posisjon: De fleste kristne er ikke fullt helliggjorte ved døden og gjennomgår en renselsesprosess før de kan se Gud fullt ut. 2 Mak 12:44–45 (deuterokanonisk) nevner bønn for de døde. 1 Kor 3:15 («han selv skal bli frelst, men som gjennom ild») er et klassisk tekstgrunnlag. Reformasjonen avviste skjærsilden som menneskelig tillegg uten tilstrekkelig bibelsk grunnlag.
+
+### Wrights posisjon
+
+Wright (*Surprised by Hope*, 2008) avviser populære forestillinger om himmelen som evig skyopphold for sjeler. Hans posisjon: De døde er «i Kristus» i en bevisst mellomtilstand, men den fulle frelsens mål er *legemlig oppstandelse* til den nye skapelse. Det er ikke sjelen som fortsetter — det er hele mennesket som reises opp til et fornyet liv på en fornyet jord.
 
 ---
 
@@ -75,7 +85,7 @@ Det er viktig å skille Sheol/Hades fra *Geenna* — det NT bruker om den endeli
 
 ## Sammenheng med andre artikler
 
-- [[tro-og-liv/eskatologi]] — oppstandelsen og Guds fremtid
+- [[teologi/eskatologi]] — oppstandelsen og Guds fremtid
 - [[teologi/eskatologi-wright]] — Wright: mellomtilstand vs. oppstandelse som sluttmål
 - [[teologi/dommen-som-godt-nytt]] — dom og mellomtilstand
 - [[Bibelen - det Nye Testamentet/paulus-teologi]] — Paulus om de døde og oppstandelsen
@@ -85,5 +95,5 @@ Det er viktig å skille Sheol/Hades fra *Geenna* — det NT bruker om den endeli
 
 ## Kilder
 
-- [[sources/studier-personlige]] — egne studier og notater
-- [[sources/Wright-2008-surprised-by-hope]] — Wright, N.T. (2008): *Surprised by Hope*, kap. 6–7
+- [`sources/studier-personlige`]
+- Wright, N.T. (2008): *Surprised by Hope*, kap. 6–7 [`sources/Wright-2008-surprised-by-hope`]

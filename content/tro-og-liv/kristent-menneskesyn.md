@@ -2,10 +2,10 @@
 title: "Kristent menneskesyn"
 description: "Hva er et menneske? Det bibelske svaret handler ikke primært om natur eller funksjon, men om relasjon — skapt i Guds bilde, kalt til fellesskap med sin skaper."
 date: 2025-05-06
+updated: 2026-09-08
 kategori: Tro og liv
 sub-kategori: Menneskesyn og identitet
-tags: [menneskesyn, imago Dei, relasjon, skapelse, kropp og sjel, verdighet]
-updated: 2026-07-10
+tags: [menneskesyn, imago Dei, relasjon, skapelse, kropp og sjel, dikotomi, trikotomi, verdighet, antropologi]
 kilder: 2
 ---
 
@@ -47,9 +47,9 @@ Motivasjonsspørsmålet er avgjørende: Er livet drevet av Guds kommandoer, elle
 
 ## Det falne mennesket — og løftet om gjenopprettelse
 
-Kristendommen tar syndefallet på alvor. Mennesket er ikke bare «svakt og trenger veiledning» (slik islamsk teologi formulerer det) — det er falt, fremmedgjort fra Gud og fra seg selv. Synden er ikke primært regelbrudd, men brutt relasjon.
+Kristendommen tar syndefallet på alvor. Mennesket er ikke bare «svakt og trenger veiledning» — det er falt, fremmedgjort fra Gud og fra seg selv. Synden er ikke primært regelbrudd, men brutt relasjon.
 
-Men dette er ikke siste ord. Det kristne menneskesynet har et løfte som islam ikke har på samme måte: bruddet kan leges. Fordi Kristus tok på seg menneskenaturen og sonte synden, er veien tilbake til Gud åpen. Frelse er ikke bare tilgivelse — det er *gjenopprettelse av relasjonen*.
+Men dette er ikke siste ord. Det kristne menneskesynet har et løfte: Bruddet kan leges. Fordi Kristus tok på seg menneskenaturen og sonte synden, er veien tilbake til Gud åpen. Frelse er ikke bare tilgivelse — det er *gjenopprettelse av relasjonen*.
 
 Augustin formulerte det: «Du har skapt oss til deg, og vårt hjerte er urolig inntil det finner hvile i deg.»
 
@@ -59,7 +59,21 @@ Augustin formulerte det: «Du har skapt oss til deg, og vårt hjerte er urolig i
 
 En praktisk konsekvens av *imago Dei*-læren er menneskeverd. Hvert menneske har verdi — ikke fordi det presterer, er nyttig eller har riktige holdninger, men fordi det er skapt i Guds bilde. Dette gjelder uavhengig av evne, alder, etnisitet, kjønn eller trosstatus.
 
-Dette er ikke en selvfølge historisk sett — og det er heller ikke selvfølgelig i dag. Men det er kristendommens prinsipp, og det har hatt dype konsekvenser for vestlig rettighetstenkning.
+---
+
+## Kropp og sjel — dikotomi og trikotomi
+
+Et klassisk spørsmål i kristen antropologi er hvordan mennesket er sammensatt. To posisjoner dominerer:
+
+**Dikotomi** — mennesket består av to deler: kropp og sjel/ånd. Den vanligste posisjonen i vestlig kristendom. Augustin og Aquinas holder begge en form for dette, om enn med ulik vektlegging.
+
+**Trikotomi** — mennesket består av tre deler: kropp, sjel (*psyche*) og ånd (*pneuma*). Noen leser 1 Tess 5:23 («hele deres ånd, sjel og kropp») og Heb 4:12 («mellom sjel og ånd») som støtte. Populær i pietistisk og pentekostal tradisjon.
+
+Moderne bibelteologi er skeptisk til begge som systematiske ontologiske skjemaer. Hebraisk antropologi er helhetlig: *Nefesh* (sjel/person), *ruach* (ånd/pust) og *basar* (kropp/kjøtt) er aspekter av én udelelig person, ikke separate deler. Det er ikke dualisme som i gresk filosofi der kroppen er sjelens fengsel.
+
+### Legemets teologi
+
+En konsekvens av bibelsk antropologi er at kroppen er god og vil bli gjenreist — ikke kastet. Oppstandelseshåpet er ikke «sjelen som slipper fri fra kroppen», men «kroppen som gjenreises og forvandles» (1 Kor 15:42–44). Kristen antropologi er fundamentalt anti-gnostisk: kroppen er ikke en hindring for åndelighet, men del av det helhetlige mennesket Gud skapte og vil gjenopprette.
 
 ---
 
@@ -81,6 +95,7 @@ Jesus sammenfatter loven i to bud: elsk Gud og elsk din neste (Matt 22:37–39).
 - [[tro-og-liv/bekjennelse]] — ærlighet om hvem vi er som forutsetning for relasjon
 - [[tro-og-liv/fellesskap]] — relasjonen som lever ut i fellesskapet
 - [[teologi/arvesynd]] — teologisk utdyping av syndefallet
+- [[teologi/skapelsesteologi]] — *imago Dei* og skapelsens struktur
 - [[kirkehistorie/frelse-athanasius-augustin]] — gjenopprettelse av *imago Dei*
 - [[verdensreligioner-og-livssyn/islam]] — det islamske menneskesynet til sammenligning
 - [[teologi/theosis]] — frelsens mål: deltakelse i Guds natur
@@ -89,5 +104,5 @@ Jesus sammenfatter loven i to bud: elsk Gud og elsk din neste (Matt 22:37–39).
 
 ## Kilder
 
-- [[sources/TEOL1013-menneskesyn]] — seminaroppgave: kristent vs. islamsk menneskesyn (TEOL1013)
-- [[sources/TEOL1010-Sødal-2009-NT]] — Paulus' antropologi i Romerbrevet
+- [`sources/TEOL1013-menneskesyn`]
+- [`sources/TEOL1010-Sødal-2009-NT`]
