@@ -1,71 +1,101 @@
 ---
 title: "Religionsdialog ved kirkelige handlinger"
-description: "Bispemøtets veiledning (2016) om hvordan Den norske kirke skal møte mennesker av annen tro ved dåp, konfirmasjon, vigsel og gravferd."
+description: "Bispemøtets veiledning om religionsmøte ved dåp, vigsel og gravferd — grenser for dialog, bønnsformer og praksis i en flerreligiøs kontekst."
 date: 2025-05-02
+updated: 2026-09-22
 kategori: Global kristendom
 sub-kategori: Religionsdialog
-tags: [religionsdialog, kirkelige handlinger, bønn, begravelse, vigsel, islam, jødedom]
-kilder: 2
+tags: [religionsdialog, kirkelige handlinger, bønn, vigsel, gravferd, dåp, Bispemøtet, flerreligiøs, interreligiøs bønn, islam]
+sources: 2
+---
+
+> «Hvordan kan vi som kristen kirke vise nestekjærlighet og gjestfrihet i møte med mennesker av annen tro, der vi møter dem med vennlighet og respekt, samtidig som vi unngår å opptre slik at skillet mellom ulike religioner utviskes på en måte som kan komme i konflikt både med vår egen og deres tro?» — Bispemøtet, *Religionsmøtet ved kirkelige handlinger* (2016)
+
 ---
 
 ## Bakgrunn og problemstilling
 
-Norge har blitt et pluralistisk samfunn, og mange kirkelige medarbeidere møter jevnlig mennesker med annen tro. Ved de kirkelige handlingene — dåp, konfirmasjon, vigsel og gravferd — oppstår konkrete spørsmål:
+Norge har de siste tiårene blitt et stadig mer religiøst mangfoldig samfunn. Dette påvirker kirkens liv konkret: Ved dåp, konfirmasjon, vigsel og gravferd møter presten ofte familier der noen tilhører andre trossamfunn. Spørsmål melder seg: Kan en imam gis en rolle ved en kristen gravferd? Kan det leses tekster fra Koranen i forbindelse med vigsel? Kan kirken medvirke i en felles, interreligiøs seremoni?
 
-- Kan en imam gis en rolle ved en kristen gravferd?
-- Kan det leses tekster fra Koranen i forbindelse med en vigsel?
-- Kan kirken la sine ansatte medvirke i en felles interreligiøs seremoni?
-
-Den overordnede spenningen: Hvordan kan kirken vise nestekjærlighet og gjestfrihet overfor mennesker av annen tro, uten å viske ut skillet mellom ulike religioner på en måte som kan komme i konflikt med begge parters tro?
+Bispemøtet vedtok i 2016 veiledningen *Religionsmøtet ved kirkelige handlinger* som svar på disse utfordringene. Den gir teologisk grunnlag og praktiske retningslinjer — ikke detaljerte regler for enhver situasjon, men prinsipper som krever «menneskelig innlevelsesevne og et godt teologisk skjønn» (Bispemøtet 2016, s. 17).
 
 ---
 
 ## Teologisk grunnlag
 
-**Skapelsespakten** er utgangspunktet: Gud er alle menneskers skaper og har omsorg for alle folk (Salme 145, Amos 9:7). Gud kan åpenbare noe av sin sannhet utenfor Abrahampaktens ramme — illustrert ved Abrahams møte med Melkisedek (1 Mos 14).
+Veiledningen tar utgangspunkt i en trinitarisk tilnærming: Gud Far er skaper av alle, Ånden virker på alle mennesker gjennom skapelsesåpenbaringen, og Sønnen er den endegyldige åpenbaringen som ikke motsier, men oppfyller, det Ånden har gjort i skaperverket.
 
-**Det eksklusive kravet** videreføres i NT: "Ingen kommer til Far uten ved meg" (Joh 14:6). Den kristne kirken bekjenner Jesus Kristus som den eneste vei til frelse.
+Dette åpner for å anerkjenne sannhet og godhet i andre religioner — men setter også en grense: Skapelsesåpenbaringen er ikke det samme som frelsesåpenbaringen i Kristus. Kirken er kalt til å forkynne evangeliet og invitere til dåp. Dialog og proklamasjon er ikke motsetninger.
 
-Disse to linjene — den åpne skaperteologien og den eksklusive frelsesbekjennelsen — må holdes i spenning. Se [[teologi/religionsteologi]] for de akademiske modellene.
+Et praktisk uttrykk for denne spenningen er Paulus' tale på Areopagos (Apg 17): Han bekrefter det han finner av sannhet hos grekerne og bruker det som tilknytningspunkt — men han forkynner likevel Kristus. Bispemøtet løfter dette frem som modell: Kirken kan anerkjenne og bekrefte, men ikke utslette forskjellen.
 
 ---
 
-## Bønn på tvers av religionsgrenser
+## Tre former for bønn
 
-Bispemøtet skiller mellom to typer fellesbønn:
+Veiledningen skiller mellom tre former for bønn på tvers av religionsgrenser — en distinksjon som er avgjørende for hva som er mulig ved kirkelige handlinger:
 
-**Parallell bønn** — Representanter for ulike religioner ber side om side, hver til sin Gud, i samme rom. Dette er i prinsippet akseptabelt.
+**Tilstedeværelse under andres bønn** — En kristen kan være til stede når noen av annen tro ber, for eksempel i en moské. Tilstedeværelse er ikke deltakelse. Dette er uproblematisk og kan være del av en dialogisk prosess.
 
-**Felles liturgisk bønn** — At prester leder eller deltar i bønner rettet til en annen religions gudsforståelse, eller omvendt, er problematisk. Det kan gi inntrykk av at man tror på det samme, noe som ikke er korrekt.
+**Multireligiøs bønn** — Mennesker av ulik tro ber sine egne bønner samtidig, eventuelt på samme sted men ikke som én felles handling. Paven i Assisi 1986 er et eksempel. Veiledningen er mer forsiktig her — slike arrangementer bør vurderes case for case og biskopen bør konsulteres.
+
+**Interreligiøs bønn** — Mennesker av ulik tro ber *samme* bønn samtidig. Dette vurderer Bispemøtet som teologisk dypt problematisk og frarådes innenfor rammen av kirkelige handlinger. En felles bønn er en kultisk handling rettet mot en guddom — og retningen er forskjellig for ulike trossamfunn. Selv om en kristen mentalt retter bønnen mot den treenige Gud, deltar man i en felles kultisk handling der gudsbegrepene peker i ulike retninger.
 
 ---
 
 ## Retningslinjer for kirkelige handlinger
 
-**Vigsel:** Vigselen er en kristen handling. Det er ikke anledning til å lese fra Koranen eller andre hellige skrifter i vigselsritualet. Derimot kan man vise gjestfrihet på andre måter (musikk, mottakelse) uten at de religiøse kjernehandlingene blandes.
+### Vigsel og gravferd
 
-**Gravferd:** En prest kan ikke la en imam lede bønn i en kristen gravferd. Det er imidlertid mulig at en representant for en annen religion hilser med en kort tale dersom det ikke innebærer bønn eller religiøst lederskap.
+Liturgiene for vigsel og gravferd åpner for valgfrie innslag utover de faste leddene. Dette gir rom for å imøtekomme ønsker fra flerreligiøse familier — men med tre ufravikelige kriterier for alle innslag:
 
-**Generelt:** Kirkens ansatte kan ikke medvirke som religionsrepresentanter i en felles interreligiøs seremoni der den kristne og den andre religionen fremstilles som likeverdige frelsesveier.
+- Passe inn i kirkerommets karakter som vigslet til Guds ære
+- Respektere handlingenes gudstjenestelige preg
+- Ikke komme i konflikt med kirkens tro og bekjennelse
+
+Musikk og dans fra andre kulturer kan inkluderes. Situasjonen er mer komplisert dersom musikken er innvevd i en religiøs tradisjon som ikke er kristen — da bør prest og kantor skaffe seg kunnskap om konteksten.
+
+Tekstlesning fra Koranen er særlig krevende. Selv om en tekst etter sitt innhold isolert sett kan samsvare med kristen tro, vil tilhørerne forholde seg til teksten som del av islam som helhet. Dersom en muslimsk leder resiterer teksten på tradisjonelt vis, er grensen mellom tekstlesning og kultisk handling vanskelig å se. Løsningen Bispemøtet foreslår: Prest kan selv referere til eller lese fra Koranen innenfor rammen av prekenen — dermed unngås at lesningen fremstår som en kultisk handling.
+
+**Bønn fra en annen religiøs tradisjon** kan ikke gis rom i en kirkelig handling. Det ville arte seg som interreligiøs bønn — noe som, som nevnt over, ikke kan praktiseres innenfor en gudstjeneste eller kirkelig handling.
+
+### Dåp
+
+Dåpsliturgien gir ikke de samme mulighetene for valgfrie innslag. Dåpen er det eneste sakramentet blant de kirkelige handlingene og kan ikke modifiseres på samme måte.
+
+I flerreligiøse familier der én forelder ikke er kristen: Så lenge én forelder ønsker dåp og den andre ikke aktivt motsetter seg det, bør kirken ønske velkommen til dåp. Dersom den ene forelderen avviser dåp, må paret finne en løsning selv. Som utgangspunkt bør kirken ikke medvirke til dåp uten at begge foreldre er innforstått.
+
+Den av foreldrene som ikke er kristen kan ikke være fadder, men kan stå ved døpefonten og eventuelt lese tekst.
+
+### Nattverd
+
+Deltagelse i nattverden forutsetter som hovedregel dåp. Dersom en prest vet at en ikke-døpt kommer til nattverd, bør vedkommende ikke forskjellsbehandles ved utdelingen — men presten tar kontakt etter gudstjenesten for samtale.
+
+---
+
+## To handlinger fra ulike religioner
+
+Noen prester har blitt spurt om å la en kristen gravferd være én av to gravferder for samme avdøde — der den andre holdes i regi av et annet trossamfunn. Veiledningen sier: En rituell handling fra en ikke-kristen religion kan ikke finne sted i et vigslet kirkerom. Men dersom de to seremoniene skjer andre steder, er det fra kirkens side ingen avgjørende hindringer — forutsatt at det markeres et tydelig skille mellom de to handlingene, slik at de ikke fremstår som én felles seremoni.
 
 ---
 
 ## Gjensidighetshensynet
 
-Veiledningen påpeker at respekt og gjensidighet må prege religionsmøtet: Også i moskeer og synagoger er kristne tekster i rituell sammenheng vanskelig å akseptere. Det kirken ønsker respekt for, må den også vise overfor andre.
+En viktig dimensjon i veiledningen er gjensidighet: Kirken kan ikke kreve av andre det den ikke selv ville akseptere. I moské og synagoge er det vanskelig med kristne tekster i rituell sammenheng. Den praksisen kirken utvikler for seg selv, bør speile den respekten den ønsker å møte hos andre.
 
 ---
 
 ## Sammenheng med andre artikler
 
-- [[teologi/religionsteologi]] — de teologiske modellene for religionsmøtet
-- [[global-kristendom/kirken-og-islam]] — Hegstads analyse av forholdet mellom kirken og islam
-- [[verdensreligioner-og-livssyn/religion-i-praksis]] — Horsfjords perspektiv på hverdagsreligiøsitet
-- [[global-kristendom/kristendom-i-norge]] — norsk kirkes kontekst
+- [[global-kristendom/kirken-og-islam]] — det teologiske forholdet mellom kristendom og islam
+- [[verdensreligioner-og-livssyn/islam]] — islamsk gudsbilde og trospraksis
+- [[tro-og-liv/bønn]] — bønnens teologi
+- [[teologi/ekklesiologi]] — kirkens selvforståelse i møte med verden
+- [[global-kristendom/fra-vedlikehold-til-misjon]] — misjonal kirke i flerreligiøs kontekst
 
 ---
 
 ## Kilder
 
-- [[sources/TEO2610-Bispemøtet-2016]] — Bispemøtet (2016): Religionsmøtet ved kirkelige handlinger
-- [[sources/TEO2610-veiledn-2006]] — Mellomkirkelig råd (2006): Veiledning i religionsmøte
+- Bispemøtet (2016): *Religionsmøtet ved kirkelige handlinger. En veiledning fra Bispemøtet* [`sources/Bispemøtet_Religionsdialog_ved_kirkelige_handlinger`]
+- Kirkemøtet (2016): KM 15/16 *Religionsmøte og dialog* [`sources/km_15_0_16_religionsmote_dialog`]

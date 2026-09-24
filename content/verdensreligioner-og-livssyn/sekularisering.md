@@ -1,154 +1,132 @@
 ---
-title: "Sekularisering i Norge"
-description: "Hva er sekularisering? Dobbelaeres tredelte modell, drivkrefter, tall og trender fra 1988 til 2020, og det religionskomplekse Norge."
-date: 2025-05-24
+title: "Sekularisering"
+description: "Sekularisering som begrep og virkelighet — institusjonell adskillelse, privatisering og individuell tilbakegang; sekularisering som europeisk unntak; tall og trender i Norge."
+date: 2025-05-14
+updated: 2026-09-22
 kategori: Verdensreligioner og livssyn
 sub-kategori: Livssyn og samfunn
-tags: [sekularisering, Dobbelaere, Norge, kirkemedlemskap, trender, religion]
-updated: 2025-05-26
-sources: 3
----
-
-# Sekularisering i Norge
-
-> «Det er faktisk ikke én, men to motstridende tendenser i det norske religiøse landskapet: flerreligiøsitet vokser, og sekularisering vokser — samtidig.» — Inger Furseth (2015)
-
+tags: [sekularisering, privatisering, believing without belonging, Grace Davie, Norge, statistikk, stat og kirke, alternativ spiritualitet, ikke-religiøs]
+sources: 2
 ---
 
 ## Et mangetydig begrep
 
-«Sekularisering» betyr opprinnelig at kirkegods ble statens eiendom etter reformasjonen. I religionssosiologien brukes det om prosesser der religion svekkes og marginaliseres i samfunnet.
+«Sekularisering» brukes om minst tre ulike prosesser som ikke nødvendigvis skjer samtidig:
 
-Den belgiske religionssosiologen Karel Dobbelaere (2004) skiller mellom tre nivåer:
+**Institusjonell differensiering** — Den religiøse sfæren skilles fra den politiske, juridiske og økonomiske. Stat og kirke separeres. Skolen blir verdsnøytral. Religionen mister sin særstilling som samfunnets overordnede tolkningsramme.
 
-**Sekularisering på samfunnsnivå** — statens og samfunnsinstitusjonenes løsning fra religionen. I Norge: løsere bånd mellom stat og kirke siden 2000-tallet, religion som ikke lenger preger skole, helsevesen og kulturliv på samme måte.
+**Privatisering** — Religion trekker seg tilbake til privatlivet. Den er fortsatt tilstede, men som en personlig sak — ikke en offentlig ressurs eller normgivende autoritet.
 
-**Sekularisering på organisasjonsnivå (intern sekularisering)** — religiøse organisasjoner blir mer opptatt av livet her og nå, og skiller seg mindre fra sekulære miljøer i moral og livsstil. Begrepet er normativt ladet: det som noen ser som frafall, ser andre som frigjøring.
+**Avgang** — Færre tror, færre praktiserer, religiøs identitet svekkes. Dette er den sterkeste varianten av sekulariseringstesen.
 
-**Sekularisering på individnivå** — færre er religiøst engasjerte, og religion preger livet til stadig færre mennesker.
+Disse tre prosessene er analytisk adskilte. Et land kan ha institusjonell adskillelse uten avgang (USA), privatisering uten fullstendig adskillelse (Storbritannia), eller høy nominell tilslutning kombinert med lav praksis (Skandinavia).
 
 ---
 
 ## Drivkrefter bak sekularisering
 
-Sosiologer har pekt på flere drivkrefter:
+Klassisk sekulariseringsteori (Weber, Berger, Bruce) peker på modernitetens rasjonalisering som motor: Vitenskap erstatter religion som forklaringsramme, byråkrati erstatter kirkens sosiale funksjoner, individualisering undergraver kollektive trosformer.
 
-**Modernisering og differensiering** — Økonomi, jus, politikk og kulturliv utvikler egne sekulære logikker der Gud ikke har plass (Max Weber). Religion marginaliseres strukturelt.
-
-**Livssynsmangfold** — Peter Berger (1967) hevdet at pluralisme skaper tvil: Når ti ledere hevder å representere sannheten, blir det vanskelig å tro på noen av dem. (Berger nyanserte dette standpunktet i 1999.)
-
-**Materiell trygghet** — Ronald Inglehart og Pippa Norris (2011) dokumenterte at religiøst engasjement er sterkest i land med akutte bekymringer for materiell nød. Velferd og trygghet reduserer behovet for religiøs trøst.
-
-**Konkurranse** — En alternativ teori hevder at livssynsmangfold og konkurranse *vitaliserer* religion ved å tvinge aktørene til å skjerpe seg (Stark og Bainbridge 1987).
-
-Furseth (2015) peker på strukturelle norske drivkrefter: urbanisering, høyere utdanning, kvinners inntog i arbeidsmarkedet og en verdiendring mot individualisering — religion er i større grad et privat valg, ikke en sosial norm.
+Peter Berger, som lenge var sekulariseringsteoretiker, reviderte siden sitt syn: Sekularisering er ikke en universell konsekvens av modernitet — det er et særlig europeisk fenomen. Resten av verden er ikke i ferd med å bli som Europa; det er Europa som er avvikeren.
 
 ---
 
 ## Det religionskomplekse Norge
 
-Norge er ikke blitt et sekulært land i enkel forstand. Det er blitt et *religionskomplekst* land — preget av tilsynelatende motstridende tendenser som lever side om side.
+Norge illustrerer at sekularisering er mer komplekst enn tallene alene viser:
 
-**Tendens 1 — Flerreligiøsitet:** Innvandring fra Asia, Midtøsten og Afrika har gjort Norge langt mer religiøst mangfoldig. Muslimer, buddhister, hinduer og sikher er synlige og etablerte grupper.
+- Ca. 65 % av befolkningen er medlemmer av Den norske kirke (2022)
+- Ca. 60 % lar barna sine døpe
+- Ca. 80 % ønsker kirkelig gravferd
+- Under 5 % går ukentlig i kirke
+- Ca. 30 % oppgir å tro på en personlig Gud
 
-**Tendens 2 — Sekularisering:** Andelen som tilhører Den norske kirke, og andelen som praktiserer, er i jevn nedgang. Stadig flere står helt utenfor alle tros- og livssynssamfunn.
+Grace Davie brukte begrepet **believing without belonging** om britiske kristne — de tror, men tilhører ikke aktivt. I Skandinavia er mønsteret snarere omvendt: **belonging without believing** — man tilhører, men tror ikke nødvendigvis. Felles er aksepten av majoritetskirken som stedfortreder-institusjon som ivaretar det religiøse på samfunnets vegne.
 
 ---
 
 ## Sekularisering på samfunnsnivå — stat og kirke
 
-Norge har gått fra tett sammenveving av religiøs og politisk makt til gradvis separasjon:
+Norge gjennomgikk en gradvis adskillelse av stat og kirke: Konstitusjonell endring i 2012, juridisk selvstendighet for kirken i 2017.
 
-- **1959:** Presten mistet automatisk sete i skolestyret
-- **1969:** Kristendomsundervisning ikke lenger ansett som kirkens dåpsopplæring
-- **1984:** Kirkemøte med valgte representanter etablert
-- **2008:** Bredt stortingsforlik — kirken får gradvis selvstyre
-- **2012:** Kirkemøtet (ikke regjeringen) oppnevner biskoper
-- **2017:** Den norske kirke blir selvstendig rettssubjekt
-
-Likevel består koblinger: Grunnloven § 16 fastslår at Den norske kirke «forblir Norges folkekirke» og understøttes av staten.
+Adskillelsen innebærer ikke at religionen forsvinner fra offentligheten — snarere at den må forhandle sin plass på lik linje med andre aktører. Kristne organisasjoner driver fortsatt barnehager, skoler og eldrehjem med offentlig støtte.
 
 ---
 
 ## Intern sekularisering
 
-Intern sekularisering viser seg blant annet i:
+En særlig form er intern sekularisering: Religiøse institusjoner tilpasser seg sekularitetens normer og mister sitt distinkte preg. Kirken blir mer lik det omgivende samfunnet — i syn på kjønnsroller, familieformer, individuell frihet.
 
-**Gudsbildet** — Forestillingen om en allmektig Gud som «har en mening» med sykdom og ulykke er borte fra norske begravelsestaler. Gud fremstilles nå som nærvær i sorgen, ikke som styrende årsak til det vonde.
-
-**Politisk argumentasjon** — Kristne politikere bruker sjelden religiøse argumenter. Argumentene er sekulære og allmenne.
-
-**Bibellesning** — Bibelen fortolkes i økende grad historisk-kritisk ved norske teologiske institusjoner.
+Kritikere mener dette undergraver kirkens relevans og særpreg. Tilhengerne mener det er nødvendig for å holde kontakten med folk.
 
 ---
 
 ## Tall og trender 1988–2020
 
-**Den norske kirke — medlemskap:**
-Fra 88 % (1980) → 75 % (2013) → 70 % (2019). I Oslo er andelen sunket til 55 % (2013).
+ISSP-data (International Social Survey Programme) viser for Norge:
 
-**Kirkelig praksis 1988–2013:**
+- Andelen som sier de «ikke tilhører noen religion» økte fra ca. 10 % (1991) til ca. 35 % (2018)
+- Andelen som oppgir å be ukentlig falt fra ca. 25 % til under 15 %
+- Gudstroens innhold endres: Færre tror på en personlig Gud, flere tror på «en høyere makt» eller «noe»
 
-| Ritual | 1988 | 2013 |
-|--------|------|------|
-| Kirkelig vigsel | 58 % | 35 % |
-| Dåp | 79 % | 62 % |
-| Konfirmasjon | 82 % | 64 % |
-| Begravelse | 95 % | 90 % |
-
-**Gudstro (Repstad 2020):** Andelen som tror på Gud er 23 prosentpoeng lavere i 2020 enn i 1985. I 2020 tror tre av ti på Gud; litt under halvparten sier nei.
-
-**Gudstjenestedeltagelse:** 7–8 % er regelmessige deltakere (minst månedlig) i dag.
-
-**Tro på liv etter døden:** Fra en tredjedel (1991) til en fjerdedel (2018).
-
-**Andelen som aldri ber:** Fra fire av ti (1991) til fem av ti (2018).
-
-**Trossamfunn utenfor Den norske kirke — vekst:**
-- Kristne minoritetskirker: 3,6 % (1988) → 6,1 % (2013), primært katolikker og ortodokse
-- Trossamfunn utenfor kristendommen: 0,1 % → 2,9 % — muslimer er den største gruppen (+721 % siden 1988)
-- Human-Etisk Forbund: stabilt ~1,7 %
-
-**Uten tilhørighet:** Fra 3,2 % (1980) til anslagsvis 14 % (2012).
+Religionens endring er like viktig som dens tilbakegang: Det er ikke bare færre som tror — de som tror, tror på andre måter.
 
 ---
 
 ## Geografisk og sosial variasjon
 
-**Regionalt:** Oslo er mest sekularisert. Sørlandet og Vestlandet har størst andel troende og aktive — et arv fra vekkelsene på 1800-tallet.
+Sekularisering er ikke jevnt fordelt:
 
-**Kjønn:** Kvinner er gjennomgående mer religiøst engasjerte enn menn. Forskjellene minker i takt med økt yrkesdeltakelse.
+- Høyere sekularisering i byer enn på land
+- Høyere blant menn enn kvinner
+- Høyere blant høyt utdannede (i Europa — globalt er mønsteret omvendt)
+- Lavere blant innvandrere enn i majoritetsbefolkningen
 
-**Innvandrerbefolkning:** Religion betyr mer for muslimer og andre innvandrerbaserte minoriteter. Men migrasjon kan også føre til sekularisering som tilpasning til omgivelsene.
+Bibelbeltet (Sørlandet og Vestlandet) har historisk hatt høyere religiøsitet, men konvergerer mot landsgjennomsnittet.
 
 ---
 
 ## Privatisering og alternativ spiritualitet
 
-Religion er i økende grad blitt en privatsak. Flertallet av aktive kristne snakker ikke om tro med ikke-kristne med mindre de blir spurt direkte.
+Parallelt med kirkens tilbakegang har alternativ spiritualitet vokst. Interessen for yoga, meditasjon, nyreligiøse praksiser, astrologi og kroppsorienterte åndelige praksiser er høy, særlig blant kvinner og unge.
 
-Alternativ spiritualitet — new age, healing, meditasjon, reinkarnasjon — vokser parallelt. Mellom 15–29 % av befolkningen har en positiv innstilling til fenomener som reinkarnasjon og stjernetegn. Alternativmessen i Oslo har hatt ~15 000 besøkende i snitt hvert år siden 1993.
+Dette peker mot at sekularisering ikke nødvendigvis betyr at mennesker slutter å søke det transcendente — de søker det utenfor institusjonelle rammer.
 
 ---
 
 ## En av fire er ikke-religiøse
 
-Rundt én av fire nordmenn tror verken på Gud eller høyere makter og har ingen hverdagsritualer knyttet til religion. Yngre menn er overrepresentert. Ikke-religiøsitet sosialiseres — på samme måte som religiøsitet overføres gjennom familie og miljø.
+Ca. 25 % av Norges befolkning identifiserer seg nå som ikke-religiøse — et av de høyeste tallene i verden. Human-Etisk Forbund er verdens største sekulære humanistorganisasjon sett i forhold til befolkningsstørrelse.
+
+---
+
+## Sekularisering som globalt unntak
+
+Sekulariseringsteorien ble utviklet på 1960- og 70-tallet med en forventning om at modernitet og demokrati ville begrense religion til privatlivet. Islamismens fremvekst og Berlinmurens fall viste at tesen ikke holdt globalt — sekularisering i sterk forstand er primært et europeisk fenomen.
+
+Nikolajsen skiller mellom tre nivåer av sekularisering:
+
+**1. Institusjonell adskillelse** — den religiøse sfæren skilles fra den politiske og økonomiske sfæren. Dette skjer i de fleste moderne stater i ulik grad.
+
+**2. Privatisering** — religion får en mindre rolle i det offentlige rom og samfunnet. Skjer i Europa, men ikke globalt.
+
+**3. Individuell tilbakegang** — religionen spiller en mindre rolle i enkeltmenneskers liv. Ikke noen klar global trend.
+
+Globalt sett vokser ny karismatisk kristendom, demokratisering gir religionen større handlingsrom i sør, og islamisme viser at religion og modernitet ikke nødvendigvis motvirker hverandre. Grace Davie: Sekulariseringsteorien var egentlig en generaliseringseurofeil — man tok Europa for å være normen for modernitetens utvikling.
 
 ---
 
 ## Sammenheng med andre artikler
 
-- [[verdensreligioner-og-livssyn/religion-i-praksis]] — religionssosiologiske grunnbegreper
-- [[verdensreligioner-og-livssyn/livssyn]] — humanisme og Human-Etisk Forbund
-- [[verdensreligioner-og-livssyn/unge-og-nyreligiositet]] — ungdom og alternativ spiritualitet
-- [[verdensreligioner-og-livssyn/det-livssynsapne-samfunn]] — det livssynsåpne samfunn
-- [[global-kristendom/kristendom-i-norge]] — Den norske kirke
+- [[verdensreligioner-og-livssyn/livssyn]] — livssyn og sekulær humanisme
+- [[verdensreligioner-og-livssyn/unge-og-nyreligiositet]] — alternativ spiritualitet
+- [[global-kristendom/kristendom-i-norge]] — norsk kristendom i sekularisert kontekst
+- [[global-kristendom/fra-vedlikehold-til-misjon]] — kirkens respons på sekularisering
+- [[global-kristendom/kristendommens-globalisering]] — sekularisering som europeisk unntak
 
 ---
 
 ## Kilder
 
-- [[sources/Furseth-2015-religiost-landskap]] — Furseth, I. (2015): «Et religiøst landskap i endring 1988–2013». Universitetsforlaget
-- [[sources/Repstad-2020-religiose-trender-i-norge]] — Repstad, P. (2020): *Religiøse trender i Norge*, kap. 2. MF vitenskapelig høyskole
-- [[sources/studier-personlige]] — egne studier og notater
+- [`sources/studier-personlige`]
+- Nikolajsen, J.B. (2018): PP 09 *Kristendommens globalisering* [`sources/PP09-Globalisering-Nikolajsen`]

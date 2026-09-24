@@ -1,96 +1,100 @@
 ---
 title: "Kirken og islam"
-description: "En positiv og dialogisk holdning til islam kan aldri avlyse vitnesbyrdet om Jesus Kristus som verdens frelser."
-date: 2025-04-18
+description: "Det teologiske forholdet mellom kristendom og islam — tilber vi samme Gud, allmenn åpenbaring, dialog og proklamasjon, felleserklæringen om trosfrihet og om islamsk ekstremisme."
+date: 2025-05-12
+updated: 2026-09-22
 kategori: Global kristendom
 sub-kategori: Religionsdialog
-tags: [kirken og islam, religionsdialog, misjon, muslimer, kristen-muslimsk, kontekst]
-updated: 2025-05-17
-kilder: 2
+tags: [islam, muslimer, religionsdialog, allmenn åpenbaring, Hegstad, kirken og islam, trosfrihet, konvertering, A Common Word]
+sources: 2
+---
+
+> «Å avlegge vitnesbyrd om sannheten i Jesus står på ingen måte i motsetning til dialog. Men den som avlegger vitnesbyrd om hva man selv tror på, må også være åpen for å høre andres vitnesbyrd.» — Harald Hegstad, *Luthersk Kirketidende* 16/2018
+
 ---
 
 ## Et sammensatt spørsmål
 
-Forholdet mellom kirken og islam rommer minst tre distinkte spørsmål som ofte blandes:
+Forholdet mellom kirken og islam reiser spørsmål på flere nivåer som lett blandes sammen:
 
-1. **Teologisk:** Hva tenker vi om sannheten i islams lære?
-2. **Relasjonelt:** Hvordan lever kristne og muslimer godt sammen?
-3. **Sosialpolitisk:** Hva er kirkens rolle i møte med islamsk innvandring og ekstremisme?
+- Det *teologiske* spørsmålet: Tilber kristne og muslimer den samme Gud? Hva er islamsk tro sett fra et kristent ståsted?
+- Det *pastoral-etiske* spørsmålet: Hvordan møter kirken muslimer i dialog og fellesskap?
+- Det *politiske* spørsmålet: Hva gjør kirken med islamsk ekstremisme og debatten om muslimer i det norske samfunn?
 
-Hegstad (2018) understreker at en saklig samtale krever at man holder disse fra hverandre — de krever ulike perspektiver og gir ulike svar.
+Hegstad (2018) understreker at en saklig debatt krever at disse spørsmålene holdes fra hverandre, selv om de henger sammen.
 
 ---
 
 ## Historisk bakgrunn
 
-Kirken og islam har en lang felles og konfliktfylt historie. Korstogene (1095–1291), den osmanske ekspansjonen, kolonitiden og etterkrigstiden har alle lagt lag på lag av gjensidige bilder og fordommer.
+Kristendom og islam har en lang felles historie — og en konfliktfylt en. Korstogene, islams ekspansjon, kolonitidens misjonsforståelse. Men de to religionene har også påvirket hverandre gjensidig, deler abrahamittiske røtter og har mange fellestrekk som monoteistiske skriftreligioner.
 
-I dag preges den norske og vestlige kirkelige holdningen i større grad av **dialog**. Det møter kirken kritikk fra ulike hold — noen mener dialogen relativiserer kristendommens sannhetskrav, andre mener kirken ikke er åpen nok.
+Som monoteistiske religioner inneholder de mange likheter — og en grunnleggende forskjell: Mens islam ser Jesus som en av Muhammeds forløpere, mener kristendommen at den endegyldige gudsåpenbaringen kom i og med Jesus som Messias og Guds sønn.
 
 ---
 
 ## Tilber kristne og muslimer den samme Gud?
 
-Dette er ett av de oftest stilte spørsmålene — og svaret avhenger av hva man mener med spørsmålet.
+Spørsmålet dukker jevnlig opp og fortjener en nyansert behandling.
 
-**Dersom man spør om det egentlige objektet for tilbedelsen:**
-Svaret er ja. Det finnes bare én Gud. Enhver søken etter det guddommelige har til syvende og sist denne ene Gud som sitt mål. Paulus' tale på Areopagos er her relevant: Han identifiserer greskernes «ukjente Gud» med Israels Gud (Apg 17:22–28). På samme måte kan man si at muslimer søker mot den Gud som fullt ut ble åpenbart i Jesus Kristus — selv om de ikke erkjenner ham slik.
+Dersom man spør om *objektet for tilbedelsen* — svaret er ja. Det finnes ikke mer enn én Gud; enhver søken etter det guddommelige har denne Gud som sitt objekt. Hegstad viser til Paulus' tale på Areopagos (Apg 17): Han forkynner den Gud athenerne hadde tilbedt uten å kjenne.
 
-**Dersom man spør om vi har det samme gudsbildet:**
-Svaret er nei — eller i det minste: ikke fullt ut. Gudsbildet i kristendom og islam skiller seg på avgjørende punkter. Islam avviser Treenigheten og Jesu guddommelighet. For kristendommen er disse ikke perifere spørsmål — de er kjernen i åpenbaringen. Hegstad: «Ikke minst skilles veiene når vi nærmer oss den kristne forståelse av Gud som treenig og av Jesus som Guds Sønn.»
+Dersom man spør om *gudsbildet* — om forståelsen av hvem denne Gud er — er svaret mer komplisert. Her er det grunnleggende forskjeller mellom kristendom og islam, særlig rundt treenigheten og Jesu guddommelighet.
 
 ---
 
 ## Teologisk utgangspunkt: Allmenn åpenbaring
 
-For luthersk teologi er det naturlig å møte islam i lys av **allmenn åpenbaring**: Paulus skriver at Gud har lagt kunnskap om seg selv ned i skaperverket og samvittigheten (Rom 1:18–20; 2:14). Menneskelig religiøsitet er et forsøk på å komme til rette med denne iboende gudserkjennelsen.
-
-Islam bygger dessuten på den bibelske tradisjonen — Abraham, Moses og Jesus er sentrale profeter i Koranen. Det gjør islam nærmere kristendommen enn østlige religioner som ikke deler denne arven.
-
-Hegstad konkluderer: Fra kristent synspunkt kan vi *anerkjenne og verdsette* mange elementer i islam — samtidig som den endelige målestokken er gudsåpenbaringen i Jesus Kristus.
+For en luthersk kirke er det naturlig å møte islam med et *nyansert* teologisk perspektiv, forankret i tanken om den allmenne åpenbaring. Paulus skriver i Rom 1:18–20 at Gud har lagt kunnskap om seg selv ned i skaperverket og i samvittigheten. Islam viderefører dessuten elementer fra den bibelske tradisjonen — om enn i omformet skikkelse. Dette gjør at kirken kan anerkjenne og verdsette elementer i islam, selv om den endelige målestokken er gudsåpenbaringen i Jesus Kristus.
 
 ---
 
 ## Dialog og proklamasjon — ikke motsetninger
 
-Hegstad understreker at dialog og vitnesbyrd ikke utelukker hverandre. Å drive dialog med muslimer betyr ikke å gi slipp på overbevisningen om at Jesus er verdens frelser.
+Hegstad er tydelig: En positiv og dialogisk holdning til islam avlyser ikke vitnesbyrdet om Jesus Kristus som verdens frelser. «Dialog utelukker ikke proklamasjon eller evangelisering, ei heller ønsket for alle mennesker 'at de må bli frelst'» (Hegstad 2018, s. 2).
 
-**Dialog innebærer:**
-- Å lytte til den andres vitnesbyrd
-- Å forstå islams mangfold fremfor å arbeide ut fra et konstruert fiendbilde
-- Å la muslimer selv definere hva de tror og praktiserer
-- Å avvise maktbruk og manipulasjon i forbindelse med konvertering (jf. felles erklæring mellom Islamsk Råd og Mellomkirkelig råd, 2007)
-
-**Dialog innebærer ikke:**
-- Å hevde at alle veier er like gode
-- Å avlyse ønsket om at alle skal komme til erkjennelse av sannheten (Rom 10:1)
-- Å nekte å kritisere islams problematiske sider
+Men dialog forutsetter gjensidighet. Den som avlegger vitnesbyrd, må også være åpen for å høre den andres vitnesbyrd. Og trosskifte må skje uten tvang, press eller lokkemidler — i begge retninger.
 
 ---
 
 ## «A Common Word Between Us and You» (2007)
 
-Et viktig dokument: Islamske lærde fra hele verden rettet et brev til kristne ledere og teologer med utgangspunkt i det dobbelte kjærlighetsbudet — å elske Gud og sin neste. De hevdet at dette budet finnes i *begge* tradisjonene og kan danne grunnlag for fredelig sameksistens.
+I 2007 sendte islamske ledere og teologer et åpent brev til kristne ledere verden over: «A Common Word Between Us and You». Grunnlaget for fred mellom kristne og muslimer finnes i det dobbelte kjærlighetsbud — et bud som finnes i både Bibelen og Koranen: elsk Gud og elsk din neste.
 
-Svaret fra kristne teologer og ledere verden over sluttet seg til dette ønsket. Hegstad ser dette som et eksempel på fruktene av dialog: Ikke teologisk enighet, men en felles plattform for fred og rettferdighet.
+Brevet vakte stor oppmerksomhet og utløste mange kristne svar. Hegstad leser det som et eksempel på at dialog mellom religioner kan bidra til fred og forsoning — og at grunnlaget ikke er å viske ut forskjeller, men å finne felles verdier å handle ut fra.
+
+---
+
+## Religioner er ikke statiske
+
+Et viktig poeng fra Hegstad (2018): Religiøse tradisjoner er aldri konstante størrelser. De kan fortolkes og praktiseres på ulikt vis, til ulike tider og av ulike grupper. Det gjelder islam like mye som kristendom. Dermed er det uredelig å ta en ekstrem variant av islam som representativ for islam som helhet — like uredelig som å la middelalderens korstog definere kristendommens vesen.
+
+Å møte muslimer i dialog betyr å møte konkrete mennesker i deres faktiske trostolkning — ikke et abstrakt bilde av «islam» man har konstruert på forhånd.
+
+---
+
+## Felleserklæringen om trosfrihet og konvertering (2007)
+
+Et konkret eksempel på dialogens frukter: I 2007 utga Islamsk Råd Norge og Mellomkirkelig råd en felleserklæring om trosfrihet og konvertering. Erklæringen understreker at all maktbruk og manipulasjon i forbindelse med konvertering må avvises, og at retten til å misjonere samtidig fastholdes.
+
+Dette er et eksempel på at dialog og vitnesbyrd ikke utelukker hverandre, men kan formuleres i et felles rammeverk som begge parter kan stå inne for.
 
 ---
 
 ## Om islamsk ekstremisme
 
-Hegstad advarer mot å la ekstreme gruppers handlinger definere hva «egentlig» islam er. Religioner er ikke konstante størrelser — de tolkes og praktiseres ulikt til ulike tider og av ulike grupper. Det gjelder kristendommen like mye som islam.
+Islamistisk vold og terrorisme har satt forholdet til islam på prøve. Hegstad er tydelig på at det store flertallet av muslimer tar avstand fra slik ekstremisme — og at de fleste ofrene for islamistisk vold selv er muslimer.
 
-Det store flertallet av muslimer tar avstand fra ekstremisme, og de fleste ofre for islamistisk vold er selv muslimer. En god regel i møte med andres tro: La den andre selv definere hva de tror — ikke en versjon man har konstruert for å kritisere.
+En god regel i møte med andres tro: La den andre selv definere hva de tror — ikke en versjon man har konstruert for å kritisere.
 
 ---
 
 ## Sammenheng med andre artikler
 
-- [[verdensreligioner-og-livssyn/islam]] — islams tro, praksis og historie
-- [[teologi/religionsteologi]] — de tre modellene og akseptmodellen
-- [[global-kristendom/religionsdialog-kirkelige-handlinger]] — praktisk religionsdialog
-- [[verdensreligioner-og-livssyn/jesus-i-koranen]] — Jesu plass i islamsk tradisjon
-- [[global-kristendom/misjon-i-kontekst]] — dialog og misjon
+- [[verdensreligioner-og-livssyn/islam]] — islamsk tro og praksis
+- [[global-kristendom/religionsdialog-kirkelige-handlinger]] — praktiske grenser for dialog
+- [[verdensreligioner-og-livssyn/abraham-i-tre-religioner]] — felles abrahamittiske røtter
+- [[global-kristendom/fra-vedlikehold-til-misjon]] — misjonal kirke i flerreligiøs kontekst
 
 ---
 
@@ -98,3 +102,4 @@ Det store flertallet av muslimer tar avstand fra ekstremisme, og de fleste ofre 
 
 - [[sources/Hegstad-2018-kirken-og-islam]] — Hegstad, H. (2018): «Kirken og islam». Luthersk Kirketidende 16/2018
 - [[sources/TEOL1010-bibeltolkning]] — teologisk kontekst
+- Kirkemøtet (2016): KM 15/16 *Religionsmøte og dialog* [`sources/km_15_0_16_religionsmote_dialog`]
