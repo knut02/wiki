@@ -1,16 +1,16 @@
 ---
 title: "Statsreligion"
-description: "Da kristendommen gikk fra forfulgt minoritet til romersk riksreligion — og hva det gjorde med kirken."
+description: "Da kristendommen gikk fra forfulgt minoritet til romersk riksreligion — og hva det gjorde med kirken. Med moderne eksempler fra Russland, Polen og USA."
 date: 2025-05-06
+updated: 2026-09-22
 kategori: Kirkehistorie
-sub-kategori: Oldkirken — Forflølgelse og statsreligion
-tags: [statsreligion, Theodosius, 380, Romerriket, kirke og stat]
-kilder: 2
+sub-kategori: Oldkirken — Forfølgelse og statsreligion
+kilder: 3
 ---
 
 ## Fra forfølgelse til frihet: 312–313
 
-I **312** vant Konstantin ved Milviske bro over medkeiseren Maxentius. Ifølge den kristne historikeren Eusebius av Cæsarea hadde Konstantin sett et kors i himmelen med inskripsjonen «ved dette tegn seier» (*in hoc signo vinces*) — og etter seieren tilskrev han den  kristne Guden.
+I **312** vant Konstantin ved Milviske bro over medkeiseren Maxentius. Ifølge den kristne historikeren Eusebius av Cæsarea hadde Konstantin sett et kors i himmelen med inskripsjonen «ved dette tegn seier» (*in hoc signo vinces*) — og etter seieren tilskrev han den kristne Guden.
 
 I **313** utstedte Konstantin og Licinius **Ediktet fra Milano**: full religionsfrihet i hele imperiet, tilbakelevering av konfiskert kirkegods, og anerkjennelse av kristne menigheter som juridiske enheter. Dette er ikke kristendommens offisielle statsreligion ennå — men begynnelsen på keiserens aktive støtte.
 
@@ -95,6 +95,24 @@ Spenningen mellom disse modellene preget hele middelalderen. Se [[kirkehistorie/
 
 ---
 
+## Statsreligion i moderne tid
+
+Den konstantinske modellen — tett kirke-stat-forbindelse — er ikke bare fortid. Tre moderne eksempler viser modellens vedvarende relevans:
+
+**Russland:** Det russisk-ortodokse *symphonia*-ideal — harmoni mellom stat og kirke der begge arbeider for folkets beste — ble revitalisert etter Sovietunionens fall. Patriark Kirill og Putin symboliserer en nær allianse der kirken legitimerer statens autoritet og staten gir kirken privilegert stilling. Se [[global-kristendom/kristendom-i-ost-europa]].
+
+**Polen:** Den katolske kirken hadde stor moralsk autoritet som motstander av kommunismen. Da Polen ble demokrati, ble denne autoriteten omsatt i politisk innflytelse — kirken driver 90 % av barneskolene og har hatt direkte innflytelse på abort- og ekteskapslovgivning. Se [[global-kristendom/kristendom-vest-europa]].
+
+**USA:** En sekulær grunnlov, men en sterk *civil religion* — et felles religiøst symbolspråk knyttet til nasjonal identitet. «In God We Trust» på myntene, bibel ved presidentinnsetning, nasjonaldagen som religiøs feiring. Ikke statsreligion juridisk — men kulturelt noe av det samme. Se [[global-kristendom/kristendom-i-nord-amerika]].
+
+### Adskillelse som alternativ
+
+Frankrike valgte *laïcité* — streng adskillelse der staten ikke favoriserer noen religion. Skandinavia valgte gradvis adskillelse: Den norske kirke ble juridisk selvstendig i 2017, men beholder mange privilegier. Den engelske kirke er fortsatt statskirke med biskoper i Overhuset.
+
+Spørsmålet om statsreligion er dermed ikke avsluttet i 380. Det er en levende debatt om maktfordeling, identitet og religionens offentlige rolle.
+
+---
+
 ## Sammenheng med andre artikler
 
 - [[kirkehistorie/nikea-konsilet]] — keiserens rolle i teologiens utvikling
@@ -102,12 +120,14 @@ Spenningen mellom disse modellene preget hele middelalderen. Se [[kirkehistorie/
 - [[kirkehistorie/kristendommens-tilblivelse]] — kirken som forfulgt minoritet
 - [[kirkehistorie/askese-i-oldkirken]] — monastisk motreaksjon
 - [[kirkehistorie/kirken-ost-og-vest]] — to kirkepolitiske modeller
-- [[kirkehistorie/kristendommens-historie-oversikt]] — historisk ramme
-- [[tidslinjer/kirkefedrene-tidslinje]] — 312–381 i kontekst
+- [[global-kristendom/kristendom-i-ost-europa]] — russisk symphonia-ideal
+- [[global-kristendom/kristendom-vest-europa]] — Polen og vest-europeisk modell
+- [[global-kristendom/kristendom-i-nord-amerika]] — civil religion i USA
 
 ---
 
 ## Kilder
 
-- [[sources/TEOL2310-teologihistorie-oldkirken]] — Kaufman: «Kristendommens historie: en enkel oversikt»; modul 7 (Konstantinopel 381)
+- [[sources/TEOL2310-teologihistorie-oldkirken]] — Kaufman: «Kristendommens historie»
 - [[sources/batch-TEOL2310-2025-05-01]] — historisk oversikt over rikskirkeperioden
+- Nikolajsen, J.B. (2018): PP 03, 06, 07 *Global kristendom* [`sources/PP-Nikolajsen`]
