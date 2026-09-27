@@ -45,6 +45,12 @@ function setupSubcategoryFilter() {
     }
   }
 
+  const requestedSubcategory = new URLSearchParams(window.location.search).get("underkategori")
+  const requestedCheckbox = checkboxes.find((checkbox) => checkbox.value === requestedSubcategory)
+  if (requestedCheckbox) {
+    requestedCheckbox.checked = true
+  }
+
   checkboxes.forEach((checkbox) => checkbox.addEventListener("change", update))
   resetButton?.addEventListener("click", reset)
 

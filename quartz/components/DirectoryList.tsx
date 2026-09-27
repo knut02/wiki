@@ -44,7 +44,11 @@ export default ((userOptions?: Partial<DirectoryListOptions>) => {
 
     return (
       <div class="directory-list">
-        {articleCount > 0 ? <p class="directory-count-summary">Dette nettstedet inneholder {articleCount} artikler.</p> : null}
+        {articleCount > 0 ? (
+          <p class="directory-count-summary">
+            Dette nettstedet inneholder {articleCount} artikler.
+          </p>
+        ) : null}
         {sortedDirs.map((dir) => {
           const folderIndex = allFiles.find((file) => file.slug === dir.slug)
           const sectionId = `section-${dir.name}`
@@ -57,14 +61,26 @@ export default ((userOptions?: Partial<DirectoryListOptions>) => {
           return (
             <section key={dir.name} id={sectionId} class="directory-section">
               <h2 class="directory-heading">
-                <a class="directory-heading-link internal" href={resolveRelative(fileData.slug!, dir.slug)}>
+                <a
+                  class="directory-heading-link internal"
+                  href={resolveRelative(fileData.slug!, dir.slug)}
+                >
                   <span class="directory-heading-initial">{firstChar}</span>
                   {restOfHeading}
                 </a>
               </h2>
-              {description ? <p class="directory-description">{String(description).replace(/\n+/g, " ").trim()}</p> : null}
+              {description ? (
+                <p class="directory-description">
+                  {String(description).replace(/\n+/g, " ").trim()}
+                </p>
+              ) : null}
               {options.showSubcategories && (
-                <DirectorySubcategories files={allFiles} category={headingText} />
+                <DirectorySubcategories
+                  files={allFiles}
+                  category={headingText}
+                  categorySlug={dir.slug}
+                  currentSlug={fileData.slug!}
+                />
               )}
             </section>
           )
@@ -81,15 +97,21 @@ export default ((userOptions?: Partial<DirectoryListOptions>) => {
 function DirectorySubcategories({
   files,
   category,
+  categorySlug,
+  currentSlug,
 }: {
   files: QuartzPluginData[]
   category: string
+  categorySlug: FullSlug
+  currentSlug: FullSlug
 }) {
   const categoryKey = category.trim().toLocaleLowerCase()
   const groups = new Map<string, QuartzPluginData[]>()
 
   for (const file of files) {
-    const fileCategory = String(file.frontmatter?.kategori ?? "").trim().toLocaleLowerCase()
+    const fileCategory = String(file.frontmatter?.kategori ?? "")
+      .trim()
+      .toLocaleLowerCase()
     if (fileCategory !== categoryKey || file.slug?.endsWith("/index")) continue
 
     const subcategory = String(file.frontmatter?.["sub-kategori"] ?? "Uten underkategori")
@@ -104,7 +126,14 @@ function DirectorySubcategories({
     <div class="directory-subcategories">
       {[...groups.keys()].map((subcategory) => (
         <div class="directory-subcategory" key={subcategory}>
-          <h3>{subcategory}</h3>
+          <h3>
+            <a
+              class="internal"
+              href={`${resolveRelative(currentSlug, categorySlug)}?underkategori=${encodeURIComponent(subcategory)}`}
+            >
+              {subcategory}
+            </a>
+          </h3>
         </div>
       ))}
     </div>
