@@ -83,6 +83,12 @@ let index = new FlexSearch.Document<Item>({
   },
 })
 
+let searchDataPromise: Promise<ContentIndex> | undefined
+function loadSearchData(): Promise<ContentIndex> {
+  searchDataPromise ||= fetchSearchData()
+  return searchDataPromise
+}
+
 const p = new DOMParser()
 const fetchContentCache: Map<FullSlug, Element[]> = new Map()
 const contextWindowWords = 30
@@ -203,6 +209,7 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
   if (!searchLayout) return
 
   const idDataMap = Object.keys(data) as FullSlug[]
+  let searchData: ContentIndex | undefined
   const appendLayout = (el: HTMLElement) => {
     searchLayout.appendChild(el)
   }
@@ -309,12 +316,16 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
 
   const formatForDisplay = (term: string, id: number) => {
     const slug = idDataMap[id]
+    const indexedData = searchData ?? data
     return {
       id,
       slug,
-      title: searchType === "tags" ? data[slug].title : highlight(term, data[slug].title ?? ""),
-      content: highlight(term, data[slug].content ?? "", true),
-      tags: highlightTags(term.substring(1), data[slug].tags),
+      title:
+        searchType === "tags"
+          ? indexedData[slug].title
+          : highlight(term, indexedData[slug].title ?? ""),
+      content: highlight(term, indexedData[slug].content ?? "", true),
+      tags: highlightTags(term.substring(1), indexedData[slug].tags),
     }
   }
 
@@ -437,6 +448,8 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
 
   async function onType(e: HTMLElementEventMap["input"]) {
     if (!searchLayout || !index) return
+    searchData ||= await loadSearchData()
+    await fillDocument(searchData)
     currentSearchTerm = (e.target as HTMLInputElement).value
     searchLayout.classList.toggle("display-results", currentSearchTerm !== "")
     searchType = currentSearchTerm.startsWith("#") ? "tags" : "basic"
@@ -501,7 +514,6 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
   window.addCleanup(() => searchBar.removeEventListener("input", onType))
 
   registerEscapeHandler(container, hideSearch)
-  await fillDocument(data)
 }
 
 /**

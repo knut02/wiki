@@ -1,28 +1,13 @@
 import type { ContentDetails } from "../../plugins/emitters/contentIndex"
-import {
-  SimulationNodeDatum,
-  SimulationLinkDatum,
-  Simulation,
-  forceSimulation,
-  forceManyBody,
-  forceCenter,
-  forceLink,
-  forceCollide,
-  forceRadial,
-  zoomIdentity,
-  select,
-  drag,
-  zoom,
-} from "d3"
-import { Text, Graphics, Application, Container, Circle } from "pixi.js"
-import { Group as TweenGroup, Tween as Tweened } from "@tweenjs/tween.js"
+import type { SimulationNodeDatum, SimulationLinkDatum, Simulation } from "d3"
+import type { Text as PixiText, Graphics as PixiGraphics } from "pixi.js"
 import { registerEscapeHandler, removeAllChildren } from "./util"
 import { FullSlug, SimpleSlug, getFullSlug, resolveRelative, simplifySlug } from "../../util/path"
 import { D3Config } from "../Graph"
 
 type GraphicsInfo = {
   color: string
-  gfx: Graphics
+  gfx: PixiGraphics
   alpha: number
   active: boolean
 }
@@ -49,7 +34,7 @@ type LinkRenderData = GraphicsInfo & {
 
 type NodeRenderData = GraphicsInfo & {
   simulationData: NodeData
-  label: Text
+  label: PixiText
 }
 
 const localStorageKey = "graph-visited"
@@ -69,6 +54,32 @@ type TweenNode = {
 }
 
 async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
+  type D3Module = typeof import("d3")
+  type PixiModule = typeof import("pixi.js")
+  type TweenModule = typeof import("@tweenjs/tween.js")
+  const [d3, pixi, tween] = (await Promise.all([
+    // @ts-ignore
+    import("https://cdn.jsdelivr.net/npm/d3@7.9.0/+esm"),
+    // @ts-ignore
+    import("https://cdn.jsdelivr.net/npm/pixi.js@8.15.0/+esm"),
+    // @ts-ignore
+    import("https://cdn.jsdelivr.net/npm/@tweenjs/tween.js@25.0.0/+esm"),
+  ])) as [D3Module, PixiModule, TweenModule]
+  const {
+    forceSimulation,
+    forceManyBody,
+    forceCenter,
+    forceLink,
+    forceCollide,
+    forceRadial,
+    zoomIdentity,
+    select,
+    drag,
+    zoom,
+  } = d3
+  const { Text, Graphics, Application, Container, Circle } = pixi
+  const { Group: TweenGroup, Tween: Tweened } = tween
+
   const slug = simplifySlug(fullSlug)
   const visited = getVisited()
   removeAllChildren(graph)
@@ -286,7 +297,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
 
       if (hoveredNodeId === nodeId) {
         tweenGroup.add(
-          new Tweened<Text>(n.label).to(
+          new Tweened<PixiText>(n.label).to(
             {
               alpha: 1,
               scale: { x: activeScale, y: activeScale },
@@ -296,7 +307,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
         )
       } else {
         tweenGroup.add(
-          new Tweened<Text>(n.label).to(
+          new Tweened<PixiText>(n.label).to(
             {
               alpha: n.label.alpha,
               scale: { x: defaultScale, y: defaultScale },
@@ -328,7 +339,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
         alpha = n.active ? 1 : 0.2
       }
 
-      tweenGroup.add(new Tweened<Graphics>(n.gfx, tweenGroup).to({ alpha }, 200))
+      tweenGroup.add(new Tweened<PixiGraphics>(n.gfx, tweenGroup).to({ alpha }, 200))
     }
 
     tweenGroup.getAll().forEach((tw) => tw.start())
@@ -366,9 +377,9 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   const stage = app.stage
   stage.interactive = false
 
-  const labelsContainer = new Container<Text>({ zIndex: 3, isRenderGroup: true })
-  const nodesContainer = new Container<Graphics>({ zIndex: 2, isRenderGroup: true })
-  const linkContainer = new Container<Graphics>({ zIndex: 1, isRenderGroup: true })
+  const labelsContainer = new Container<PixiText>({ zIndex: 3, isRenderGroup: true })
+  const nodesContainer = new Container<PixiGraphics>({ zIndex: 2, isRenderGroup: true })
+  const linkContainer = new Container<PixiGraphics>({ zIndex: 1, isRenderGroup: true })
   stage.addChild(nodesContainer, labelsContainer, linkContainer)
 
   for (const n of graphData.nodes) {

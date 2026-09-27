@@ -28,7 +28,9 @@ export function pageResources(
   staticResources: StaticResources,
 ): StaticResources {
   const contentIndexPath = joinSegments(baseDir, "static/contentIndex.json")
+  const searchIndexPath = joinSegments(baseDir, "static/searchIndex.json")
   const contentIndexScript = `const fetchData = fetch("${contentIndexPath}").then(data => data.json())`
+  const searchIndexScript = `const fetchSearchData = () => fetch("${searchIndexPath}").then(data => data.json())`
 
   const resources: StaticResources = {
     css: [
@@ -47,7 +49,7 @@ export function pageResources(
         loadTime: "beforeDOMReady",
         contentType: "inline",
         spaPreserve: true,
-        script: contentIndexScript,
+        script: `${contentIndexScript};${searchIndexScript}`,
       },
       ...staticResources.js,
     ],
