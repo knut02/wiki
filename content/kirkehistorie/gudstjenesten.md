@@ -1,10 +1,10 @@
 ---
 title: "Gudstjenesten — historisk og teologisk"
-description: "Hva er kristen gudstjeneste? Fra husmenigheter og Didache via Justins klassiske beskrivelse, Tertullian og Apostoliske Konstitusjoner til dagens struktur — gudstjenestens elementer, utvikling og teologiske mening."
+description: "Komplett innføring i kristen gudstjeneste — fra husmenigheter og Didache via Justins klassiske beskrivelse, eukaristi som bankett, dåpsliturgien, bønnen, sang, Tertullian og Apostoliske Konstitusjoner til struktur og teologisk mening."
 date: 2025-06-13
 kategori: Kirkehistorie
 sub-kategori: Oldkirken — Gudstjeneste og kirkeliv
-tags: [gudstjeneste, liturgi, Didache, Justin Martyr, Tertullian, Apostoliske Konstitusjoner, stasjonsdager, struktur, ordning, historisk]
+tags: [gudstjeneste, liturgi, Didache, Justin Martyr, Tertullian, Apostoliske Konstitusjoner, stasjonsdager, eukaristi, dåp, tidebønn, struktur, historisk]
 updated: 2026-09-29
 sources: 5
 ---
@@ -29,47 +29,37 @@ Disse to dimensjonene — Guds nedstigning og menighetens respons — er gudstje
 
 ## Oldkirkens varierte utgangspunkt
 
-McGowan (2014) understreker et viktig poeng som ofte glemmes: Den tidligkristne gudstjenesten var ikke én ting. Det fantes stor variasjon mellom menigheter i ulike byer, regioner og kulturelle kontekster. Tanken om en opprinnelig «enkel, ensartet» gudstjeneste som siden ble mer kompleks og differensiert, er en myte.
-
-Det vi kan si er at den tidligkristne gudstjenesten hadde en rekke felles elementer — hentet fra den jødiske synagogetradisjonen og formet av Jesu egne handlinger — men at disse elementene ble kombinert og vektlagt ulikt.
+McGowan (2014) understreker at den tidligkristne gudstjenesten ikke var én ting. Det fantes stor variasjon mellom menigheter i ulike byer, regioner og kulturelle kontekster. Tanken om en opprinnelig «enkel, ensartet» gudstjeneste som siden ble mer kompleks, er en myte. Det vi kan si er at den tidligkristne gudstjenesten hadde en rekke felles elementer — hentet fra den jødiske synagogetradisjonen og formet av Jesu egne handlinger — men at disse elementene ble kombinert og vektlagt ulikt.
 
 ---
 
 ## Jødiske røtter
 
-Kirkens gudstjenesteliv er ikke skapt fra ingenting. Det vokste ut av jødisk synagogepraksis, som igjen hadde røtter i Mosebøkenes offertjeneste og GT's bønnetradisjon.
+Kirkens gudstjenesteliv vokste ut av jødisk synagogepraksis. Fra synagogen arvet kirken: lesning av Skriften med utleggelse, tre daglige bønnetider, vending mot øst, salmesang, og ukentlig samling — sabbaten erstattet av «Herrens dag» til minne om oppstandelsen.
 
-Fra synagogen arvet kirken:
-
-- **Lesning av Skriften** — fra GT og profetene, etterfulgt av utleggelse
-- **Bønnens rytme** — tre daglige bønnetider (morgen, middag, kveld; jf. Dan 6:10)
-- **Vending mot øst** — rettet mot Jerusalem
-- **Salmesang** — Salmenes bok som den fremste bønneboken
-- **Ukentlig samling** — sabbaten ble erstattet av «Herrens dag», den første dag i uken (søndag), til minne om oppstandelsen
-
-Urkirken i Jerusalem (Apg 2) kombinerte i begynnelsen både tempelbesøk og husfellesskap. Men etter hvert — særlig etter templets fall i 70 e.Kr. — ble synagogepraksis den dominerende modellen for menighetens samliv.
+Urkirken i Jerusalem (Apg 2) kombinerte i begynnelsen både tempelbesøk og husfellesskap. Etter templets fall i 70 e.Kr. ble synagogepraksis den dominerende modellen.
 
 ---
 
 ## Husmenigheter — de første to-tre hundre år
 
-De første kristne hadde ingen særskilte gudstjenestebygg. De møttes i private hjem — *huskirker* — der familier åpnet sine hus for menigheten.
+De første kristne hadde ingen særskilte gudstjenestebygg. De møttes i private hjem — *huskirker*. Betegnelsen «Akvila og Priska og menigheten i deres hus» (Rom 16:5) viser at familien som eide rommet, naturlig dannet menighetens kjerne. Gudstjenestens rammer var uformelle etter moderne standard: Ikke kirkebygning, ikke fast liturgi, ikke presteklær.
 
-Pedersen (2012) viser at disse husmenighetene i en by som Roma var tallrike og geografisk spredte. Betegnelsen «Akvila og Priska og menigheten i deres hus» (Rom 16:5) viser at familien som eide rommet, naturlig dannet menighetens kjerne. Gudstjenestens rammer var dermed uformelle etter moderne standard: Ikke kirkebygning, ikke fast liturgi, ikke presteklær.
+Tre hundre år seinere — ved Konstantins tid — holdt gudstjenesten til i prangende basilika-kirker med klart definerte roller for biskop, presbyter, diakon og lekfolk, med faste liturgiske formularer og et gjennomtenkt rom der arkitektur og bevegelse kommuniserte teologi. Mellom disse to punktene ligger en av kirkehistoriens mest fascinerende utviklingslinjer — og vi kan følge den delvis gjennom det vi har bevart.
 
 ---
 
 ## Didache — kirkens eldste håndbok
 
-*Didache* («De tolv apostlers lære», ca. 70–90 e.Kr.) er det eldste bevarte dokumentet om kristen gudstjenesteliv utenfor NT. Den gir konkrete instrukser om:
+*Didache* («De tolv apostlers lære», ca. 70–90 e.Kr.) er det eldste bevarte dokumentet om kristen gudstjenesteliv utenfor NT:
 
-**Dåp (kap. 7):** Fortrinnsvis i rennende vann etter en katekumenperiode, men med pragmatiske alternativer.
+**Dåp (kap. 7):** Fortrinnsvis i rennende vann etter en katekumenperiode, med pragmatiske alternativer.
 
 **Faste (kap. 8):** Kristne faster onsdag og fredag — bevisst forskjellig fra jødenes mandag og torsdag.
 
 **Bønn (kap. 8):** Fadervår bes tre ganger daglig, med doksologien «for din er makten og æren i evighet».
 
-**Nattverd (kap. 9–10):** Bønn over kalken, deretter over brødet. Forsamlingen avslutter med *Marana ta* — «Kom, Herre!» Bare døpte kan delta.
+**Nattverd (kap. 9–10):** Forsamlingen avslutter med *Marana ta* — «Kom, Herre!» Bare døpte kan delta.
 
 **Søndagens samling (kap. 14):** «Søndagen for Herren skal dere samles, bryte brødet og takke — etter først å ha bekjent syndene, for at offeret skal være rent.»
 
@@ -77,71 +67,131 @@ Pedersen (2012) viser at disse husmenighetene i en by som Roma var tallrike og g
 
 ## Justins klassiske beskrivelse (ca. 155 e.Kr.)
 
-Den første detaljerte beskrivelsen av en søndagsgudstjeneste stammer fra Justin Martyr i Roma. I sin *Første apologi* beskriver han gudstjenesten for å vise at kristne ikke driver med hemmelige ritualer:
+Justin Martyr beskriver søndagsgudstjenesten i Roma for å vise at kristne ikke driver med hemmelige ritualer:
 
-> «På den dagen som kalles solens dag, samles alle som bor i byene og på landet på ett sted. Da leses det fra apostlenes memoirs (evangeliene) eller fra profetenes skrifter, så lenge tid tillater det. Deretter holder presidenten en tale der han formaner og oppfordrer til etterfølgelse av disse gode ting. Så reiser vi oss alle og ber [...] bæres frem brød og vin og vann, og presidenten sender bønner og takkebønner til Gud, etter evne, og folket svarer: Amen.»
+> «På den dagen som kalles solens dag, samles alle [...] Da leses det fra apostlenes memoirs eller fra profetenes skrifter, så lenge tid tillater det. Deretter holder presidenten en tale der han formaner og oppfordrer til etterfølgelse av disse gode ting. Så reiser vi oss alle og ber [...] bæres frem brød og vin og vann, og presidenten sender bønner og takkebønner til Gud, etter evne, og folket svarer: Amen.»
 
-I Justins beskrivelse er gudstjenestens grunnstruktur allerede klar: Skriftlesning → Preken → Felles bønn → Eukaristi → Kollekt. Dette mønsteret er i sin grunnform identisk med søndagsgudstjenesten i de fleste kristne tradisjoner i dag, nesten 1900 år senere.
+Strukturen: Skriftlesning → Preken → Felles bønn → Eukaristi → Kollekt. Dette mønsteret er i sin grunnform identisk med søndagsgudstjenesten i de fleste kristne tradisjoner i dag.
 
 ---
 
-## Gudstjenestens fem hovedelementer
+## Måltidet — eukaristi som bankett
 
-McGowan (2014) organiserer tidligkristens gudstjenesteliv rundt fem hovedelementer:
+### Det antikke bankettmønsteret
 
-### 1. Bønn
+De første kristne møttes til måltider — dette var ikke et sosialt tillegg til gudstjenesten, det *var* gudstjenesten. Et antikt formelt måltid (*deipnon*) hadde forventet struktur: gjestene lå til bords, begynte med bønn eller libation, spiste, og avsluttet med symposion der vin, samtale og sang hørte med.
 
-**Stående med løftede armer** (*orans*): Den vanligste bønneformen — knefall var reservert for botssituasjoner og ble unngått på søndager (vi er oppstandne med Kristus).
+Tidligkristne samlinger gjenkjennes fullt ut i dette mønsteret. Tertullian (ca. 200) beskriver en kristen middag i Kartago: «De er tilfredse som de som husker at de også må prise Gud om natten; de snakker som de som vet at Herren hører på. Etter håndvasking og tenning av lys inviteres hver enkelt til å synge offentlig for Gud [...] Tilsvarende lukker bønn festen.»
 
-**Vendt mot øst** (*oriens*): Symbolet på Kristi gjenkomst — grunnen til at kirkebygg ble «orientert» med koret mot øst.
+### Brød, vin og mat i den antikke verden
 
-**Tidebønnen**: Fra Didaches tre daglige bønnetider utviklet klostervesenet en full «timeorden» (*Liturgia Horarum*) med bønn ved åtte faste tider gjennom døgnet.
+Brød og vin var ikke symbolvalgt — de var basismatvarer. De fleste i Middelhavsverden levde i stor grad av brød, med olje og noe grønnsaker som tilbehør. Vin, alltid blandet med vann, hadde næringsverdi og var tilgjengelig selv for slaver og enker. Brød og vin var altså de mest tilgjengelige og nødvendige matvarene — noe som understreket det universelt inkluderende ved måltidet.
 
-### 2. Måltid
+### Fra Jesu siste måltid til eukaristien
 
-McGowans mest originale bidrag: Den tidligkristne nattverd var opprinnelig et reelt festmåltid — ikke et miniatyr-ritual. Paulus' kritikk i 1 Kor 11 («én er sulten mens en annen er full») bekrefter dette. Det rituelle brødet og begeret ble gradvis løsrevet fra det større måltidet etter hvert som menighetene vokste. Agapémåltidet overlevde i mange tradisjoner som et separat kjærlighetsmåltid.
+Jesu siste måltid med disiplene var — etter de tre synoptiske evangelienes fremstilling — et påskemåltid. De første kristne husket ikke bare det siste, men *mange* måltider med Jesus, og disse ble modellen for deres egne samlinger. «Brødbrytelsen» i Apg 2:42 er ikke et minimalt ritual, men betegnelse for hele det regulære kristne fellesskapsmåltidet.
 
-### 3. Ordet
+Eukaristien vokste frem etter hvert som måltidet fikk fastere liturgisk form — med velsignelse av brød og beger, ordene fra institusjonsnatten, og gradvis en tydeligere skjelning mellom de sakramentale elementene og resten av måltidet.
 
-I oldkirken ble tekstene lest av en lekmann (lektor) — ikke av presidenten selv. Etter lesningene fulgte presidentens homilie. Prosessen med å fastlegge NT-kanon var delvis en prosess med å fastlegge hvilke tekster som skulle leses. Katekumener fikk være til stede under ordets del, men ble bedt om å forlate rommet før nattverd.
+---
 
-### 4. Dåpen
+## Dåpen — initiasjon og overgang
 
-**Katekumenat**: Nyomvendte gjennomgikk en lengre forberedelsesperiode — opptil tre år ifølge *Den apostoliske tradisjon* (Hippolyt, ca. 215–220) — med undervisning, eksorsismer, faste og bønn.
+### Dåpens jødiske bakgrunn
 
-**Påskenatt**: I vestkirkens klassiske tradisjon ble dåp utført påskenatt — med tydelig symbolikk: Israel gjennom Rødehavet, de troende gjennom dåpens vann til oppstandelsens liv.
+Rituell renselse med vann var dypt forankret i jødisk fromhet: *miqva'ot* (ritualbad ved templets inngang), esseernes regelmessige ritualbad ved Qumran, og proselyttdåpen for konvertitter. Selve bevegelsen inn og ut av vannet markerte overgangen fra vanlig liv til hellig sfære.
 
-**Tredelt neddykking** ved treenighetens navn var standardformen, etterfulgt av salvelse med olje, hvit drakt og lys.
+### Johannes Døperen
 
-### 5. Tid, rom og sang
+Johannes' dåp radikaliserte den eksisterende praksisen. Det var ikke en gjentatt renselse, men en *engangshandling* — en overgang fra én tilstand til en annen i lys av Guds kommende dom. Alle fire evangeliene siterer Jes 40:3: «Rydd vei for Herren.»
 
-**Søndagen** begrunnes av Justin: «Fordi Jesus Kristus stod opp fra de døde på denne dag.»
+### Jesu dåp og den kristne dåpen
 
-**Rommet** gikk fra huskirker til tilpassede *domus ecclesiae* til, etter Konstantin (313), storstilte basilikaer som la til rette for prosesjon og hierarkisk plassering.
+Kristen dåp ble tidlig knyttet til fire nøkkelelementer: syndsforlatelse, Åndens gave (Apg 2:38), innlemmelse i Kristi kropp, og deltakelse i Kristi død og oppstandelse (Rom 6:3–4).
 
-**Sang**: Paulus nevner «salmer, hymner og åndelige sanger» (Kol 3:16). Augustin bekjente sin ambivalens: Han var bekymret for å la musikken rive ham bort fra tekstens mening — og likte det.
+### Dåpspraksis i oldkirken
+
+*Didake*: rennende vann fortrinnsvis, stående vann godtas, neddykking tre ganger ved treenighetsformelen. *Justin* (ca. 150): lengre forberedelsesprosess med undervisning, faste og bønn, etterfulgt av direkte inngang til den eukaristiske forsamlingen.
+
+Tertullian beskriver dåpens liturgiske rekkefølge: tredelt neddykking, deretter melk og honning ved dåpen — symbol på inntreden i det lovede land — den tidligste bevarte post-dåpsliturgien vi kjenner.
+
+---
+
+## Bønnen — timer, former og tekster
+
+### Jødisk bønnpraksis som utgangspunkt
+
+De første kristne ba til faste tidspunkter — en videreføring av jødisk fromhetspraksis. Morgen- og kveldsbønn var grunnmønsteret, mens midteftermiddag («den niende time») var tidspunktet for den andre tempeloffingen. Apg 3:1 — Peter og Johannes «gikk opp til tempelet ved bønnens time, den niende time» — viser at de første kristne i Jerusalem fortsatte i dette mønsteret.
+
+### Tidebønnen i oldkirken
+
+Fra tosidig til tresidig: *Didake* (kap. 8) foreskriver Fadervår tre ganger daglig. Tertianen, sekstianen og nonianen (tredje, sjette og niende time) ble de klassiske tidebønntidspunktene, som til slutt strukturerte klostrenes *Liturgia Horarum*.
+
+### Bønnens form og kropp
+
+**Stående** (*orans*) — normalt for bønn. På søndager forbødt å knele — oppstandelsesdagen var festdag, ikke botdag. **Orientert** — mot øst, Kristus som «rettferdighetens sol» og den kommende Herre. **Med utstrakte hender** — håndflatene vendt opp, kjent fra katakombekunsten. **Knefall** — reservert for særlig intense bønnstunder og bot.
+
+### Fadervår som bønnens kjerne
+
+*Didake* kap. 8 gjengir Fadervår og foreskriver at det bes tre ganger daglig. Det er den mest konkrete felles bønnteksten fra den aller tidligste kristne tid — ikke primært en formel, men et mønster som former bønneren.
+
+---
+
+## Sang og musikk
+
+Sang hørte med i banketttradisjonen. Paulus oppfordrer menigheten til å synge «salmer, hymner og åndelige sanger» i stedet for å bli drukne av vin — en eksplisitt kontrast til det hedenske symposion (Ef 5:18–20). *Plinius den yngre* (ca. 112) rapporterer til keiser Trajan at kristne sang til Kristus «som til en gud» tidlig om morgenen.
+
+Tertullians beskrivelse av en Kartago-agapé rundt år 200 viser mangfoldet: «Etter håndvask og tenning av lys inviteres hver enkelt til å synge offentlig for Gud — enten fra den hellige skrift, eller fra sin egen evne.» Sang var ikke bare korsang, men en rekke individuelle bidrag.
+
+Oldkirken var generelt tilbakeholden med instrumenter. Stemmen alene dominerte.
+
+---
+
+## Lesning og forkynning
+
+Apg 2:42 setter «apostlenes lære» øverst. Den tidlige kirken arvet synagogetradisjonen med lesning fra Skriftene og påfølgende utleggelse. Justin Martyr beskriver søndagssamlingen: «Minnene om apostlene eller profetenes skrifter leses, så lenge tid tillater det. Deretter formaner forstanderen muntlig og oppfordrer til etterfølgelse av det gode.» Lesning, preken og eukaristi er hos Justin tett sammenvevd.
+
+---
+
+## Søndagen — den åttende dag
+
+**Sabbat og søndag** levde lenge side om side. Didake nevner ikke Sabbaten som erstattet. Ignatius av Antiokia (ca. 110) tar kraftig oppgjør — men hans polemikk antyder at ikke alle tenkte slik.
+
+**Den åttende dag.** Barnabasbrevet (ca. 100) er den tidligste udiskutable kilde: «Vi feirer den åttende dag med glede, den dag da Jesus også stod opp fra de døde.» Søndagen er ikke bare minnedag for fortiden, men forvarslet om det nye skaperverket.
+
+**Nattverden flyttes.** De første søndagsfeiringene var trolig lørdag kveld — den jødiske Sabbat var over. Etter hvert skiftet måltidet til søndagsmorgen. Dette skiftet fra kveldsbankett til morgensamling er sannsynligvis selve opprinnelsen til søndag som «gudstjeneste» i moderne forstand.
+
+---
+
+## Dåpens liturgi
+
+Apostoliske Konstitusjoner bok VII gir den liturgiske praksisen for dåp — forbeholdt voksne katekumener etter en forberedelsestid på opp til tre år. Påskenattens dåp var høydepunktet i kirkeåret: etter fastetiden ble katekumenene neddykket i vann, salvet med olje, og ikledd hvite klær. Apostoliske Konstitusjoner utdyper den trinitariske formelen: neddykking i Faderens, Sønnens og Den hellige ånds navn — slik den fremdeles brukes.
+
+---
+
+## Kirkens tidebønn
+
+Parallelt med søndagsgudstjenesten utviklet oldkirken en daglig bønnestruktur. Tertullian og Cyprian beskriver begge bønn tre ganger daglig (3., 6. og 9. time) pluss morgen- og kveldsbønn. Dette er røttene til det monastiske officium som Benedikt av Nursia seinere kodifiserte som *Opus Dei* — «Guds verk» — med sju daglige bønnetider.
 
 ---
 
 ## Apostoliske Konstitusjoner (ca. 380 e.Kr.)
 
-Apostoliske Konstitusjoner er en enorm samling (åtte bøker) av regler, instruksjoner og liturgier fra rundt 380 e.Kr. — vår rikeste enkeltkilden til oldkirkelig gudstjenestepraksis.
+Apostoliske Konstitusjoner er en enorm samling (åtte bøker) av regler, instruksjoner og liturgier — vår rikeste enkeltkilden til oldkirkelig gudstjenestepraksis.
 
-**Kirkerommet som skip:** Bok II beskriver kirkebygget bevisst formet som et skip: Biskopen i stolen (*cathedra*) — derav «katedrale» — flankert av presbyteriet; diakonene i bevegelse som skipsmannskapet.
+**Kirkerommet som skip:** Bok II beskriver kirkebygget som et skip: Biskopen i stolen (*cathedra*) — derav «katedrale» — flankert av presbyteriet; diakonene i bevegelse som skipsmannskapet.
 
 **Søndagsgudstjenestens ordo:** GT-lesninger → Salmene (menigheten synger med) → Paulus-brevene → Evangeliene (alle reiser seg; diakonen leser).
 
 **De tidlige liturgiene:** Bok VIII inneholder tekstene til tre tidlige eukaristiske liturgier: Jakobs liturgi (syrisk-palestinsk), Markus-liturgien (egyptisk) og en mer generell form — alle med lovprisning, anamnesis, epiklese og forbønner.
 
-**Hva gudstjenesten kommuniserte:** Hvert element bar teologisk mening. GT og NT vitnet om frelseshistoriens enhet; katekumenenes avgang understreket at nattverd er for de døpte; «Amen» var hele menighetens aktive deltakelse. Gudstjenestens struktur var oldkirkens levende katekese.
-
 ---
 
 ## Tertullian om det kristne samfunnet
 
-Tertullians *Apologeticum* 39 (ca. 197 e.Kr.) er en av oldkirkens viktigste beskrivelser av en kristen samling — skrevet som forsvar overfor romerske myndigheter:
+Tertullians *Apologeticum* 39 (ca. 197 e.Kr.) som forsvar overfor romerske myndigheter:
 
-> «Vi er et fellesskap knyttet sammen ved fælles religiøs bekjennelse, ved disiplinens enhet og ved håpets bånd. Vi samles for å lese våre hellige skrifter, dersom periodens særtrekk gjør at vi trenger forvarsel eller påminnelse. Under alle omstendigheter nærer vi troen med de hellige ord, vi oppreiser håpet, vi gjør tilliten fastere.»
+> «Vi er et fellesskap knyttet sammen ved fælles religiøs bekjennelse, ved disiplinens enhet og ved håpets bånd. Vi samles for å lese våre hellige skrifter [...] Under alle omstendigheter nærer vi troen med de hellige ord, vi oppreiser håpet, vi gjør tilliten fastere.»
 
 Han beskriver den månedlige kollekten — frivillig, til fattige, enker, foreldreløse og fengslede. Og han gjengir hånen fra utsiden: *«Se, sier de, hvor de elsker hverandre!»*
 
@@ -149,9 +199,7 @@ Han beskriver den månedlige kollekten — frivillig, til fattige, enker, foreld
 
 ## Faste og de ukentlige stasjonsdager
 
-Fasting strukturerte ukedagene og ble en markør for kristen identitet.
-
-**Onsdag og fredag** var de kristne fastedagene ifølge Didake — i bevisst kontrast til de fariseiske mandags- og torsdagsfastene (Didake 8:1). **Stasjon** (*statio*) — det latinske militærordet for «vaktpost» — ble betegnelsen for disse dagene. Hermas' Hyrde beskriver idealet: Faste, bønn, og gi det man sparer til enker og foreldreløse. Innen midten av det 3. århundret fikk dagene kristologisk begrunnelse: onsdag = forræderi, fredag = korsfestelse.
+**Onsdag og fredag** var de kristne fastedagene — i bevisst kontrast til de fariseiske mandags- og torsdagsfastene (Didake 8:1). **Stasjon** (*statio*) — det latinske militærordet for «vaktpost» — ble betegnelsen for disse dagene. Hermas' Hyrde beskriver idealet: Faste, bønn, og gi det man sparer til enker og foreldreløse. Innen midten av det 3. århundret fikk dagene kristologisk begrunnelse: onsdag = forræderi, fredag = korsfestelse.
 
 ---
 
@@ -176,7 +224,7 @@ Til tross for enorm variasjon mellom luthersk søndagsgudstjeneste, katolsk mess
 
 **Gjentakelse som formende kraft:** James K.A. Smith kaller dette «liturgical formation»: Gudstjenestens ritualer og gjentakelser former, over tid, hva vi elsker — ikke bare hva vi tror.
 
-**Forutsmak av det kommende:** «Hver gang dere spiser dette brødet og drikker av begeret, forkynner dere Herrens død, inntil han kommer» (1 Kor 11:26). Gudstjenesten holder fortid (Jesu død og oppstandelse), nåtid (menighetens samling) og fremtid (Herrens gjenkomst) i én og samme handling. Didaches *Marana ta* — «Kom, Herre!» — er det eukaristiske ropet som binder alle tre tidsplan sammen.
+**Forutsmak av det kommende:** «Hver gang dere spiser dette brødet og drikker av begeret, forkynner dere Herrens død, inntil han kommer» (1 Kor 11:26). Didaches *Marana ta* — «Kom, Herre!» — er det eukaristiske ropet som binder fortid, nåtid og fremtid sammen.
 
 ---
 

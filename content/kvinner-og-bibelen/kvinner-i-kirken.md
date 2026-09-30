@@ -147,6 +147,24 @@ Det er dokumentert:
 
 ---
 
+## Del 4: Oldkirkens kvinner i tjeneste — epigrafisk evidens
+
+Belleville dokumenterer i Blomberg-volumet primærkilder som sjelden omtales i debatten:
+
+**Plinius den yngre (ca. 112 e.Kr.)** rapporterte til keiser Trajan at de kristne hadde to kvinner kalt *ministrae* (latin for *diakonoi*) som ble torturert for informasjon om menigheten. Dette er den tidligste ikke-kristne kilde til kvinner i offisiell menighetstjeneste.
+
+**Apostoliske Konstitusjoner 3.15 og 8.20** (ca. 380) inneholder et fullstendig ordinasjonsrituale for kvinner-diakonisser — med håndspåleggelse og bønn. Tittelen *diakonissa* dukker først opp i Nikeas kanon 19 (325 e.Kr.), men praksisen er eldre.
+
+**Kalkedons kanon 15** (451 e.Kr.): Kvinner kan ikke ordineres til diakon før de er 40 år — noe som forutsetter en faktisk ordinasjonspraksis.
+
+**Hippolyts Apostoliske Tradisjon** (ca. 215) beskriver enker i en formell tjenesteordning, men uten håndspåleggelse — Hippolyt er tydelig på at de ikke er ordinert.
+
+**Epigrafiske funn:** Belleville dokumenterer 23 innskrifter fra første til femte århundret som identifiserer kvinner som *diakonos* eller *diakonissa* i kristne menigheter, spredt fra Roma til Sør-Italia, Hellas, Lilleasia og Syria. Disse er ikke ærestitler — de forekomm i gravstedinnskrifter som dokumenterer faktiske tjenester.
+
+Konklusjon: Uansett posisjon i den systematiske debatten, er det historisk godt dokumentert at kvinner hadde formelle tjenestefunksjoner i oldkirken, at noen av disse inkluderte ordinasjon, og at praksisen var utbredt over hele Middelhavsverden.
+
+---
+
 ## Del 5: Hva er på spill teologisk?
 
 **Peeler (2022)** løfter debatten til et dypere teologisk nivå: Mye av komplementarismens argumentasjon hviler på en forestilling om at Gud *Faderen* er maskulin, og at Jesu mannlighet reflekterer dette. Men som Peeler viser: Faderen er ikke mannlig (Joh 4:24; 1 Mos 1:27 — *begge* kjønn avspeiler Guds bilde), og Jesu mannlighet er unik fordi han ble unnfanget uten biologisk mannlig avling. «The God revealed in the New Testament harbors no preference for males because God the Father is not male.»

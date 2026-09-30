@@ -81,6 +81,21 @@ Ester er en frelsefigur i eksil — og en kvinne som bruker sin kunnskap, relasj
 
 ---
 
+## Seremonielle roller og synagogeledere
+
+**Kvinner i tabernakkeltjenesten:** 2 Mos 38:8 nevner kvinner som «tjente ved inngangen til telthelligdommen» — en seremoniel tilknytning til helligdommen som normalt er forbeholdt menn. 1 Sam 2:22 gjentar formuleringen. Belleville (*Women Leaders and the Church*, 2000) dokumenterer at tittelen «mor» (*ummah*) ble gitt til fremstående kvinner i de jødiske fellesskapene — analogt med mannlige «fedre» — som en anerkjennelse av lederskap og myndighet.
+
+**Noadiah — profetinne i motstandsrollen:** Neh 6:14 nevner profetinnen Noadiah blant dem som prøvde å hindre Nehemja i å bygge muren. At hun er identifisert ved navn og tittel, og at hun representerte en organisert opposisjon, indikerer en offentlig profetisk autoritet.
+
+**Synagogeledere i diasporajødedommen:** Belleville dokumenterer minst syv innskrifter fra første- og annetårshundret som gir kvinner tittelen «synagogeoverstyrer» (*archisynagogas*) og «eldste» (*presbytera*) i jødiske menigheter rundt Middelhavet:
+- «Rufina, jødinne, *synagogeoverstyrer*, bygde denne graven» (Smyrna, 2. årh.)
+- «Sophia av Gortyn, *eldste* og leder av synagogen i Kisamos» (*CII* 731c)
+- Seks ytterligere innskrifter med tittelen *presbytera* fra Italia, Hellas og Asia Minor
+
+Disse titler var ikke ærestitler uten innhold — de reflekterer faktiske ledelsesfunksjoner i diasporamenighetene. Det gir kontekst til NTs omtale av kvinner i tjenesteroll.
+
+---
+
 ## Mønster: Guds handlinger bryter strukturene
 
 Det gjennomgående mønsteret i GT er at Gud handler gjennom og for kvinner på måter som bryter kulturelle forventninger:
