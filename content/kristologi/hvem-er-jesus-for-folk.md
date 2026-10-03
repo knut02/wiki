@@ -1,10 +1,11 @@
 ---
 title: "Hvem er Jesus for vanlige kirkegjengere?"
-description: "Uavhengig av hva skrift og tradisjon lærer, vil vi ikke la Jesus Kristus være noe mer eller mindre enn det vi tror vi trenger for vår frelse.» — Tyron Inbody, sitert i Christie (2007)"
+description: "Uavhengig av hva skrift og tradisjon lærer, vil vi ikke la Jesus Kristus være noe mer eller mindre enn det vi tror vi trenger for vår frelse. Ann Christies studie av ordinær kristologi, og spørsmålet om hvem man er i møtet med Jesus."
 date: 2025-05-10
+updated: 2026-09-29
 kategori: Kristologi
 sub-kategori: Jesu identitet
-tags: [hvem er Jesus, folk, kristologi, meningsmangfold, kulturell Jesus, Inbody]
+tags: [hvem er Jesus, folk, kristologi, meningsmangfold, kulturell Jesus, Christie, subordinasjonisme, arianisme]
 kilder: 2
 ---
 
@@ -12,7 +13,7 @@ kilder: 2
 
 Akademisk kristologi handler om hva biskoper, konsil og professorer har fastslått om Jesu person. Men hva tror *vanlige* kirkegjengere — de som møter opp til søndagsgudstjeneste, sier troen, synger salmene?
 
-**Ann Christie** (2007) gjennomførte dybdeintervjuer med 45 anglikanske kirkegjengere i Yorkshire. Hun definerer «ordinær kristologi» som Jesus forståelsen hos troende uten formell teologisk utdannelse. Funnene er overraskende — og teologisk utfordrende.
+**Ann Christie** (2007) gjennomførte dybdeintervjuer med 45 anglikanske kirkegjengere i Yorkshire. Hun definerer «ordinerær kristologi» som Jesusforståelsen hos troeende uten formell teologisk utdannelse. Funnene er overraskende.
 
 ---
 
@@ -22,72 +23,54 @@ Christie identifiserer tre hovedtyper:
 
 ### 1. Funksjonell kristologi (ca. 30 av 45)
 
-Den klart dominerende gruppen. Kjennetegn:
+Den klart dominerende gruppen. Jesus er ikke Gud i ontologisk forstand — han er Guds agent, representant, talsrør. «Jesus *fungerer* som Gud», men *er* ikke Gud. Ingen lære om pre-eksistens. Treenigheten er et kjent begrep, men uten reelt innhold.
 
-- Jesus er ikke Gud i ontologisk forstand — han er Guds agent, representant, talerør
-- «Jesus fungerer som Gud» — han *handler* for Gud, men *er* ikke Gud
-- Ingen lære om pre-eksistens (Jesus som evig Guds Sønn før inkarnasjonen)
-- Treenigheten er et kjent begrep, men uten reelt innhold — «tre ting» å navngi
-- Gud = Faderen. Periode.
+Typiske utsagn: «Jeg tror ikke Jesus var Gud. Han kunne ikke ha vært det... fordi måten han snakket om seg selv på. Hvis han ber til Gud, hvordan kan han *være* Gud?»
 
-Typiske utsagn:
-> «Jeg tror ikke Jesus var Gud. Han kunne ikke ha vært det... fordi måten han snakket om seg selv på. Hvis han ber til Gud, hvordan kan han *være* Gud?»
-
-> «Gud er Gud, og Jesus er hans sønn eller hva det nå er... Jeg tror absolutt ikke at Jesus og Gud er det samme.»
-
-Christie beskriver dette som **subordinasjonistisk** og i teologisk forstand **ariansk** — Faderen er den egentlige Gud, Sønnen er underordnet. Denne gruppen er typisk overbevist om at de tror ortodokst — de sier «ja» til troen og til nikensk bekjennelse — men hva de faktisk tror på, er ikke nikensk ortodoksi.
-
-**Paradokset**: De fleste av dem trenger ikke Jesus til å *være* Gud for at han skal fungere som frelser for dem. Han frelser primært som forbilde og åpenbarer — og det krever ikke guddommelig status.
+Christie beskriver dette som **subordinasjonistisk** og i teologisk forstand **arianistisk** — Faderen er den egentlige Gud, Sønnen er underordnet. Paradokset: De fleste tror de holder ortodoks tro. De sier «ja» til trosbekjennelsen — men hva de faktisk tror er ikke nikensk ortodoksi.
 
 ### 2. Ontologisk kristologi (ca. 9 av 45)
 
-Disse holder den klassiske nikensk-kalkedonske tro: Jesus er Gud, i fullt ontologisk forstand. Alle seks evangelikale i utvalget faller her. Kjennetegn:
-
-- Lære om pre-eksistens: Jesus var hos Gud «fra begynnelsen»
-- «I begynnelsen var Ordet» — de identifiserer Jesus med Logos
-- Treenigheten er reell, ikke bare et symbol for «tre ting»
-- Inkarnasjon: den pre-eksistente Jesus tok på seg kjøtt i Marias morsliv
-
-Disse har *fått eksplisitt undervisning* i at Jesus er Gud. Uten slik undervisning lærer folk det ikke av seg selv — hverken fra liturgien eller fra hverdagslig gudstjenesteerfaring.
+Holder den klassiske nikensk-kalkedonske tro: Jesus er Gud i fullt ontologisk forstand. Alle seks evangelikale i utvalget faller her. De har fått eksplisitt undervisning i at Jesus er Gud — uten slik undervisning lærer folk det typisk ikke av seg selv.
 
 ### 3. Skeptisk kristologi (ca. 6 av 45)
 
-Seks har alvorlig tvil om eller avviser Jesu guddommelige natur. For dem er Jesus primært et ekstraordinært menneske — lærer, profet, eksempel. Påvirket av populær historisk-Jesus-forskning (blant annet A.N. Wilsons kontroversiell bok *Jesus*). De kan identifisere seg som kristne uten å tro på en guddommelig Jesus.
+Alvorlig tvil om eller avviser Jesu guddommelige natur. Jesus er primært et eksemplarisk menneske. De kan identifisere seg som kristne uten å tro på en guddommelig Jesus.
 
 ---
 
 ## Hva lærer folk *ikke* av gudstjenesten?
 
-Christies funn er ubehagelig for kirken: De fleste kirkegjengerene har *ikke* lært kalkedonsk ortodoksi — selv etter årtier med gudstjenestegang, trosbekjennelse og salmer.
+Christies funn er ubehagelig for kirken: De fleste kirkegjengerne har *ikke* lært kalkedonsk ortodoksi — selv etter årtier med gudstjenestegang, trosbekjennelse og salmer. Forklaringen: Liturgien er formulert i et *implisitt*, ikke *eksplisitt* trinitarisk og kristologisk språk. Uten eksplisitt undervisning lærer folk typisk en monoteistisk, funksjonalistisk Jesusforståelse.
 
-Forklaringen er at liturgien er formulert i et *implisitt* ikke *eksplisitt* trinitarisk og kristologisk språk. Den sier ikke direkte «Jesus er Gud i ontologisk forstand». Funksjonalistene trekker andre slutninger fra det samme liturgiske materialet — og mener de tror det kirkens bekjennelse sier.
-
-Uten *eksplisitt* undervisning — slik evangelikale gis i sine fellesskap — lærer folk typisk en monoteistisk, funksjonalistisk Jesusforståelse.
+Christie stiller spørsmålet åpent: Betyr dette at den nikensk-kalkedonske ortodoksien er irrelevant — eller at kirken har feilet i sin undervisning? Et tredje svar: Kanskje bærer NT selv vitnesbyrd om *begge* typer kristologi — den tidlige funksjonelle (Mark, tidlige Paulus) og den seinere ontologiske (Johannes).
 
 ---
 
-## Teologisk implikasjon
+## Hvem er du i møtet med Jesus?
 
-Christie stiller spørsmålet åpent: Betyr dette at den nikensk-kalkedonske ortodoksien er irrelevant — eller at kirken har feilet i sin undervisning?
+Evangeliene presenterer et bredt spekter av møter med Jesus som utfordrer leserens selvbilde:
 
-Et tredje svar: Kanskje er den funksjonelle kristologien teologisk legitimt. NT selv bærer vitnesbyrd om *begge* typer kristologi — den tidlige funksjonelle (Mark, Paulus' tidlige brev) og den seinere ontologiske (Johannes, de pastorale brev). Og de fleste av Christies informanter trenger ikke en ontologisk guddom for å ha et levende og transformativt Jesusmøte.
+**Apostlenes fallgroper:** De sov i Getsemane, flyktet ved pågripelsen, og Peter fornektet tre ganger. Gjenkjennelige bevegelser: forutinntatthet, sinne, ekskludering, ønske om å hindre Jesus fra å gå sin vei.
 
-Men Christies poeng er ikke å forsvare eller kritisere — det er å observere hva som faktisk foregår i kirkens menighetsseter.
+**Samaritankvinnen ved brønnen** (Joh 4): En kvinne med belastet fortid stiller de riktige spørsmålene og ender opp som den mest effektive evangelisten i Johannes. De som følgte til det ytterste var ikke de åpenbare kandidatene.
+
+**Kvinner i evangeliene** motpart til apostlene: Var til stede ved korset og den tomme graven der apostlene hadde flyktet. Maria Magdalena var første vitne til den oppstandne.
+
+«Hvem er du i møtet med Jesus?» er ikke et spørsmål med ett svar. Det varierer fra situasjon til situasjon — og verdien ligger i å stille det *nå*, i den konkrete situasjonen man er i.
 
 ---
 
 ## Sammenheng med andre artikler
 
-- [[kirkehistorie/kalkedon-kristologi]] — den ortodokse læren de fleste kirkegjengere *ikke* holder
+- [[kristologi/inkarnasjon]] — inkarnasjonslaeren som teologisk kjernepunkt
+- [[kristologi/historisk-jesus]] — historisk-kritisk Jesusforskning
+- [[kvinner-og-bibelen/kvinner-i-evangeliene]] — navngitte kvinner i evangeliene
 - [[teologi/treenigheten]] — treenigheten som akademisk konstruksjon kontra folkelig religion
-- [[kristologi/historisk-jesus]] — den historisk-kritiske Jesusforskningens innflytelse på vanlige folk
-- [[teologi/historisk-relativisme-kristendom]] — Kaufmans parallelle refleksjon
-- [[kristologi/inkarnasjon]] — inkarnasjonsläran som teologisk kjernepunkt
-- [[lese-og-forstå-bibelen/bibeltolkning-innforing]] — leserposisjonens betydning
 
 ---
 
 ## Kilder
 
-- [[sources/Christie-2007-ordinary-christology]] — Christie, A. (2007): «Who Do You Say I Am? Answers from the Pews», *Journal of Adult Theological Education* 4:2, s. 181–194
-- [[sources/TEOL2310-teologihistorie-oldkirken]] — kontekst for ortodoks kristologi
+- Christie, A. (2007): «Who Do You Say I Am? Answers from the Pews», *Journal of Adult Theological Education* 4:2 [`sources/Christie-2007-ordinary-christology`]
+- [[sources/studier-hvem-er-du]]

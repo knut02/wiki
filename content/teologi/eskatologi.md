@@ -127,12 +127,15 @@ Wrights sterkeste poeng er koblingen mellom eskatologi og etikk. Hvis det endeli
 
 ## Sammenheng med andre artikler
 
+**Fordypningsartikler fra samme kildesett:**
+- [[teologi/himmelen]] — hva himmelen er, to-fase-modellen, Åp 21 utdypet
+- [[teologi/oppstandelsen]] — legemlig oppstandelse, psychikon/pneumatikon, konsekvenser for nåtid
+- [[teologi/helvete-og-dom]] — evig straff, annihilasjonisme og universalisme gjennomgått
+
+**Relaterte artikler:**
 - [[teologi/forsoningslæren]] — korsets forbindelse med oppstandelsen
-- [[teologi/inaugurert-eskatologi-og-kjonn]] — eskatologi og kjønnsroller
 - [[Bibelen - det Nye Testamentet/aapenbaringen]] — Åpenbaringen som eskatologisk tekst
-- [[Bibelen - det Nye Testamentet/sheol-og-hades]] — mellomtilstanden i detalj
 - [[tro-og-liv/guds-rike]] — riket som nåtid og fremtid
-- [[Bibelen - det Nye Testamentet/dommen-som-godt-nytt]] — dommen teologisk utdypet
 
 ---
 

@@ -4,54 +4,54 @@ description: "Oversikt over Jesu nærmeste familie — foreldre, søsken og slek
 date: 2025-05-02
 kategori: Personer
 sub-kategori: NT og oldkirke-personer
-tags: [Jesu familie, søsken, Josef, Maria, slækt, evangeliene]
+tags: [Jesu familie, søsken, Josef, Maria, Jakob, slekt, evangeliene]
 kilder: 2
+updated: 2026-09-29
 ---
 
 ## Foreldre
 
-**Josef** var Jesu rettslige far og Marias ektemann — en håndverker (snekker/tømrer, jf. Matt 13:55) av Davids ætt. Det er Josefs slektslinje som gjør Jesus til en etterkommer av David (slektstreet i Matt 1). Josef aksepterte Maria som hustru etter å ha mottatt et englebesøk (Matt 1:18–25) og beskyttet familien ved flukten til Egypt (Matt 2:13–15). Han omtales sist i beretningen om tempelet da Jesus var 12 år (Luk 2); trolig var han død da Jesus begynte sin offentlige tjeneste.
+**Josef** var Jesu rettslige far og Marias ektemann — en håndverker av Davids ætt. Det er Josefs slektslinje som gjør Jesus til en etterkommer av David (Matt 1). Han aksepterte Maria som hustru etter et englebesøk (Matt 1:18–25) og beskyttet familien ved flukten til Egypt (Matt 2:13–15). Nevnes sist da Jesus var 12 år (Luk 2); trolig var han død da Jesus begynte sin tjeneste.
 
-**Maria** var Jesu biologiske mor. Ifølge NT unnfanget hun ved Den hellige ånd (Matt 1:18, Luk 1:26–38). Hun er til stede ved korset (Joh 19:25–27) og i den tidlige menigheten (Apg 1:14). Se [[personer/maria]] for mer.
+**Maria** var Jesu biologiske mor, unnfanget ved Den hellige ånd (Matt 1:18; Luk 1:26–38). Hun er til stede ved korset (Joh 19:25–27) og i den tidlige menigheten (Apg 1:14). Se [[personer/maria]].
 
 ---
 
 ## Søsken
 
-Matt 13:55–56 og Mark 6:3 nevner fire brødre ved navn og "søstre" uten å navngi dem:
+Matt 13:55–56 og Mark 6:3 nevner fire brødre og søstre:
 
 | Navn | Merknad |
 |------|---------|
-| **Jakob** | Leder for Jerusalem-kirken etter Jesu oppstandelse; forfatter av Jakobs brev ifølge tradisjonen. Se [[personer/jakob-jesu-bror]] |
-| **Josef (Joses)** | Nevnt, men ikke fremtredende i NT |
-| **Simon** | Nevnt, men ikke beskrevet videre |
+| **Jakob** | Leder for Jerusalem-kirken etter oppstandelsen; forfatter av Jakobs brev |
+| **Josef (Joses)** | Nevnt, ikke fremtredende i NT |
+| **Simon** | Nevnt, ikke beskrevet videre |
 | **Judas (Jude)** | Ikke å forveksle med Judas Iskariot |
 
-**Tolkningsspørsmål:** Katolsk og ortodoks tradisjon tolker disse som halvsøsken (Josefs barn fra tidligere ekteskap) eller fettere, siden Maria anses for å ha forblitt jomfru. Protestantisk tradisjon leser det vanligvis som biologiske helsøsken, Marias egne barn etter Jesu fødsel.
+**Jakob** («Jakobus den rettferdige») er den best dokumenterte av brødrene. Han spilte ingen fremtredende rolle under Jesu offentlige virke, men ble sentral leder i Jerusalem-kirken. Paulus møtte ham (Gal 1:19), og Apg 15 viser ham som autoritet ved apostelkonsilet. Tradisjonelt regnes han som forfatter av Jakobs brev. Ifølge Josefus ble han steinet i år 62 e.Kr.
+
+**Tolkningsspørsmål:** Katolsk og ortodoks tradisjon tolker søsknene som halvsøsken (Josefs barn fra tidligere ekteskap) eller fettere, siden Maria anses for å ha forblitt jomfru. Protestantisk tradisjon leser det vanligvis som biologiske helsøsken.
 
 ---
 
 ## Øvrig slekt
 
-**Johannes Døperen** — Jesu fetter ifølge Luk 1:36. Elisabeth, Johannes' mor, beskrives som Marias slektning. Se [[personer/johannes-doperen]].
+**Johannes Døperen** — Jesu fetter ifølge Luk 1:36. Elisabeth, Johannes' mor, beskrives som Marias slektning.
 
-**Salome** — trolig Jesu moster på morssiden; kone til Zebedeus og mor til apostlene Jakob og Johannes (jf. Matt 27:56 og Mark 15:40 sammenholdt).
-
-Josefs side av familien er ikke nevnt i Bibelen.
+**Salome** — trolig Jesu moster på morssiden; kone til Zebedeus og mor til apostlene Jakob og Johannes (jf. Matt 27:56 og Mark 15:40).
 
 ---
 
 ## Sammenheng med andre artikler
 
-- [[personer/jesus]] — Jesu liv og tjeneste
 - [[personer/maria]] — Jesu mor
 - [[personer/josef-fosterfar]] — Jesu rettslige far
-- [[personer/jakob-jesu-bror]] — den mest kjente av brødrene
 - [[personer/johannes-doperen]] — Jesu fetter
+- [[Bibelen - det Nye Testamentet/evangeliene]] — kildene
 
 ---
 
 ## Kilder
 
-- [[sources/jesus-sin-familie]] — gjennomgang av Jesu familie og slektninger
-- [[sources/jesus-som-menneske]] — Jesu liv fra fødsel til oppstandelse
+- [[sources/jesus-sin-familie]]
+- [[sources/jesus-som-menneske]]
