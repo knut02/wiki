@@ -57,7 +57,9 @@ Det er etisk realismens kjernespørsmål. **Realisme** sier at etiske normer har
 
 **Argumentet:** Matematiske sannheter er heller ikke naturlige ting, men vi kan oppdage dem. Kanskje moralske sannheter er tilsvarende.
 
-**Innvending — rarhetsargumentet (Mackie):** Objektive moralske verdier ville vært svært merkelige ting. Hvor er de? Hvordan oppdager vi dem? Dersom de eksisterer uavhengig av alt annet, er det uklart hvilken rolle de spiller i en naturalistisk verden.
+**Innvending 2 — Superveniens-argumentet:** Etiske egenskaper ser ut til å *supervenere* på naturlige egenskaper — det vil si at to situasjoner som er identiske i alle naturlige egenskaper, må være identiske etisk. Men non-naturalister kan ikke forklare *hvorfor* det er slik, dersom etiske egenskaper er fundamentalt annerledes enn naturlige. Det virker merkelig at ikke-naturlige etiske fakta alltid følger naturlige fakta uten noen forklaring på sammenhengen.
+
+**Innvending 3 — rarhetsargumentet (Mackie):** Objektive moralske verdier som ikke er naturlige, er veldig merkelige ting. Hvor er de? Hvordan oppdager vi dem? Og hvorfor har evolusjonen gitt oss nøyaktig den kapasiteten?
 
 ### 3. Supernaturalisme (guddommelig befalingsetikk)
 
@@ -100,4 +102,4 @@ Spørsmålet om etisk realisme er ikke abstrakt for kristen tro:
 
 ## Kilder
 
-- Ottosen, M. (2024): *De store spørsmålene*, kapittel 8: «Har etiske normer sannhetsverdi?» [`sources/De-store-spørsmålene`]
+- Søvik, A.O. (2024): *De store spørsmålene*, kapittel 8: «Har etiske normer sannhetsverdi?» [`sources/De-store-spørsmålene`]

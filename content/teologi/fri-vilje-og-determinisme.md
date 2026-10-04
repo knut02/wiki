@@ -62,6 +62,18 @@ Er verden deterministisk? Overraskende åpent spørsmål. Kvantefysikken finnes 
 
 Representanter som Derk Pereboom mener dette ikke betyr at ingen skal i fengsel — noen er en fare for andre og må begrenses — men at straff som *fortjent gjengjeldelse* ikke er rettferdiggjort.
 
+### Hjerneforskning og fri vilje
+
+Tre typer funn fra hjerneforskning brukes som argumenter mot fri vilje:
+
+**Libet/Haynes-eksperimentene:** Benjamin Libet og John-Dylan Haynes viste at hjerneskanninger kan forutsi hva folk velger å gjøre *flere sekunder* før de selv er bevisste på valget. Dette tolkes av mange som at den bevisste opplevelsen av å velge er et etterskudd — hjernen har allerede «bestemt» seg.
+
+**Konfabulering:** Eksperimenter med pasienter der forbindelsen mellom hjernehalvdelene er kuttet, viser at vi tror vi kjenner grunnen til egne handlinger — men tar feil. Én hjernehalvdel styrer en handling; den andre (der språksenteret sitter) lager øyeblikkelig en overbevisende «forklaring». Tilsvarende kan normale folk styres til å gjøre noe uten å vite det — og like fullt gi en troverdig beretning om sitt «frie valg».
+
+**Detaljerte kausalmodeller:** En rekke hjerneforskere mener å kunne beskrive valgprosesser som fullstendige kausale hendelseskjeder i hjernen — uten at begreper som «person», «vilje» eller «fri vilje» trengs for å forklare hva som skjer.
+
+**Svar:** Alfred Mele påpeker at Libet/Haynes-funnene bare gjelder enkle, trivielle valg (løfte en finger) — ikke store livsvalg. At hjernen er involvert i valg, viser ikke at personen ikke er involvert. Forklaringen på hva som skjer i en hjerne, og forklaringen på hva en person gjør, opererer på ulike nivåer.
+
 ---
 
 ## Sosiale betingelser for frihet
@@ -101,4 +113,4 @@ Fri-villesdiskusjonen er direkte relevant for teologien:
 
 ## Kilder
 
-- Ottosen, M. (2024): *De store spørsmålene*, kapittel 5: «Har mennesker fri vilje?» [`sources/De-store-spørsmålene`]
+- Søvik, A.O. (2024): *De store spørsmålene*, kapittel 5: «Har mennesker fri vilje?» [`sources/De-store-spørsmålene`]
