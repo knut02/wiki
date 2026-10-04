@@ -36,7 +36,7 @@ Det er altså ikke en løsrevet trøstetekst, men konklusjonen på en sammenheng
 
 «Alen» (*pechys*) er en lengdemål, men brukt her om tid — muligens «ett øyeblikk» til sin livsalder. Bekymring endrer ingenting. Den er virkningsløs.
 
-**V. 28-30** — «Og hvorfor bekymrer dere dere for klærne? Se på liljene på marken, hvordan de vokser! ... Selv ikke Salomo i all sin prakt var kledd som en av dem. Men blomstergress på marken, som er til i dag og kastes i ovnen i morgen, kler Gud slik...»
+**V. 28-30** — «Og hvorfor bekymrer dere for klærne? Se på liljene på marken, hvordan de vokser! ... Selv ikke Salomo i all sin prakt var kledd som en av dem. Men blomstergress på marken, som er til i dag og kastes i ovnen i morgen, kler Gud slik...»
 
 **V. 31-33** — «Så bekymre dere ikke... Himmelens Far vet at dere trenger alt dette. Men søk først Guds rike og hans rettferdighet, så skal dere få alt dette i tillegg.»
 
@@ -79,6 +79,7 @@ Keener (*IVP Bible Background Commentary*, Matt 6:25-34) gir viktig bakgrunn:
 Teksten hviler på én grunntese: Gud er «himmelens Far» (*ho pater hymon ho ouranios*). Det er ikke en abstrakt Gudsforestilling, men en relasjonell. Og en Far som kler markens blomstergress, kler selvsagt sine barn.
 
 Det er viktig å merke seg hva Jesus ikke sier:
+
 - Han sier ikke at alt alltid går bra
 - Han sier ikke at man ikke trenger å arbeide (fuglene *leter* etter mat)
 - Han sier ikke at bekymring er syndige følelser man bør undertrykke
