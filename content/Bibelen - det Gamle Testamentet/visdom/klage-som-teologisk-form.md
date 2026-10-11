@@ -105,9 +105,9 @@ Klage er ikke uforenlig med påskens evangelium — den er en del av det. Jesu r
 
 ## Sammenheng med andre artikler
 
-- [[Bibelen - det Gamle Testamentet/klagesangene]] — Klagesangene som konkret tekst
-- [[Bibelen - det Gamle Testamentet/salmene-sjanger]] — klagesalmene i Salmenes bok
-- [[Bibelen - det Gamle Testamentet/job]] — Job som klagedramaets store tekst
+- [[Bibelen - det Gamle Testamentet/profetene/klagesangene]] — Klagesangene som konkret tekst
+- [[Bibelen - det Gamle Testamentet/visdom/salmene-sjanger]] — klagesalmene i Salmenes bok
+- [[Bibelen - det Gamle Testamentet/visdom/job]] — Job som klagedramaets store tekst
 - [[tro-og-liv/lidelse-og-klage]] — klage som trospraksìs i dag
 - [[teologi/ondskapsproblemet]] — teodice og klagens teologiske plass
 

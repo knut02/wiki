@@ -76,7 +76,7 @@ Tre teologiske poenger:
 
 **Visdom er relasjonell.** Hun er ikke et prinsipp eller et regelsett. Hun «gledet seg» (v. 30-31) — hun er en levende, gledende tilstedeværelse hos Gud og blant menneskene.
 
-**Visdom og NT-kristologi.** Kap. 8 er bakgrunnen for NT's bruk av Logos- og Visdommens-tradisjon om Jesus. Johannesprologen («I begynnelsen var Ordet»), Kolosserbrevet 1:15-17 («Han er bildet av den usynlige Gud, den førstefødte fremfor all skapning — i ham ble alt skapt»), og 1 Kor 1:24 («Kristus, Guds kraft og Guds visdom») — alle disse henter fra Ordspråkene 8. Se [[Bibelen - det Nye Testamentet/kolosserbrevet]] og [[Bibelen - det Nye Testamentet/johannesprologen]].
+**Visdom og NT-kristologi.** Kap. 8 er bakgrunnen for NT's bruk av Logos- og Visdommens-tradisjon om Jesus. Johannesprologen («I begynnelsen var Ordet»), Kolosserbrevet 1:15-17 («Han er bildet av den usynlige Gud, den førstefødte fremfor all skapning — i ham ble alt skapt»), og 1 Kor 1:24 («Kristus, Guds kraft og Guds visdom») — alle disse henter fra Ordspråkene 8. Se [[Bibelen - det Nye Testamentet/brevene/kolosserbrevet]] og [[Bibelen - det Nye Testamentet/johannesevangeliet/johannesprologen]].
 
 ---
 
@@ -146,16 +146,16 @@ Noen leser «den verdifulle hustruen» som en personifisering av Visdommen fra k
 
 ## Sammenheng med andre artikler
 
-- [[Bibelen - det Gamle Testamentet/visdomslitteratur]] — sjangeroversikt; Job og Forkynneren
-- [[Bibelen - det Gamle Testamentet/job]] — korrektivet til Ordspråkenes enklere logikk
-- [[Bibelen - det Nye Testamentet/kolosserbrevet]] — Kristushymnen og Ordsp 8
-- [[Bibelen - det Nye Testamentet/johannesprologen]] — Logos og den personifiserte Visdommen
-- [[Bibelen - det Nye Testamentet/jakobs-brev]] — to slags visdom; Ordspråkenes arv i NT
-- [[Bibelen - det Gamle Testamentet/salmene-sjanger]] — Sal 1 og 119 som visdomssalmer
+- [[Bibelen - det Gamle Testamentet/visdom/visdomslitteratur]] — sjangeroversikt; Job og Forkynneren
+- [[Bibelen - det Gamle Testamentet/visdom/job]] — korrektivet til Ordspråkenes enklere logikk
+- [[Bibelen - det Nye Testamentet/brevene/kolosserbrevet]] — Kristushymnen og Ordsp 8
+- [[Bibelen - det Nye Testamentet/johannesevangeliet/johannesprologen]] — Logos og den personifiserte Visdommen
+- [[Bibelen - det Nye Testamentet/brevene/jakobs-brev]] — to slags visdom; Ordspråkenes arv i NT
+- [[Bibelen - det Gamle Testamentet/visdom/salmene-sjanger]] — Sal 1 og 119 som visdomssalmer
 
 ---
 
 ## Kilder
 
 - [[sources/studier-personlige]] — egne studier; GT-teksten og visdomslitteratur.md
-- [[sources/visdomslitteratur-wiki]] — [[Bibelen - det Gamle Testamentet/visdomslitteratur]]
+- [[sources/visdomslitteratur-wiki]] — [[Bibelen - det Gamle Testamentet/visdom/visdomslitteratur]]

@@ -118,11 +118,11 @@ Han virket fra Josias til etter Jerusalems fall (626–580-tallet f.Kr.) og oppl
 
 Esekiel virker blant de deporterte i Babylon. Hans forkynnelse er dramatisk og visjonær: hjulet i hjulet (kap. 1), de tørre beinene som lever (kap. 37), det nye tempelet (kap. 40–48).
 
-Han er profeten som sier at Guds nærvær ikke er bundet til Jerusalem — Gud er til stede midt i eksilet. Se [[Bibelen - det Gamle Testamentet/daniel]] for en parallell skikkelse fra samme periode.
+Han er profeten som sier at Guds nærvær ikke er bundet til Jerusalem — Gud er til stede midt i eksilet. Se [[Bibelen - det Gamle Testamentet/profetene/daniel]] for en parallell skikkelse fra samme periode.
 
 ### Daniel — apokalyptikeren
 
-Danielsboken skiller seg fra de klassiske skriftprofetene — den er apokalyptisk litteratur, skrevet i eksilkontekst med visjonsskrifter og historiske fortellinger. Behandles separat — se [[Bibelen - det Gamle Testamentet/daniel]].
+Danielsboken skiller seg fra de klassiske skriftprofetene — den er apokalyptisk litteratur, skrevet i eksilkontekst med visjonsskrifter og historiske fortellinger. Behandles separat — se [[Bibelen - det Gamle Testamentet/profetene/daniel]].
 
 ---
 
@@ -160,14 +160,14 @@ Ulik stil, ulike kontekster — men felles kjerne:
 
 ## Sammenheng med andre artikler
 
-- [[Bibelen - det Gamle Testamentet/pakten]] — profetenes forkynnelse er paktens logikk anvendt på historien
+- [[Bibelen - det Gamle Testamentet/toraen/pakten]] — profetenes forkynnelse er paktens logikk anvendt på historien
 - [[kristologi/messias]] — Jesaja 53, Mika 5:2, Sakarja 9:9 som messianske tekster
-- [[Bibelen - det Gamle Testamentet/daniel]] — eksil-profeten og apokalyptikken
+- [[Bibelen - det Gamle Testamentet/profetene/daniel]] — eksil-profeten og apokalyptikken
 - [[tidslinjer/bibelhistorie-nokkelhendelser]] — historisk ramme for profetenes virke
 - [[tidslinjer/mellom-testamentene]] — perioden etter Malaki
 - [[Bibelen - det Gamle Testamentet/gt-guds-brutalitet]] — Guds dom og vold i profetbøkene
 - [[teologi/kristen-etikk]] — sosialetikk med røtter i profettradisjonen
-- [[Bibelen - det Gamle Testamentet/klagesangene]] — klage som profetisk sjanger
+- [[Bibelen - det Gamle Testamentet/profetene/klagesangene]] — klage som profetisk sjanger
 
 ---
 

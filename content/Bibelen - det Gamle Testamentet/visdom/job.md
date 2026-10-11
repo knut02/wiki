@@ -60,7 +60,7 @@ Tre ting er avgjørende:
 
 Job åpner med en forbannelse over sin fødseldag — nesten identisk med Jeremias' klage (Jer 20:14-18). Det er ikke fortvilelse som gir opp. Det er fortvilelse som tale til Gud, ikke bort fra Gud.
 
-Klagesjangerens teologi: Å klage til Gud er å anerkjenne at han er der og kan høre. Se [[Bibelen - det Gamle Testamentet/salmene-sjanger]].
+Klagesjangerens teologi: Å klage til Gud er å anerkjenne at han er der og kan høre. Se [[Bibelen - det Gamle Testamentet/visdom/salmene-sjanger]].
 
 ---
 
@@ -152,16 +152,16 @@ Guds svar fra stormen er teologisk beslektet med Paulus i Rom 11:33-36 — det s
 
 ## Sammenheng med andre artikler
 
-- [[Bibelen - det Gamle Testamentet/salmene-sjanger]] — klagesjangeren Job deler
-- [[Bibelen - det Gamle Testamentet/visdomslitteratur]] — Job som visdomsbok i opposisjon
-- [[Bibelen - det Gamle Testamentet/klagesangene]] — parallell klagejanger
+- [[Bibelen - det Gamle Testamentet/visdom/salmene-sjanger]] — klagesjangeren Job deler
+- [[Bibelen - det Gamle Testamentet/visdom/visdomslitteratur]] — Job som visdomsbok i opposisjon
+- [[Bibelen - det Gamle Testamentet/profetene/klagesangene]] — parallell klagejanger
 - [[teologi/gudsbevis]] — theodicé-spørsmålet Jobs bok reiser
 - [[tro-og-liv/tvil-og-tro]] — Job som troens kamp, ikke troens fravær
-- [[Bibelen - det Nye Testamentet/jakobs-brev]] — Jobs utholdenhet i Jak 5:11
+- [[Bibelen - det Nye Testamentet/brevene/jakobs-brev]] — Jobs utholdenhet i Jak 5:11
 
 ---
 
 ## Kilder
 
 - [[sources/studier-personlige]] — egne studier; GT-teksten og eksisterende wiki-artikler
-- [[sources/salmene-sjanger-wiki]] — [[Bibelen - det Gamle Testamentet/salmene-sjanger]]
+- [[sources/salmene-sjanger-wiki]] — [[Bibelen - det Gamle Testamentet/visdom/salmene-sjanger]]

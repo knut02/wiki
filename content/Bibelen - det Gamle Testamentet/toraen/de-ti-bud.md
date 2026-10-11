@@ -57,7 +57,7 @@ Dette er grunnleggende for hvordan budene skal forstås: De er ikke frelsesveien
 Tre ulike tradisjoner teller budene forskjellig:
 
 | Bud | Jødisk tradisjon | Luthersk/katolsk | Reformert/øvrige |
-|-----|-----------------|-----------------|-----------------|
+|-----|-----------------|-----------------|-----------------| 
 | 1 | «Jeg er Herren din Gud» | Ikke ha andre guder | Ikke ha andre guder |
 | 2 | Ikke ha andre guder | Ikke misbruke Guds navn | Ikke lage avgudsbilder |
 | 3 | Ikke lage avgudsbilder | Hellighold sabbaten | Ikke misbruke Guds navn |
@@ -273,10 +273,10 @@ Dekalogen er en *sosial* etikk like mye som en individuell. Den beskytter den s�
 
 ## Sammenheng med andre artikler
 
-- [[Bibelen - det Gamle Testamentet/exodus]] — dekalogenens tekstuelle hjem
-- [[Bibelen - det Gamle Testamentet/pakten]] — paktsteologi som ramme
+- [[Bibelen - det Gamle Testamentet/toraen/exodus]] — dekalogenens tekstuelle hjem
+- [[Bibelen - det Gamle Testamentet/toraen/pakten]] — paktsteologi som ramme
 - [[kirkehistorie/luthers-teologi]] — Luthers tre bruk av loven
-- [[Bibelen - det Nye Testamentet/bergprekenen]] — Jesu radikalisering av budene
+- [[Bibelen - det Nye Testamentet/evangeliene/bergprekenen]] — Jesu radikalisering av budene
 - [[Bibelen - det Nye Testamentet/paulus-teologi]] — Paulus om lov og evangelium
 - [[tro-og-liv/nåde]] — frigjøringen som kommer før loven
 - [[teologi/rettferdig-krig]] — bud 6 og krigens etikk

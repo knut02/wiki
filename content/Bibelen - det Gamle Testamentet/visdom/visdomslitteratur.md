@@ -45,7 +45,7 @@ Tre bøker regnes tradisjonelt som kjernebøkene i GT-s visdomslitteratur:
 
 ### Ordspråkene
 
-Den mest systematiske visdomsboken — korte, fengende observasjoner om livet: ærlig tale, latskap og flid, vennskap og svik. Mange tilskrives Salomo. Rammen er teologisk: «Frykt for Herren er opphavet til kunnskap» (Ordsp 1:7). Kapittel 8 er teologisk særlig viktig: Den personifiserte Visdommen som var hos Gud ved skapelsen — bakgrunnen for NT-s bruk av Logos- og Visdommens-tradisjon om Jesus. Se [[Bibelen - det Gamle Testamentet/ordspråkene]].
+Den mest systematiske visdomsboken — korte, fengende observasjoner om livet: ærlig tale, latskap og flid, vennskap og svik. Mange tilskrives Salomo. Rammen er teologisk: «Frykt for Herren er opphavet til kunnskap» (Ordsp 1:7). Kapittel 8 er teologisk særlig viktig: Den personifiserte Visdommen som var hos Gud ved skapelsen — bakgrunnen for NT-s bruk av Logos- og Visdommens-tradisjon om Jesus. Se [[Bibelen - det Gamle Testamentet/visdom/ordspråkene]].
 
 ### Job
 
@@ -59,7 +59,7 @@ Den mest melankolske og filosofiske. «Tomhet, bare tomhet, alt er tomhet» (For
 
 ### Salmene — delvis visdomslitteratur
 
-Noen salmer har tydelig visdomsprofil: refleksjon over det rettferdiges skjebne, over menneskelig forgjengelighet, over den vises vei. Salme 1, 37, 49, 73 og 119 er klassiske eksempler. Se [[Bibelen - det Gamle Testamentet/salme-22]].
+Noen salmer har tydelig visdomsprofil: refleksjon over det rettferdiges skjebne, over menneskelig forgjengelighet, over den vises vei. Salme 1, 37, 49, 73 og 119 er klassiske eksempler. Se [[Bibelen - det Gamle Testamentet/visdom/salme-22]].
 
 ---
 
@@ -93,10 +93,10 @@ Paulus kaller Kristus «Guds kraft og Guds visdom» (1 Kor 1:24) — en identifi
 
 ## Sammenheng med andre artikler
 
-- [[Bibelen - det Gamle Testamentet/gt-profetene]] — profetlitteraturen som kontrast til visdomslitteraturen
-- [[Bibelen - det Gamle Testamentet/klagesangene]] — klagetradisjonen som beslektet sjanger
+- [[Bibelen - det Gamle Testamentet/profetene/gt-profetene]] — profetlitteraturen som kontrast til visdomslitteraturen
+- [[Bibelen - det Gamle Testamentet/profetene/klagesangene]] — klagetradisjonen som beslektet sjanger
 - [[lese-og-forstå-bibelen/bibeltolkning-innforing]] — sjangerkunnskap og tolkning
-- [[Bibelen - det Gamle Testamentet/daniel]] — Daniel som visdomsperson i fremmed hoff
+- [[Bibelen - det Gamle Testamentet/profetene/daniel]] — Daniel som visdomsperson i fremmed hoff
 
 ---
 

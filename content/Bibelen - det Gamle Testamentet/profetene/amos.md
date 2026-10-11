@@ -131,10 +131,10 @@ Jakobs brev siterer Amos 9:11-12 i Apg 15:16-18 — Jakobs begrunnelse for å in
 
 ## Sammenheng med andre artikler
 
-- [[Bibelen - det Gamle Testamentet/gt-profetene]] — Amos i profettradisjonens helhet
-- [[Bibelen - det Gamle Testamentet/jesaja]] — parallell sosialetisk profeti (Jes 1; 5)
-- [[Bibelen - det Nye Testamentet/jakobs-brev]] — Jak 5:1-6 og Amos' anklage mot de rike
-- [[Bibelen - det Nye Testamentet/pinsen]] — Apg 15:16-18 siterer Amos 9:11-12
+- [[Bibelen - det Gamle Testamentet/profetene/gt-profetene]] — Amos i profettradisjonens helhet
+- [[Bibelen - det Gamle Testamentet/profetene/jesaja]] — parallell sosialetisk profeti (Jes 1; 5)
+- [[Bibelen - det Nye Testamentet/brevene/jakobs-brev]] — Jak 5:1-6 og Amos' anklage mot de rike
+- [[Bibelen - det Nye Testamentet/høytider/pinsen]] — Apg 15:16-18 siterer Amos 9:11-12
 - [[tro-og-liv/guds-rike]] — rettferdighetens politiske dimensjon
 
 ---
@@ -142,4 +142,4 @@ Jakobs brev siterer Amos 9:11-12 i Apg 15:16-18 — Jakobs begrunnelse for å in
 ## Kilder
 
 - [[sources/studier-personlige]] — egne studier; GT-teksten og eksisterende wiki-artikler
-- [[sources/gt-profetene-wiki]] — [[Bibelen - det Gamle Testamentet/gt-profetene]]
+- [[sources/gt-profetene-wiki]] — [[Bibelen - det Gamle Testamentet/profetene/gt-profetene]]

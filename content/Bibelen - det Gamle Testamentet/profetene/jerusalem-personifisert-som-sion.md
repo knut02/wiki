@@ -115,9 +115,9 @@ Motivet binder sammen dom og frelse, klage og jubel — det personifiserte Jerus
 
 ## Sammenheng med andre artikler
 
-- [[Bibelen - det Gamle Testamentet/klagesangene]] — Klagesangene som helhet
-- [[Bibelen - det Gamle Testamentet/klage-som-teologisk-form]] — klagens teologi
-- [[Bibelen - det Gamle Testamentet/salmene-sjanger]] — klagetradisjonens kontekst
+- [[Bibelen - det Gamle Testamentet/profetene/klagesangene]] — Klagesangene som helhet
+- [[Bibelen - det Gamle Testamentet/visdom/klage-som-teologisk-form]] — klagens teologi
+- [[Bibelen - det Gamle Testamentet/visdom/salmene-sjanger]] — klagetradisjonens kontekst
 - [[teologi/gudsbilder-som-former-troen]] — Guds relasjonsroller
 
 ---

@@ -58,7 +58,7 @@ De fem «bekjennelsene» er Bibelens dristigste bønner. Jeremias anklager Gud, 
 
 Bekjennelsene ender (20:14-18) med forbannelse over sin fødseldag — en av GT's mørkeste tekster. Det er ikke tro uten tvil. Det er tro som kjemper gjennom mørket.
 
-Koblingen til Salmenes klagesjanger er åpenbar — og det er sannsynligvis Jeremias' egne ord som delvis inspirerte klagesangene (*Klagesangene* tilskrives tradisjonelt Jeremias). Se [[Bibelen - det Gamle Testamentet/klagesangene]].
+Koblingen til Salmenes klagesjanger er åpenbar — og det er sannsynligvis Jeremias' egne ord som delvis inspirerte klagesangene (*Klagesangene* tilskrives tradisjonelt Jeremias). Se [[Bibelen - det Gamle Testamentet/profetene/klagesangene]].
 
 ---
 
@@ -84,7 +84,7 @@ NT leser denne teksten som oppfylt i Kristus og ved Ånden. Hebreerbrevet (kap. 
 
 ## Guds hjerte i Jeremias
 
-Et særtrekk hos Jeremias er at Gud selv klager. Ikke bare Jeremias — men Gud. 
+Et særtrekk hos Jeremias er at Gud selv klager. Ikke bare Jeremias — men Gud.
 
 Jer 31:20: «Er Efraim ikke min kjære sønn, mitt elskede barn? For så ofte som jeg taler mot ham, husker jeg ham enda mer. Derfor er mitt hjerte dypt beveget for ham; jeg vil vise ham barmhjertighet, sier Herren.»
 
@@ -117,16 +117,16 @@ Utover Jer 31 er det få direkte sitat av Jeremias i NT — men mange allusjoner
 
 ## Sammenheng med andre artikler
 
-- [[Bibelen - det Gamle Testamentet/klagesangene]] — tradisjonelt tilskrevet Jeremias
-- [[Bibelen - det Gamle Testamentet/pakten]] — den nye pakten i GT-sammenheng
-- [[Bibelen - det Gamle Testamentet/gt-profetene]] — Jeremias i profettradisjonens helhet
-- [[Bibelen - det Nye Testamentet/hebreerbrevet]] — Jer 31 som lengste GT-sitat i NT
+- [[Bibelen - det Gamle Testamentet/profetene/klagesangene]] — tradisjonelt tilskrevet Jeremias
+- [[Bibelen - det Gamle Testamentet/toraen/pakten]] — den nye pakten i GT-sammenheng
+- [[Bibelen - det Gamle Testamentet/profetene/gt-profetene]] — Jeremias i profettradisjonens helhet
+- [[Bibelen - det Nye Testamentet/brevene/hebreerbrevet]] — Jer 31 som lengste GT-sitat i NT
 - [[teologi/hellige-ånd]] — Ånden som skriver loven på hjertet (Jer 31 + Esek 36)
-- [[Bibelen - det Gamle Testamentet/salmene-sjanger]] — klagesjangeren Jeremias deler
+- [[Bibelen - det Gamle Testamentet/visdom/salmene-sjanger]] — klagesjangeren Jeremias deler
 
 ---
 
 ## Kilder
 
 - [[sources/studier-personlige]] — egne studier; GT-teksten og eksisterende wiki-artikler
-- [[sources/gt-profetene-wiki]] — [[Bibelen - det Gamle Testamentet/gt-profetene]]
+- [[sources/gt-profetene-wiki]] — [[Bibelen - det Gamle Testamentet/profetene/gt-profetene]]

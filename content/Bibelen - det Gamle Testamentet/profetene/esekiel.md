@@ -129,10 +129,10 @@ Det siste verset i boken (48:35): «Byens navn skal fra den dag være: Herren er
 
 ## Sammenheng med andre artikler
 
-- [[Bibelen - det Gamle Testamentet/jeremias]] — parallell ny pakt-profeti (Jer 31 og Esek 36)
-- [[Bibelen - det Gamle Testamentet/jesaja]] — eksil og gjenreisning som felles kontekst
-- [[Bibelen - det Nye Testamentet/pinsen]] — Apg 2 og Esek 37 (vind og Ånd)
-- [[Bibelen - det Nye Testamentet/johannes-evangeliet]] — Joh 3:5 (vann og Ånd) og Joh 10 (hyrden)
+- [[Bibelen - det Gamle Testamentet/profetene/jeremias]] — parallell ny pakt-profeti (Jer 31 og Esek 36)
+- [[Bibelen - det Gamle Testamentet/profetene/jesaja]] — eksil og gjenreisning som felles kontekst
+- [[Bibelen - det Nye Testamentet/høytider/pinsen]] — Apg 2 og Esek 37 (vind og Ånd)
+- [[Bibelen - det Nye Testamentet/johannesevangeliet/johannes-evangeliet]] — Joh 3:5 (vann og Ånd) og Joh 10 (hyrden)
 - [[teologi/hellige-ånd]] — Ånden som livgivende kraft i GT
 - [[teologi/eskatologi]] — det nye tempelet og Apenbaring 21
 
@@ -141,4 +141,4 @@ Det siste verset i boken (48:35): «Byens navn skal fra den dag være: Herren er
 ## Kilder
 
 - [[sources/studier-personlige]] — egne studier; GT-teksten og eksisterende wiki-artikler
-- [[sources/gt-profetene-wiki]] — [[Bibelen - det Gamle Testamentet/gt-profetene]]
+- [[sources/gt-profetene-wiki]] — [[Bibelen - det Gamle Testamentet/profetene/gt-profetene]]

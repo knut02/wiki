@@ -75,7 +75,7 @@ Overraskende for mange: Det er *flere klagesalmer enn lovprisningssalmer* i Salm
 - Lovnad/løfte om takksigelse
 - (Ofte) avsluttende lovsang — en svingende bevegelse fra klage til tillit
 
-Salme 22 er det klassiske eksemplet — og det Jesus siterer fra korset (22:2). Den begynner i absolutt forlattethet og ender i universell lovprisning. Se [[Bibelen - det Gamle Testamentet/salme-22]].
+Salme 22 er det klassiske eksemplet — og det Jesus siterer fra korset (22:2). Den begynner i absolutt forlattethet og ender i universell lovprisning. Se [[Bibelen - det Gamle Testamentet/visdom/salme-22]].
 
 **Individuelle klagesalmer:** Sal 3, 6, 13, 22, 42-43, 51, 88
 **Kollektive klagesalmer:** Sal 44, 74, 79, 80, 137
@@ -208,13 +208,13 @@ Den sentrale innsikten: Bibelen er ikke primært en tekst *om* Gud — den er et
 
 ## Sammenheng med andre artikler
 
-- [[Bibelen - det Gamle Testamentet/salme-22]] — Salme 22 som eksempel på klagesalmen
-- [[Bibelen - det Gamle Testamentet/klagesangene]] — parallell klagesjanger i GT
-- [[Bibelen - det Gamle Testamentet/visdomslitteratur]] — visdomstradisjonen som Salmeboken deler
+- [[Bibelen - det Gamle Testamentet/visdom/salme-22]] — Salme 22 som eksempel på klagesalmen
+- [[Bibelen - det Gamle Testamentet/profetene/klagesangene]] — parallell klagesjanger i GT
+- [[Bibelen - det Gamle Testamentet/visdom/visdomslitteratur]] — visdomstradisjonen som Salmeboken deler
 - [[tro-og-liv/bønn]] — Salmeboken som bønnbok
 - [[kirkehistorie/tidligkristen-bønnepraksis]] — salmene i oldkirkens bønnliv
 - [[kirkehistorie/monastisk-teologi]] — tidebønnen og klosterlivets salmepraksis
-- [[Bibelen - det Gamle Testamentet/gt-profetene]] — profettradisjonens bønn
+- [[Bibelen - det Gamle Testamentet/profetene/gt-profetene]] — profettradisjonens bønn
 
 ---
 

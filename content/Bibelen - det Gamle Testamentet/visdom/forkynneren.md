@@ -28,7 +28,7 @@ Forkynneren er del av visdomslitteraturen — men der Ordspråkene gir praktiske
 
 Boken presenterer forfatteren som «Davids sønn, kongen i Jerusalem» (1:1) — tradisjonelt forstått som Salomo. Men språket er seinere hebraisk enn Salomos tid, trolig fra 400-200 f.Kr. «Salomo» er et litterært grep som gir boken autoritet.
 
-I TANAKH leses Forkynneren under Sukkot (Løvhyttefesten) — en paradoksal plassering for en så mørk bok. Kanskje bevisst: Festen feirer Guds omsorg, Forkynneren minner om at skaperverket også bærer forgjengeli—het.
+I TANAKH leses Forkynneren under Sukkot (Løvhyttefesten) — en paradoksal plassering for en så mørk bok. Kanskje bevisst: Festen feirer Guds omsorg, Forkynneren minner om at skaperverket også bærer forgjengelighet.
 
 ---
 
@@ -130,10 +130,10 @@ Paulus i Rom 8:20 sier at skaperverket ble lagt under «forgjengelighetens herre
 
 ## Sammenheng med andre artikler
 
-- [[Bibelen - det Gamle Testamentet/visdomslitteratur]] — sjangeroverikt; Job og Ordspråkene
-- [[Bibelen - det Gamle Testamentet/job]] — begge konfronterer visdomens grenser
-- [[Bibelen - det Gamle Testamentet/ordspråkene]] — det positive motstykket
-- [[Bibelen - det Gamle Testamentet/salmene-sjanger]] — klagesjangerens parallelle ærlighet
+- [[Bibelen - det Gamle Testamentet/visdom/visdomslitteratur]] — sjangeroverikt; Job og Ordspråkene
+- [[Bibelen - det Gamle Testamentet/visdom/job]] — begge konfronterer visdomens grenser
+- [[Bibelen - det Gamle Testamentet/visdom/ordspråkene]] — det positive motstykket
+- [[Bibelen - det Gamle Testamentet/visdom/salmene-sjanger]] — klagesjangerens parallelle ærlighet
 - [[teologi/eskatologi]] — Paulus' bruk av hebel/mataiotēs i Rom 8:20
 - [[tro-og-liv/tvil-og-tro]] — Forkynneren som troens grensegang
 
@@ -142,4 +142,4 @@ Paulus i Rom 8:20 sier at skaperverket ble lagt under «forgjengelighetens herre
 ## Kilder
 
 - [[sources/studier-personlige]] — egne studier; GT-teksten og eksisterende wiki-artikler
-- [[sources/visdomslitteratur-wiki]] — [[Bibelen - det Gamle Testamentet/visdomslitteratur]]
+- [[sources/visdomslitteratur-wiki]] — [[Bibelen - det Gamle Testamentet/visdom/visdomslitteratur]]

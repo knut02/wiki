@@ -138,11 +138,11 @@ Noen av de viktigste koblingene:
 
 ## Sammenheng med andre artikler
 
-- [[Bibelen - det Gamle Testamentet/gt-profetene]] — profettradisjonens bakgrunn
+- [[Bibelen - det Gamle Testamentet/profetene/gt-profetene]] — profettradisjonens bakgrunn
 - [[Bibelen - det Gamle Testamentet/gt-som-teologisk-helhet]] — Jesaja i den store fortellingen
 - [[kristologi/messias]] — tjenersangene og messiasforventningen
-- [[Bibelen - det Nye Testamentet/johannesprologen]] — Logos og Jes 40
-- [[Bibelen - det Nye Testamentet/bergprekenen]] — «lyset» fra Jes 9
+- [[Bibelen - det Nye Testamentet/johannesevangeliet/johannesprologen]] — Logos og Jes 40
+- [[Bibelen - det Nye Testamentet/evangeliene/bergprekenen]] — «lyset» fra Jes 9
 - [[teologi/eskatologi]] — den nye skapelsen
 
 ---
@@ -150,4 +150,4 @@ Noen av de viktigste koblingene:
 ## Kilder
 
 - [[sources/studier-personlige]] — egne studier; GT-teksten og eksisterende wiki-artikler
-- [[sources/gt-profetene-wiki]] — [[Bibelen - det Gamle Testamentet/gt-profetene]]
+- [[sources/gt-profetene-wiki]] — [[Bibelen - det Gamle Testamentet/profetene/gt-profetene]]

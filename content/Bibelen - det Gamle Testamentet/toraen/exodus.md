@@ -85,7 +85,7 @@ Uansett hva arkeologien sier: Israelittene *ble til* et folk ved eksodusen — d
 ## Sammenheng med andre artikler
 
 - [[personer/moses]] — Exodus' sentrale menneskelige figur
-- [[Bibelen - det Gamle Testamentet/pakten]] — Sinai-pakten som GT-teologiens kjerne
+- [[Bibelen - det Gamle Testamentet/toraen/pakten]] — Sinai-pakten som GT-teologiens kjerne
 - [[lese-og-forstå-bibelen/bibeltolkning-innforing]] — diachronisk vs. synkronisk lesning
 - [[Bibelen - det Gamle Testamentet/gt-kanon-og-teksthistorie]] — GT-tekstenes overlevering
 - [[tidslinjer/gt-tidslinje]] — uttaket fra Egypt ca. 1446 f.Kr.

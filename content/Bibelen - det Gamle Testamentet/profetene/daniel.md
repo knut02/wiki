@@ -115,7 +115,7 @@ Svaret i boken er konsekvent: Nei — selv om det koster livet. Men boken er ikk
 ## Sammenheng med andre artikler
 
 - [[kristologi/messias]] — «Menneskesønnen» i Dan 7 som messianisk tittel
-- [[Bibelen - det Gamle Testamentet/pakten]] — Daniels bønn i kap. 9 hviler på paktstenkning
+- [[Bibelen - det Gamle Testamentet/toraen/pakten]] — Daniels bønn i kap. 9 hviler på paktstenkning
 - [[tidslinjer/mellom-testamentene]] — Daniel og apokalyptikkens vekst i mellomtestamentlig tid
 - [[tidslinjer/bibelhistorie-nokkelhendelser]] — eksilet og hjemkomsten
 - [[Bibelen - det Gamle Testamentet/gt-guds-brutalitet]] — teodicéspørsmål i Daniels bok ⚠️

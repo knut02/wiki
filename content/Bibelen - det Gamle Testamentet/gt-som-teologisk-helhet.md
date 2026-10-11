@@ -127,12 +127,12 @@ Denne dobbeltheten — tekstene som selvstendige vitnesbyrd og som del av en for
 
 ## Sammenheng med andre artikler
 
-- [[Bibelen - det Gamle Testamentet/pakten]] — GT-paktene utdypet
-- [[Bibelen - det Gamle Testamentet/skapelsen]] — skapelsesteologien
-- [[Bibelen - det Gamle Testamentet/exodus]] — Sinai-pakten og uttaket
-- [[Bibelen - det Gamle Testamentet/gt-profetene]] — profettradisjonens teologi
-- [[Bibelen - det Gamle Testamentet/visdomslitteratur]] — visdomstradisjonens plass i GT
-- [[Bibelen - det Gamle Testamentet/salmene-sjanger]] — Salmeboken som GT-teologiens bønnbok
+- [[Bibelen - det Gamle Testamentet/toraen/pakten]] — GT-paktene utdypet
+- [[Bibelen - det Gamle Testamentet/toraen/skapelsen]] — skapelsesteologien
+- [[Bibelen - det Gamle Testamentet/toraen/exodus]] — Sinai-pakten og uttaket
+- [[Bibelen - det Gamle Testamentet/profetene/gt-profetene]] — profettradisjonens teologi
+- [[Bibelen - det Gamle Testamentet/visdom/visdomslitteratur]] — visdomstradisjonens plass i GT
+- [[Bibelen - det Gamle Testamentet/visdom/salmene-sjanger]] — Salmeboken som GT-teologiens bønnbok
 - [[Bibelen - det Gamle Testamentet/gt-kanon-og-teksthistorie]] — kanonhistorien
 - [[verdensreligioner-og-livssyn/jodedommen]] — GT/TANAKH som jødisk hellig skrift
 - [[kristologi/messias]] — messiasforventningen i GT

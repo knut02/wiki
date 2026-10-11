@@ -94,9 +94,9 @@ At Bibelen inneholder fem slike dikt, og at de brukes liturgisk i jødisk tradis
 
 ## Sammenheng med andre artikler
 
-- [[Bibelen - det Gamle Testamentet/klage-som-teologisk-form]] — klage som bibelsk form utdypet
-- [[Bibelen - det Gamle Testamentet/jerusalem-personifisert-som-sion]] — datter Sion-motivet
-- [[Bibelen - det Gamle Testamentet/salmene-sjanger]] — klagesalmene i Salmenes bok
+- [[Bibelen - det Gamle Testamentet/visdom/klage-som-teologisk-form]] — klage som bibelsk form utdypet
+- [[Bibelen - det Gamle Testamentet/profetene/jerusalem-personifisert-som-sion]] — datter Sion-motivet
+- [[Bibelen - det Gamle Testamentet/visdom/salmene-sjanger]] — klagesalmene i Salmenes bok
 - [[tro-og-liv/lidelse-og-klage]] — klage som trospraksìs i dag
 
 ---

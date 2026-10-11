@@ -95,7 +95,7 @@ De klassiske kildehypotesene opererer med fire lag: J (jahvisten), E (eloisten),
 | Poetiske/visdomsbøker | Job–Høysangen | Fromhet, klage, visdom |
 | Profetbøker | Jesaja–Malaki | Proklamasjon, dom, løfte |
 
-Se [[concepts/gt-profetene]] for en systematisk gjennomgang av alle de skriftlige profetene.
+Se [[Bibelen - det Gamle Testamentet/profetene/gt-profetene]] for en systematisk gjennomgang av alle de skriftlige profetene.
 
 ---
 
@@ -103,7 +103,7 @@ Se [[concepts/gt-profetene]] for en systematisk gjennomgang av alle de skriftlig
 
 - [[lese-og-forstå-bibelen/hva-er-bibelen]] — Bibelen som helhet
 - [[Bibelen - det Nye Testamentet/nt-kanon]] — NT-kanonprosessen som parallell
-- [[Bibelen - det Gamle Testamentet/gt-profetene]] — oversikt over profetbøkene
+- [[Bibelen - det Gamle Testamentet/profetene/gt-profetene]] — oversikt over profetbøkene
 - [[lese-og-forstå-bibelen/bibeltolkning-innforing]] — de eksgetiske metodene
 - [[Bibelen - det Nye Testamentet/comma-johanneum]] — tekstkritikk: et NT-eksempel
 - [[lese-og-forstå-bibelen/bibelsk-hebraisk-innforing]] — det hebraiske originalspråket
