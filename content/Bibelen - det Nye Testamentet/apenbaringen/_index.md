@@ -1,5 +1,5 @@
 ---
-title: "Johannesapokalypsen – Perikoper"
+title: "Åpenbaringen"
 tags: [åpenbaringen, index, johannesapokalypsen]
 ---
 
