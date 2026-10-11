@@ -19,10 +19,10 @@ Denne studieveien er ment som en strukturert inngang til evangeliene — fra det
 
 Før du leser, er det nyttig å forstå *hva slags tekster* evangeliene er — og hva de ikke er.
 
-- [[Bibelen - det Nye Testamentet/evangeliene-sjangeren]] — Hva er et evangelium? Sjangeren *euangelion*, proklamasjon som fortelling, forholdet mellom de fire, historisitet
+- [[Bibelen - det Nye Testamentet/evangeliene/evangeliene-sjangeren]] — Hva er et evangelium? Sjangeren *euangelion*, proklamasjon som fortelling, forholdet mellom de fire, historisitet
 - [[lese-og-forstå-bibelen/bibeltolkning-innforing]] — Grunnleggende hermeneutikk: hva er en tekst, hva gjør sjanger med lesningen?
 - [[lese-og-forstå-bibelen/hvordan-lese-narrativ]] — Evangeliene er fortellinger; dette gir verktøy for å lese dem godt
-- [[Bibelen - det Nye Testamentet/evangeliene]] — Oversikt over de fire evangeliene: sjanger, forfattere, datering, forholdet mellom dem
+- [[Bibelen - det Nye Testamentet/evangeliene/evangeliene]] — Oversikt over de fire evangeliene: sjanger, forfattere, datering, forholdet mellom dem
 - [[Bibelen - det Nye Testamentet/det-nye-testamentet]] — NT i sin helhet; evangelienes plass i kanon
 - [[Bibelen - det Nye Testamentet/nt-kanon]] — Kanonprosessen: hvordan ble de fire evangeliene valgt?
 
@@ -47,9 +47,9 @@ Evangeliene er skrevet av virkelige mennesker om virkelige hendelser i en konkre
 
 Hvert evangelium har sin egen stemme, sitt eget publikum og sin egen teologiske profil.
 
-- [[Bibelen - det Nye Testamentet/markusevangeliet]] — Det eldste evangeliet; hurtighetsfortelling; «og straks»; den lidende Menneskesønnen
-- [[Bibelen - det Nye Testamentet/matteus-evangeliet]] — Jesus som den nye Moses; fem store taler; Bergprekenen
-- [[Bibelen - det Nye Testamentet/lukasevangeliet]] — Det universelle evangeliet; de utestengte; kvinner og fattige; bønnens evangelium
+- [[Bibelen - det Nye Testamentet/evangeliene/markusevangeliet]] — Det eldste evangeliet; hurtighetsfortelling; «og straks»; den lidende Menneskesønnen
+- [[Bibelen - det Nye Testamentet/Matteus/matteus-evangeliet]] — Jesus som den nye Moses; fem store taler; Bergprekenen
+- [[Bibelen - det Nye Testamentet/evangeliene/lukasevangeliet]] — Det universelle evangeliet; de utestengte; kvinner og fattige; bønnens evangelium
 - [[Bibelen - det Nye Testamentet/johannes-evangeliet]] — Det teologiske evangeliet; Logos; «Jeg er»-utsagnene; avskjedstalen
 
 ---
@@ -60,15 +60,15 @@ En kronologisk inngang til evangeliefortellingens gang.
 
 **Begynnelse**
 - [[Bibelen - det Nye Testamentet/johannesprologen]] — «I begynnelsen var Ordet» — teologisk ouverture til Jesu person
-- [[Bibelen - det Nye Testamentet/dapen-og-fristelsen]] — Mark 1 / Matt 3-4: identitetskunngjøringen ved dåpen og utprøvingen i ørkenen
+- [[Bibelen - det Nye Testamentet/evangeliene/dapen-og-fristelsen]] — Mark 1 / Matt 3-4: identitetskunngjøringen ved dåpen og utprøvingen i ørkenen
 - [[personer/johannes-doperen]] — Johannes som forløper; dåpen i Jordan
 - [[personer/maria]] — Moren til Jesus; Magnificat; hennes rolle i evangeliene
 
 **Tjenesten**
-- [[Bibelen - det Nye Testamentet/lignelsene]] — Jesu fremste undervisningsform; Guds rike i bilder
-- [[Bibelen - det Nye Testamentet/bergprekenen]] — Matt 5-7; Jesu grunnleggende etikk og spiritualitet
-- [[Bibelen - det Nye Testamentet/saligprisningene]] — Beatitudenes åtte velsignelser; rikets logikk
-- [[Bibelen - det Nye Testamentet/den-fortapte-sonnen]] — En av lignelsenes høydepunkter
+- [[Bibelen - det Nye Testamentet/evangeliene/lignelsene]] — Jesu fremste undervisningsform; Guds rike i bilder
+- [[Bibelen - det Nye Testamentet/evangeliene/bergprekenen]] — Matt 5-7; Jesu grunnleggende etikk og spiritualitet
+- [[Bibelen - det Nye Testamentet/evangeliene/saligprisningene]] — Beatitudenes åtte velsignelser; rikets logikk
+- [[Bibelen - det Nye Testamentet/evangeliene/den-fortapte-sonnen]] — En av lignelsenes høydepunkter
 
 **Vendepunktet**
 - [[kristologi/messias]] — Hva er Messias? Forventning og oppfyllelse

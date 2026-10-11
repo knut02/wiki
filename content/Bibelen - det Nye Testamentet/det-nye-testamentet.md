@@ -119,10 +119,10 @@ NT er ikke en erstatning for GT, men dets oppfyllelse og videreføring. Den rød
 
 ## Sammenheng med andre artikler
 
-- [[Bibelen - det Nye Testamentet/evangeliene]] — de fire evangeliene sammenlignet
+- [[Bibelen - det Nye Testamentet/evangeliene/evangeliene]] — de fire evangeliene sammenlignet
 - [[Bibelen - det Nye Testamentet/matteus-evangeliet]] — Matteus' særlige teologiske profil
 - [[Bibelen - det Nye Testamentet/johannes-evangeliet]] — Johannes' Logos-kristologi og avskjedstale
-- [[Bibelen - det Nye Testamentet/bergprekenen]] — Jesu mest systematiske undervisning
+- [[Bibelen - det Nye Testamentet/evangeliene/bergprekenen]] — Jesu mest systematiske undervisning
 - [[Bibelen - det Nye Testamentet/nt-kanon]] — kanonprosessens historie
 - [[Bibelen - det Gamle Testamentet/pakten]] — paktsteologiens røtter
 - [[kristologi/jesus]] — hvem Jesus er ifølge NT samlet
