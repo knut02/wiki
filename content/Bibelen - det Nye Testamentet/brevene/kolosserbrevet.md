@@ -147,8 +147,8 @@ Uansett posisjon: Brevet ble tidlig lest som autoritativt og inneholder teologi 
 
 ## Sammenheng med andre artikler
 
-- [[Bibelen - det Nye Testamentet/efeserbrevet]] — parallelt fengselsbrev; kirken og åndsmaktene
-- [[Bibelen - det Nye Testamentet/filipperbrevet]] — Kristushymnen; Kristus som kosmisk herre
+- [[Bibelen - det Nye Testamentet/brevene/efeserbrevet]] — parallelt fengselsbrev; kirken og åndsmaktene
+- [[Bibelen - det Nye Testamentet/brevene/filipperbrevet]] — Kristushymnen; Kristus som kosmisk herre
 - [[kristologi/inkarnasjon]] — «Guds bilde» og inkarnasjonstanken
 - [[teologi/treenigheten]] — Kristus som skapelsens medium
 - [[kirkehistorie/gnostisisme]] — Kolossai-problemets bakgrunn

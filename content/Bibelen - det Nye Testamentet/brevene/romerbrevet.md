@@ -88,7 +88,7 @@ Det smertefulle avsnittet: «Det gode som jeg vil, gjør jeg ikke; det onde som 
 
 Keener (IVP, 8:14): «Åndens ledelse» er et ny-exodus-motiv — som Gud ledet Israel gjennom ørkenen, leder Ånden Guds folk mot den kommende herligheten.
 
-**Rom 8:28** — «Alt tjener til det gode for dem som elsker Gud» — er ikke naiv optimisme. Keener: Stoikere mente at alt ville ordne seg sett fra Guds synsvinkel; jødedommen trodde Gud ville vindisere sitt folk. Men Paulus' punkt er mer spesifikt: det ultimate gode er å bli formet etter Kristi bilde (8:29). Se [[Bibelen - det Nye Testamentet/romerne-8-28]].
+**Rom 8:28** — «Alt tjener til det gode for dem som elsker Gud» — er ikke naiv optimisme. Keener: Stoikere mente at alt ville ordne seg sett fra Guds synsvinkel; jødedommen trodde Gud ville vindisere sitt folk. Men Paulus' punkt er mer spesifikt: det ultimate gode er å bli formet etter Kristi bilde (8:29). Se [[Bibelen - det Nye Testamentet/brevene/romerne-8-28]].
 
 **Triumfsangen** (8:31-39): Ingenting kan skille oss fra Guds kjærlighet. Keener: «Høyde» og «dybde» er trolig bilder for himmelen over og Hades under — en jødisk måte å si «hele skaperverket».
 
@@ -142,11 +142,11 @@ Formuleringen i Rom 3:22 er avgjørende: «Guds rettferdighet gjennom tro på Je
 
 ## Sammenheng med andre artikler
 
-- [[Bibelen - det Nye Testamentet/romerne-8-28]] — Rom 8:28 utdypet
+- [[Bibelen - det Nye Testamentet/brevene/romerne-8-28]] — Rom 8:28 utdypet
 - [[Bibelen - det Nye Testamentet/paulusteologi-wright]] — Wright om rettferdiggjørelse som grunnlag for et folk
 - [[Bibelen - det Nye Testamentet/paulus-og-romerriket]] — evangelium som politisk proklamasjon mot keiserkulten
 - [[Bibelen - det Nye Testamentet/paulus-teologi]] — Paulus' teologi samlet
-- [[Bibelen - det Nye Testamentet/galaterne]] — parallell brevl; rettferdiggjørelse og loven
+- [[Bibelen - det Nye Testamentet/brevene/galaterne]] — parallell brevl; rettferdiggjørelse og loven
 - [[teologi/arvesynd]] — Adam-argumentet i Rom 5
 - [[tro-og-liv/nåde]] — nådens teologi
 - [[teologi/eskatologi]] — Guds plan med Israel og folkeslagene

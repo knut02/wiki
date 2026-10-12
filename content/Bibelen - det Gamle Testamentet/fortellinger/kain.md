@@ -132,9 +132,9 @@ Irenaeus (*Adversus Haereses*, ANF01) refser de gnostiske **kainittene** — en 
 
 ## Sammenheng med andre artikler
 
-- [[Bibelen - det Gamle Testamentet/abraham]] — Abrahams forbønn som kontrast til Kains selvrettferdiggjøring
-- [[Bibelen - det Gamle Testamentet/skapelsen]] — syndefallet som Kains bakgrunn
-- [[Bibelen - det Nye Testamentet/hebreerbrevet]] — Abel i trosrekken og blodet som taler
+- [[Bibelen - det Gamle Testamentet/fortellinger/abraham]] — Abrahams forbønn som kontrast til Kains selvrettferdiggjøring
+- [[Bibelen - det Gamle Testamentet/toraen/skapelsen]] — syndefallet som Kains bakgrunn
+- [[Bibelen - det Nye Testamentet/brevene/hebreerbrevet]] — Abel i trosrekken og blodet som taler
 - [[kirkehistorie/apostoliske-fedre]] — Klemens og Ignatius' bruk av Kain
 - [[kirkehistorie/gnostisisme]] — kainittene og Irenaeus' motstand
 - [[teologi/arvesynd]] — syndens makt og arv

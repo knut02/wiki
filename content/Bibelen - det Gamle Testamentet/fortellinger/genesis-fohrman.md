@@ -117,9 +117,8 @@ For en kristen leser tilbyr Fohrman:
 
 ## Sammenheng med andre artikler
 
-- [[Bibelen - det Gamle Testamentet/skapelsen]] — skapelsesberetningene i GT
-- [[Bibelen - det Gamle Testamentet/pakten]] — Abrahams pakt
-- [[Bibelen - det Gamle Testamentet/gamle-testamentet]] — GT-oversikt
+- [[Bibelen - det Gamle Testamentet/toraen/skapelsen]] — skapelsesberetningene i GT
+- [[Bibelen - det Gamle Testamentet/toraen/pakten]] — Abrahams pakt
 - [[personer/adam-og-eva]] — Adam og Eva som bibelske personer
 - [[personer/moses]] — Toraens tradisjonelle forfatter
 - [[lese-og-forstå-bibelen/bibeltolkning-innforing]] — hermeneutikk og lesemetoder

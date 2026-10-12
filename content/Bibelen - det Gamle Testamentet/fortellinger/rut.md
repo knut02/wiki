@@ -107,10 +107,10 @@ Denne stamtavlen gjentas i NT: Matt 1:5 nevner Rut eksplisitt i Jesu slektregist
 ## Sammenheng med andre artikler
 
 - [[Bibelen - det Gamle Testamentet/gt-som-teologisk-helhet]] — innlemmelse av fremmede i GT-fortellingen
-- [[Bibelen - det Gamle Testamentet/pakten]] — *hesed* og paktskjærlighet
+- [[Bibelen - det Gamle Testamentet/toraen/pakten]] — *hesed* og paktskjærlighet
 - [[kvinner-og-bibelen/kvinner-i-evangeliene]] — Rut i Jesu stamtavle (Matt 1)
 - [[kristologi/messias]] — Davids stamtavle og messiasforventningen
-- [[Bibelen - det Gamle Testamentet/salmene-sjanger]] — Boaz' velsignelse og Sal-språket
+- [[Bibelen - det Gamle Testamentet/visdom/salmene-sjanger]] — Boaz' velsignelse og Sal-språket
 
 ---
 

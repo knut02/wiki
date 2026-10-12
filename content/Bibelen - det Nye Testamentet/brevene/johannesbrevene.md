@@ -152,7 +152,7 @@ Burge fremhever tre:
 
 ## Sammenheng med andre artikler
 
-- [[Bibelen - det Nye Testamentet/johannes-evangeliet]] — evangeliets teologi som bakgrunn for brevene
+- [[Bibelen - det Nye Testamentet/johannesevangeliet/johannes-evangeliet]] — evangeliets teologi som bakgrunn for brevene
 - [[teologi/kristologi-systematisk]] — doketismens utfordring og ortodoks respons
 - [[kirkehistorie/apostoliske-fedre]] — Cerinthus og Irenaeus-tradisjonen
 - [[teologi/pneumatologi]] — Ånden og discernment

@@ -124,11 +124,11 @@ Det er det mest eksistensielle av Paulus' brev — ikke fordi det handler om Pau
 
 ## Sammenheng med andre artikler
 
-- [[Bibelen - det Nye Testamentet/forste-korinterbrev]] — det forutgående brevet til samme menighet
+- [[Bibelen - det Nye Testamentet/brevene/forste-korinterbrev]] — det forutgående brevet til samme menighet
 - [[Bibelen - det Nye Testamentet/paulus-teologi]] — Paulus' teologi samlet
 - [[tro-og-liv/nåde]] — «min nåde er nok for deg»
 - [[tro-og-liv/disippelskap]] — svakhet som disippelskapsmodell
-- [[Bibelen - det Gamle Testamentet/pakten]] — den nye pakten mot den gamle
+- [[Bibelen - det Gamle Testamentet/toraen/pakten]] — den nye pakten mot den gamle
 - [[teologi/hellige-ånd]] — Ånden som skriver loven på hjertet
 
 ---

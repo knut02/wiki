@@ -135,11 +135,11 @@ Elias bønn (5:17-18) — at himmelen var lukket i tre og et halvt år — er ik
 
 ## Sammenheng med andre artikler
 
-- [[Bibelen - det Nye Testamentet/galaterne]] — Paulus om tro og gjerninger; kontrasten med Jakob
-- [[Bibelen - det Nye Testamentet/romerbrevet]] — rettferdiggjørelse av tro; Abraham-argumentet
+- [[Bibelen - det Nye Testamentet/brevene/galaterne]] — Paulus om tro og gjerninger; kontrasten med Jakob
+- [[Bibelen - det Nye Testamentet/brevene/romerbrevet]] — rettferdiggjørelse av tro; Abraham-argumentet
 - [[tro-og-liv/disippelskap]] — tro som virker i praksis
 - [[tro-og-liv/nåde]] — nåde og gjerningers forhold
-- [[Bibelen - det Gamle Testamentet/visdomslitteratur]] — GT-visdomstradisjonens bakgrunn
+- [[Bibelen - det Gamle Testamentet/visdom/visdomslitteratur]] — GT-visdomstradisjonens bakgrunn
 
 ---
 

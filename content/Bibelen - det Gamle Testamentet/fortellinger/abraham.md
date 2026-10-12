@@ -133,8 +133,8 @@ Det er troens portrett: Ikke perfeksjon, men vedvarende orientering mot Gud.
 
 ## Sammenheng med andre artikler
 
-- [[Bibelen - det Gamle Testamentet/pakten]] — Abrahampakten i paktsteologiens helhet
-- [[Bibelen - det Gamle Testamentet/genesis-fohrman]] — Fohrman og parasja-lesning av Genesis
+- [[Bibelen - det Gamle Testamentet/toraen/pakten]] — Abrahampakten i paktsteologiens helhet
+- [[Bibelen - det Gamle Testamentet/fortellinger/genesis-fohrman]] — Fohrman og parasja-lesning av Genesis
 - [[kristologi/messias]] — Abrahams ætt og messiasforventningen
 - [[verdensreligioner-og-livssyn/islam]] — Ibrahim i islamsk tradisjon
 - [[verdensreligioner-og-livssyn/jodedommen]] — Abraham i jødisk tradisjon

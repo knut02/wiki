@@ -113,7 +113,7 @@ De fleste NT-bøkene var allment akseptert allerede på 100-tallet. Athanasius' 
 
 NT forutsetter GT. Jesus siterer GT, Paulus argumenterer fra GT, og nesten hvert kapittel i NT inneholder referanser til Israels skrifter — eksplisitte sitater eller implisitte allusjoner.
 
-NT er ikke en erstatning for GT, men dets oppfyllelse og videreføring. Den røde tråden er **paktshistorien**: Guds løfter til Abraham, Moses og David oppfylles i Jesus — og den nye pakten åpner Israels løfter til alle folk. Se [[Bibelen - det Gamle Testamentet/pakten]] for den teologiske sammenhengen.
+NT er ikke en erstatning for GT, men dets oppfyllelse og videreføring. Den røde tråden er **paktshistorien**: Guds løfter til Abraham, Moses og David oppfylles i Jesus — og den nye pakten åpner Israels løfter til alle folk. Se [[Bibelen - det Gamle Testamentet/toraen/pakten]] for den teologiske sammenhengen.
 
 ---
 

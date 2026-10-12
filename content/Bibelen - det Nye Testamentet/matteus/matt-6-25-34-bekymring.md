@@ -128,7 +128,7 @@ Det er verdt å understreke hva dette ikke er:
 - [[grunnleggende/bønn]] — Fadervår: «gi oss i dag vårt daglige brød»
 - [[grunnleggende/tro]]
 - [[grunnleggende/håp]]
-- [[Bibelen - det Nye Testamentet/bergprekenen]]
+- [[Bibelen - det Nye Testamentet/evangeliene/bergprekenen]]
 
 ---
 

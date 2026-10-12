@@ -87,7 +87,7 @@ Et av Wrights mest fruktbare poenger: Paulus' vokabular er bevisst politisk. *Ev
 
 ## Sammenheng med andre artikler
 
-- [[Bibelen - det Nye Testamentet/romerbrevet]] — teologiens hjerte
+- [[Bibelen - det Nye Testamentet/brevene/romerbrevet]] — teologiens hjerte
 - [[Bibelen - det Nye Testamentet/galaterbrevet]] — Gal 3:28 og den nye fellesskapets teologi
 - [[teologi/rettferdiggjørelse-av-tro]] — rettferdiggjørelsesbegrepet utdypet
 - [[tro-og-liv/nåde]] — Paulus' kjernebidrag

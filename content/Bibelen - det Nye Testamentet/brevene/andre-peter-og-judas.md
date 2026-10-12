@@ -118,11 +118,11 @@ Peter svarer med to punkter:
 
 ## Sammenheng med andre artikler
 
-- [[Bibelen - det Nye Testamentet/forste-petersbrev]] — bind 1 av Petersbrevene
+- [[Bibelen - det Nye Testamentet/brevene/forste-petersbrev]] — bind 1 av Petersbrevene
 - [[Bibelen - det Nye Testamentet/aapenbaringen]] — parallell apokalyptisk horisont
 - [[teologi/eskatologi]] — Herrens dag og endetidsforventning
 - [[kirkehistorie/gnostisisme]] — falske læreres bakgrunn
-- [[Bibelen - det Gamle Testamentet/jesaja]] — ny himmel og ny jord fra Jes 65-66
+- [[Bibelen - det Gamle Testamentet/profetene/jesaja]] — ny himmel og ny jord fra Jes 65-66
 
 ---
 

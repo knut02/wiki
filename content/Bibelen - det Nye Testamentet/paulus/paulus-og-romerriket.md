@@ -85,7 +85,7 @@ Det betyr ikke at kirken skal drive partipolitikk. Men det betyr at troen på at
 ## Sammenheng med andre artikler
 
 - [[Bibelen - det Nye Testamentet/paulusteologi-wright]] — Wrights Paulus-teologi i sin helhet
-- [[Bibelen - det Nye Testamentet/romerbrevet]] — Rom 1 og evangeliet som kongsmelding
+- [[Bibelen - det Nye Testamentet/brevene/romerbrevet]] — Rom 1 og evangeliet som kongsmelding
 - [[kirkehistorie/martyriet-og-helgenkult]] — martyriet som politisk handling
 - [[teologi/kristen-etikk]] — etikkens politiske dimensjon
 - [[kirkehistorie/den-konstantinske-vendingen]] — hva skjer når kirken *er* statsmakten?

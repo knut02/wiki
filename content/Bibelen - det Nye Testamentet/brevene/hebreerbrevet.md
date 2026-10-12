@@ -118,11 +118,11 @@ Jesus er *archēgos* og *teleiōtēs* — opphavsmann og fullfører av tro. Han 
 ## Sammenheng med andre artikler
 
 - [[kristologi/inkarnasjon]] — Kristus lavere enn englene for frelse
-- [[Bibelen - det Gamle Testamentet/pakten]] — den nye pakten mot den gamle
+- [[Bibelen - det Gamle Testamentet/toraen/pakten]] — den nye pakten mot den gamle
 - [[kirkehistorie/nattverd-i-oldkirken]] — Yom Kippur og Kristi offer
 - [[teologi/eskatologi]] — den himmelske verden som troens mål
 - [[tro-og-liv/tro]] — tro som utholdenhet, ikke bare intellektuell aksept
-- [[Bibelen - det Nye Testamentet/romerbrevet]] — rettferdiggjørelse og Abraham
+- [[Bibelen - det Nye Testamentet/brevene/romerbrevet]] — rettferdiggjørelse og Abraham
 
 ---
 

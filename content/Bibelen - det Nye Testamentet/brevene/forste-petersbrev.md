@@ -137,7 +137,7 @@ Peter appellerer til de eldste som «medeldste» og «øyenvitne til Kristi lide
 - [[kirkehistorie/kristendommens-tilblivelse]] — kontekst: Neros Roma
 - [[tro-og-liv/disippelskap]] — livet som fremmed og pilegrimg
 - [[tro-og-liv/dapen]] — dåpens teologi i 3:21
-- [[Bibelen - det Nye Testamentet/efeserbrevet]] — parallell teologi om kirken som Guds folk
+- [[Bibelen - det Nye Testamentet/brevene/efeserbrevet]] — parallell teologi om kirken som Guds folk
 - [[kristologi/messias]] — Jes 53 i 2:22-25
 
 ---

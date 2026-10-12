@@ -130,7 +130,7 @@ Prologen avsluttes med en nøkkelsetning: «Ingen har noensinne sett Gud. Den en
 
 ## Sammenheng med andre artikler
 
-- [[Bibelen - det Nye Testamentet/johannes-evangeliet]] — evangeliet i sin helhet
+- [[Bibelen - det Nye Testamentet/johannesevangeliet/johannes-evangeliet]] — evangeliet i sin helhet
 - [[kristologi/inkarnasjon]] — inkarnasjonsteorien utdypet
 - [[teologi/treenigheten]] — Logos' relasjon til Faderen
 - [[kristologi/jesus-i-johannes-evangeliet]] — Jesu selvpresentasjon

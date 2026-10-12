@@ -202,7 +202,7 @@ N.T. Wright (*Surprised by Hope*): Det vi gjør i skaperverket nå teller. Kropp
 - [[kristologi/jesus-sin-oppstandelse]] — oppstandelseskroppen som ny skapelse
 - [[lese-og-forstå-bibelen/bibelens-tilblivelse]] — 1 Mos i sin litterære og historiske kontekst
 - [[Bibelen - det Gamle Testamentet/gt-guds-brutalitet]] — skapelse og vold i GT
-- [[Bibelen - det Gamle Testamentet/genesis-fohrman]] — Fohrman og parasja-tradisjonens lesning
+- [[Bibelen - det Gamle Testamentet/fortellinger/genesis-fohrman]] — Fohrman og parasja-tradisjonens lesning
 - [[teologi/eskatologi]] — ny skapelse som eskatologisk mål
 
 ---

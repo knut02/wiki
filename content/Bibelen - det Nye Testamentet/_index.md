@@ -47,7 +47,7 @@ Det nye testamentet — de fire evangeliene, Apostlenes gjerninger, Paulus' brev
 
 ## Johannesbrevene
 
-- [[Bibelen - det Nye Testamentet/johannesbrevene]] — 1., 2. og 3. Johannesbrev
+- [[Bibelen - det Nye Testamentet/brevene/johannesbrevene]] — 1., 2. og 3. Johannesbrev
 
 ---
 

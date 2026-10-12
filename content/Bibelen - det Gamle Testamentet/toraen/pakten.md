@@ -128,9 +128,9 @@ Bibelen er fortellingen om en Gud som gir løfter og holder dem. Det hebraiske *
 ## Sammenheng med andre artikler
 
 - [[Bibelen - det Gamle Testamentet/gt-som-teologisk-helhet]] — pakten som GT-teologiens sentrum
-- [[Bibelen - det Gamle Testamentet/profetene-oversikt]] — profetenes pakts-kritikk og løftets utdypning
-- [[Bibelen - det Nye Testamentet/galaterbrevet]] — Paulus om Abraham-pakten og loven
-- [[Bibelen - det Nye Testamentet/romerbrevet]] — rettferdiggjørelse og pakt
+- [[Bibelen - det Gamle Testamentet/profetene/gt-profetene]] — profetenes pakts-kritikk og løftets utdypning
+- [[Bibelen - det Nye Testamentet/brevene/galaterne]] — Paulus om Abraham-pakten og loven
+- [[Bibelen - det Nye Testamentet/brevene/romerbrevet]] — rettferdiggjørelse og pakt
 - [[teologi/forsoningslæren]] — Kristi død som paktsstiftelse
 - [[tro-og-liv/dapen]] — dåpen som paktens tegn i NT
 - [[tro-og-liv/guds-rike]] — riket som paktens fullendelse

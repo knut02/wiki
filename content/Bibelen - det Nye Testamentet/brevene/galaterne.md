@@ -124,7 +124,7 @@ Dette er det Wright kaller Paulus' radikale sosiale program — og det er forank
 
 ## Sammenheng med andre artikler
 
-- [[Bibelen - det Nye Testamentet/romerbrevet]] — parallelt brev; samme Abraham-argument, mer systematisk
+- [[Bibelen - det Nye Testamentet/brevene/romerbrevet]] — parallelt brev; samme Abraham-argument, mer systematisk
 - [[Bibelen - det Nye Testamentet/paulusteologi-wright]] — Wrights lesning av Gal 3:28 og rettferdiggjørelse
 - [[tro-og-liv/dydsetikk-og-aandens-frukt]] — Åndens frukt i Gal 5 som dydsetikk
 - [[Bibelen - det Nye Testamentet/paulus-teologi]] — Paulus' teologi samlet

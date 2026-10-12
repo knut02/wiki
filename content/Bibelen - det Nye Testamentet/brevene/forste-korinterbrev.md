@@ -112,7 +112,7 @@ Hvilken slags kropp? Paulus bruker frø-metaforen: Det som plantes og det som sp
 
 ## Sammenheng med andre artikler
 
-- [[Bibelen - det Nye Testamentet/romerbrevet]] — parallell teologi
+- [[Bibelen - det Nye Testamentet/brevene/romerbrevet]] — parallell teologi
 - [[kirkehistorie/nattverd-i-oldkirken]] — innstiflelsesordene i 11:23-26
 - [[kristologi/jesus-sin-oppstandelse]] — oppstandelsesteologi
 - [[tro-og-liv/fellesskap]] — kroppen med mange lemmer

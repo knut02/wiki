@@ -125,8 +125,8 @@ Keener (IVP, 2:42): «Brødets brytelse» refererer trolig til det eukaristiske 
 - [[Bibelen - det Nye Testamentet/apostlenes-gjerninger]] — pinsedagen i Apg-sammenheng
 - [[teologi/hellige-ånd]] — Åndens teologi
 - [[kirkehistorie/kristendommens-tilblivelse]] — urmenigheten etter pinsen
-- [[Bibelen - det Gamle Testamentet/pakten]] — den nye pakten og Ånden
-- [[Bibelen - det Gamle Testamentet/gt-profetene]] — Joel og profettradisjonen
+- [[Bibelen - det Gamle Testamentet/toraen/pakten]] — den nye pakten og Ånden
+- [[Bibelen - det Gamle Testamentet/profetene/gt-profetene]] — Joel og profettradisjonen
 - [[tro-og-liv/dapen]] — dåpens teologi i Apg 2:38
 - [[tidslinjer/nt-tidslinje]] — pinsedagen i kronologisk sammenheng
 

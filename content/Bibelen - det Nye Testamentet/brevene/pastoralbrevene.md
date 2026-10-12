@@ -123,7 +123,7 @@ Keener (IVP, 3:5): «Gjenfødelsens og fornyelsens bad ved Den Hellige Ånd» �
 ## Sammenheng med andre artikler
 
 - [[kirkehistorie/embetsutvikling]] — eldste og diakoner i kirkehistorisk perspektiv
-- [[Bibelen - det Nye Testamentet/efeserbrevet]] — menigheten i Efesos som kontekst
+- [[Bibelen - det Nye Testamentet/brevene/efeserbrevet]] — menigheten i Efesos som kontekst
 - [[Bibelen - det Nye Testamentet/paulus-teologi]] — Paulus' teologi samlet
 - [[tro-og-liv/disippelskap]] — overleveringens ansvar i 2 Tim 2:2
 - [[lese-og-forstå-bibelen/bibeltolkning-innforing]] — 2 Tim 3:16 om Skriftens autoritet

@@ -136,7 +136,7 @@ Det er anklagenens hjerte: ikke hat, men knust kjærlighet.
 
 - [[tro-og-liv/jesu-etikk]] — Jesu etiske undervisning samlet
 - [[kristologi/jesu-liv-og-tjeneste]] — Jesu konflikter med autoritetene
-- [[Bibelen - det Nye Testamentet/bergprekenen]] — Jesu positive etikk
+- [[Bibelen - det Nye Testamentet/evangeliene/bergprekenen]] — Jesu positive etikk
 - [[tro-og-liv/bekjennelse]] — autentisitet og ærlighet i troens liv
 - [[teologi/ekklesiologi]] — portvokterfunksjonen og kirkens vesen
 

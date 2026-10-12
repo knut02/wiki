@@ -130,8 +130,8 @@ Keener (IVP, 6:18): Bønnen er ikke en del av rustningen — den er det som akti
 
 ## Sammenheng med andre artikler
 
-- [[Bibelen - det Nye Testamentet/romerbrevet]] — rettferdiggjørelse og Israels plass
-- [[Bibelen - det Nye Testamentet/filipperbrevet]] — parallelt fengselsbrev
+- [[Bibelen - det Nye Testamentet/brevene/romerbrevet]] — rettferdiggjørelse og Israels plass
+- [[Bibelen - det Nye Testamentet/brevene/filipperbrevet]] — parallelt fengselsbrev
 - [[teologi/treenigheten]] — Faderens, Sønnens og Åndens rolle i 1:3-14
 - [[kristologi/inkarnasjon]] — Kristi nedstigning og opphøyelse
 - [[tro-og-liv/fellesskap]] — kirken som Kristi kropp

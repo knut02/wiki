@@ -99,8 +99,8 @@ Keener påpeker at brevets bevaring og sirkulasjon bekrefter at Paulus lyktes: F
 
 ## Sammenheng med andre artikler
 
-- [[Bibelen - det Nye Testamentet/kolosserbrevet]] — skrevet fra samme fengsel; Onesimus nevnt i Kol 4:9
-- [[Bibelen - det Nye Testamentet/efeserbrevet]] — hustavlen og slaveriets sosiale kontekst
+- [[Bibelen - det Nye Testamentet/brevene/kolosserbrevet]] — skrevet fra samme fengsel; Onesimus nevnt i Kol 4:9
+- [[Bibelen - det Nye Testamentet/brevene/efeserbrevet]] — hustavlen og slaveriets sosiale kontekst
 - [[Bibelen - det Nye Testamentet/paulus-teologi]] — Paulus' teologi om frihet og likeverd
 - [[tro-og-liv/fellesskap]] — broderskap på tvers av sosiale skiller
 - [[kirkehistorie/kristendommens-tilblivelse]] — tidligkristne menigheter og sosial sammensetning

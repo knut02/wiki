@@ -106,9 +106,9 @@ Se [[concepts/frigjøringsteologi]] og [[concepts/global-kristendom-oversikt]] f
 ## Sammenheng med andre artikler
 
 - [[kristologi/messias]] — messiasforventningens GT-bakgrunn
-- [[Bibelen - det Gamle Testamentet/pakten]] — Abraham- og Davidpakten som Matteus bygger på
+- [[Bibelen - det Gamle Testamentet/toraen/pakten]] — Abraham- og Davidpakten som Matteus bygger på
 - [[tro-og-liv/disippelskap]] — misjonsbefalingen og disippelgjøring
-- [[Bibelen - det Nye Testamentet/bergprekenen]] — Bergprekenen i full utstrekning
+- [[Bibelen - det Nye Testamentet/evangeliene/bergprekenen]] — Bergprekenen i full utstrekning
 - [[teologi/frigjøringsteologi]] — den systematiske teologien bak sosial lesning
 - [[lese-og-forstå-bibelen/bibeltolkning-innforing]] — leserposisjonens hermeneutiske betydning
 
