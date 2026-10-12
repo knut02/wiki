@@ -103,7 +103,7 @@ Kristen GT-lesning er ikke:
 - [[Bibelen - det Gamle Testamentet/pakten]] — paktsteologiens kontinuitet
 - [[Bibelen - det Gamle Testamentet/guds-lofte]] — løftets oppfyllelse i Kristus
 - [[Bibelen - det Nye Testamentet/apokryfe-skrifter-og-nt-kanon]] — kanonens grenser
-- [[kirkehistorie/klemens-av-alexandria-og-origen]] — allegorisk tolkningstradisjon
+- [[kirkehistorie/oldkirken/klemens-av-alexandria-og-origen]] — allegorisk tolkningstradisjon
 
 ---
 

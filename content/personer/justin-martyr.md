@@ -85,14 +85,14 @@ Justin representerer en avgjørende bevegelse: Fra jødisk sekt til verdensrelig
 
 ## Sammenheng med andre artikler
 
-- [[kirkehistorie/kirkehistorie-100-200]] — Justins historiske kontekst
+- [[kirkehistorie/oldkirken/kirkehistorie-100-200]] — Justins historiske kontekst
 - [[tro-og-liv/dapen]] — Justins dåpsbeskrivelse som tidligkristelig kilde
-- [[kirkehistorie/tidligkristen-bønnepraksis]] — søndagsgudstjenestens liturgi
+- [[kirkehistorie/oldkirken/tidligkristen-bønnepraksis]] — søndagsgudstjenestens liturgi
 - [[kirkehistorie/tidligkristen-gudstjeneste]] — gudstjenestepraksis i oldkirken
-- [[kirkehistorie/apostoliske-fedre]] — generasjonen før Justin
+- [[kirkehistorie/oldkirken/apostoliske-fedre]] — generasjonen før Justin
 - [[kristologi/inkarnasjon]] — Logos-teologien
 - [[kristologi/historisk-jesus]] — apologetikkens Kristusbilde
-- [[kirkehistorie/gnostisisme]] — Justin mot gnostikerne
+- [[kirkehistorie/oldkirken/gnostisisme]] — Justin mot gnostikerne
 
 ---
 

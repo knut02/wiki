@@ -85,7 +85,7 @@ Tre observasjoner fra *Didache*:
 
 **Fadervår med doksologi:** Didache inkluderer «For din er makten og æren i evighet» — det tidligste vitnet om doksologiens liturgiske bruk.
 
-**Tre ganger daglig:** Koblet til den jødiske tidebønnen — men med et kristent innhold. Se [[kirkehistorie/tidligkristen-bønnepraksis]].
+**Tre ganger daglig:** Koblet til den jødiske tidebønnen — men med et kristent innhold. Se [[kirkehistorie/oldkirken/tidligkristen-bønnepraksis]].
 
 ---
 

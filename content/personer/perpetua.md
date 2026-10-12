@@ -73,10 +73,10 @@ Perpetua, Felicitas og de andre ble kastet for ville dyr i amfiteatret i Kartago
 
 ## Sammenheng med andre artikler
 
-- [[kirkehistorie/martyriet-og-helgenkult]] — martyriets teologi og historiske kontekst
-- [[kirkehistorie/askese-i-oldkirken]] — den bredere konteksten for martyrtradisjonen
-- [[kirkehistorie/apostoliske-fedre]] — Ignatius og Polykarp som forgjengere
-- [[kirkehistorie/kristendommens-tilblivelse]] — kirken under forfølgelse
+- [[kirkehistorie/oldkirken/martyriet-og-helgenkult]] — martyriets teologi og historiske kontekst
+- [[kirkehistorie/oldkirken/askese-i-oldkirken]] — den bredere konteksten for martyrtradisjonen
+- [[kirkehistorie/oldkirken/apostoliske-fedre]] — Ignatius og Polykarp som forgjengere
+- [[kirkehistorie/oldkirken/kristendommens-tilblivelse]] — kirken under forfølgelse
 - [[kvinner-og-bibelen/kvinner-i-kirken]] — kvinner og åndelig autoritet
 - [[teologi/hellige-ånd]] — profetiske visjoner og Åndsbegavelse
 - [[personer/augustin]] — Augustins preker om Perpetua

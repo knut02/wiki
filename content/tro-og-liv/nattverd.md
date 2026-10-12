@@ -80,12 +80,12 @@ Nattverden er ikke noe man *gjør* for Gud — det er noe man *mottar*. Mottagel
 ## Sammenheng med andre artikler
 
 - [[teologi/sakramentene]] — de teologiske posisjonene om Kristi nærvær i nattverden
-- [[kirkehistorie/nattverd-i-oldkirken]] — nattverdens historiske utvikling
+- [[kirkehistorie/oldkirken/nattverd-i-oldkirken]] — nattverdens historiske utvikling
 - [[tro-og-liv/dapen]] — dåp og nattverd som inngang og næring i kirkelivet
 - [[Bibelen - det Gamle Testamentet/pakten]] — ny pakt i Jesu blod
 - [[tro-og-liv/fellesskap]] — nattverden som fellesskapets konstituerende handling
 - [[teologi/eskatologi]] — nattverdens eskatologiske dimensjon
-- [[kirkehistorie/oldkirkens-gudstjeneste-struktur-og-praksis]] — nattverdens liturgiske plass
+- [[kirkehistorie/oldkirken/oldkirkens-gudstjeneste-struktur-og-praksis]] — nattverdens liturgiske plass
 
 ---
 

@@ -189,7 +189,7 @@ I praksis er skillet ikke alltid enkelt å holde klart — forforståelsen er al
 ## Sammenheng med andre artikler
 
 - [[lese-og-forstå-bibelen/bibelen]] — Bibelen som helhet
-- [[kirkehistorie/klemens-av-alexandria-og-origen]] — den allegoriske tolkningstradisjonen
+- [[kirkehistorie/oldkirken/klemens-av-alexandria-og-origen]] — den allegoriske tolkningstradisjonen
 - [[lese-og-forstå-bibelen/bibeloversettelse]] — oversettelse som tolkning
 - [[lese-og-forstå-bibelen/bibelens-tilblivelse]] — tekstkritikk og kanonhistorie
 - [[lese-og-forstå-bibelen/bibelsk-hebraisk-innforing]] — originalspråket i GT

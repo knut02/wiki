@@ -23,8 +23,8 @@ Den samlede samlingen av kirkefedretekster på latin og gresk finnes i *Ante-Nic
 
 Skikkelsene nærmest apostlene — noen hadde hørt dem direkte.
 
-→ [[kirkehistorie/apostoliske-fedre]] — Klemens av Roma, Ignatius av Antiokia, Polykarp, Didache, Barnabasbrevet
-→ [[kirkehistorie/didache]] — *Toveis-læren* og den tidligste gudstjenestebeskrivelsen
+→ [[kirkehistorie/oldkirken/apostoliske-fedre]] — Klemens av Roma, Ignatius av Antiokia, Polykarp, Didache, Barnabasbrevet
+→ [[kirkehistorie/oldkirken/didache]] — *Toveis-læren* og den tidligste gudstjenestebeskrivelsen
 
 **Nøkkelskikkelser:**
 - **Klemens av Roma** (d. ca. 99) — brev til Korint om orden og enhet; den første hint om Romas særstilling
@@ -37,7 +37,7 @@ Skikkelsene nærmest apostlene — noen hadde hørt dem direkte.
 
 Forsvarerne av kristendommen overfor romersk myndighet og gresk filosofi.
 
-→ [[kirkehistorie/apostoliske-apologeter-og-hermas]] — Justin Martyr, Athenagoras, Tatian, Teofilus og Hermas' Hyrde
+→ [[kirkehistorie/oldkirken/apostoliske-apologeter-og-hermas]] — Justin Martyr, Athenagoras, Tatian, Teofilus og Hermas' Hyrde
 
 **Nøkkelskikkelser:**
 - **Justin Martyr** (ca. 100–165) — Logos-filosofien; kristendommen som den sanne filosofi; martyr
@@ -51,9 +51,9 @@ Forsvarerne av kristendommen overfor romersk myndighet og gresk filosofi.
 
 Det store gjendrivings-prosjektet mot gnostisisme og marcionisme.
 
-→ [[kirkehistorie/irenaeus-av-lyon]] — rekapitulasjonsteorien; skapelsens godhet; apostolisk tradisjon
-→ [[kirkehistorie/hippolytus-og-gnostisismens-mangfold]] — katalogen over tretti gnostiske sekter
-→ [[kirkehistorie/gnostisisme]] — hva gnostisismen egentlig lærte
+→ [[kirkehistorie/oldkirken/irenaeus-av-lyon]] — rekapitulasjonsteorien; skapelsens godhet; apostolisk tradisjon
+→ [[kirkehistorie/oldkirken/hippolytus-og-gnostisismens-mangfold]] — katalogen over tretti gnostiske sekter
+→ [[kirkehistorie/oldkirken/gnostisisme]] — hva gnostisismen egentlig lærte
 
 **Nøkkelskikkelser:**
 - **Irenaeus av Lyon** (ca. 130–202) — *Mot kjetteriene*; rekapitulasjon; de fire evangeliene; den første systematiske teologi
@@ -65,7 +65,7 @@ Det store gjendrivings-prosjektet mot gnostisisme og marcionisme.
 
 Intellektualitetens senter — filosofi og kristendom i dialog.
 
-→ [[kirkehistorie/klemens-av-alexandria-og-origen]] — den alexandrinske skolen; Logos-teologi; allegorisk tolkning
+→ [[kirkehistorie/oldkirken/klemens-av-alexandria-og-origen]] — den alexandrinske skolen; Logos-teologi; allegorisk tolkning
 
 **Nøkkelskikkelser:**
 - **Klemens av Alexandria** (ca. 150–215) — filosofien som «forberedelse for Kristus»; *Stromateis*; den sanne gnostiker
@@ -82,13 +82,13 @@ Intellektualitetens senter — filosofi og kristendom i dialog.
 
 Latinsk kristendoms grunnleggere — skapere av det teologiske vokabularet.
 
-→ [[kirkehistorie/tertullian]] — Apologeticum; trinitas og persona; dåpsteologi; montanistskiftet
+→ [[kirkehistorie/oldkirken/tertullian]] — Apologeticum; trinitas og persona; dåpsteologi; montanistskiftet
 
 **Nøkkelskikkelser:**
 - **Tertullian** (ca. 160–225) — grunnlegger av latinsk teologi; *trinitas*, *persona*, *substantia*; *Apologeticum*
 - **Cyprian av Karthago** (ca. 200–258) — *Om kirkens enhet*; episkopatet; de frafalne; martyrdød
 
-→ [[kirkehistorie/cyprian-av-karthago]]
+→ [[kirkehistorie/oldkirken/cyprian-av-karthago]]
 
 ---
 
@@ -101,7 +101,7 @@ Løste den ariske krisen og fullbyrdet trinitetsformelen.
 - **Gregor av Nazianz** (329–390) — «Det som ikke er antatt, er ikke frelst»; fem teologiske taler
 - **Gregor av Nyssa** (335–395) — *Livet med Moses*; epektasis; apofatikk
 
-→ [[kirkehistorie/kalkedon-kristologi]] — arven fra kappadokierne til Kalkedon
+→ [[kirkehistorie/konsilene/kalkedon-kristologi]] — arven fra kappadokierne til Kalkedon
 
 ---
 
@@ -116,16 +116,16 @@ Oldkirkens fire store latinske lærere — *Doctores Ecclesiae*.
 - **Johannes Chrysostomos** (347–407) — den store predikanten; *Gullmunn*; eksil og martyrium
 
 → [[personer/augustin]]
-→ [[kirkehistorie/frelse-athanasius-augustin]] — frelseslærene sammenlignet
+→ [[kirkehistorie/oldkirken/frelse-athanasius-augustin]] — frelseslærene sammenlignet
 
 ---
 
 ## Gudstjeneste og praksis
 
-→ [[kirkehistorie/oldkirkens-gudstjeneste-struktur-og-praksis]] — gudstjenestens utvikling fra huskirke til basilika; Apostoliske Konstitusjoner; de tidlige liturgiene
-→ [[kirkehistorie/nattverd-i-oldkirken]] — eukaristiens utvikling
-→ [[kirkehistorie/tidligkristen-bønnepraksis]] — bønnens former
-→ [[kirkehistorie/askese-i-oldkirken]] — ørkenbevegelsen og monastisismens røtter
+→ [[kirkehistorie/oldkirken/oldkirkens-gudstjeneste-struktur-og-praksis]] — gudstjenestens utvikling fra huskirke til basilika; Apostoliske Konstitusjoner; de tidlige liturgiene
+→ [[kirkehistorie/oldkirken/nattverd-i-oldkirken]] — eukaristiens utvikling
+→ [[kirkehistorie/oldkirken/tidligkristen-bønnepraksis]] — bønnens former
+→ [[kirkehistorie/oldkirken/askese-i-oldkirken]] — ørkenbevegelsen og monastisismens røtter
 
 ---
 
@@ -136,4 +136,4 @@ Oldkirkens fire store latinske lærere — *Doctores Ecclesiae*.
 → [[teologi/theosis]] — guddommeliggjørelse fra Irenaeus til Gregor av Nyssa
 → [[tro-og-liv/gudskunnskap-og-danning]] — Hägg: Klemens og Gregor om epektasis
 → [[Bibelen - det Nye Testamentet/apokryfe-skrifter-og-nt-kanon]] — kanonprosessen
-→ [[kirkehistorie/kristologi-frem-til-nikea]] — kristologidebatten fedre bidro til
+→ [[kirkehistorie/konsilene/kristologi-frem-til-nikea]] — kristologidebatten fedre bidro til

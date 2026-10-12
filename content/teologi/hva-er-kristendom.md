@@ -120,7 +120,7 @@ Over dette kjernen er det enorm bredde og variasjon — i gudstjenesteformer, sa
 - [[tro-og-liv/kirken]] — hva er kirken?
 - [[teologi/treenigheten]] — Guds treenige natur
 - [[lese-og-forstå-bibelen/bibelen]] — Bibelens rolle i kristendommen
-- [[kirkehistorie/kristendommens-tilblivelse]] — kristendommens historiske opprinnelse
+- [[kirkehistorie/oldkirken/kristendommens-tilblivelse]] — kristendommens historiske opprinnelse
 
 ---
 

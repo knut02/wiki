@@ -84,7 +84,7 @@ For Den norske kirke, som befinner seg i overgangen fra statskirke til selvstend
 - [[global-kristendom/fra-vedlikehold-til-misjon]] — det praktiske skiftet fra vedlikehold til misjonal selvforståelse
 - [[global-kristendom/folkekirken-som-misjonsmodell]] — Iversens alternativ til post-christendom-kritikken
 - [[global-kristendom/misjonerende-folkekirke]] — Hegstads ekklesiologiske analyse
-- [[kirkehistorie/den-konstantinske-vendingen]] — Konstantin-vendingen som historisk hendelse
+- [[kirkehistorie/oldkirken/den-konstantinske-vendingen]] — Konstantin-vendingen som historisk hendelse
 - [[teologi/ekklesiologi]] — kirkens vesen systematisk
 
 ---

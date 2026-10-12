@@ -136,8 +136,8 @@ Irenaeus (*Adversus Haereses*, ANF01) refser de gnostiske **kainittene** — en 
 - [[personer/adam-og-eva]] — Kains foreldre og den fallen verden han er født inn i
 - [[personer/abel]] — broren og den første martyren
 - [[Bibelen - det Nye Testamentet/hebreerbrevet]] — Abel i trosrekken og blodet som taler
-- [[kirkehistorie/apostoliske-fedre]] — Klemens og Ignatius' bruk av Kain
-- [[kirkehistorie/gnostisisme]] — kainittene og Irenaeus' motstand
+- [[kirkehistorie/oldkirken/apostoliske-fedre]] — Klemens og Ignatius' bruk av Kain
+- [[kirkehistorie/oldkirken/gnostisisme]] — kainittene og Irenaeus' motstand
 - [[teologi/arvesynd]] — syndens makt og arv
 
 ---

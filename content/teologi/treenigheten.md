@@ -50,7 +50,7 @@ McGrath fremhever at Tertullian «is often regarded as the father of Latin theol
 
 ### Arius og krisen
 
-**Arius** (ca. 250-336) utfordret fra en annen vinkel: Sønnen er ikke av samme natur som Faderen — han er den fremste av alle skapninger, men likevel skapt. «Det fantes en tid da han ikke var.» Denne posisjonen, **arianismen**, utløste den teologiske krisen som de store konsilene ble kalt for å løse. Se [[kirkehistorie/arianismen]] og [[kirkehistorie/kristologi-frem-til-nikea]].
+**Arius** (ca. 250-336) utfordret fra en annen vinkel: Sønnen er ikke av samme natur som Faderen — han er den fremste av alle skapninger, men likevel skapt. «Det fantes en tid da han ikke var.» Denne posisjonen, **arianismen**, utløste den teologiske krisen som de store konsilene ble kalt for å løse. Se [[kirkehistorie/konsilene/arianismen]] og [[kirkehistorie/konsilene/kristologi-frem-til-nikea]].
 
 ---
 
@@ -64,7 +64,7 @@ Keiser Konstantin innkalte ca. 300 biskoper. Det sentrale stridsspm: Er Sønnen 
 
 Begrunnelsen var soteriologisk, ikke filosofisk: Kun den som er fullt og helt Gud, kan frelse oss fullt og helt inn i Guds eget liv.
 
-Se [[kirkehistorie/nikea-konsilet]].
+Se [[kirkehistorie/konsilene/nikea-konsilet]].
 
 ### Konstantinopel (381)
 
@@ -76,13 +76,13 @@ Det annet konsil utvidet Nikea-bekjennelsen og inkluderte Den Hellige Ånd ekspl
 
 ### Efesos (431)
 
-Konflikten mellom **Nestorius** og **Kyrillos** om Jesu to naturer. Maria som *Theotokos* («Gudsbarer») ble bekreftet — et utsagn primært om Jesu identitet. Se [[kirkehistorie/kristologi-fra-nikea-til-kalkedon]].
+Konflikten mellom **Nestorius** og **Kyrillos** om Jesu to naturer. Maria som *Theotokos* («Gudsbarer») ble bekreftet — et utsagn primært om Jesu identitet. Se [[kirkehistorie/konsilene/kristologi-fra-nikea-til-kalkedon]].
 
 ### Kalkedon (451)
 
 Den endelige formuleringen av kristologien: Kristus er *én person i to naturer* — guddommelig og menneskelig — «uten sammenblanding, uten forandring, uten deling, uten atskillelse.»
 
-De fire negasjonene er konsilets geniale grep: I stedet for å *forklare* foreningen, setter de grenser rundt et mysterium. Se [[kirkehistorie/kalkedon-kristologi]].
+De fire negasjonene er konsilets geniale grep: I stedet for å *forklare* foreningen, setter de grenser rundt et mysterium. Se [[kirkehistorie/konsilene/kalkedon-kristologi]].
 
 ---
 
@@ -106,7 +106,7 @@ Augustins store verk *De Trinitate* er den vestlige tradisjonens fundament. Han 
 
 Augustins *filioque*-forståelse — at Ånden utgår fra Faderen *og Sønnen* — er logisk konsistent med hans enhetsorienterte utgangspunkt: Ånden er kjærlighetsforholdet mellom Faderen og Sønnen. McGrath beskriver dette som et av Augustins mest varige og omstridte bidrag til vestlig teologi.
 
-**Filioque og schismaet:** Vestkirken la dette til Nikea-bekjennelsen ensidig — uten et konsil. Det ble en av nøkkelstridene i det store schismaet 1054 mellom Roma og Konstantinopel. Østkirken avviser *filioque* teologisk og kanonisk. Se [[kirkehistorie/kirken-ost-og-vest]].
+**Filioque og schismaet:** Vestkirken la dette til Nikea-bekjennelsen ensidig — uten et konsil. Det ble en av nøkkelstridene i det store schismaet 1054 mellom Roma og Konstantinopel. Østkirken avviser *filioque* teologisk og kanonisk. Se [[kirkehistorie/middelalder/kirken-ost-og-vest]].
 
 ### Regula fidei og Irenaeus
 
@@ -155,15 +155,15 @@ Treenighetslæren er ikke primært akademisk. Den har dype implikasjoner for bø
 ## Sammenheng med andre artikler
 
 - [[teologi/hellige-ånd]] — Åndens rolle og treenige funksjon
-- [[kirkehistorie/tertullian]] — *trinitas*, *persona*, *substantia* — Tertullians grunnleggelse av trinitarisk terminologi
-- [[kirkehistorie/karl-barth-og-neo-ortodoksien]] — Barths trinitariske renessanse i det 20. århundret
-- [[kirkehistorie/arianismen]] — Arius og Nikea-konsilets svar
-- [[kirkehistorie/kristologi-frem-til-nikea]] — veien frem mot Nikea 325
-- [[kirkehistorie/kristologi-fra-nikea-til-kalkedon]] — fra Nikea til Kalkedon 451
-- [[kirkehistorie/nikea-konsilet]] — konsilet i detalj
-- [[kirkehistorie/kalkedon-kristologi]] — kristologiens fullføring
-- [[kirkehistorie/augustin]] — Augustins treenighetsteologi
-- [[kirkehistorie/kirken-ost-og-vest]] — filioque og schismaet
+- [[kirkehistorie/oldkirken/tertullian]] — *trinitas*, *persona*, *substantia* — Tertullians grunnleggelse av trinitarisk terminologi
+- [[kirkehistorie/moderne/neo-ortodoksi]] — Barths trinitariske renessanse i det 20. århundret
+- [[kirkehistorie/konsilene/arianismen]] — Arius og Nikea-konsilets svar
+- [[kirkehistorie/konsilene/kristologi-frem-til-nikea]] — veien frem mot Nikea 325
+- [[kirkehistorie/konsilene/kristologi-fra-nikea-til-kalkedon]] — fra Nikea til Kalkedon 451
+- [[kirkehistorie/konsilene/nikea-konsilet]] — konsilet i detalj
+- [[kirkehistorie/konsilene/kalkedon-kristologi]] — kristologiens fullføring
+- [[kirkehistorie/oldkirken/augustin]] — Augustins treenighetsteologi
+- [[kirkehistorie/middelalder/kirken-ost-og-vest]] — filioque og schismaet
 - [[kristologi/inkarnasjon]] — Logos som Guds inntog i historien
 - [[teologi/theosis]] — deltakelse i det trinitariske livet
 - [[tidslinjer/kirkefedrene-tidslinje]] — konsilenes kronologi

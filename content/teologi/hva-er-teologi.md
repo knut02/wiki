@@ -121,7 +121,7 @@ Ford organiserer sin teologi rundt spørsmål snarere enn svar:
 - [[teologi/ondskapsproblemet]] — teodice
 - [[teologi/frelse-soteriologi]] — frelsens mange dimensjoner
 - [[lese-og-forstå-bibelen/bibeltolkning-innforing]] — hermeneutikk
-- [[kirkehistorie/reformasjonen]] — Luther og Bonhoeffers fortid
+- [[kirkehistorie/reformasjonen/reformasjonen]] — Luther og Bonhoeffers fortid
 
 ---
 

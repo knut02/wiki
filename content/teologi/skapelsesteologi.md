@@ -94,8 +94,8 @@ Dette gir kristen skapelsesteologi en eskatologisk orientering: Det materialet v
 - [[Bibelen - det Gamle Testamentet/skapelsen]] — skapelsesfortellingene i dybden
 - [[teologi/syndens-teologi]] — syndefallets konsekvenser for skaperverket
 - [[teologi/eskatologi-wright]] — ny skapelse som frelsens mål
-- [[kirkehistorie/irenaeus-av-lyon]] — skapelsens godhet mot gnostisismen
-- [[kirkehistorie/gnostisisme]] — den gnostiske utfordringen
+- [[kirkehistorie/oldkirken/irenaeus-av-lyon]] — skapelsens godhet mot gnostisismen
+- [[kirkehistorie/oldkirken/gnostisisme]] — den gnostiske utfordringen
 - [[teologi/imago-dei]] — menneskets bilde av Gud utdypet
 - [[lese-og-forstå-bibelen/bibelens-store-temaer]] — skapelse som ett av Bibelens store temaer
 

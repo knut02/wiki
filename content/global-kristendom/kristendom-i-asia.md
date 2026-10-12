@@ -83,7 +83,7 @@ Katolicismen har kritiske og støttende røster overfor politikken. Den katolske
 - [[global-kristendom/kristendom-i-afrika]] — parallell utvikling
 - [[global-kristendom/kristendom-i-latin-amerika]] — Latin-Amerika til sammenligning
 - [[global-kristendom/misjonshistorie]] — kolonimisjonen historisk
-- [[kirkehistorie/pinsebevegelsen]] — pinsebevegelsens teologi
+- [[kirkehistorie/moderne/pinsebevegelsen]] — pinsebevegelsens teologi
 
 ---
 

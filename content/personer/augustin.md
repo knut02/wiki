@@ -102,7 +102,7 @@ Denne syntesen av platonsk filosofi og kristologisk teologi er selve grunnlaget 
 
 Augustin grunnla et halvmunkarsk fellesskap i Hippo og utformet en ordensregel — *Augustinusregelen* — som ble grunnlag for augustinereremittene og andre ordener. Martin Luther var augustinermunk.
 
-Augustins spiritualitet er gjennomgående søkende og kontemplativ: Hvilen i Gud er målet, og veien dit går gjennom ærlig erkjennelse av eget begjær og Guds nådes forkjøp. *Bekjennelsene* er selve malen for denne spiritualiteten. Se [[kirkehistorie/monastisk-teologi]].
+Augustins spiritualitet er gjennomgående søkende og kontemplativ: Hvilen i Gud er målet, og veien dit går gjennom ærlig erkjennelse av eget begjær og Guds nådes forkjøp. *Bekjennelsene* er selve malen for denne spiritualiteten. Se [[kirkehistorie/middelalder/monastisk-teologi]].
 
 ---
 
@@ -126,9 +126,9 @@ Fra Thomas Aquinas til Descartes, fra Luther til Calvin, fra Pascal til Kierkega
 - [[teologi/arvesynd]] — Augustins avgjørende bidrag
 - [[teologi/treenigheten]] — *De Trinitate* og *filioque*
 - [[tro-og-liv/nåde]] — nådens absolutt primat
-- [[kirkehistorie/monastisk-teologi]] — Augustinusregelen og monastisk spiritualitet
-- [[kirkehistorie/martyriet-og-helgenkult]] — Augustin om Perpetua og helgenkulten
-- [[kirkehistorie/statsreligion]] — kirke og stat i *Guds stad*
+- [[kirkehistorie/middelalder/monastisk-teologi]] — Augustinusregelen og monastisk spiritualitet
+- [[kirkehistorie/oldkirken/martyriet-og-helgenkult]] — Augustin om Perpetua og helgenkulten
+- [[kirkehistorie/oldkirken/statsreligion]] — kirke og stat i *Guds stad*
 - [[teologi/theosis]] — vestlig vs. østlig frelsesforståelse
 - [[tidslinjer/kirkefedrene-tidslinje]] — Augustin i historisk oversikt
 

@@ -103,11 +103,11 @@ Disse tre sivilisasjonene kom til å forme europeisk og verdenshistorie de neste
 
 ## Sammenheng med andre artikler
 
-- [[kirkehistorie/statsreligion]] — kristendommen som Romerrikets statsreligion
-- [[kirkehistorie/nikea-konsilet]] — det første store konsil
-- [[kirkehistorie/gnostisisme]] — intern splittelse i kirken
-- [[kirkehistorie/embetsutvikling]] — kirkens organisasjon i denne perioden
-- [[kirkehistorie/klosterlivet]] — askese og munkevesen
+- [[kirkehistorie/oldkirken/statsreligion]] — kristendommen som Romerrikets statsreligion
+- [[kirkehistorie/konsilene/nikea-konsilet]] — det første store konsil
+- [[kirkehistorie/oldkirken/gnostisisme]] — intern splittelse i kirken
+- [[kirkehistorie/oldkirken/embetsutvikling]] — kirkens organisasjon i denne perioden
+- [[kirkehistorie/middelalder/klosterlivet]] — askese og munkevesen
 - [[verdensreligioner-og-livssyn/islam]] — islams fremvekst
 - [[historie/elvedalssivilisasjonene]] — de foregående sivilisasjonene
 

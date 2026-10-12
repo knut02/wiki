@@ -72,12 +72,12 @@ Dette er en mellomposisjon mellom dogmatisk absolutisme (alle læresetninger er 
 ## Sammenheng med andre artikler
 
 - [[kirkehistorie/opplysningstiden-og-kristen-teologi]] — historisk-kritisk metode og dens konsekvenser
-- [[kirkehistorie/schleiermacher-og-liberal-protestantisme]] — liberalteologiens svar på historisk relativisme
+- [[kirkehistorie/moderne/schleiermacher-og-liberal-protestantisme]] — liberalteologiens svar på historisk relativisme
 - [[kirkehistorie/karl-barth-og-neo-ortodoksien]] — neo-ortodoksiens svar på relativismens utfordring
-- [[kirkehistorie/moderniteten-og-opplysningen]] — den historiske konteksten
+- [[kirkehistorie/moderne/moderniteten-og-opplysningen]] — den historiske konteksten
 - [[kirkehistorie/tidligkristent-mangfold]] — mangfoldet i tidligkristendommen
 - [[lese-og-forstå-bibelen/bibelens-tilblivelse]] — Bibelens tilblivelse som historisk prosess
-- [[kirkehistorie/nikea-konsilet]] — konsilet som kanoniserer en bestemt kristologi
+- [[kirkehistorie/konsilene/nikea-konsilet]] — konsilet som kanoniserer en bestemt kristologi
 - [[lese-og-forstå-bibelen/bibeltolkning-innforing]] — hermeneutisk bevissthet om lesernes sted
 
 ---

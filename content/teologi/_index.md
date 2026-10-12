@@ -76,4 +76,4 @@ Vil du starte med de grunnleggende spørsmålene, foreslås denne rekkefølgen:
 3. [[teologi/forsoningslæren]] — hva skjedde på korset?
 4. [[teologi/eskatologi]] — hva er fremtidshåpet?
 
-For fordypning i kirkehistorisk bakgrunn, se [[kirkehistorie/augustin]], [[kirkehistorie/nikea-konsilet]] og [[kirkehistorie/luthers-teologi]].
+For fordypning i kirkehistorisk bakgrunn, se [[kirkehistorie/oldkirken/augustin]], [[kirkehistorie/konsilene/nikea-konsilet]] og [[kirkehistorie/reformasjonen/luthers-teologi]].

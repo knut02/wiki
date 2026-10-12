@@ -90,7 +90,7 @@ Misjon er ikke noe som kom *forut for* folkekirken og ledet frem mot dens etable
 - [[global-kristendom/misjonshistorie]] — historisk kontekst
 - [[teologi/ekklesiologi]] — kirkeforståelsens teologiske grunnlag
 - [[tro-og-liv/kirken]] — kirkens vesen praktisk og pastoralt
-- [[kirkehistorie/den-konstantinske-vendingen]] — folkekirkemodellens historiske opphav
+- [[kirkehistorie/oldkirken/den-konstantinske-vendingen]] — folkekirkemodellens historiske opphav
 
 ---
 

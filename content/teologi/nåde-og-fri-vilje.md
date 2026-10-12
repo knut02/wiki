@@ -104,10 +104,10 @@ Spenningen er reell og kan ikke oppløses ved å ignorere den ene siden. De fles
 - [[teologi/arvesynd]] — syndefallets konsekvenser for viljen
 - [[tro-og-liv/nåde]] — nådens teologi
 - [[teologi/rettferdiggjørelse-av-tro]] — rettferdiggjørelse og nåde
-- [[kirkehistorie/frelse-athanasius-augustin]] — Augustins nådelære
-- [[kirkehistorie/kalvinisme-og-reformert-teologi]] — kalvinsk predestinasjon og TULIP
+- [[kirkehistorie/oldkirken/frelse-athanasius-augustin]] — Augustins nådelære
+- [[kirkehistorie/reformasjonen/kalvinisme-og-reformert-teologi]] — kalvinsk predestinasjon og TULIP
 - [[kirkehistorie/reformasjonen-som-historisk-bevegelse]] — Luther og Erasmus i kontekst
-- [[kirkehistorie/john-wesley-og-metodismen]] — arminianismens arv
+- [[kirkehistorie/moderne/john-wesley-og-metodismen]] — arminianismens arv
 
 ---
 

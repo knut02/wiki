@@ -30,4 +30,4 @@ Her samles artikler om Jesus Kristus — hvem han er, hva han gjørde og hva kir
 
 ---
 
-*Se [[kirkehistorie/kristologi-frem-til-nikea]] og [[kirkehistorie/kristologi-fra-nikea-til-kalkedon]] for den historiske kristologidebatten.*
+*Se [[kirkehistorie/konsilene/kristologi-frem-til-nikea]] og [[kirkehistorie/konsilene/kristologi-fra-nikea-til-kalkedon]] for den historiske kristologidebatten.*

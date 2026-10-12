@@ -120,10 +120,10 @@ Lausanne-erklæringen (1974) og Lima-dokumentet (1982) er viktige milepæler. Va
 
 - [[tro-og-liv/kirken]] — kirkens vesen praktisk og pastoralt
 - [[tro-og-liv/fellesskap]] — *koinonia* som kirkens kjerne
-- [[kirkehistorie/embetsutvikling]] — biskop, presbyter og diakon historisk
-- [[kirkehistorie/den-konstantinske-vendingen]] — da kirken ble statsinstitusjon
-- [[kirkehistorie/reformasjonen-som-historisk-bevegelse]] — reformasjonens kirkebegrep
-- [[kirkehistorie/ortodoks-kristendom]] — eukaristisk ekklesiologi
+- [[kirkehistorie/oldkirken/embetsutvikling]] — biskop, presbyter og diakon historisk
+- [[kirkehistorie/oldkirken/den-konstantinske-vendingen]] — da kirken ble statsinstitusjon
+- [[kirkehistorie/reformasjonen/reformasjonen]] — reformasjonens kirkebegrep
+- [[kirkehistorie/middelalder/ortodoks-kristendom]] — eukaristisk ekklesiologi
 - [[teologi/sakramentene]] — sakramentenes plass i kirken
 
 ---

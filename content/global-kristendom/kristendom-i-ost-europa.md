@@ -75,8 +75,8 @@ Bartolomeus bor i et land (Tyrkia) som motarbeider hans virke. Han er engasjert 
 
 ## Sammenheng med andre artikler
 
-- [[kirkehistorie/ortodoks-kristendom]] — ortodoks teologi og kirkehistorie
-- [[kirkehistorie/det-store-schisma-1054]] — splittelsen som fortsatt preger
+- [[kirkehistorie/middelalder/ortodoks-kristendom]] — ortodoks teologi og kirkehistorie
+- [[kirkehistorie/middelalder/det-store-schisma-1054]] — splittelsen som fortsatt preger
 - [[global-kristendom/kirken-og-islam]] — religionsmøte i øst-europeisk kontekst
 - [[teologi/ekklesiologi]] — kanoniske territorier og kirkens vesen
 

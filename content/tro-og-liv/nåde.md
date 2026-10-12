@@ -50,7 +50,7 @@ Luthers teologiske gjennombrudd var direkte knyttet til nåde. Han hadde lest «
 
 *Sola gratia* — ved nåde alene — ble ett av reformasjonens fire slagsord. Det var et brudd med det Luther oppfattet som en ufrivillig pelagianisme i samtidskirken: At mennesket kan bidra til frelse gjennom gjerninger, avlat og bønner til helgener.
 
-Se [[kirkehistorie/luthers-teologi]] for den fulle reformatoriske sammenhengen.
+Se [[kirkehistorie/reformasjonen/luthers-teologi]] for den fulle reformatoriske sammenhengen.
 
 ---
 
@@ -96,9 +96,9 @@ Athanasius formulerer: «Han ble menneske for at vi skulle bli guddommelige.» N
 - [[tro-og-liv/tilgivelse]] — nåde som grunnlag for tilgivelse
 - [[tro-og-liv/bekjennelse]] — å ta imot nåde gjennom bekjennelse
 - [[teologi/arvesynd]] — Augustins nådelære i teologisk kontekst
-- [[kirkehistorie/frelse-athanasius-augustin]] — nåde og frelse
+- [[kirkehistorie/oldkirken/frelse-athanasius-augustin]] — nåde og frelse
 - [[teologi/theosis]] — nåde som begynnelsen på guddommeliggjøring
-- [[kirkehistorie/luthers-teologi]] — *sola gratia* i reformasjonens sammenheng
+- [[kirkehistorie/reformasjonen/luthers-teologi]] — *sola gratia* i reformasjonens sammenheng
 - [[personer/augustin]] — nådelærens mest innflytelsesrike teolog
 
 ---

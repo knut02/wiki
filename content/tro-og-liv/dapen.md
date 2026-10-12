@@ -161,12 +161,12 @@ I ukene før påske ble de utvalgte kandidatene intensivt forberedt. Daglig exor
 ## Sammenheng med andre artikler
 
 - [[tro-og-liv/frelse]] — dåpen som rituell markering av frelsens fortidsdimensjon
-- [[kirkehistorie/tertullian]] — Tertullians *De Baptismo*, det eldste selvstendige verket om dåpen
-- [[kirkehistorie/oldkirkens-gudstjeneste-struktur-og-praksis]] — dåpens liturgiske form i oldkirken
-- [[kirkehistorie/nattverd-i-oldkirken]] — dåp og nattverd som sammenhørende initiasjonsritualer
+- [[kirkehistorie/oldkirken/tertullian]] — Tertullians *De Baptismo*, det eldste selvstendige verket om dåpen
+- [[kirkehistorie/oldkirken/oldkirkens-gudstjeneste-struktur-og-praksis]] — dåpens liturgiske form i oldkirken
+- [[kirkehistorie/oldkirken/nattverd-i-oldkirken]] — dåp og nattverd som sammenhørende initiasjonsritualer
 - [[tro-og-liv/nåde]] — frelse av nåde ved tro; dåpens plass i nådens økonomi
 - [[teologi/arvesynd]] — arvesyndens rolle i barnedåpens teologi
-- [[kirkehistorie/luthers-teologi]] — Luthers dåpsteologi; sakramental posisjon
+- [[kirkehistorie/reformasjonen/luthers-teologi]] — Luthers dåpsteologi; sakramental posisjon
 - [[teologi/hellige-ånd]] — Åndsgaven i dåpen
 - [[Bibelen - det Gamle Testamentet/pakten]] — dåpen som den nye paktens innlemmelsesrite
 

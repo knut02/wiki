@@ -130,9 +130,9 @@ Den enkleste inngangen: Start med å hoppe over ett måltid, bruk tiden til bøn
 
 - [[tro-og-liv/bønn]] — faste og bønn henger alltid sammen
 - [[tro-og-liv/disippelskap]] — faste som åndelig disiplin
-- [[kirkehistorie/kontemplativ-bonn-og-lectio-divina]] — Cassian om faste i monastisk kontekst
-- [[kirkehistorie/askese-i-oldkirken]] — faste som asketisk praksis
-- [[kirkehistorie/apostoliske-fedre]] — Didache og Hermas om fastedager
+- [[kirkehistorie/oldkirken/kontemplativ-bonn-og-lectio-divina]] — Cassian om faste i monastisk kontekst
+- [[kirkehistorie/oldkirken/askese-i-oldkirken]] — faste som asketisk praksis
+- [[kirkehistorie/oldkirken/apostoliske-fedre]] — Didache og Hermas om fastedager
 - [[Bibelen - det Gamle Testamentet/profetene-oversikt]] — Jesaja 58 og fastens sosiale dimensjon
 - [[tro-og-liv/dydsetikk-og-aandens-frukt]] — faste som habituering
 

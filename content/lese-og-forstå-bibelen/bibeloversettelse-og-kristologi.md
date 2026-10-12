@@ -131,8 +131,8 @@ Dette er ikke bare et akademisk krav. Det er et teologisk-etisk krav: Respekt fo
 - [[lese-og-forstå-bibelen/bibeloversettelse-teori]] — oversettelsesteoriens grunnbegreper
 - [[lese-og-forstå-bibelen/tekstkritikk-for-lekfolk]] — hvilken tekst oversettes?
 - [[kristologi/kristologi-systematisk]] — nikensk kristologi
-- [[kirkehistorie/arianismen]] — den arianske strids tekster
-- [[kirkehistorie/nikea-konsilet]] — dogmedannelsens kontekst
+- [[kirkehistorie/konsilene/arianismen]] — den arianske strids tekster
+- [[kirkehistorie/konsilene/nikea-konsilet]] — dogmedannelsens kontekst
 
 ---
 

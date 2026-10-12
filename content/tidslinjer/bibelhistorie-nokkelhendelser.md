@@ -137,7 +137,7 @@ Bibelen er ikke en samling løsrevne fortellinger og regler. Den er én fortelli
 
 - [[Bibelen - det Gamle Testamentet/skapelsen]] — fortellingens utgangspunkt
 - [[Bibelen - det Gamle Testamentet/pakten]] — paktsforholdet som GT-teologiens ryggrad
-- [[kirkehistorie/kristendommens-tilblivelse]] — det første kristne århundret
+- [[kirkehistorie/oldkirken/kristendommens-tilblivelse]] — det første kristne århundret
 - [[kristologi/jesus-sin-oppstandelse]] — fortellingens vendepunkt
 - [[tro-og-liv/guds-rike]] — fortellingens mål
 

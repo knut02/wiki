@@ -68,8 +68,8 @@ Historien om de fleste apostlenes videre skjebne er basert på sene tradisjoner 
 ## Sammenheng med andre artikler
 
 - [[personer/jesus]] — han som kalte dem
-- [[kirkehistorie/kristendommens-tilblivelse]] — apostlenes virke i det første århundret
-- [[kirkehistorie/martyriet-og-helgenkult]] — apostlenes skjebne
+- [[kirkehistorie/oldkirken/kristendommens-tilblivelse]] — apostlenes virke i det første århundret
+- [[kirkehistorie/oldkirken/martyriet-og-helgenkult]] — apostlenes skjebne
 - [[tro-og-liv/kongelig-presteskap]] — alle troende som Guds folk, ikke bare de tolv
 
 ---

@@ -75,7 +75,7 @@ Fra koloniseringen og gjennom 1900-tallet importerte latinamerikanske katolske k
 
 - [[global-kristendom/global-kristendom-oversikt]] — global kontekst
 - [[global-kristendom/kristendom-i-afrika]] — parallell utvikling i sør
-- [[kirkehistorie/pinsebevegelsen]] — pinsebevegelsens teologi og historie
+- [[kirkehistorie/moderne/pinsebevegelsen]] — pinsebevegelsens teologi og historie
 - [[global-kristendom/misjonshistorie]] — kolonimisjonen historisk
 
 ---

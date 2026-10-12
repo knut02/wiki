@@ -97,7 +97,7 @@ Tre spørsmål som hjelper: Hva gjør du med glød? Hva sier andre at du gjør g
 - [[tro-og-liv/kirken]] — kirkens teologi og fellesskapets plass
 - [[tro-og-liv/nattverd]] — nattverden som fellesskapets konstituerende handling
 - [[teologi/ekklesiologi]] — kirkens teologi systematisk
-- [[kirkehistorie/tidligkristent-mangfold]] — fellesskap i den første kirken
+- [[kirkehistorie/oldkirken/tidligkristent-mangfold]] — fellesskap i den første kirken
 
 ---
 

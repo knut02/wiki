@@ -36,7 +36,7 @@ Bells svar: det sistnevnte. "Ritual" som akademisk kategori oppstod i senmiddela
 Bell identifiserer seks hovedkategorier av rituelle praksiser (kap. 4):
 
 **1. Overgangsriter** (*rites of passage*, Van Gennep 1909)
-Markerer endringer i sosial status: fødsel, initiasjon, ekteskap, død. Tre faser: separasjon (fra gammel status), *limen* (terskelperiode), inkorporasjon (i ny status). Se [[kirkehistorie/kirkens-ledelse-og-sakramentene]] for dåp og begravelse som kristne overgangsriter.
+Markerer endringer i sosial status: fødsel, initiasjon, ekteskap, død. Tre faser: separasjon (fra gammel status), *limen* (terskelperiode), inkorporasjon (i ny status). Se [[kirkehistorie/oldkirken/kirkens-ledelse-og-sakramentene]] for dåp og begravelse som kristne overgangsriter.
 
 **2. Kalenderriter**
 Knyttet til årstidssyklus og kosmisk orden: nyttår, såtid, høsttid. De babylonske *Akitu*-festivalen (nyttårsfest) er et klassisk eksempel — tolket radikalt forskjellig av Frazer (rituelle drap av gudkongen), Eliade (kosmos-gjenopprettelse) og Jonathan Z. Smith (politisk ritual under fremmed styre).
@@ -90,7 +90,7 @@ Bell: Alle tre er svar på det samme problemet — den moderne erkjennelsen av a
 
 Bell integrerer religionsteori, antropologi og praktisk teologi. Perspektivene er relevante for:
 
-- Analyse av liturgi i kristen tradisjon — se [[kirkehistorie/kirkens-ledelse-og-sakramentene]] og [[kirkehistorie/tidligkristen-bønnepraksis]]
+- Analyse av liturgi i kristen tradisjon — se [[kirkehistorie/oldkirken/kirkens-ledelse-og-sakramentene]] og [[kirkehistorie/oldkirken/tidligkristen-bønnepraksis]]
 - Overgangsritualer i andre religioner — se [[verdensreligioner-og-livssyn/jodedommen]] og [[verdensreligioner-og-livssyn/islam]]
 - Religionsdidaktikk — se [[verdensreligioner-og-livssyn/religion-i-praksis]]
 
@@ -99,8 +99,8 @@ Bell integrerer religionsteori, antropologi og praktisk teologi. Perspektivene e
 ## Sammenheng med andre artikler
 
 - [[verdensreligioner-og-livssyn/religion-i-praksis]] — Horsfjords analyse av hverdagsreligiøsitet
-- [[kirkehistorie/kirkens-ledelse-og-sakramentene]] — dåp og nattverd som kristne ritualer
-- [[kirkehistorie/tidligkristen-bønnepraksis]] — bønn som rituell praksis
+- [[kirkehistorie/oldkirken/kirkens-ledelse-og-sakramentene]] — dåp og nattverd som kristne ritualer
+- [[kirkehistorie/oldkirken/tidligkristen-bønnepraksis]] — bønn som rituell praksis
 - [[verdensreligioner-og-livssyn/offer-og-tilbedelse]] — offer som ritualsjanger
 - [[verdensreligioner-og-livssyn/livssyn]] — livssynets rituelle dimensjoner
 - [[verdensreligioner-og-livssyn/unge-og-nyreligiositet]] — moderne ritualisering

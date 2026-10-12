@@ -93,11 +93,11 @@ Begge er klart avhengige av Platon, men Gregor radikaliserer: Der Platon operert
 
 ## Sammenheng med andre artikler
 
-- [[kirkehistorie/frelse-athanasius-augustin]] — theosis-tanken hos Athanasius
+- [[kirkehistorie/oldkirken/frelse-athanasius-augustin]] — theosis-tanken hos Athanasius
 - [[kristologi/inkarnasjon]] — inkarnasjonen som forutsetning for guddommeliggjøringen
 - [[teologi/treenigheten]] — Gregor som kappadokisk fader
-- [[kirkehistorie/monastisk-teologi]] — den apofatiske tradisjonen videreføres
-- [[kirkehistorie/mester-eckhart-mystikken]] — Eckhart arver denne tradisjonen
+- [[kirkehistorie/middelalder/monastisk-teologi]] — den apofatiske tradisjonen videreføres
+- [[kirkehistorie/middelalder/mester-eckhart-mystikken]] — Eckhart arver denne tradisjonen
 - [[teologi/apofatisk-teologi]] — den negative teologiens tradisjon
 - [[teologi/theosis]] — guddommeliggjørelse som frelsens mål
 

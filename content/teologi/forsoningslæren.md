@@ -114,7 +114,7 @@ Det nye testamentet bruker alle fire bildene — uten å løse dem til en system
 - [[teologi/helliggjørelse]] — frelsens daglige utfoldelse
 - [[teologi/frelse-i-oldkirken]] — oldkirkens frelsessyn
 - [[lese-og-forstå-bibelen/frigjøringsteologisk-lesning]] — frigjøringsteologiens frelsesforståelse
-- [[kirkehistorie/reformasjonen]] — Luthers gjennombrudd i forsoningsteologien
+- [[kirkehistorie/reformasjonen/reformasjonen]] — Luthers gjennombrudd i forsoningsteologien
 
 ---
 

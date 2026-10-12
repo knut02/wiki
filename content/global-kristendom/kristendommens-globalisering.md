@@ -74,7 +74,7 @@ Globalt sett er sekularisering i den tredje betydningen ingen klar trend. Det er
 - [[global-kristendom/kristendom-i-afrika]] — vekst i det globale sør
 - [[global-kristendom/kristendom-i-latin-amerika]] — pinsebevegelsens fremvekst
 - [[global-kristendom/kristendom-i-asia]] — Asia i global kristendom
-- [[kirkehistorie/pinsebevegelsen]] — pinsebevegelsens teologi
+- [[kirkehistorie/moderne/pinsebevegelsen]] — pinsebevegelsens teologi
 - [[verdensreligioner-og-livssyn/sekularisering]] — sekulariseringsteorien utdypet
 - [[global-kristendom/misjonshistorie]] — misjonshistorisk bakgrunn
 

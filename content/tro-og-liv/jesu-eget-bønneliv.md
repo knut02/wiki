@@ -89,7 +89,7 @@ Mønsteret i undervisningen:
 
 - [[tro-og-liv/bønn]] — bønnelivet som teologisk tema
 - [[tro-og-liv/fadervår]] — Fadervår som Jesu bønneundervisning
-- [[kirkehistorie/kontemplativ-bonn-og-lectio-divina]] — den kontemplative tradisjonens røtter
+- [[kirkehistorie/oldkirken/kontemplativ-bonn-og-lectio-divina]] — den kontemplative tradisjonens røtter
 - [[tro-og-liv/faste]] — faste og bønn som uadskillelige
 - [[tro-og-liv/disippelskap]] — bønn som disippellivets sentrum
 - [[kristologi/kristologi-systematisk]] — inkarnasjonen og Jesu menneskelige natur

@@ -111,7 +111,7 @@ De kontemplative tradisjonene minner oss om at bønn ikke bare er tale — det e
 
 Kontemplativ bønn — som utviklet av Evagrius, Cassian, Benedikt og hesykasttradisjonen — søker en lyttende stillhet der Gud kan tale. Det er ikke tapping av Gud for ressurser, men et hvile i hans nærvær.
 
-Se [[kirkehistorie/kontemplativ-bonn-og-lectio-divina]] for denne tradisjonen.
+Se [[kirkehistorie/oldkirken/kontemplativ-bonn-og-lectio-divina]] for denne tradisjonen.
 
 Sal 131:2 beskriver det med et enkelt bilde: «Jeg har stillnet og roet min sjel som et avvent barn hos sin mor.»
 
@@ -144,7 +144,7 @@ Paulus ba tre ganger om at «tornen i kjøttet» skulle fjernes — og fikk nei 
 - [[Bibelen - det Gamle Testamentet/klagesangene]] — klagen som bønnssjanger
 - [[Bibelen - det Gamle Testamentet/salme-22]] — klagepsalmen
 - [[tro-og-liv/tvil-og-tro]] — bønn og Guds taushet
-- [[kirkehistorie/gudstjenesten]] — bønn i gudstjenestelivet
+- [[kirkehistorie/oldkirken/gudstjenesten]] — bønn i gudstjenestelivet
 - [[tro-og-liv/fellesskap]] — bønn i fellesskap
 - [[tro-og-liv/disippelskap]] — bønn som del av disippellivet
 - [[tro-og-liv/jesu-eget-bønneliv]] — bønn som Jesu praksis

@@ -89,7 +89,7 @@ Mellom Malaki (ca. 400 f.Kr.) og Matteus er det ca. 400 år uten profetisk stemm
 
 - [[Bibelen - det Gamle Testamentet/gt-kanon-og-teksthistorie]] — Septuaginta og teksthistorien
 - [[Bibelen - det Nye Testamentet/fariseerne]] — fariseernes opprinnelse og teologi
-- [[kirkehistorie/kristendommens-tilblivelse]] — det første kristne århundret
+- [[kirkehistorie/oldkirken/kristendommens-tilblivelse]] — det første kristne århundret
 - [[tidslinjer/bibelhistorie-nokkelhendelser]] — den store sammenhengen
 - [[kristologi/messias]] — Messiasforventningens bakgrunn
 

@@ -80,11 +80,11 @@ Jakobs brev (2:14–26) sier tilsynelatende det motsatte: «Tro uten gjerninger 
 - [[Bibelen - det Nye Testamentet/romerbrevet]] — Paulus' rettferdiggjørelseslære i kontekst
 - [[Bibelen - det Nye Testamentet/galaterbrevet]] — kampen om Abraham-pakten
 - [[Bibelen - det Nye Testamentet/paulusteologi-wright]] — Wrights lesning av rettferdiggjørelse
-- [[kirkehistorie/luthers-teologi]] — Luthers gjennombrudd utdypet
+- [[kirkehistorie/reformasjonen/luthers-teologi]] — Luthers gjennombrudd utdypet
 - [[kirkehistorie/reformasjonen-som-historisk-bevegelse]] — reformasjonens kontekst
 - [[tro-og-liv/nåde]] — nåden som rettferdiggjørelsens grunnlag
 - [[teologi/forsoningslæren]] — forsoningen som rettferdiggjørelsens basis
-- [[kirkehistorie/frelse-athanasius-augustin]] — Augustins nådelære som bakgrunn
+- [[kirkehistorie/oldkirken/frelse-athanasius-augustin]] — Augustins nådelære som bakgrunn
 
 ---
 

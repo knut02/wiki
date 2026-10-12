@@ -107,9 +107,9 @@ Inkarnasjonsteologien gir en løsning på spenningen: Gud åpenbarer seg fullt u
 ## Sammenheng med andre artikler
 
 - [[teologi/treenigheten]] — treenighetslærens apofatiske element hos kappadokierne
-- [[kirkehistorie/middelalderteologi-nyplatonisme]] — neoplatonismens rolle; Dionysios og Plotin
-- [[kirkehistorie/begine-mystikken]] — Hadewijch og Marguerite Porete
-- [[kirkehistorie/mester-eckhart-mystikken]] — Eckhart og tysk mystikk
+- [[kirkehistorie/middelalder/middelalderteologi]] — neoplatonismens rolle; Dionysios og Plotin
+- [[kirkehistorie/middelalder/begine-mystikken]] — Hadewijch og Marguerite Porete
+- [[kirkehistorie/middelalder/mester-eckhart-mystikken]] — Eckhart og tysk mystikk
 - [[tro-og-liv/bønn]] — apofatisk bønn og kontemplasjon
 
 ---

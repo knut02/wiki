@@ -74,7 +74,7 @@ Der europeiske misjonærer tidligere anså Afrika som «det mørke kontinentet»
 - [[global-kristendom/global-kristendom-oversikt]] — global kontekst
 - [[global-kristendom/kristendom-i-latin-amerika]] — parallell utvikling
 - [[global-kristendom/kristendom-i-asia]] — Asia-perspektivet
-- [[kirkehistorie/pinsebevegelsen]] — pinsebevegelsens teologi og historie
+- [[kirkehistorie/moderne/pinsebevegelsen]] — pinsebevegelsens teologi og historie
 - [[global-kristendom/misjonshistorie]] — kolonimisjonen historisk
 
 ---

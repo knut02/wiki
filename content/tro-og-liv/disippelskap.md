@@ -105,7 +105,7 @@ Willards konklusjon: Det kristne livet er et spørsmål om å *bli* den typen pe
 - [[Bibelen - det Nye Testamentet/bergprekenen]] — Bergprekenen som disippelsskapets program
 - [[tro-og-liv/dydsetikk-og-aandens-frukt]] — Åndens frukt og karakterdannelse som disippelskapets mål
 - [[tro-og-liv/faste]] — faste som disiplin i disippelskapet
-- [[kirkehistorie/kontemplativ-bonn-og-lectio-divina]] — kontemplasjon som disiplin
+- [[kirkehistorie/oldkirken/kontemplativ-bonn-og-lectio-divina]] — kontemplasjon som disiplin
 - [[teologi/eskatologi-og-etikk]] — disippelskap som forhåndsrealisering av ny skapelse
 - [[tro-og-liv/bønn]] — bønn som disiplin og relasjonsform
 - [[tro-og-liv/fellesskap]] — fellesskap som ramme for disippelskap

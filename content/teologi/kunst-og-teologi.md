@@ -83,7 +83,7 @@ Men frykten for det urene bør ikke drive frem kulturell tilbaketrekning. Daniel
 - [[teologi/tolkningens-rolle-i-teologi]] — kulturell forforståelse som tolkningsfaktor
 - [[Bibelen - det Gamle Testamentet/skapelsen]] — imago Dei som kulturbegrunnelse
 - [[tro-og-liv/guds-rike]] — kulturskapelse som rikets arbeid
-- [[kirkehistorie/gudstjenesten]] — kunst i liturgisk sammenheng
+- [[kirkehistorie/oldkirken/gudstjenesten]] — kunst i liturgisk sammenheng
 
 ---
 

@@ -14,7 +14,7 @@ Klemens (Titus Flavius Clemens) ble trolig født ca. 150 e.Kr. — muligens i At
 
 Da forfølgelsene under Septimius Severus brøt ut i 202, forlot Klemens Alexandria og dro til Lilleasia, der han virket til sin død ca. 215.
 
-Han er ikke den samme som Klemens av Roma (slutten av 90-tallet) — disse to skilles ved over hundre år og radikalt ulike teologiske profiler. Se [[kirkehistorie/apostoliske-fedre]].
+Han er ikke den samme som Klemens av Roma (slutten av 90-tallet) — disse to skilles ved over hundre år og radikalt ulike teologiske profiler. Se [[kirkehistorie/oldkirken/apostoliske-fedre]].
 
 ---
 
@@ -107,10 +107,10 @@ Vestkirken har ikke kanonisert ham (han ble fjernet fra martyrologiet i 1586 av 
 - [[teologi/theosis]] — gudslikhet som frelsens mål
 - [[tro-og-liv/gudskunnskap-og-danning]] — Häggs analyse av Klemens og Gregor
 - [[teologi/arvesynd]] — barn som uskyldige i Klemens' syn
-- [[kirkehistorie/tidligkristen-bønnepraksis]] — bønn og kontemplasjon
+- [[kirkehistorie/oldkirken/tidligkristen-bønnepraksis]] — bønn og kontemplasjon
 - [[kristologi/inkarnasjon]] — Logos inkarnert som åpenbaringens fullendelse
 - [[personer/gregor-av-nyssa]] — Klemens' mest betydningsfulle teologiske arving
-- [[kirkehistorie/apostoliske-fedre]] — Klemens av Roma (annen person, annen tid)
+- [[kirkehistorie/oldkirken/apostoliske-fedre]] — Klemens av Roma (annen person, annen tid)
 
 ---
 

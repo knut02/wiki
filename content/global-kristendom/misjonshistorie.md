@@ -17,7 +17,7 @@ Misjon er kirkens deltakelse i Guds sendelse til verden. Jesu befaling i Matt 28
 
 ## Tidlig misjon og kontekstualisering
 
-Den tidlige kirkens ekspansjon skjedde ikke primært gjennom organisert misjon, men gjennom handelsmenn, soldater og reisende som tok troen med seg. Se [[kirkehistorie/kristendommens-tilblivelse]].
+Den tidlige kirkens ekspansjon skjedde ikke primært gjennom organisert misjon, men gjennom handelsmenn, soldater og reisende som tok troen med seg. Se [[kirkehistorie/oldkirken/kristendommens-tilblivelse]].
 
 Da kristendommen spredte seg til nye kulturer, oppstod tidlig kontekstualisering — tilpasning av evangeliets form til mottakernes kulturelle kontekst.
 
@@ -93,7 +93,7 @@ Forståelsen av hva misjon er, har endret seg markant gjennom historien:
 - [[global-kristendom/misjonerende-folkekirke]] — misjon og folkekirke
 - [[global-kristendom/misjon-og-dialog]] — forholdet mellom misjon og religionsdialog
 - [[global-kristendom/kristendom-i-afrika]] — det globale Sørs fremvekst
-- [[kirkehistorie/den-konstantinske-vendingen]] — kristendommens vei til makten
+- [[kirkehistorie/oldkirken/den-konstantinske-vendingen]] — kristendommens vei til makten
 
 ---
 

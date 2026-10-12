@@ -125,7 +125,7 @@ Paulus' store paradoks i Rom 5:20: «Men der synden ble stor, ble nåden enda st
 - [[teologi/forsoningslæren]] — Kristi svar på synden
 - [[teologi/rettferdiggjørelse-av-tro]] — tilgivelse av synden
 - [[tro-og-liv/synden]] — synden i det personlige livet
-- [[kirkehistorie/frelse-athanasius-augustin]] — Augustins frelseteologi
+- [[kirkehistorie/oldkirken/frelse-athanasius-augustin]] — Augustins frelseteologi
 - [[kirkehistorie/reformasjonen-som-historisk-bevegelse]] — reformasjonens syndsbegrep
 - [[teologi/frigjøringsteologi]] — strukturell synd
 

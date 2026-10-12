@@ -97,9 +97,9 @@ Paulus setter frukten over gavene: Det viktigste avsnittet om Åndens gaver (1 K
 
 - [[teologi/treenigheten]] — Åndens plass i treenighetslæren
 - [[teologi/treenigheten-i-det-20-aarhundret]] — Barth, Rahner og moderne pneumatologi
-- [[kirkehistorie/nikea-konsilet]] — Nikea-Konstantinopels formulering om Ånden
-- [[kirkehistorie/det-store-schisma-1054]] — filioque som skismaets kjerne
-- [[kirkehistorie/pinsebevegelsen]] — karismatisk fornyelse
+- [[kirkehistorie/konsilene/nikea-konsilet]] — Nikea-Konstantinopels formulering om Ånden
+- [[kirkehistorie/middelalder/det-store-schisma-1054]] — filioque som skismaets kjerne
+- [[kirkehistorie/moderne/pinsebevegelsen]] — karismatisk fornyelse
 - [[tro-og-liv/bønn]] — Ånden i bønnelivet
 
 ---

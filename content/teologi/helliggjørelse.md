@@ -95,7 +95,7 @@ Willards poeng: Helliggjørelse er ikke automatisk. Den krever *medarbeidelse* (
 - [[tro-og-liv/dydsetikk-og-aandens-frukt]] — Åndens frukt som helliggjørelsens innhold
 - [[tro-og-liv/faste]] — faste som åndelig disiplin
 - [[teologi/theosis]] — østlig parallell: guddommeliggjørelse som helliggjørelsens mål
-- [[kirkehistorie/john-wesley-og-metodismen]] — wesleyansk helliggjørelseslære
+- [[kirkehistorie/moderne/john-wesley-og-metodismen]] — wesleyansk helliggjørelseslære
 
 ---
 

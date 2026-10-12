@@ -100,13 +100,13 @@ Disse tre posisjonene brøt Luthers og Calvins allianse da de møttes i Marburg 
 
 ## Sammenheng med andre artikler
 
-- [[kirkehistorie/nattverd-i-oldkirken]] — nattverd i oldkirkens praksis
-- [[kirkehistorie/oldkirkens-gudstjeneste-struktur-og-praksis]] — liturgisk kontekst
+- [[kirkehistorie/oldkirken/nattverd-i-oldkirken]] — nattverd i oldkirkens praksis
+- [[kirkehistorie/oldkirken/oldkirkens-gudstjeneste-struktur-og-praksis]] — liturgisk kontekst
 - [[tro-og-liv/dapen]] — dåpens teologi
-- [[kirkehistorie/reformasjonen-som-historisk-bevegelse]] — Marburg og sakramentsstriden
-- [[kirkehistorie/kalvinisme-og-reformert-teologi]] — Calvins nattverdsforståelse
+- [[kirkehistorie/reformasjonen/reformasjonen]] — Marburg og sakramentsstriden
+- [[kirkehistorie/reformasjonen/kalvinisme-og-reformert-teologi]] — Calvins nattverdsforståelse
 - [[teologi/rettferdiggjørelse-av-tro]] — nåden og sakramentene
-- [[kirkehistorie/luthers-teologi]] — Luthers sakramentsteologi
+- [[kirkehistorie/reformasjonen/luthers-teologi]] — Luthers sakramentsteologi
 
 ---
 

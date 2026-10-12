@@ -114,7 +114,7 @@ Svaret fra klassisk teologi: Uforanderligheten gjelder Guds *vesen og karakter*,
 - [[teologi/naturlig-teologi]] — kan Guds egenskaper kjennes av naturen?
 - [[teologi/gudsbevis]] — argumenter for Guds eksistens
 - [[teologi/thomas-aquinas-og-de-fem-veiene]] — Aquinas om Gud som Actus Purus
-- [[kirkehistorie/moltmann-og-pannenberg]] — den lidende Gud
+- [[kirkehistorie/moderne/moltmann-og-pannenberg]] — den lidende Gud
 
 ---
 

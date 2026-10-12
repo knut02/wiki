@@ -80,7 +80,7 @@ KRL-faget (*Kristendomskunnskap med religions- og livssynsorientering*) erstatte
 - [[global-kristendom/misjonerende-folkekirke]] — folkekirken og misjonsoppdraget
 - [[global-kristendom/fra-vedlikehold-til-misjon]] — det ekklesiologiske skiftet
 - [[global-kristendom/kristendom-vest-europa]] — norsk kristendom i europeisk kontekst
-- [[kirkehistorie/den-konstantinske-vendingen]] — statskirkemodellens historiske røtter
+- [[kirkehistorie/oldkirken/den-konstantinske-vendingen]] — statskirkemodellens historiske røtter
 
 ---
 

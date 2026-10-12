@@ -139,7 +139,7 @@ Wright peker også på noe vakkert ved oppstandelsen selv: Da Jesus stod opp, va
 
 ## Kirken og riket
 
-Kirken er ikke identisk med Guds rike. Kirken er det fellesskapet som lever inn mot riket og vitner om det — men riket er større enn kirken. Augustin skilte mellom den *synlige* kirken og den *usynlige* — der bare Gud kjenner alle som tilhører riket. Se [[personer/augustin]] og [[kirkehistorie/statsreligion]].
+Kirken er ikke identisk med Guds rike. Kirken er det fellesskapet som lever inn mot riket og vitner om det — men riket er større enn kirken. Augustin skilte mellom den *synlige* kirken og den *usynlige* — der bare Gud kjenner alle som tilhører riket. Se [[personer/augustin]] og [[kirkehistorie/oldkirken/statsreligion]].
 
 ---
 

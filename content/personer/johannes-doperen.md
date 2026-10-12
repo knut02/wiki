@@ -133,7 +133,7 @@ Johannes-evangeliet er spesielt: Alt vi leser i synoptikerne om Johannes' forkyn
 - [[Bibelen - det Nye Testamentet/johannes-evangeliet]] — Johannes som vitnet om Logos
 - [[Bibelen - det Gamle Testamentet/gt-profetene]] — Johannes i profettradisjonens linje
 - [[tro-og-liv/bønn]] — Johannes' asketiske bønne- og fastepraksis
-- [[kirkehistorie/martyriet-og-helgenkult]] — Johannes som den første NT-martyr
+- [[kirkehistorie/oldkirken/martyriet-og-helgenkult]] — Johannes som den første NT-martyr
 
 ---
 

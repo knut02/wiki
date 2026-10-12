@@ -136,10 +136,10 @@ Uansett hva man mener om argumentets gyldighet, er Anselmse teologiske program v
 
 - [[teologi/gudsbevis]] — kontekst: andre gudsbevis og den bredere debatten
 - [[teologi/apofatisk-teologi]] — Anselms apofatiske bakgrunn
-- [[kirkehistorie/middelalderteologi]] — Anselm i skolastikkens fremvekst
+- [[kirkehistorie/middelalder/middelalderteologi]] — Anselm i skolastikkens fremvekst
 - [[kirkehistorie/augustin]] — den augustinske arven Anselm viderefører
 - [[teologi/treenigheten]] — Anselms treenighetsteologi i *Monologion*
-- [[kirkehistorie/fransiskansk-og-dominikansk-bevegelse]] — Skolastisk teologi
+- [[kirkehistorie/middelalder/fransiskansk-og-dominikansk-bevegelse]] — Skolastisk teologi
 
 ---
 

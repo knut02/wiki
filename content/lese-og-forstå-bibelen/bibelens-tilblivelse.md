@@ -111,8 +111,8 @@ Hellige skrifter er *per definisjon* avsluttet. Dermed oppstår behovet for tolk
 - [[lese-og-forstå-bibelen/bibeloversettelse]] — oversettelsesprinsippene og norsk oversettelseshistorie
 - [[Bibelen - det Nye Testamentet/nt-kanon]] — NT-kanonens tilblivelse i detalj
 - [[Bibelen - det Gamle Testamentet/gt-kanon-og-teksthistorie]] — GT-kanonens tilblivelse og teksthistorie
-- [[kirkehistorie/gnostisisme]] — de tekstene som ikke kom med
-- [[kirkehistorie/apostoliske-fedre]] — de tidligste tekstene utenfor NT
+- [[kirkehistorie/oldkirken/gnostisisme]] — de tekstene som ikke kom med
+- [[kirkehistorie/oldkirken/apostoliske-fedre]] — de tidligste tekstene utenfor NT
 
 ---
 

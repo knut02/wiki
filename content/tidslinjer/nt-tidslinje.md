@@ -85,7 +85,7 @@ kilder: 2
 
 ## Sammenheng med andre artikler
 
-- [[kirkehistorie/kristendommens-tilblivelse]] — det første århundret i større detalj
+- [[kirkehistorie/oldkirken/kristendommens-tilblivelse]] — det første århundret i større detalj
 - [[tidslinjer/mellom-testamentene]] — perioden før
 - [[tidslinjer/kirkefedrene-tidslinje]] — perioden etter
 - [[personer/paulus]] — apostlenes tidsalders sentrale skikkelse

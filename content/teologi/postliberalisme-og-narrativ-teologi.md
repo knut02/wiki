@@ -90,8 +90,8 @@ Postliberalerne svarer: Det finnes ingen nøytral «utenfor». Alle tenker fra e
 
 ## Sammenheng med andre artikler
 
-- [[kirkehistorie/neo-ortodoksi]] — Barths teologi som postliberalismens forgjenger
-- [[kirkehistorie/schleiermacher-og-liberal-protestantisme]] — det postliberalismen reagerer mot
+- [[kirkehistorie/moderne/neo-ortodoksi]] — Barths teologi som postliberalismens forgjenger
+- [[kirkehistorie/moderne/schleiermacher-og-liberal-protestantisme]] — det postliberalismen reagerer mot
 - [[kirkehistorie/karl-barth-og-neo-ortodoksien]] — Barth og Guds Ords primat
 - [[teologi/kristen-etikk]] — Hauerwas og kirkeetikken
 - [[tro-og-liv/disippelskap]] — disippelskap som alternativt livsform

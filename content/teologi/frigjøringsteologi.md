@@ -126,14 +126,14 @@ Frigjøringsteologien utfordrer forestillingen om religion som privatanliggende.
 ## Sammenheng med andre artikler
 
 - [[teologibegrepet]] — Gutiérrez som en av de fire klassiske definisjonene
-- [[kirkehistorie/moltmann-og-pannenberg]] — Moltmanns håpsteologi som parallell til frigjøringsteologien
+- [[kirkehistorie/moderne/moltmann-og-pannenberg]] — Moltmanns håpsteologi som parallell til frigjøringsteologien
 - [[teologi/dommen-som-godt-nytt]] — dommen som håp for de undertrykte
 - [[global-kristendom/global-kristendom-oversikt]] — frigjøringsteologiens globale spredning
 - [[global-kristendom/kristendom-i-latin-amerika]] — latinamerikansk kontekst
 - [[global-kristendom/kristendom-i-afrika]] — afrikansk frigjøringsteologi og anti-apartheid
 - [[global-kristendom/misjon-i-kontekst]] — LVFs misjonsteologi med frigjøringsteologisk profil
-- [[kirkehistorie/schleiermacher-og-liberal-protestantisme]] — liberalteologien som frigjøringsteologien delvis reagerer mot
-- [[kirkehistorie/moltmann-og-pannenberg]] — Moltmanns håpsteologi som parallell
+- [[kirkehistorie/moderne/schleiermacher-og-liberal-protestantisme]] — liberalteologien som frigjøringsteologien delvis reagerer mot
+- [[kirkehistorie/moderne/moltmann-og-pannenberg]] — Moltmanns håpsteologi som parallell
 - [[verdensreligioner-og-livssyn/det-livssynsapne-samfunn]] — religion og det politiske rom
 
 ---

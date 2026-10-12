@@ -94,10 +94,10 @@ Samlet har de bidratt til at treenigheten ikke lenger er et pedagogisk problem s
 
 - [[teologi/treenigheten]] — den klassiske treenighetslæren
 - [[kirkehistorie/karl-barth-og-neo-ortodoksien]] — Barths trinitariske teologi utdypet
-- [[kirkehistorie/moltmann-og-pannenberg]] — Moltmanns sosiale treenighetsforståelse
-- [[kirkehistorie/neo-ortodoksi]] — den bevegelsen Barth tilhørte
-- [[kirkehistorie/kalkedon-kristologi]] — klassisk Kristus-bekjennelse som trinitetslærens grunnlag
-- [[kirkehistorie/tertullian]] — *trinitas*, *persona*, *substantia* som begrepsgrunnlag
+- [[kirkehistorie/moderne/moltmann-og-pannenberg]] — Moltmanns sosiale treenighetsforståelse
+- [[kirkehistorie/moderne/neo-ortodoksi]] — den bevegelsen Barth tilhørte
+- [[kirkehistorie/konsilene/kalkedon-kristologi]] — klassisk Kristus-bekjennelse som trinitetslærens grunnlag
+- [[kirkehistorie/oldkirken/tertullian]] — *trinitas*, *persona*, *substantia* som begrepsgrunnlag
 
 ---
 

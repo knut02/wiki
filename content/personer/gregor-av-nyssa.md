@@ -126,7 +126,7 @@ Hans epektasis-tanke er blitt viktig i moderne teologi som et alternativ til sta
 - [[tro-og-liv/dapen]] — Gregors dåpsteologi
 - [[personer/klemens-av-alexandria]] — Gregors store forgjenger i Alexandria-tradisjonen
 - [[personer/athanasius]] — den alexandrinske tradisjonen Gregor videreførte
-- [[kirkehistorie/mester-eckhart-mystikken]] — Eckharts arv fra den gregorianske tradisjonen
+- [[kirkehistorie/middelalder/mester-eckhart-mystikken]] — Eckharts arv fra den gregorianske tradisjonen
 
 ---
 

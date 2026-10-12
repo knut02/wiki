@@ -82,7 +82,7 @@ Wright understreker at Paulus ikke lovet kristne en behagelig tilværelse, men e
 - [[teologi/hellige-ånd]] — Ånden i Romerbrevet 8
 - [[tro-og-liv/guds-rike]] — Paulus og riket som Wrights nøkkelramme
 - [[tro-og-liv/disippelskap]] — Gal 2:20 som disippelskapets grunnlag
-- [[kirkehistorie/kristendommens-tilblivelse]] — Paulus' misjonsreiser i kronologien
+- [[kirkehistorie/oldkirken/kristendommens-tilblivelse]] — Paulus' misjonsreiser i kronologien
 - [[Bibelen - det Nye Testamentet/det-nye-testamentet]] — Paulus som NT-s mest produktive forfatter
 
 ---

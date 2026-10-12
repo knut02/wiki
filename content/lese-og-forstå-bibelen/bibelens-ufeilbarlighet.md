@@ -122,7 +122,7 @@ Debatten om inerrancy handler i bunn og grunn om tre spørsmål:
 - [[lese-og-forstå-bibelen/bibeltolkning-innforing]] — hermeneutikk og skriftsyn
 - [[lese-og-forstå-bibelen/tekstkritikk-for-lekfolk]] — manuskripttradisjonen
 - [[lese-og-forstå-bibelen/bibeloversettelse-og-kristologi]] — tolkningens påvirkning på teksten
-- [[kirkehistorie/reformasjonen]] — sola scriptura historisk
+- [[kirkehistorie/reformasjonen/reformasjonen]] — sola scriptura historisk
 - [[teologi/naturlig-teologi]] — forholdet mellom fornuft og åpenbaring
 
 ---

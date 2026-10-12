@@ -115,7 +115,7 @@ Kirken eksisterer ikke for seg selv. Den har et oppdrag rettet utover:
 
 **Tjeneste og rettferdighet:** Profettradisjonen og Jesu lære gjør det umulig å skille evangeliet fra sosial omsorg. «Jeg var sulten, og dere ga meg mat» (Matt 25:35).
 
-**Tilbedelse:** Kirken samles for å tilbe Gud — som er dens første og dypeste kall, og kilden til all annen tjeneste. Se [[kirkehistorie/gudstjenesten]].
+**Tilbedelse:** Kirken samles for å tilbe Gud — som er dens første og dypeste kall, og kilden til all annen tjeneste. Se [[kirkehistorie/oldkirken/gudstjenesten]].
 
 **Fellesskap:** «De holdt fast ved apostlenes lære og fellesskapet, ved brødets brytelse og ved bønnene» (Apg 2:42). Kirken er ikke et konsertpublikum; det er et fellesskap der man kjenner og bærer hverandre.
 
@@ -149,10 +149,10 @@ Det er grunnen til at kirken trenger Ånden, Ordet og sakramentene: Ikke bare so
 
 - [[tro-og-liv/fellesskap]] — fellesskapets konkrete liv
 - [[tro-og-liv/guds-rike]] — forholdet mellom kirken og Guds rike
-- [[kirkehistorie/embetsutvikling]] — kirkens organisering historisk
-- [[kirkehistorie/gudstjenesten]] — kirkens gudstjenesteliv
+- [[kirkehistorie/oldkirken/embetsutvikling]] — kirkens organisering historisk
+- [[kirkehistorie/oldkirken/gudstjenesten]] — kirkens gudstjenesteliv
 - [[tro-og-liv/dapen]] — dåpen som inngang til kirken
-- [[kirkehistorie/statsreligion]] — kirken og staten
+- [[kirkehistorie/oldkirken/statsreligion]] — kirken og staten
 - [[teologi/hva-er-kristendom]] — kristendommens bredere kontekst
 
 ---
