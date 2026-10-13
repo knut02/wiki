@@ -1,51 +1,39 @@
 ---
 title: "Hanna"
-description: "Hanna — barnløs kvinne som ba til Gud i Silo og fikk sønnen Samuel. Hennes sang er forløperen til Marias Magnificat."
-date: 2026-10-04
+description: "Barnløs kvinne fra Efraim hvis bønn i tempelet og sang etter Samuels fødsel er blant GT's mektigste teologiske tekster — og forelegg for Marias Magnificat."
+date: 2026-10-13
 kategori: Personer
-sub-kategori: GT-personer
-tags: [Hanna, Samuel, barnløshet, bønn, Silo, Eli, sang, GT, kvinner]
+tags: [Hanna, Samuel, bønn, sang, barnløs, Magnificat, GT, 1 Samuel]
 ---
 
-Hanna er ikke en stor politisk eller militær figur. Hun er en barnløs kvinne som ber i fortvilelse — og som Gud hører. Men hennes bønn og sang er blant de teologisk tyngste tekstene i GT.
+## Hvem er Hanna?
 
----
+Hanna (1 Sam 1–2) er kone til Elkana fra Efraim, og hun er barnløs — en sosial svakhet i antikken som hun bærer med dyp smerte. Hennes rivalinne Peninna plager henne år etter år med hån om barnløsheten.
 
-## Situasjonen
+## Bønnen i tempelet
 
-Hanna er gift med Elkana, som også har en annen kone, Peninna. Peninna har barn; Hanna har ingen. Peninna plager henne med det. År etter år, ved det årlige besøket til tempelet i Silo, gråter Hanna og spiser ikke.
+Hanna drar til tempelet i Silo og ber i dype tårer, uten lyd på leppene. Øverstepresten Eli tror hun er drukken, men hun forklarer: «Nei, herre, jeg er en dypt bedrøvet kvinne. Jeg har ikke drukket vin eller sterk drikke. Jeg utøste min sjel for Herrens ansikt» (1 Sam 1:15). Eli velsigner henne, og hennes ansikt er ikke lenger det samme.
 
-1 Sam 1:10-11: «Hanna var bitter i sin sjel, og hun gråt intenst og ba til Herren. Og hun avla et løfte og sa: 'Herre over hærskarene, dersom du ser din tjenerinnes nød... og gir din tjenerinne en sønn, da vil jeg gi ham til Herren alle hans levedager.'»
+Hanna er ett av GT's mest inderlige bønne-eksempler — en person som bringer sin fulle nød frem for Gud uten pynt, og som erfarer noe som endrer henne allerede i bønnen, før bønnen er besvart.
 
----
+Sønnen som fødes kalles Samuel — «for av Herren har jeg bedt ham» (1:20).
 
-## Møtet med Eli
+## Hannas sang (1 Sam 2:1–10)
 
-Hanna ber så intenst at leppene beveger seg uten lyd. Øverstepresten Eli tror hun er full og irettesetter henne. Hanna svarer rolig og klart. Eli forstår og velsigner henne: «Israels Gud vil gi deg det du har bedt ham om.»
+Hannas sang etter Samuels fødsel er en av GT's mektigste teologiske poetiske tekster:
 
-Det er noe fint ved dette møtet: En misforstått, ydmyket kvinne fastholder sin verdighet overfor en prestelig autoritet — og har rett.
+> «Mitt hjerte jubler i Herren, min styrke er opphøyet i Herren [...] Buen til de veldige er knust, men de snubler er omgjordet med kraft.»
 
----
+Det er ikke primært en personlig takkesang — det er teologi: Gud er den som snur sosiale hierarkier på hodet, som løfter de svake og setter de mektige ned. Den rike og den fattige, den barnløse og den fruktbare — Gud er hersker over alle disse omskiftelsene.
 
-## Samuel
+## Forelegg for Magnificat
 
-Hanna blir gravid og føder Samuel. Når han er avvent, bringer hun ham til Silo og overgir ham til Eli, slik hun lovet. Det er et av Bibelens mest gripende øyeblikk av selvoppofrelse.
-
----
-
-## Hannas sang
-
-1 Sam 2:1-10 er Hannas sang — og den er ikke bare personlig takk. Den er teologi:
-
-«Herren gjør fattig og gjør rik, han ydmyker og opphøyer. Han reiser den elendige opp av støvet, løfter den fattige opp fra asken.»
-
-Sangen snur verden på hodet: de mektige faller, de svake reiser seg. Det er nøyaktig samme teologi som Marias Magnificat (Luk 1:46-55) — som tydelig er formet av Hannas sang. Maria kjenner 1 Samuel.
+Hannas sang er det direkte forelegget for Marias Magnificat (Luk 1:46–55). Begge er sanger fra sårbare kvinner som synger om den samme Guds handlemåte: han «kaster de mektige ned fra troner og opphøyer de lave». Maria synger Hannas teologi inn i en ny og avgjørende frelseshistorisk øyeblikk.
 
 ---
 
-## Sammenheng med andre artikler
+## Se også
 
-- [[kvinner-og-bibelen/kvinner-i-gt]]
-- [[kristologi/maria-som-tjeneste-modell]]
-- [[personer/samuel]]
-- [[grunnleggende/bønn]]
+- [[kvinner-og-bibelen/historisk-og-praksis/kvinner-i-gt]] — Hanna blant GT-kvinnene
+- [[kvinner-og-bibelen/historisk-og-praksis/kvinner-i-evangeliene]] — Maria og Magnificat
+- [[grunnleggende/kristenliv/bønn]]
