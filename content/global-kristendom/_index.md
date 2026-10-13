@@ -11,29 +11,34 @@ Her samles artikler om kristendommen utenfor den vesteuropeiske tradisjon — Af
 
 ## Kristendom i verden
 
-- [[global-kristendom/global-kristendom-oversikt]] — kristendommens globale utbredelse og vekst
-- [[global-kristendom/kristendom-i-afrika]] — afrikansk kristendom og teologi
-- [[global-kristendom/kristendom-i-latin-amerika]] — latinamerikansk kristendom og frigjøringsteologi
-- [[global-kristendom/kristendom-vest-europa]] — vesteuropeisk kristendom og sekularisering
+- [[global-kristendom/regioner/global-kristendom-oversikt]] — kristendommens globale utbredelse og vekst
+- [[global-kristendom/regioner/kristendommens-globalisering]] — kristendommens historiske globalisering
+- [[global-kristendom/regioner/kristendom-i-afrika]] — afrikansk kristendom og teologi
+- [[global-kristendom/regioner/kristendom-i-asia]] — asiatisk kristendom
+- [[global-kristendom/regioner/kristendom-i-latin-amerika]] — latinamerikansk kristendom og frigjøringsteologi
+- [[global-kristendom/regioner/kristendom-i-midtøsten]] — kristendom i Midtøsten
+- [[global-kristendom/regioner/kristendom-i-nord-amerika]] — nordamerikansk kristendom
+- [[global-kristendom/regioner/kristendom-vest-europa]] — vesteuropeisk kristendom og sekularisering
+- [[global-kristendom/regioner/kristendom-i-ost-europa]] — østeuropeisk kristendom
+- [[global-kristendom/regioner/kristendom-i-norge]] — norsk kristendomshistorie og kirkeliv
 
 ---
 
 ## Misjon
 
-- [[global-kristendom/misjonshistorie]] — misjonens historiske utvikling
-- [[global-kristendom/misjon-i-kontekst]] — kontekstuell misjonsteologi
-- [[global-kristendom/misjonerende-folkekirke]] — Den norske kirkes misjonsselvforståelse
+- [[global-kristendom/misjon/misjonshistorie]] — misjonens historiske utvikling
+- [[global-kristendom/misjon/misjon-i-kontekst]] — kontekstuell misjonsteologi
+- [[global-kristendom/misjon/misjon-og-dialog]] — misjon og interreligiøs dialog
+- [[global-kristendom/misjon/misjonerende-folkekirke]] — Den norske kirkes misjonsselvforståelse
+- [[global-kristendom/misjon/folkekirken-som-misjonsmodell]] — folkekirken som misjonsmodell
+- [[global-kristendom/misjon/fra-vedlikehold-til-misjon]] — fra vedlikehold til misjon
+- [[global-kristendom/misjon/kirkens-identitet-etter-kristendommen]] — kirkens identitet i en post-kristen kontekst
 
 ---
 
 ## Dialog og konflikt
 
-- [[global-kristendom/kirken-og-islam]] — kristendom og islam i møte
-- [[global-kristendom/religionsdialog-kirkelige-handlinger]] — interreligiøs dialog i praksis
-- [[global-kristendom/rasisme]] — rasisme og kirkens ansvar
-
----
-
-## Norsk kontekst
-
-- [[global-kristendom/kristendom-i-norge]] — norsk kristendomshistorie og kirkeliv
+- [[global-kristendom/dialog/kirken-og-islam]] — kristendom og islam i møte
+- [[global-kristendom/dialog/religionsdialog-kirkelige-handlinger]] — interreligiøs dialog i praksis
+- [[global-kristendom/dialog/veiledning-i-religionsmote-2006]] — veiledning i religionsmøte (2006)
+- [[global-kristendom/dialog/rasisme]] — rasisme og kirkens ansvar
