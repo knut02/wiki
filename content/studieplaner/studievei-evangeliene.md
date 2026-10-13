@@ -20,8 +20,8 @@ Denne studieveien er ment som en strukturert inngang til evangeliene — fra det
 Før du leser, er det nyttig å forstå *hva slags tekster* evangeliene er — og hva de ikke er.
 
 - [[Bibelen - det Nye Testamentet/evangeliene/evangeliene-sjangeren]] — Hva er et evangelium? Sjangeren *euangelion*, proklamasjon som fortelling, forholdet mellom de fire, historisitet
-- [[lese-og-forstå-bibelen/bibeltolkning-innforing]] — Grunnleggende hermeneutikk: hva er en tekst, hva gjør sjanger med lesningen?
-- [[lese-og-forstå-bibelen/hvordan-lese-narrativ]] — Evangeliene er fortellinger; dette gir verktøy for å lese dem godt
+- [[lese-og-forstå-bibelen/hermeneutikk/bibeltolkning-innforing]] — Grunnleggende hermeneutikk: hva er en tekst, hva gjør sjanger med lesningen?
+- [[lese-og-forstå-bibelen/hvordan-lese-bibelen/hvordan-lese-narrativ]] — Evangeliene er fortellinger; dette gir verktøy for å lese dem godt
 - [[Bibelen - det Nye Testamentet/evangeliene/evangeliene]] — Oversikt over de fire evangeliene: sjanger, forfattere, datering, forholdet mellom dem
 - [[Bibelen - det Nye Testamentet/det-nye-testamentet]] — NT i sin helhet; evangelienes plass i kanon
 - [[Bibelen - det Nye Testamentet/nt-kanon]] — Kanonprosessen: hvordan ble de fire evangeliene valgt?
@@ -112,6 +112,6 @@ Disse temaene mangler egne artikler. Vi venter med dem til vi har bedre kildemat
 
 ## Sammenheng med andre studieveier
 
-- [[lese-og-forstå-bibelen/bibelen]] — Bibelen som helhet
+- [[lese-og-forstå-bibelen/grunnlag/bibelen]] — Bibelen som helhet
 - [[kristologi/jesus]] — Jesus som teologisk person (ikke bare historisk)
 - [[tro-og-liv/disippelskap]] — Å følge Jesus i dag

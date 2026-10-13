@@ -165,7 +165,7 @@ Hvis du heller vil følge et tema på tvers av periodene:
 [[kirkehistorie/oldkirken/tidligkristen-bønnepraksis]] → [[kirkehistorie/oldkirken/askese-i-oldkirken]] → [[kirkehistorie/oldkirken/kontemplativ-bonn-og-lectio-divina]] → [[kirkehistorie/middelalder/monastisk-teologi]]
 
 **Kirkens enhet og splittelse**
-[[kirkehistorie/oldkirken/embetsutvikling]] → [[kirkehistorie/oldkirken/cyprian-av-karthago]] → [[kirkehistorie/middelalder/kirken-ost-og-vest]] → [[kirkehistorie/reformasjonen/luther-og-reformasjonen]]
+[[kirkehistorie/oldkirken/embetsutvikling]] → [[kirkehistorie/oldkirken/cyprian-av-karthago]] → [[kirkehistorie/middelalder/kirken-ost-og-vest]] → [[kirkehistorie/reformasjonen/reformasjonen]]
 
 **Teologi i møte med kulturen**
 [[kirkehistorie/oldkirken/apostoliske-apologeter-og-hermas]] → [[kirkehistorie/oldkirken/klemens-av-alexandria-og-origen]] → [[kirkehistorie/moderne/moderniteten-og-opplysningen]] → [[kirkehistorie/moderne/schleiermacher-og-liberal-protestantisme]]

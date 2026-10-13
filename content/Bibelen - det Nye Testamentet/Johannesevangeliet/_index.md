@@ -7,7 +7,7 @@ created: 2026-10-10
 # Johannesevangeliet
 
 → [[Bibelen - det Nye Testamentet/Johannesevangeliet/johannes-evangeliet|Om evangeliet]]
-→ [[Bibelen - det Nye Testamentet/Johannesevangeliet/johannes-evangeliet-studieplan|Studieplan]]
+→ [[studieplaner/johannes-evangeliet-studieplan|Studieplan]]
 
 ---
 

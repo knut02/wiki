@@ -85,10 +85,10 @@ En «fullstendig» lesning trenger ulike lesere. Ikke fordi alle tolkninger er l
 
 ## Sammenheng med andre artikler
 
-- [[lese-og-forstå-bibelen/bibeltolkning-innforing]] — leserposisjonens hermeneutiske betydning
+- [[lese-og-forstå-bibelen/hermeneutikk/bibeltolkning-innforing]] — leserposisjonens hermeneutiske betydning
 - [[kvinner-og-bibelen/kvinner-i-evangeliene]] — de konkrete tekstene
 - [[teologi/inaugurert-eskatologi-og-kjonn]] — NT-tekster om kjønn og eskatologi
-- [[lese-og-forstå-bibelen/hvordan-lese-narrativ]] — narrativ analyse og perspektivspørsmålet
+- [[lese-og-forstå-bibelen/hvordan-lese-bibelen/hvordan-lese-narrativ]] — narrativ analyse og perspektivspørsmålet
 
 ---
 

@@ -80,9 +80,9 @@ En praktisk konsekvens av tolkningens begrensning er Skriftens eget prinsipp: Kl
 ## Sammenheng med andre artikler
 
 - [[teologi/hva-er-teologi]] — teologisk metode og bordet
-- [[lese-og-forstå-bibelen/bibeltolkning-innforing]] — hermeneutikkens grunnprinsipper
-- [[lese-og-forstå-bibelen/tekstkritikk]] — første tiers tekst og dens rekonstruksjon
-- [[lese-og-forstå-bibelen/bibeloversettelse]] — andre tiers praksis
+- [[lese-og-forstå-bibelen/hermeneutikk/bibeltolkning-innforing]] — hermeneutikkens grunnprinsipper
+- [[lese-og-forstå-bibelen/hermeneutikk/tekstkritikk]] — første tiers tekst og dens rekonstruksjon
+- [[lese-og-forstå-bibelen/oversettelse/bibeloversettelse]] — andre tiers praksis
 - [[kirkehistorie/reformasjonen/reformasjonen]] — *sola scriptura* og tolkningsprinsippet
 
 ---

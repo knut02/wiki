@@ -13,28 +13,28 @@ Her samles artikler om hvordan man leser og tolker Bibelen — hermeneutikk, eks
 
 ## Inngang
 
-- [[lese-og-forstå-bibelen/bibelen]] — Bibelen som helhet: samlingens karakter, tilblivelse og autoritet
-- [[lese-og-forstå-bibelen/bibelens-tilblivelse]] — teksttradisjon, manuskripter og kanonhistorie
-- [[lese-og-forstå-bibelen/hellige-skrifter]] — hellige skrifter i komparativt perspektiv
+- [[lese-og-forstå-bibelen/grunnlag/bibelen]] — Bibelen som helhet: samlingens karakter, tilblivelse og autoritet
+- [[lese-og-forstå-bibelen/grunnlag/bibelens-tilblivelse]] — teksttradisjon, manuskripter og kanonhistorie
+- [[lese-og-forstå-bibelen/grunnlag/hellige-skrifter]] — hellige skrifter i komparativt perspektiv
 
 ---
 
 ## Metode og hermeneutikk
 
-- [[lese-og-forstå-bibelen/bibeltolkning-innforing]] — hermeneutikk, eksegese og de åtte metodene
-- [[lese-og-forstå-bibelen/bibeloversettelse]] — oversettelsesstrategier, norsk oversettelseshistorie og ideologi
+- [[lese-og-forstå-bibelen/hermeneutikk/bibeltolkning-innforing]] — hermeneutikk, eksegese og de åtte metodene
+- [[lese-og-forstå-bibelen/oversettelse/bibeloversettelse]] — oversettelsesstrategier, norsk oversettelseshistorie og ideologi
 
 ---
 
 ## Sjangerspesifikke innføringer
 
-- [[lese-og-forstå-bibelen/hvordan-lese-narrativ]] — litterær analyse av bibelske fortellinger
-- [[lese-og-forstå-bibelen/hvordan-lese-brev]] — brevsjangeren og retorisk metode
-- [[lese-og-forstå-bibelen/hvordan-lese-profetlitteratur]] — profetlitteraturens særtrekk
+- [[lese-og-forstå-bibelen/hvordan-lese-bibelen/hvordan-lese-narrativ]] — litterær analyse av bibelske fortellinger
+- [[lese-og-forstå-bibelen/hvordan-lese-bibelen/hvordan-lese-brev]] — brevsjangeren og retorisk metode
+- [[lese-og-forstå-bibelen/hvordan-lese-bibelen/hvordan-lese-profetlitteratur]] — profetlitteraturens særtrekk
 
 ---
 
 ## Originalspråkene
 
-- [[lese-og-forstå-bibelen/bibelsk-hebraisk-innforing]] — hebraisk som GT-språk
-- [[lese-og-forstå-bibelen/bibelsk-gresk-innforing]] — gresk som NT-språk
+- [[lese-og-forstå-bibelen/originalspråk/bibelsk-hebraisk-innforing]] — hebraisk som GT-språk
+- [[lese-og-forstå-bibelen/originalspråk/bibelsk-gresk-innforing]] — gresk som NT-språk

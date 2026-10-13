@@ -13,7 +13,7 @@ De fire evangeliene — Matteus, Markus, Lukas og Johannes — er kjernen i Det 
 
 - [[Bibelen - det Nye Testamentet/evangeliene/evangeliene]] — De fire evangeliene sammenlignet: sjanger, forfattere, datering, forholdet mellom dem
 - [[Bibelen - det Nye Testamentet/evangeliene/evangeliene-sjangeren]] — Hva er et evangelium? Sjangeren *euangelion*, proklamasjon som fortelling, historisitet
-- [[Bibelen - det Nye Testamentet/evangeliene/studievei-evangeliene]] — Strukturert lesevei gjennom evangeliene i seks lag
+- [[studieplaner/studievei-evangeliene]] — Strukturert lesevei gjennom evangeliene i seks lag
 
 ---
 
