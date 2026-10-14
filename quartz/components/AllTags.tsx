@@ -11,21 +11,27 @@ interface Options {
 const defaultOptions = (cfg: GlobalConfiguration): Options => {
   const translation = i18n(cfg.locale) as unknown as { components: Record<string, { title?: string }> }
   return {
-    title: translation.components.allTags?.title ?? "All tags",
+    title: translation.components.allTags?.title ?? "Most common tags",
   }
 }
 
 export default ((userOpts?: Partial<Options>) => {
   const AllTags: QuartzComponent = ({ allFiles, fileData, cfg, displayClass }: QuartzComponentProps) => {
     const opts = { ...defaultOptions(cfg), ...userOpts }
-    const tagSet = new Set<string>()
+    const tagCounts = new Map<string, number>()
 
     allFiles.forEach((page) => {
-      const tags = page.frontmatter?.tags ?? []
-      tags.forEach((tag) => tagSet.add(tag))
+      const pageTags = new Set(page.frontmatter?.tags ?? [])
+      pageTags.forEach((tag) => {
+        tagCounts.set(tag, (tagCounts.get(tag) ?? 0) + 1)
+      })
     })
 
-    const tags = [...tagSet].sort((a, b) => a.localeCompare(b, cfg.locale))
+    const tags = [...tagCounts.entries()]
+      .sort(([tagA, countA], [tagB, countB]) => {
+        return countB - countA || tagA.localeCompare(tagB, cfg.locale)
+      })
+      .slice(0, 10)
     if (tags.length === 0) {
       return null
     }
@@ -34,7 +40,7 @@ export default ((userOpts?: Partial<Options>) => {
       <div class={classNames(displayClass, "all-tags")}> 
         <h3>{opts.title}</h3>
         <ul class="all-tags-list">
-          {tags.map((tag) => {
+          {tags.map(([tag]) => {
             return (
               <li>
                 <a href={resolveRelative(fileData.slug!, `tags/${tag}` as FullSlug)} class="internal tag-link">

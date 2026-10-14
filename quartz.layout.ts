@@ -92,6 +92,6 @@ export const indexPageLayout: PageLayout = {
   ],
   right: [
     Component.CategoryLinks(),
-    Component.AllTags(),
+    Component.AllTags({ title: "De 10 vanligste taggene" }),
   ],
 }
