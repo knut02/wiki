@@ -90,5 +90,5 @@ Jakobs brev (2:14–26) sier tilsynelatende det motsatte: «Tro uten gjerninger 
 
 ## Kilder
 
-- McGrath, A.E.: *Historical Theology*, part0008 (The Reformation)
-- [`sources/studier-personlige`]
+- [[sources/McGrath-Historical-Theology]] — McGrath, A.E.: *Historical Theology*, part0008 (The Reformation)
+- [[sources/studier-personlige]]

@@ -120,7 +120,7 @@ Det nye testamentet bruker alle fire bildene — uten å løse dem til en system
 
 ## Kilder
 
-- Ford, D.F. (2013): *Theology: A Very Short Introduction*, kap. 7 [`sources/Ford-2013-Theology-VSI`]
-- Aulén, G. (1931): *Christus Victor*. SPCK [`sources/Aulén-1931-Christus-Victor`]
-- Sødal, H.K. (2009): *Kristendommen I* [`sources/TEOL1010-Sødal-2009-NT`]
+- [[sources/Ford-2013-theology-very-short-introduction]] — Ford, D.F. (2013): *Theology: A Very Short Introduction*, kap. 7
+- [[sources/TEOL1010-Sødal-2009-NT]] — Sødal, H.K. (2009): *Kristendommen I*
 - [[sources/studier-personlige]] — egne notater
+- *NB: Aulén, G. (1931): Christus Victor — kildefil mangler i sources/*

@@ -99,6 +99,7 @@ Gunnar Olsen (2004) bruker en biologisk metafor: Religionsteologiens posisjoner 
 - [[teologi/gudslæren-guds-egenskaper]] — Guds universelle nåde
 - [[teologi/ekklesiologi]] — kirkens selvforståelse i møte med andre religioner
 - [[verdensreligioner-og-livssyn/islam]] — møte med konkret annen religion
+- [[teologi/metode/religionsteologi]] — Barth, Rahner, Hick og treenighetsteologisk grunnlag for religionsdialog
 
 ---
 

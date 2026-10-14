@@ -118,5 +118,4 @@ Gustaf Aulén (som vi kjenner fra [[teologi/forsoningslæren]]) fremhevet Christ
 
 ## Kilder
 
-- ANF01: *Ante-Nicene Fathers*, vol. 1 — Irenaeus, *Adversus Haereses* (Against Heresies), særlig Book III.19.1 og Book V.1
-- Irenaeus: *Adversus Haereses* I–V (ca. 182–188 e.Kr.)
+- [[sources/ANF01-apostolic-fathers]] — *Ante-Nicene Fathers*, vol. 1: Irenaeus, *Adversus Haereses* (Against Heresies), særlig Book III.19.1 og Book V.1

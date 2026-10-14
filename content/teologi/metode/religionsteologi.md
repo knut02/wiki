@@ -87,6 +87,7 @@ Den norske kirke er i dag både flerkulturell og flereligiøs i et nytt omfang. 
 - [[verdensreligioner-og-livssyn/islam]] — det nærmeste teologiske naboskapet
 - [[verdensreligioner-og-livssyn/jodedommen]] — den felles stammen
 - [[lese-og-forstå-bibelen/misjon-og-dialog]] — praktisk møte mellom religioner
+- [[verdensreligioner-og-livssyn/komparativt/religionsteologi]] — Knitters typologi, KM 15/16 og Den norske kirkes posisjon
 
 ---
 

@@ -121,6 +121,6 @@ Allegorisk tolkning forkastet Luther i stor grad. Han foretrakk den bokstavelige
 
 ## Kilder
 
-- Cameron, E. (2005): *Interpreting Christian History*. Blackwell [`sources/Cameron-2005-Interpreting-Christian-History`]
-- McGrath, A.E. (2013): *Historical Theology*. Wiley-Blackwell [`sources/McGrath-2013-Historical-Theology`]
+- [[sources/Cameron-2005-interpreting-christian-history]] — Cameron, E. (2005): *Interpreting Christian History*. Blackwell
+- [[sources/McGrath-Historical-Theology]] — McGrath, A.E.: *Historical Theology*. Wiley-Blackwell
 - [[sources/TEOL2300-studier]] — TEOL2300 kursmoduler

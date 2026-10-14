@@ -2,11 +2,11 @@
 title: "Gud og kjønn — er Gud mann?"
 description: "Amy Peelers argument for at Gud-Fader ikke er mann, skapelsens imago Dei og kjønn, Gen 1 og 2, Gal 3:28 og inkarnasjonens korrektiv til gudsbilledligheten."
 date: 2026-09-27
-updated: 2026-09-29
+updated: 2026-10-13
 kategori: Kvinner og Bibelen
 sub-kategori: Gudslære og kjønn
-tags: [Gud og kjønn, Peeler, imago Dei, inkarnasjon, Maria, Fader, kjønnet gudsbilde, skapelse, Gen 1]
-sources: 1
+tags: [Gud og kjønn, Peeler, imago Dei, inkarnasjon, Maria, Fader, kjønnet gudsbilde, skapelse, Gen 1, Gal 3:28, Barth, relasjonsteologi, funksjonell tolkning]
+sources: 2
 ---
 
 > «Gud Fader er ikke mann. Benektelsen av Guds mannlighet er utgangspunktet for enhver teologi som tar kvinner på alvor.» — Amy Peeler, *Women and the Gender of God* (2022)
@@ -67,29 +67,25 @@ Tittelen *Theotokos* («Guds mor», Efesos 431) var primært en kristologisk erk
 
 ---
 
-## En setning som bærer mye
+## En setning som bærer mye: Gen 1:27
 
 «Og Gud skapte mennesket i sitt bilde, i Guds bilde skapte han det, mann og kvinne skapte han dem.» (Gen 1:27)
 
-Dette ene verset har blitt utlagt på svært forskjellige måter: Begge kjønn bærer Guds bilde likt og fullt. Bare mannen bærer det direkte. Eller: Guds bilde er relasjonen mellom de to.
+Verset er treleddet, og de tre leddene henger grammatisk og teologisk sammen. Det avgjørende spørsmålet: Hva er *imago Dei*? Tre posisjoner:
 
----
+**Substansiell tolkning** (dominerte middelalderen): Guds bilde er en egenskap *ved* mennesket — fornuften, sjelen, evnen til moral. I Augustins variant gjenspeiler sjelens tre evner (minne, forstand, vilje) treenighetens struktur. Kjønnet er sekundært.
 
-## *Imago Dei* og kjønn
+**Funksjonell tolkning** (Westermann, Middleton): Konger i Midtøsten satte opp bilder av seg selv i territorier de ikke var til stede i — bildet *representerte* kongen. Mennesket er Guds representant og stedfortreder i skaperverket, kalt til å herske og forvalte (Gen 1:28). Gudsbilledligheten er *funksjonell*.
 
-Tre posisjoner:
-
-**Substansiell tolkning** (dominerte middelalderen): Guds bilde er en egenskap *ved* mennesket — fornuften, sjelen, evnen til moral. Kjønnet er sekundært.
-
-**Funksjonell tolkning** (Westermann, Middleton): Konger i Midtøsten satte opp bilder av seg selv i territorier de ikke var til stede i — bildet *representerte* kongen. Mennesket er Guds representant og stedfortreder i skaperverket. Gudsbilledligheten er *funksjonell*.
-
-**Relasjonell tolkning** (Karl Barth): Guds bilde er ikke en egenskap, men en relasjon — analogien mellom «Jeg og Du» i Guddommen og «Jeg og Du» mellom mann og kvinne. Kjønnsforskjellen er da stedet der *imago Dei* utfolder seg.
+**Relasjonell tolkning** (Karl Barth): Guds bilde er ikke en egenskap, men en relasjon — analogien mellom «Jeg og Du» i Guddommen (Fader og Sønn) og «Jeg og Du» mellom mann og kvinne. Kjønnsforskjellen er da ikke tilfeldig, men det stedet der *imago Dei* utfolder seg. Barth: «Mann og kvinne er det guddommelige bildet.»
 
 ---
 
 ## Gen 1 og Gen 2 — samme fortelling?
 
-En vanlig mislesning: At Eva ble skapt *av* og *for* Adam er en underordningsstruktur. Men Gen 1 og Gen 2 er to ulike fortellinger med ulike teologiske fokus. Gen 1 er kosmogonisk; Gen 2 er relasjonell. At Eva skapes *sist* i Gen 2 er et poetisk klimaks, ikke et hierarki — i Gen 1 er mennesket det siste og høyeste i skapelsesrekken. Rekkefølge er ikke rang.
+En vanlig mislesning: At Eva ble skapt *av* og *for* Adam innebærer en underordningsstruktur. Men Gen 1 og Gen 2 er to ulike fortellinger med ulike teologiske fokus. Gen 1 er kosmogonisk og liturgisk — den handler om hele skaperverkets orden. Gen 2 er antropologisk og relasjonell — den handler om menneskets plass, mangel og møte.
+
+At Eva skapes *sist* i Gen 2 er et poetisk klimaks, ikke et hierarki — i Gen 1 er mennesket det siste og høyeste i skapelsesrekken. Rekkefølge er ikke rang.
 
 ---
 
@@ -103,7 +99,7 @@ Det tredje paret — «mann og kvinne» (en direkte allusjon til Gen 1:27) — v
 
 ## Hva skapelsesfortellingene *ikke* sier
 
-De sier ikke at menn er mer gudslignende enn kvinner. Verbet i Gen 1:27 er konsekvent i flertall: «Han skapte *dem*» — begge er bildet.
+De sier ikke at menn er mer gudslignende enn kvinner. Verbet i Gen 1:27 er konsekvent i flertall: «Han skapte *dem*» — begge er bildet. Ingen av versene sier at mannen er bildet og kvinnen er bildet-av-bildet.
 
 De sier ikke at kjønnsforskjellen er et resultat av syndefallet. Kjønnet er i Gen 1 og 2 — forut for Gen 3. Synden korrumperer kjønnsrelasjonen; den skaper ikke kjønnet.
 
@@ -120,13 +116,16 @@ Dersom Gud ikke er maskulin på en måte som favoriserer menn:
 
 ## Sammenheng med andre artikler
 
-- [[teologi/er-gud-mannlig]] — Peelers fulle argument utdypet
+- [[kvinner-og-bibelen/kvinner-i-gt]] — kvinner i historiefortellingene
 - [[kvinner-og-bibelen/kvinner-i-kirken]] — debatten om kvinner i tjeneste
 - [[kristologi/inkarnasjon]] — inkarnasjonens natur
-- [[teologi/treenigheten]] — Fadernavnet og treenighetslæren
+- [[teologi/treenigheten]] — Fadernavnet og treenighetslæren; Barths relasjonsteologi
+- [[tro-og-liv/kristent-menneskesyn]] — menneskeverdet og skaperverket
+- [[kristologi/jesu-menneskelige-natur]] — Jesu mannlighet og Kalkedon
 
 ---
 
 ## Kilder
 
-- Peeler, A. (2022): *Women and the Gender of God*. Eerdmans [`sources/Peeler-2022-Women-Gender-God`]
+- [[sources/Peeler-2022-Women-Gender-God]] — Peeler, A. (2022): *Women and the Gender of God*. Eerdmans
+- [[sources/studier-personlige]] — egne notater
