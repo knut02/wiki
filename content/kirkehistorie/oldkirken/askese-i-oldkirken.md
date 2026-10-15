@@ -5,7 +5,7 @@ date: 2025-06-06
 kategori: Kirkehistorie
 sub-kategori: Oldkirken — Teologi og spiritualitet
 tags: [askese, ørkenfedre, Antonius, Evagrius, Apophthegmata, monastisisme]
-updated: 2025-07-09
+modified: 2025-07-09
 sources: 4
 ---
 

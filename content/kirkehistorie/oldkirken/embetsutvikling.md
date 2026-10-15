@@ -5,7 +5,7 @@ date: 2025-05-26
 kategori: Kirkehistorie
 sub-kategori: Oldkirken — Gudstjeneste og kirkeliv
 tags: [embete, biskop, presbyter, diakon, monepiskopat, patriarkat, paveembete]
-updated: 2025-06-02
+modified: 2025-06-02
 sources: 4
 ---
 

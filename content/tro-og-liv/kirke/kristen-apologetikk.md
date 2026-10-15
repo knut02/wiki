@@ -2,7 +2,7 @@
 title: "Kristen apologetikk — forsvar av troen med mildhet"
 description: "Dallas Willards forståelse av apologetikk — som kjærlighetstjeneste fremfor debattseier, forholdet mellom tro og kunnskap, og hva det vil si å tenke som Kristi student."
 date: 2026-09-28
-updated: 2026-09-28
+modified: 2026-09-28
 kategori: Tro og liv
 sub-kategori: Tro og tvil
 tags: [apologetikk, Willard, tro og kunnskap, tvil, forsvar av troen, 1 Pet 3:15, fornuft, mildhet, disippelskap]

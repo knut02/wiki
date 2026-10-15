@@ -2,7 +2,7 @@
 title: Kilde — Willard (1998) The Divine Conspiracy
 description: Kompilert fra raw/books/The Divine Conspiracy - Dallas Willard/text/
 date: 2025-05-20
-updated: 2025-05-20
+modified: 2025-05-20
 ---
 
 # Kilde: Willard-1998-divine-conspiracy

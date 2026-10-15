@@ -2,7 +2,7 @@
 title: "Åndelig formasjon — å seile fremfor å ro"
 description: "David Takles innføring i kristen formasjon — skillet mellom atferdsendring og hjerteomdanning, ro vs. seiling som modell, Åndens rolle som mentor, og hvorfor tradisjonell disippelskap-tenkning svikter."
 date: 2026-09-29
-updated: 2026-09-29
+modified: 2026-09-29
 kategori: Tro og liv
 sub-kategori: Åndelig formasjon
 tags: [åndelig formasjon, Takle, Willard, Den Hellige Ånd, disippelskap, transformasjon, hjerteomdanning, VIM-modellen, kristen formasjon, mentor, relasjon]

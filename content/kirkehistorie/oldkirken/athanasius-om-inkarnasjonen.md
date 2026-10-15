@@ -2,7 +2,7 @@
 title: "Athanasius — Om inkarnasjonen"
 description: "Gjennomgang av Athanasius' verk *De Incarnatione Verbi* (ca. 318) — skapelse, fall, inkarnasjon og theosis som frelsens logikk."
 date: 2026-10-14
-updated: 2026-10-14
+modified: 2026-10-14
 kategori: Kirkehistorie
 sub-kategori: Oldkirken — Store teologer
 tags: [Athanasius, inkarnasjon, theosis, frelse, Logos, arvesynd, forgjengelighet, oldkirken, patristikk]

@@ -2,7 +2,7 @@
 title: Kilde — Blomberg (red.) Two Views on Women in Ministry
 description: Kompilert fra raw/books/Two Views on Women in Ministry - Craig Blomberg/text/
 date: 2025-05-20
-updated: 2025-05-20
+modified: 2025-05-20
 ---
 
 # Kilde: Blomberg-2005-two-views-women-ministry

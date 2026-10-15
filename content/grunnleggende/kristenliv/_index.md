@@ -2,7 +2,7 @@
 title: "Kristenliv"
 description: "Bønn, disippelskap, fellesskap, glede, håp, lidelse, løfter, sabbat, takknemlighet, tro og Åndens frukt."
 date: 2026-10-13
-updated: 2026-10-13
+modified: 2026-10-13
 ---
 
 # Kristenliv

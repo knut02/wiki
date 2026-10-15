@@ -2,7 +2,7 @@
 title: "Moderniteten, opplysningen og kristen teologi"
 description: "Opplysningstidens utfordringer til kristen tro — deisme, Kant, Hume, historisk bibelkritikk, og teologiens ulike svar fra Schleiermacher til neo-ortodoksien."
 date: 2025-05-21
-updated: 2026-09-29
+modified: 2026-09-29
 kategori: Kirkehistorie
 sub-kategori: Moderne teologi
 tags: [opplysningstiden, modernitet, deisme, Kant, Hume, Schleiermacher, historisk kritikk, sekularisering, fornuft, åpenbaring, liberal teologi]

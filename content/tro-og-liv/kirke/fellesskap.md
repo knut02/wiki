@@ -2,7 +2,7 @@
 title: "Kristent fellesskap"
 description: "*Koinōnia* — partnerskap, ikke kaffe og boller; hva NT mener med fellesskap, to slags byrder, Ef 4:16 og nådegavenes plass i fellesskapet."
 date: 2025-04-28
-updated: 2026-09-08
+modified: 2026-09-08
 kategori: Tro og liv
 sub-kategori: Kirke og fellesskap
 tags: [koinonia, fellesskap, menighet, byrder, Ef 4, nådegaver, tjeneste, disippelskap, kropp]

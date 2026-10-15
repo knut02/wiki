@@ -5,7 +5,7 @@ date: 2025-05-10
 kategori: Personer
 sub-kategori: NT og oldkirke-personer
 tags: [Justin Martyr, apologet, Logos-teologi, filosofi, martyr, 100-165, Dialog med Tryfo]
-updated: 2026-07-12
+modified: 2026-07-12
 sources: 3
 ---
 

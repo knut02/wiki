@@ -2,7 +2,7 @@
 title: "Postliberalisme og narrativ teologi"
 description: "Postliberalismen som teologisk bevegelse etter 1980 — Lindbecks kulturell-lingvistiske tilnærming, Freis narrative kristologi, Hauerwas' kirkeetikk og oppgjøret med opplysningstidens universalisme."
 date: 2026-09-08
-updated: 2026-09-08
+modified: 2026-09-08
 kategori: Teologi
 sub-kategori: Teologisk metode
 tags: [postliberalisme, narrativ teologi, Lindbeck, Frei, Hauerwas, Yale, kulturell-lingvistisk, fortelling, kirke, etikk, postmodernitet]

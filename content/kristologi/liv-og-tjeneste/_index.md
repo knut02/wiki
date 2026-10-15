@@ -2,7 +2,7 @@
 title: "Liv og tjeneste"
 description: "Jesu historiske liv, offentlige virke og portrett i evangeliene — historisk Jesus-forskning og messias-forventningene."
 date: 2026-10-13
-updated: 2026-10-13
+modified: 2026-10-13
 ---
 
 # Liv og tjeneste

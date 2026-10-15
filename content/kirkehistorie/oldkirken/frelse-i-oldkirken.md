@@ -2,7 +2,7 @@
 title: "Frelse i oldkirken — det todelte frelsessyn og de store teologene"
 description: "Oldkirkens frelsesforståelse — Bercots todelte frelsessyn, Athanasius og inkarnasjonen som frelse, Augustin og nådens radikalitet, og arven fremover mot reformasjonen."
 date: 2025-05-14
-updated: 2026-09-29
+modified: 2026-09-29
 kategori: Kirkehistorie
 sub-kategori: Oldkirken
 tags: [frelse, oldkirken, Bercot, Athanasius, Augustin, Ireneus, nåde, theosis, arvesynd, pelagianisme, Klemens, Origenes, Tertullian, Polykarp]

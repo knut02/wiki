@@ -2,7 +2,7 @@
 title: "Donatiststriden"
 description: "Striden om kirkens hellighet og sakramentenes gyldighet — Donatistene mot Augustin, og spørsmålet om en uredelig prest ugyldiggjør sakramentene."
 date: 2026-09-08
-updated: 2026-09-08
+modified: 2026-09-08
 kategori: Kirkehistorie
 sub-kategori: Oldkirken
 tags: [donatistene, Augustin, sakramenter, kirkens hellighet, traditor, frafalne, Nord-Afrika, ekklesiologi, oldkirken]

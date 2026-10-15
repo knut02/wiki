@@ -2,7 +2,7 @@
 title: "Markusevangeliet"
 description: "Det eldste evangeliet — Messiashemmeligheten, disiplenes feil, Menneskesønnen som tjener, og korset som kongekronasjon. Keeners kulturelle bakgrunn og evangeliets teologiske profil."
 date: 2026-07-10
-updated: 2026-08-26
+modified: 2026-08-26
 kategori: Det nye testamentet
 sub-kategori: Evangeliene
 studievei: [evangeliene, kristologi, Bibelen]

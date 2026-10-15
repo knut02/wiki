@@ -2,7 +2,7 @@
 title: "Bergprekenen — Matt 5–7"
 description: "Bergprekenen er Jesu fremste undervisning — en sammenhengende tale om det livet som er mulig i Guds rike, ikke en ny lov men en invitasjon til en radikal omforming av sinnet."
 date: 2025-05-30
-updated: 2026-08-26
+modified: 2026-08-26
 kategori: Det nye testamentet
 sub-kategori: Sentrale tekster
 studievei: [evangeliene, disippelskap, etikk]

@@ -2,7 +2,7 @@
 title: "Kolosserbrevet"
 description: "Kristus som universets midtpunkt — hymnen om Kristus som all tings opphav og mål, mot falsk visdom, og det nye livet skjult i Gud."
 date: 2026-08-26
-updated: 2026-08-26
+modified: 2026-08-26
 kategori: Det nye testamentet
 sub-kategori: Paulusteologi
 studievei: [kristologi, disippelskap, Bibelen]

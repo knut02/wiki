@@ -2,7 +2,7 @@
 title: "Himmelen — hva sier Bibelen?"
 description: "Hva er himmelen? NT Wrights to-fase-modell, himmel som midlertidig og ny skapning som endelig mål, Åpenbaringen 21–22 om himmel som kommer til jord, og hva vi ikke vet."
 date: 2026-09-29
-updated: 2026-09-29
+modified: 2026-09-29
 kategori: Teologi
 sub-kategori: Eskatologi
 tags: [himmelen, eskatologi, Wright, ny skapning, Åpenbaringen 21, paradis, mellomtilstand, oppstandelse, kropp, sjel, liv etter døden]

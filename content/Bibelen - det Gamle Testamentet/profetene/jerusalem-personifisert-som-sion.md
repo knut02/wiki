@@ -2,7 +2,7 @@
 title: "Jerusalem personifisert — datter Sion"
 description: "Jerusalem som personifisert kvinne i Klagesangene og GT — det litterære virkemidlet, historien i Midtøsten, datter Sion-uttrykket, den klagende stemmen, og teologiske implikasjoner."
 date: 2026-09-29
-updated: 2026-09-29
+modified: 2026-09-29
 kategori: Bibelen - det Gamle Testamentet
 sub-kategori: Teologiske temaer
 tags: [Jerusalem, Sion, datter Sion, personifisering, Klagesangene, enke, jomfru, bat-tsijyon, Tyche, bygudinne, Hasselbalch, klage, teologi]

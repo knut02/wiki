@@ -2,7 +2,7 @@
 title: "Oversettelse av Guds navn — JHWH, Elohim og Sebaot"
 description: "Hvordan de hebraiske gudsnavnene JHWH, Elohim, El Shaddai og Sebaot er oversatt i norske bibler — bakgrunnen for HERREN, Den veldige, Allhærs Gud og den kristologiske bruken av Jeg er."
 date: 2026-09-29
-updated: 2026-09-29
+modified: 2026-09-29
 kategori: Lese og forstå Bibelen
 sub-kategori: Bibeltekst og tekstkritikk
 tags: [gudsnavnet, JHWH, Elohim, Sebaot, El Shaddai, HERREN, bibeloversettelse, hebraisk, kristologi, Jeg er, Aschim]

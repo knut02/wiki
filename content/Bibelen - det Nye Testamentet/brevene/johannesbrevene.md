@@ -2,7 +2,7 @@
 title: "Johannesbrevene — 1., 2. og 3. Johannes"
 description: "Tre brev fra den johanneiske tradisjonen: splittelsen i Johannesgruppa, de tre testene i 1 Joh, «Gud er kjærlighet», antikrist-begrepet, Diotrefes-konflikten og brevenes rolle i å redde Johannesevangeliet for kirken."
 date: 2025-05-11
-updated: 2026-09-29
+modified: 2026-09-29
 kategori: Det nye testamentet
 sub-kategori: Katolske brev og Åpenbaringen
 studievei: [evangeliene, disippelskap]

@@ -5,7 +5,7 @@ date: 2025-05-11
 kategori: Tro og liv
 sub-kategori: Grunnleggende trospørsmål
 tags: [nåde, charis, Paulus, rettferdiggjørelse, billig nåde, Bonhoeffer, Luther]
-updated: 2026-07-10
+modified: 2026-07-10
 ---
 
 > «Nåden ble sannhet ved Jesus Kristus.» — Joh 1:17. Ikke prinsipp, men person.

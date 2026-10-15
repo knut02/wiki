@@ -2,7 +2,7 @@
 title: "Syndsforvaltningsevangeliet — Willards diagnose"
 description: "Dallas Willards kritikk av en kristendom som bare handler om syndsforlatelse — høyre og venstre versjoner, hva som mangler, og hva Jesu eget evangelium om Guds rike faktisk er."
 date: 2026-09-28
-updated: 2026-09-28
+modified: 2026-09-28
 kategori: Tro og liv
 sub-kategori: Disippelskap og formasjon
 tags: [syndsforvaltningsevangeliet, Willard, Guds rike, disippelskap, evangelium, barcode-tro, frelse, Divine Conspiracy, kristendom og liv]

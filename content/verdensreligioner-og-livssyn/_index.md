@@ -2,7 +2,7 @@
 title: "Verdensreligioner og livssyn"
 description: "De store verdensreligionene og livssynene — jødedom, islam, hinduisme og buddhisme — i møte med kristendommen og i norsk kontekst. Mappen dekker både teologiske likheter og forskjeller, religionenes hellige skrifter, og bredere livssynsspørsmål som sekularisering og religionsdialog."
 date: 2026-07-10
-updated: 2026-07-10
+modified: 2026-07-10
 ---
 
 # Verdensreligioner og livssyn

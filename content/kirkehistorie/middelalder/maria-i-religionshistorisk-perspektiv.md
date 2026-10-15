@@ -2,7 +2,7 @@
 title: "Maria i religionshistorisk perspektiv — gudinnenes arv"
 description: "Maria som religionshistorisk figur — Wittgensteins familielikheter, de seks guddommelige formødrene (Inanna, Isis, Demeter, Afrodite, Kybele, Artemis), konsilet i Efesos 431, og Marias tre roller som jomfru, mor og dronning."
 date: 2026-09-29
-updated: 2026-09-29
+modified: 2026-09-29
 kategori: Kirkehistorie
 sub-kategori: Marias tidlige historie
 tags: [Maria, religionshistorie, Inanna, Isis, Demeter, Afrodite, Kybele, Artemis, familielikheter, Wittgenstein, Efesos 431, theotokos, jomfru, dronning, Næss]

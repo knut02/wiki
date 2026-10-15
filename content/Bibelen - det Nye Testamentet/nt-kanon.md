@@ -2,7 +2,7 @@
 title: "NT-kanon — tilblivelse, kriterier og apokryfer"
 description: "Kanonprosessens tre århundrer — fra Ireneus og Muratorifragmentet via Origenes og Eusebius til Athanasius 367, pluss skriftene som ikke kom med og kriteriene som avgjorde."
 date: 2025-05-06
-updated: 2026-09-29
+modified: 2026-09-29
 kategori: Det nye testamentet
 sub-kategori: Kanon og tekst
 tags: [NT-kanon, kanonprosessen, apokryfer, Ireneus, Muratorifragmentet, Athanasius, Peters evangelium, Diatessaron, Jakobs protoevangelium]

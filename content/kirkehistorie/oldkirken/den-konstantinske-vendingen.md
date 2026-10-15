@@ -2,7 +2,7 @@
 title: "Den konstantinske vendingen (312-313)"
 description: "Fra forflgelse til statsreligion — hvordan Konstantins omvendelse og Ediktet av Milano forvandlet kristendommens stilling i Romerriket og åpnet en ny epoke i kirkehistorien."
 date: 2026-08-26
-updated: 2026-08-26
+modified: 2026-08-26
 kategori: Kirkehistorie
 sub-kategori: Oldkirken — Forflølgelse og statsreligion
 studievei: [kirkehistorie, Bibelen]

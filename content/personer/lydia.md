@@ -2,7 +2,7 @@
 title: "Lydia"
 description: "Purpurhandler fra Tyatira, den første europeiske kristne, og husmenighetsvert i Filippi. Keener identifiserer henne med Thyatiras kjente purpurhandlertradisjoner."
 date: 2026-10-04
-updated: 2026-10-04
+modified: 2026-10-04
 kategori: Personer
 sub-kategori: NT-personer
 tags: [Lydia, Filippi, purpur, husmenighet, Paulus, Europa, kvinner, Apg, NT, Keener]

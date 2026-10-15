@@ -2,7 +2,7 @@
 title: "Sekularisering"
 description: "Sekularisering som begrep og virkelighet — institusjonell adskillelse, privatisering og individuell tilbakegang; sekularisering som europeisk unntak; tall og trender i Norge."
 date: 2025-05-14
-updated: 2026-09-22
+modified: 2026-09-22
 kategori: Verdensreligioner og livssyn
 sub-kategori: Livssyn og samfunn
 tags: [sekularisering, privatisering, believing without belonging, Grace Davie, Norge, statistikk, stat og kirke, alternativ spiritualitet, ikke-religiøs]

@@ -5,7 +5,7 @@ date: 2025-04-18
 kategori: Det nye testamentet
 sub-kategori: Evangeliene
 tags: [Matteus, jødisk, bergprekenen, oppfyllelsessitater, misjonsbefalingen, fem taler]
-updated: 2025-05-18
+modified: 2025-05-18
 ---
 
 > «Jesus Kristus, Davids sønn, Abrahams sønn.» — Matt 1:1. Første setning i Matteus er allerede en fullstendig kristologi.

@@ -2,7 +2,7 @@
 title: "Er Gud mannlig? — jomfrufødselen som teologisk argument"
 description: "Amy Peelers argument for at Gud Faderen ikke er mannlig, basert på jomfrufødselen — og kritikken av Lewis, Hopko, von Balthasar og Mascall som hevder at Jesu mannlighet avspeiler Faderens maskulinitet."
 date: 2026-09-29
-updated: 2026-09-29
+modified: 2026-09-29
 kategori: Teologi
 sub-kategori: Gudslære og kjønn
 tags: [Gud, kjønn, Faderen, maskulinitet, jomfrufødselen, Peeler, Lewis, Hopko, von Balthasar, Mascall, inkarnasjon, imago Dei, prestelæren]

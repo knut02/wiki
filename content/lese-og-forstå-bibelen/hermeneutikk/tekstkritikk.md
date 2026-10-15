@@ -2,7 +2,7 @@
 title: "Tekstkritikk — jakten på den opprinnelige bibelteksten"
 description: "Hva tekstkritikk er, hvorfor ingen originalmanus har overlevd, hvordan variantlesninger oppstår, manuskriptfamilier, kritiske utgaver og metodene tekstkritikere bruker for å vurdere lesninger."
 date: 2026-09-29
-updated: 2026-09-29
+modified: 2026-09-29
 kategori: Lese og forstå Bibelen
 sub-kategori: Bibeltekst og tekstkritikk
 tags: [tekstkritikk, manuskripter, variantlesninger, Nestle-Aland, BHS, Septuaginta, Masoretisk tekst, Dødehavsrullene, Textus Receptus, Hayes, skriverfeil, kritisk apparat]

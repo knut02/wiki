@@ -2,7 +2,7 @@
 title: "Åpenbaringens sjanger — apokalyptikk, tall og symboler"
 description: "Temaartikkel om Åpenbaringens litterære sjanger: apokalyptikk som ikke er fremtidsspådom, men symbolsk motnarrativ til Romas imperium."
 date: 2026-10-14
-updated: 2026-10-14
+modified: 2026-10-14
 kategori: Det nye testamentet
 sub-kategori: Katolske brev og Åpenbaringen
 tags: [Åpenbaringen, apokalyptikk, sjanger, symboler, tall, Daniel, Enok, keiserkult, profeti]

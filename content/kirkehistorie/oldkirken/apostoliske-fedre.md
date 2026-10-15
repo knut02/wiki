@@ -2,7 +2,7 @@
 title: "Apostoliske fedre"
 description: "De første kristne forfatterne etter apostlene — Klemens av Roma, Ignatius av Antiokia, Polykarp av Smyrna, Didache og Barnabasbrevet."
 date: 2025-05-06
-updated: 2026-07-12
+modified: 2026-07-12
 kategori: Kirkehistorie
 sub-kategori: Oldkirken — Bakgrunn og kontekst
 tags: [apostoliske fedre, Ignatius, Klemens, Polykarp, Didache, oldkirken]

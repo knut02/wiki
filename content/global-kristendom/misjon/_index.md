@@ -2,7 +2,7 @@
 title: "Misjon"
 description: "Misjonsteologi, misjonshistorie og kirkens misjonerende identitet."
 date: 2026-10-13
-updated: 2026-10-13
+modified: 2026-10-13
 ---
 
 # Misjon

@@ -2,7 +2,7 @@
 title: "Johannes 15 — vintreet, kjærligheten og verden"
 description: "Eksegetisk gjennomgang av Joh 15: det sanne vintreet, å bli i Jesus, kjærlighetsbudet, vennskapets teologi og verdens hat."
 date: 2025-05-31
-updated: 2026-08-25
+modified: 2026-08-25
 kategori: Det nye testamentet
 sub-kategori: Sentrale tekster
 studievei: [evangeliene, disippelskap, spiritualitet]

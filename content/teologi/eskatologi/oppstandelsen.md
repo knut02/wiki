@@ -2,7 +2,7 @@
 title: "Oppstandelsen — kropp og sjel, «døden er ikke det siste»"
 description: "NT Wrights teologi om legemlig oppstandelse — Jesu oppstandelse som prototyp, «liv etter liv etter døden», hva oppstandelseskroppen er, og hvorfor det har konsekvenser for livet nå."
 date: 2026-09-29
-updated: 2026-09-29
+modified: 2026-09-29
 kategori: Teologi
 sub-kategori: Eskatologi
 tags: [oppstandelse, kropp, sjel, Wright, 1 Kor 15, legemlig oppstandelse, ny skapning, parousia, psykikos, pneumatikos, eskatologi, Paulus]

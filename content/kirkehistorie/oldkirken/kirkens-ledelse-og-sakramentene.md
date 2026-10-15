@@ -5,7 +5,7 @@ date: 2025-04-27
 kategori: Kirkehistorie
 sub-kategori: Oldkirken — Gudstjeneste og kirkeliv
 tags: [kirkeledelse, sakramenter, dåp, nattverd, embete, Ignatius, karisma]
-updated: 2025-05-10
+modified: 2025-05-10
 kilder: 3
 ---
 

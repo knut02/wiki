@@ -2,7 +2,7 @@
 title: "Den hellige ånd"
 description: "Den hellige ånds teologi — GT og NT, Ånden i treenigheten, filioque-striden, pneumatomakerne, pinsebevegelsens karismatiske vektlegging og Åndens gaver."
 date: 2025-04-27
-updated: 2026-09-22
+modified: 2026-09-22
 kategori: Teologi
 sub-kategori: Treenigheten
 tags: [Den hellige ånd, pneumatologi, filioque, treenigheten, Åndens gaver, pinsebevegelse, Barth, Rahner, charismata, GT, NT]

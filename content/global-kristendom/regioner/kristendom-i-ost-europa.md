@@ -2,7 +2,7 @@
 title: "Kristendom i Øst-Europa — ortodoks kristendom i dag"
 description: "Ortodoks kristendom i samtiden — russisk ortodoksi under Putin, den estetiske teologien, Ukrainas fire kirker, og Konstantinopels rolle som primus inter pares."
 date: 2026-09-22
-updated: 2026-09-22
+modified: 2026-09-22
 kategori: Global kristendom
 sub-kategori: Global kristendom
 tags: [Øst-Europa, ortodoks kristendom, Russland, Ukraina, Konstantinopel, Kirill, Bartolomeus, symphonia, ikonostase, Putin, Pussy Riot]

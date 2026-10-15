@@ -2,7 +2,7 @@
 title: "Livssyn og sekularisering"
 description: "Livssynsbegrepet, sekularisering, nyreligiøsitet og det livssynsåpne samfunn."
 date: 2026-10-13
-updated: 2026-10-13
+modified: 2026-10-13
 ---
 
 # Livssyn og sekularisering

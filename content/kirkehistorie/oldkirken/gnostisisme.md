@@ -2,7 +2,7 @@
 title: "Gnostisisme — bevegelsen, mangfoldet og Hippolytus"
 description: "Gnostisismen i oldkirken — kjennetegn, de viktigste retningene, Nag Hammadi-funnene, Hippolytus' kjetterkatalog, hva som skilte gnostikerne fra ortodoksien, og gnostisisme i dag."
 date: 2025-05-12
-updated: 2026-09-29
+modified: 2026-09-29
 kategori: Kirkehistorie
 sub-kategori: Oldkirken
 tags: [gnostisisme, Nag Hammadi, Hippolytus, Valentinus, Marcion, Basilides, Ireneus, ortodoksi, kjetteri, dualisme, pleroma, demiurg, sethianer, thomasevangeliet]

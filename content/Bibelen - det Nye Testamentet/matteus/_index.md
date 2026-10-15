@@ -2,7 +2,7 @@
 title: "Matteusevangeliet"
 description: "Matteusevangeliet — oversiktsartikkel og dybdetekster om enkeltperikoper."
 date: 2026-10-11
-updated: 2026-10-11
+modified: 2026-10-11
 ---
 
 Matteusevangeliet er det mest jødiske av de fire evangeliene og det som oftest stilles først i NT. Jesus fremstilles som den nye Moses, Abrahams og Davids sønn, og oppfyllelsen av alt det GT peker mot — og likevel ender evangeliet med en befaling som sprenger alle grenser: «Gå og gjør alle folkeslag til disipler» (Matt 28:19).

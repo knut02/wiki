@@ -2,7 +2,7 @@
 title: Kilde — McGowan (2014) Ancient Christian Worship
 description: Kompilert fra raw/books/Ancient Christian Worship - Andrew B. McGowan/text/
 date: 2025-05-20
-updated: 2025-05-20
+modified: 2025-05-20
 ---
 
 # Kilde: McGowan-2014-ancient-christian-worship

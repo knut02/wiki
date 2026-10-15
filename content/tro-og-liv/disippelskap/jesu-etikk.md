@@ -2,7 +2,7 @@
 title: "Jesu etikk"
 description: "Jesu etiske lære som helhet — fiendekjærlighet, ikke-vold, rikdom og disippelskapet som livsform; ikke et regelsystem men en karaktervisjon."
 date: 2026-09-08
-updated: 2026-09-08
+modified: 2026-09-08
 kategori: Tro og liv
 sub-kategori: Disippelskap og livsstil
 tags: [Jesu etikk, bergprekenen, fiendekjærlighet, ikke-vold, rikdom, disippelskap, guds rike, karakteretikk, Willard]

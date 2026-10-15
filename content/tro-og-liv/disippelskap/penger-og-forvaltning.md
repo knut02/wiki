@@ -2,7 +2,7 @@
 title: "Penger og forvaltning"
 description: "Kristent syn på penger, rikdom og gavmildhet — Jesu radikale undervisning, GT-tienden, NT-gavmildheten og forvaltningsteologiens praktiske konsekvenser."
 date: 2026-09-08
-updated: 2026-09-08
+modified: 2026-09-08
 kategori: Tro og liv
 sub-kategori: Disippelskap og livsstil
 tags: [penger, rikdom, gavmildhet, tiende, forvaltning, Mammon, Jesu undervisning, rike, fattige, disippelskap]

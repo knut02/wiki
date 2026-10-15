@@ -2,7 +2,7 @@
 title: "Syndens teologi"
 description: "Synd som teologisk kategori — opprør, fremmedgjøring, manko og konkupiscens; syndefallet og dets konsekvenser; de klassiske modellene fra Augustin til reformasjonen og i dag."
 date: 2026-09-08
-updated: 2026-09-08
+modified: 2026-09-08
 kategori: Teologi
 sub-kategori: Antropologi og syndelære
 tags: [synd, syndefall, arvesynd, Augustin, Pelagius, opprør, fremmedgjøring, konkupiscens, hamartologi, menneskesyn]

@@ -2,7 +2,7 @@
 title: "Vitenskap og teologi — naturvitenskap og kristen tro"
 description: "Kreider og Svigels analyse av vitenskapens plass i teologisk metode — skapelsen som Guds åpenbaring, skillet mellom skapelse og vitenskap, konfliktmytens opprinnelse og tre modeller for forholdet."
 date: 2026-10-03
-updated: 2026-10-03
+modified: 2026-10-03
 kategori: Teologi
 sub-kategori: Teologisk metode
 tags: [vitenskap, teologi, skapelse, naturvitenskap, konflikt, komplementaritet, Kreider, Svigel, Galileo, Big Bang, evolusjon, teologisk metode]

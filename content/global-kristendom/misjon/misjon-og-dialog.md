@@ -2,7 +2,7 @@
 title: "Misjon og dialog — motsetning eller to sider av samme sak?"
 description: "Forholdet mellom misjon og religionsdialog — begrepsavklaring, Kirkemøtets posisjon, Areopagos-modellen og hvorfor de to ikke utelukker hverandre."
 date: 2026-09-22
-updated: 2026-09-22
+modified: 2026-09-22
 kategori: Global kristendom
 sub-kategori: Religionsdialog
 tags: [misjon, dialog, religionsdialog, evangelisering, vitnesbyrd, proklamasjon, Areopagos, Kirkemøtet, missio Dei, religionsteologi]

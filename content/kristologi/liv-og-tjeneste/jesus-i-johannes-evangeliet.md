@@ -5,7 +5,7 @@ date: 2025-05-26
 kategori: Kristologi
 sub-kategori: Kristologisk teologi
 tags: [Jesus i Johannes, Logos, jeg er-utsagn, Messias, Guds Sønn, egō eimi]
-updated: 2025-05-26
+modified: 2025-05-26
 sources: 3
 ---
 

@@ -2,7 +2,7 @@
 title: "Anselm og det ontologiske gudsbevis"
 description: "Anselms Proslogion (1078) — argumentet om «det som ikke kan tenkes noe større enn», fides quaerens intellectum, og Gaunilos berømte innvending."
 date: 2025-06-13
-updated: 2025-06-13
+modified: 2025-06-13
 sources: 2
 kategori: Teologi
 sub-kategori: Gudslære

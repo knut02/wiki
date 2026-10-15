@@ -2,7 +2,7 @@
 title: "Kunst og teologi — estetikk, kultur og Guds bilde"
 description: "Kreider og Svigels analyse av kunstens og kulturens plass i teologisk metode — imago Dei som kulturskapende kraft, Andy Crouchs kulturbegrep, og kunst som åpenbaring av Gud gjennom menneskers kreativitet."
 date: 2026-10-03
-updated: 2026-10-03
+modified: 2026-10-03
 kategori: Teologi
 sub-kategori: Teologisk metode
 tags: [kunst, estetikk, kultur, teologi, imago Dei, Crouch, Kreider, Svigel, kulturskapelse, åpenbaring, kreativitet, teologisk metode]

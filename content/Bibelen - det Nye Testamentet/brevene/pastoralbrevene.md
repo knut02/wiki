@@ -2,7 +2,7 @@
 title: "Pastoralbrevene — 1-2 Timoteus og Titus"
 description: "Tre brev til Paulus' medarbeidere om menighetsledelse, sund lære og trofast tjeneste i en tid med falsk undervisning."
 date: 2026-08-26
-updated: 2026-08-26
+modified: 2026-08-26
 kategori: Det nye testamentet
 sub-kategori: Paulusteologi
 studievei: [kirkehistorie, disippelskap, Bibelen]

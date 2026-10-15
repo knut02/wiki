@@ -2,7 +2,7 @@
 title: "Hva er teologi? — definisjon, metode og oppgave"
 description: "Teologibegrepets klassiske definisjoner, skillet mellom akademisk og kirkelig teologi, åpenbaring som utgangspunkt, de åtte stemmene ved bordet og Fords fire elementer i god teologi."
 date: 2025-05-10
-updated: 2026-09-29
+modified: 2026-09-29
 kategori: Teologi
 sub-kategori: Teologiens grunnspørsmål
 tags: [teologi, metateologi, Ford, Kreider, Svigel, akademisk teologi, kirkelig teologi, modernitet, åpenbaring, Bonhoeffer, ressourcement, aggiornamento, teologisk metode]

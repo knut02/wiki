@@ -2,7 +2,7 @@
 title: "Historisk relativisme og kristendommens kjerne"
 description: "Alt i den kristne troen har blitt til i løpet av historien» — John Kaufman, Vårt Land 2019. Spørsmålet er hva dette betyr for om kristendommen har noen normativ kjerne"
 date: 2025-04-18
-updated: 2026-09-07
+modified: 2026-09-07
 kategori: Teologi
 sub-kategori: Antropologi og syndelære
 tags: [historisk relativisme, kristendom, Harnack, teologihistorie, tradisjon, dogmeutvikling]

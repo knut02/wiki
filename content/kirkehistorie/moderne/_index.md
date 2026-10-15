@@ -2,7 +2,7 @@
 title: "Nyere tid (ca. 1600–)"
 description: "Pietismen, metodismen, moderniteten og moderne teologiske retninger."
 date: 2026-10-13
-updated: 2026-10-13
+modified: 2026-10-13
 ---
 
 # Nyere tid (ca. 1600–)

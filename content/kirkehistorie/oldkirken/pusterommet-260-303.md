@@ -2,7 +2,7 @@
 title: "Pusterommet under Gallienusediktet (ca. 260–303)"
 description: "Førti år uten forfølgelse — kirken vokser, teologien blomstrer og de første klostrene oppstår; perioden mellom Decius og Diokletian."
 date: 2026-09-08
-updated: 2026-09-08
+modified: 2026-09-08
 kategori: Kirkehistorie
 sub-kategori: Oldkirken
 tags: [Gallienus, pusterommet, 260-303, oldkirken, kirkevekst, Antonius, monastisisme, Eusebios]

@@ -2,7 +2,7 @@
 title: "Kirkens identitet etter kristendommen — Newbigin og Yoder"
 description: "Post-christendom-teologien hos Lesslie Newbigin og John Howard Yoder — corpus Christi vs. corpus christianum, og hva majoritetskirkene kan lære av frikirkelig ekklesiologi."
 date: 2026-09-22
-updated: 2026-09-22
+modified: 2026-09-22
 kategori: Global kristendom
 sub-kategori: Misjonal kirke
 tags: [Newbigin, Yoder, post-christendom, missional church, ekklesiologi, corpus Christi, corpus christianum, Nikolajsen, folkekirkekritikk, Christendom]

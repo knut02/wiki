@@ -2,7 +2,7 @@
 title: "Historisk og praksis"
 description: "Kvinner i bibelhistorien og kirkens praksis — GT, evangeliene, åndelig autoritet og feministisk tolkning."
 date: 2026-10-13
-updated: 2026-10-13
+modified: 2026-10-13
 ---
 
 # Historisk og praksis

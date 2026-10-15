@@ -2,7 +2,7 @@
 title: "Kirkehistorie-tidslinje 30–325"
 description: "Kronologisk oversikt over kristendommens første tre århundrer — fra Jesu korsfestelse og pinsedagen til Nikea-konsilet."
 date: 2026-09-08
-updated: 2026-09-08
+modified: 2026-09-08
 kategori: Kirkehistorie
 sub-kategori: Oversikt
 tags: [tidslinje, kirkehistorie, oldkirken, 30-325, urkirke, kristendommens tilblivelse, Nikea]

@@ -2,7 +2,7 @@
 title: "Folkekirken som misjonsmodell"
 description: "Hans Raun Iversens begrep om folkekirken som misjonsmodell — hva det betyr at folkekirken ikke er misjonens forhistorie eller etterspill, men dens primære arena."
 date: 2026-09-22
-updated: 2026-09-22
+modified: 2026-09-22
 kategori: Global kristendom
 sub-kategori: Misjonal kirke
 tags: [folkekirke, misjonsmodell, Iversen, Hegstad, Den norske kirke, brukerkirke, sekularisering, misjon, ekklesiologi]

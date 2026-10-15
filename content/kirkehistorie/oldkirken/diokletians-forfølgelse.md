@@ -2,7 +2,7 @@
 title: "Diokletians store forfølgelse (303–311)"
 description: "Den mest systematiske romerske forfølgelsen av kristne — ediktet om destruksjon av kirker og skrifter, Galerius og forfølgelsens avslutning."
 date: 2026-09-08
-updated: 2026-09-08
+modified: 2026-09-08
 kategori: Kirkehistorie
 sub-kategori: Oldkirken
 tags: [Diokletian, forfølgelse, 303, martyrium, Galerius, toleranseedikt, statsreligion, oldkirken]

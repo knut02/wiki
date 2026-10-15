@@ -2,7 +2,7 @@
 title: Kilde — Keener (2014) IVP Bible Background Commentary NT
 description: Kompilert fra raw/books/The IVP Bible Background Commen - Craig S. Keener/text/
 date: 2025-05-20
-updated: 2025-05-20
+modified: 2025-05-20
 ---
 
 # Kilde: Keener-2014-IVP-background-commentary

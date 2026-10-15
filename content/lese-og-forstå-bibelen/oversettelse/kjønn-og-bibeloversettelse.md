@@ -2,7 +2,7 @@
 title: "Kjønn og bibeloversettelse — almah, jomfru og inklusivt språk"
 description: "Kjønnsrelaterte oversettelsesspørsmål i Bibel 2011 — almah i Jes 7:14, inklusivt språk, og hvordan oversettelsesvalgene påvirker lesernes Bibelbilde."
 date: 2026-09-29
-updated: 2026-09-29
+modified: 2026-09-29
 kategori: Lese og forstå Bibelen
 sub-kategori: Bibeltekst og tekstkritikk
 tags: [kjønn, bibeloversettelse, almah, jomfru, Jes 7:14, Matt 1:23, inklusivt språk, Bibel 2011, Aschim]

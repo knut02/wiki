@@ -2,7 +2,7 @@
 title: "Kristen etikk — en innføring"
 description: "Hva er kristen etikk? Forholdet mellom lov og evangelium, dydsetikk, naturrett og situasjonsetikk — og hvordan Bibelen fungerer som etisk kilde."
 date: 2025-06-13
-updated: 2026-07-10
+modified: 2026-07-10
 sources: 4
 kategori: Teologi
 sub-kategori: Etikk

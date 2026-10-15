@@ -2,7 +2,7 @@
 title: "Fariseerne — hvem var de, og hva holdt Jesus mot dem?"
 description: "Fariseernes historiske bakgrunn, Jesu sju ve-rop i Matt 23, mønstrene Jesus angriper og hvordan de samme feilsporene viser seg i dag."
 date: 2026-09-27
-updated: 2026-09-27
+modified: 2026-09-27
 kategori: Bibelen - det Nye Testamentet
 sub-kategori: Jesu undervisning
 tags: [fariseerne, Matt 23, ve-rop, hykleri, religiøs prestasjon, dobbeltmoral, filaktérier, Jesus og fariseerne, religionskritikk]

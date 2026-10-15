@@ -2,7 +2,7 @@
 title: "Åndelige disipliner — trening for Guds rike"
 description: "Dallas Willards teologi om åndelige disipliner — skillet mellom disipliner og direkte anstrengelse, listen over avholdenhetens og engasjementets disipliner, og det enkle åkets hemmelighet."
 date: 2026-09-28
-updated: 2026-09-28
+modified: 2026-09-28
 kategori: Tro og liv
 sub-kategori: Disippelskap og formasjon
 tags: [åndelige disipliner, Willard, solitude, stillhet, faste, bønn, tjeneste, bekjennelse, disippelskap, åndelig formasjon, det enkle åk]

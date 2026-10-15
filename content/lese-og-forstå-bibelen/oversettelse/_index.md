@@ -2,7 +2,7 @@
 title: "Oversettelse"
 description: "Bibeloversettelse — strategi, ideologi, kjønn og gudsnavnet."
 date: 2026-10-13
-updated: 2026-10-13
+modified: 2026-10-13
 ---
 
 # Oversettelse

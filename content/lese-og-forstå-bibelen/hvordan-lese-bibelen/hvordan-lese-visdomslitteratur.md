@@ -2,7 +2,7 @@
 title: "Hvordan lese visdomslitteratur"
 description: "Leseguide for visdomslitteratur — Ordspråkene, Job, Predikeren og Salmenes bok: sjangertrekk, teologiske spenninger og hva slags sannheter disse bøkene kommuniserer."
 date: 2026-09-27
-updated: 2026-09-27
+modified: 2026-09-27
 kategori: Lese og forstå Bibelen
 sub-kategori: Sjangre
 tags: [visdomslitteratur, Ordspråkene, Job, Predikeren, Salmene, klage, visdom, teodice, skapelsesteologi, poetisk litteratur]

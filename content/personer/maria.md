@@ -5,7 +5,7 @@ date: 2025-04-18
 kategori: Personer
 sub-kategori: NT og oldkirke-personer
 tags: [Maria, Jesu mor, Magnificat, bebudelsen, theotokos, jomfru, Luk 1]
-updated: 2025-05-18
+modified: 2025-05-18
 ---
 
 > «Se, jeg er Herrens tjenerinne. La det skje meg slik du har sagt.» — Luk 1:38

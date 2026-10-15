@@ -5,7 +5,7 @@ date: 2025-05-24
 kategori: Verdensreligioner og livssyn
 sub-kategori: Religionsteori
 tags: [religion i praksis, Horsfjord, mangfold, triviell religion, levd religion]
-updated: 2025-05-24
+modified: 2025-05-24
 ---
 
 # Religion i praksis — å leve med religiøst mangfold

@@ -2,7 +2,7 @@
 title: "Ordspråkene"
 description: "Visdomslitteraturens praktiske hjerte — Ordspråkene om frykt for Herren, den personifiserte Visdommen, hverdagens valg og det gode livets kjennetegn."
 date: 2026-08-26
-updated: 2026-08-26
+modified: 2026-08-26
 kategori: Det gamle testamentet
 sub-kategori: Poetiske og visdomsbøker
 studievei: [gt, disippelskap, Bibelen]

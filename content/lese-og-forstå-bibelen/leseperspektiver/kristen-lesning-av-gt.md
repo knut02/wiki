@@ -2,7 +2,7 @@
 title: "Kristen lesning av GT"
 description: "Typologi, profetoppfyllelse og tematisk kontinuitet — en praktisk guide til hvordan kristne leser Det gamle testamentet i lys av Kristus."
 date: 2026-09-08
-updated: 2026-09-08
+modified: 2026-09-08
 kategori: Lese og forstå Bibelen
 sub-kategori: Bibelteologi
 tags: [kristen GT-lesning, typologi, profetoppfyllelse, allegorisk tolkning, frelseshistorie, GT og NT, bibeltolkning]

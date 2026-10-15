@@ -2,7 +2,7 @@
 title: "Jerusalems fall 70 e.Kr."
 description: "Den jødisk-romerske krigen og templets ødeleggelse i år 70 — historisk bakgrunn, hendelsesforløp og konsekvenser for jødedom og kristendom."
 date: 2026-10-14
-updated: 2026-10-14
+modified: 2026-10-14
 kategori: Kirkehistorie
 sub-kategori: Oldkirken
 tags: [Jerusalem, tempelet, år-70, Josefus, Titus, jødisk-romersk-krig, etterapostolsk, jødedom, tidlig-kristendom]

@@ -2,7 +2,7 @@
 title: "Kvinner og Bibelen"
 description: "Kvinner i bibelsk og kirkelig sammenheng — skapelsesteologi, kvinner i bibelhistorien, åndelig autoritet og feministisk hermeneutikk."
 date: 2026-07-10
-updated: 2026-10-13
+modified: 2026-10-13
 ---
 
 # Kvinner og Bibelen

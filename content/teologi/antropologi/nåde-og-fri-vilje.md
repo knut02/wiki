@@ -2,7 +2,7 @@
 title: "Nåde og fri vilje"
 description: "En av teologihistoriens varigste debatter — fra Augustin vs. Pelagius via Luther vs. Erasmus til arminianisme vs. kalvinisme; hva sier Skriften og hva har kirken konkludert?"
 date: 2026-09-08
-updated: 2026-09-08
+modified: 2026-09-08
 kategori: Teologi
 sub-kategori: Frelseslære og forsoning
 tags: [nåde, fri vilje, Augustin, Pelagius, Luther, Erasmus, arminianisme, kalvinisme, predestinasjon, syndefall, monergisme, synergisme]

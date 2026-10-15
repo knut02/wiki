@@ -2,7 +2,7 @@
 title: "Hellige skrifter — kjennetegn og kanon"
 description: "Braarvig og Justnes' innføring i hellige skrifters kjennetegn: kanon, åpenbaring, kultisk funksjon og forholdet mellom innenfra- og utenfra-perspektiver i de fem verdensreligionene."
 date: 2025-05-04
-updated: 2026-09-29
+modified: 2026-09-29
 kategori: Verdensreligioner og livssyn
 sub-kategori: Religionsteori
 tags: [hellige skrifter, kanon, åpenbaring, kultisk funksjon, verdensreligioner, Braarvig]

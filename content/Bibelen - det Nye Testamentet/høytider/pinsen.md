@@ -2,7 +2,7 @@
 title: "Pinsen — Apg 2"
 description: "Pinsedagen er NT's store overgangsbegivenhet — Ånden utgyttes, folkemengden forsto på sine egne språk, og kirken ble til. En gjennomgang av symbolene, Peters tale og teologien."
 date: 2026-08-26
-updated: 2026-08-26
+modified: 2026-08-26
 kategori: Det nye testamentet
 sub-kategori: Sentrale tekster
 studievei: [evangeliene, kirkehistorie, gt]

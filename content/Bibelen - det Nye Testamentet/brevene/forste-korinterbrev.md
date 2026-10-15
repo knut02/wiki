@@ -2,7 +2,7 @@
 title: "Første Korinterbrev"
 description: "Paulus' pastoral krisehåndtering av en splittet menighet — korsets dårskap mot verdens visdom, åndsgavene, kjærlighetens vei, og oppstandelsens teologi."
 date: 2026-08-25
-updated: 2026-08-25
+modified: 2026-08-25
 kategori: Det nye testamentet
 sub-kategori: Paulusteologi
 studievei: [disippelskap, kirkehistorie, Bibelen]

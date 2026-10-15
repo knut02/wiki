@@ -2,7 +2,7 @@
 title: "Personer"
 description: "Sentrale bibelske og historiske skikkelser — fra GT-patriarker og profeter til apostler, kirkefedre og martyrer. Artiklene kombinerer biografisk informasjon med teologisk analyse av personenes rolle i Bibelens fortelling og kirkens utvikling."
 date: 2026-07-10
-updated: 2026-07-10
+modified: 2026-07-10
 ---
 
 # Personer

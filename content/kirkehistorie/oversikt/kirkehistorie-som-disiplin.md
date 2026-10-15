@@ -2,7 +2,7 @@
 title: "Kirkehistorie som disiplin"
 description: "Euan Camerons innføring i kirkehistorie som fag — mangfold og kontinuitet, fare for å misbruke historien, skifting av prioriteringer gjennom tidene, og hva historisk bevissthet gjør med troen."
 date: 2026-09-28
-updated: 2026-09-28
+modified: 2026-09-28
 kategori: Kirkehistorie
 sub-kategori: Metodologi
 tags: [kirkehistorie, historisk metode, Cameron, tradisjon, mangfold, kontinuitet, essensiell kristendom, historiografi, lekmann og elite]

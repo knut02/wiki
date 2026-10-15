@@ -5,7 +5,7 @@ date: 2025-05-10
 kategori: Tro og liv
 sub-kategori: Grunnleggende trospørsmål
 tags: [Guds kjærlighet, agape, inkarnasjon, kors, Joh 3:16, 1 Joh 4, nestekjærlighet]
-updated: 2026-07-10
+modified: 2026-07-10
 sources: 5
 ---
 

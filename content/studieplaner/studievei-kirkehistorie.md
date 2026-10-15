@@ -2,7 +2,7 @@
 title: "Studievei: Kirkehistorie"
 description: "En veiledet lesesti gjennom kristen kirkehistorie fra de første menighetene til moderne tid — med anbefalte artikler per periode og tematiske fordypninger."
 date: 2026-09-08
-updated: 2026-09-08
+modified: 2026-09-08
 kategori: Kirkehistorie
 sub-kategori: Oversikt og navigasjon
 tags: [studievei, kirkehistorie, oldkirken, middelalder, reformasjon, modernitet, navigasjon]

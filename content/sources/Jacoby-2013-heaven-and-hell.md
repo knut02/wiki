@@ -2,7 +2,7 @@
 title: Kilde — Jacoby (2013) What's the Truth About Heaven and Hell
 description: Kompilert fra raw/books/What's the Truth About Heaven a - Douglas A. Jacoby/text/
 date: 2025-05-22
-updated: 2025-05-22
+modified: 2025-05-22
 ---
 
 # Kilde: Jacoby-2013-heaven-and-hell

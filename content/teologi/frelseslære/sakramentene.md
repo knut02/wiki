@@ -2,7 +2,7 @@
 title: "Sakramentene"
 description: "Hva er et sakrament — to eller syv; tegn og virkelighet; de teologiske modellene for dåp og nattverd fra Augustin via reformasjonen til i dag."
 date: 2026-09-08
-updated: 2026-09-08
+modified: 2026-09-08
 kategori: Teologi
 sub-kategori: Sakramentslære
 tags: [sakramenter, dåp, nattverd, Luther, Calvin, Zwingli, Trent, tegn, nådemidler, ex opere operato]

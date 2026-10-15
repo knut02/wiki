@@ -2,7 +2,7 @@
 title: "Ortodoks kristendom"
 description: "Den østlige kristne tradisjonen — teologi, spiritualitet og struktur; theosis som frelsens mål, ikonteologi, hesychasme og ortodoksiens særpreg i møte med vest."
 date: 2026-09-08
-updated: 2026-09-08
+modified: 2026-09-08
 kategori: Kirkehistorie
 sub-kategori: Middelalderen
 tags: [ortodoks, østkirke, Byzantium, theosis, ikonteologi, hesychasme, Palamas, apofatisk, tradisjon, synodalitet]

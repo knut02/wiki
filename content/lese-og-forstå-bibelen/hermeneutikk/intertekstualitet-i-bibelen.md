@@ -2,7 +2,7 @@
 title: "Intertekstualitet og tekstsamspill i Bibelen"
 description: "Intertekstualitet som biblisk fenomen — sitat, allusjon, profeti og oppfyllelse, Septuaginta som bro mellom testamentene, og hvordan Bibel 2011 gjør tekstsamspillene synlige."
 date: 2026-09-29
-updated: 2026-09-29
+modified: 2026-09-29
 kategori: Lese og forstå Bibelen
 sub-kategori: Bibeltolkning
 tags: [intertekstualitet, tekstsamspill, profeti, oppfyllelse, Septuaginta, Matteus, sitat, allusjon, GT i NT, Bibel 2011, Aschim]

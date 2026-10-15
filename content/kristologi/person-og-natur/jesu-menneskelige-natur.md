@@ -2,7 +2,7 @@
 title: "Jesu menneskelige natur"
 description: "Inkarnasjonen fra undersiden — hva det betyr at Jesus var sant menneske: hans begrensninger, vekst, følelser, fristelser og menneskelige erfaring i lys av Kalkedon og Bibelen."
 date: 2026-09-08
-updated: 2026-09-08
+modified: 2026-09-08
 kategori: Kristologi
 sub-kategori: Jesu liv og tjeneste
 tags: [inkarnasjon, menneskelig natur, Kalkedon, kenosis, Jesu begrensninger, Jesu vekst, fristelse, Getsemane, sant menneske, sant Gud]

@@ -2,7 +2,7 @@
 title: "Forkynneren (Qohelet)"
 description: "GT's mest radikale visdomsbok — Qohelet stirrer rett inn i livets tomhet, tidens gang og Guds ufattelighet, og ender med en enkel konklusjon: frykt Gud og hold hans bud."
 date: 2026-08-26
-updated: 2026-08-26
+modified: 2026-08-26
 kategori: Det gamle testamentet
 sub-kategori: Poetiske og visdomsbøker
 studievei: [gt, spiritualitet, Bibelen]

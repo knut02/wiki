@@ -2,7 +2,7 @@
 title: "Augustins Bekjennelser"
 description: "Gjennomgang av Augustins *Confessiones* (ca. 397–400) — form, innhold og teologiske motiver i det klassiske selvbiografiske bønneverk."
 date: 2026-10-14
-updated: 2026-10-14
+modified: 2026-10-14
 kategori: Kirkehistorie
 sub-kategori: Oldkirken — Store teologer
 tags: [Augustin, Bekjennelsene, Confessiones, bønn, arvesynd, omvendelse, nåde, Monnica, patristikk]

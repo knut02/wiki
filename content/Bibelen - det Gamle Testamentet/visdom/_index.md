@@ -2,7 +2,7 @@
 title: "Visdom"
 description: "GT-visdomslitteraturen — salmene, Job, Ordspråkene, Forkynneren og klagens teologi."
 date: 2026-10-11
-updated: 2026-10-11
+modified: 2026-10-11
 ---
 
 Visdomslitteraturen i GT stiller de store spørsmålene: Hva er et godt liv? Hvorfor lider de rettferdige? Hva er meningen med tilværelsen? Den tenker ikke primært i pakt og historie, men i skapelsesorden, erfaring og klokskap — og gir Israels tro et universelt menneskelig ansikt.

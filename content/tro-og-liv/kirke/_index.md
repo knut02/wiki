@@ -2,7 +2,7 @@
 title: "Kirke"
 description: "Kirken som fellesskap — dåp, nattverd, apologetikk og kongelig presteskap."
 date: 2026-10-13
-updated: 2026-10-13
+modified: 2026-10-13
 ---
 
 # Kirke

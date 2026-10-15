@@ -2,7 +2,7 @@
 title: "Bibellesning og preken i oldkirken"
 description: "Hvordan de tidligkristne leste og forkynte Skriften — fra eukaristimåltidet som primærramme via synagogerøttene til Justins lesegudstjeneste og Augustins prekenkultur i Hippo."
 date: 2026-09-28
-updated: 2026-09-28
+modified: 2026-09-28
 kategori: Kirkehistorie
 sub-kategori: Oldkirkens gudstjeneste
 tags: [bibellesning, preken, oldkirken, synagoge, Justin Martyr, Origenes, Augustin, Chrysostomos, homilie, kanon, leksjonarium, McGowan]

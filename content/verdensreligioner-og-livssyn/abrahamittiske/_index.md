@@ -2,7 +2,7 @@
 title: "Abrahamittiske religioner"
 description: "Jødedom, islam og deres møte med kristendommen — tro, praksis, hellige skrifter og felles røtter i Abraham."
 date: 2026-10-13
-updated: 2026-10-13
+modified: 2026-10-13
 ---
 
 # Abrahamittiske religioner

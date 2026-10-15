@@ -5,7 +5,7 @@ date: 2025-06-13
 kategori: Tro og liv
 sub-kategori: Grunnleggende trospørsmål
 tags: [synd, hamartia, brudd, vridning, skyld, makt, Rom 6, Rom 7]
-updated: 2025-06-13
+modified: 2025-06-13
 sources: 3
 ---
 

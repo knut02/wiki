@@ -2,7 +2,7 @@
 title: "Filemonsbrevetemen"
 description: "NT's korteste brev — et mesterstykke i retorisk overtalelse der Paulus ber slaveeieren Filemon ta imot den rømte slaven Onesimus som en bror."
 date: 2026-08-26
-updated: 2026-08-26
+modified: 2026-08-26
 kategori: Det nye testamentet
 sub-kategori: Paulusteologi
 studievei: [disippelskap, kirkehistorie, Bibelen]

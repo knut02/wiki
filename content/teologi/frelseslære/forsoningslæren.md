@@ -2,7 +2,7 @@
 title: "Forsoningslæren og frelse — modeller og bredde"
 description: "Frelsens mange dimensjoner og forsoningens fire klassiske modeller — offer, Christus Victor, juridisk forsoning og eksemplarisme — samt Fords frelsesintensitetenes reiser og inter-religiøs dialog."
 date: 2025-05-14
-updated: 2026-09-29
+modified: 2026-09-29
 kategori: Teologi
 sub-kategori: Soteriologi
 tags: [forsoning, frelse, soteriologi, Christus Victor, offer, juridisk forsoning, eksemplarisme, Anselm, Abelard, Aulen, Aulén, Ford, rettferdiggjørelse, frigjøringsteologi, theosis]

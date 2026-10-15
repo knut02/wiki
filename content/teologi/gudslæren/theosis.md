@@ -2,7 +2,7 @@
 title: "Theosis — guddommeliggjørelse"
 description: "Den østlige kristendommens frelsesforståelse: Frelsen er ikke primært juridisk frifinnelse, men en reell forvandling — menneskets gradvis voksende deltakelse i Guds natur."
 date: 2025-05-05
-updated: 2025-06-13
+modified: 2025-06-13
 kilder: 4
 kategori: Teologi
 sub-kategori: Gudslære

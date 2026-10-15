@@ -2,7 +2,7 @@
 title: "Ondskapsproblemet og teodice"
 description: "Teodice-spørsmålet — tre ondskapstyper, de klassiske teodiceargumentene og deres grenser, det doble mysterium, ondskap som avgudsdyrkelse, djevelen, og kristendommens svar i Kristus."
 date: 2025-05-14
-updated: 2026-09-29
+modified: 2026-09-29
 kategori: Teologi
 sub-kategori: Teodice
 tags: [teodice, ondskap, ondskapsproblemet, djevelen, Ford, lidelse, avgudsdyrkelse, Kristus, mysterium, Holocaust, Augustin, Irenaeus, fri vilje, satan]

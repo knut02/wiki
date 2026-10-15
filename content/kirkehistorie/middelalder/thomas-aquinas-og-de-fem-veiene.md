@@ -2,7 +2,7 @@
 title: "Thomas Aquinas og de fem veiene"
 description: "Thomas Aquinas som middelalderteologiens høydepunkt — Summa Theologiae, forholdet mellom tro og fornuft, og de fem veiene til Guds eksistens analysert."
 date: 2026-09-08
-updated: 2026-09-08
+modified: 2026-09-08
 kategori: Kirkehistorie
 sub-kategori: Middelalderen
 tags: [Aquinas, Thomas, de fem veiene, Summa Theologiae, tro og fornuft, kosmologisk argument, skolastikk, middelalderteologi, aristotelisme]

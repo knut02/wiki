@@ -5,7 +5,7 @@ date: 2025-04-18
 kategori: Global kristendom
 sub-kategori: Kirke og samfunn
 tags: [rasisme, kirke, hvit privilegium, solidaritet, Amos, rettferdighet, profetisk]
-updated: 2025-05-18
+modified: 2025-05-18
 kilder: 2
 ---
 

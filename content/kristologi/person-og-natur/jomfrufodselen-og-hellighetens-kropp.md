@@ -2,7 +2,7 @@
 title: "Jomfrufødselen og hellighetens kropp"
 description: "Amy Peelers analyse av Marias kropp i lys av jødiske renhetslov — hvordan GT-renhetslovene kontekstualiserer Marias svangerskap, og hva det betyr at Gud valgte å komme til verden gjennom en kvinnes kropp."
 date: 2026-09-29
-updated: 2026-09-29
+modified: 2026-09-29
 kategori: Kristologi
 sub-kategori: Inkarnasjon og Maria
 tags: [jomfrufødselen, Maria, renhetslov, GT, kropp, hellighet, Peeler, inkarnasjon, uren, hellig, GT-bakgrunn, Levitikus]

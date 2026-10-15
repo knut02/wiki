@@ -2,7 +2,7 @@
 title: "Kirkehistorie — tidslinje 750–2000"
 description: "Kronologisk oversikt over kristendommens utvikling fra karolingisk renessanse til pinsebevegelsen — middelalder, reformasjon, modernitet og global ekspansjon."
 date: 2026-10-14
-updated: 2026-10-14
+modified: 2026-10-14
 kategori: Tidslinjer
 sub-kategori: Bibelske og historiske tidslinjer
 tags: [kirkehistorie, tidslinje, middelalder, reformasjonen, modernitet, 750-2000]

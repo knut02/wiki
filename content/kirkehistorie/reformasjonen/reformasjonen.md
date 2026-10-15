@@ -2,7 +2,7 @@
 title: "Reformasjonen — historisk oversikt"
 description: "Reformasjonen på 1500-tallet historisk belyst — forutsetningene, Erasmus, Luther, Zwingli, Calvin, den radikale reformasjonen, Tridentinerkonsilet og Camerons analyse av hva reformasjonen egentlig var."
 date: 2025-05-22
-updated: 2026-09-29
+modified: 2026-09-29
 kategori: Kirkehistorie
 sub-kategori: Reformasjonstiden
 tags: [reformasjonen, Luther, Calvin, Zwingli, Erasmus, Tridentinerkonsilet, sola scriptura, sola fide, Cameron, McGrath, 1500-tallet, radikal reformasjon]

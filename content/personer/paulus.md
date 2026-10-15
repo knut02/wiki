@@ -5,7 +5,7 @@ date: 2025-05-03
 kategori: Personer
 sub-kategori: NT og oldkirke-personer
 tags: [Paulus, apostel, omvendelse, misjon, brevene, rettferdiggjørelse, Gal 2:20]
-updated: 2025-05-15
+modified: 2025-05-15
 kilder: 4
 ---
 

@@ -2,7 +2,7 @@
 title: "Hvordan lese lovtekster (Torah)"
 description: "Leseguide for lovtekstene i 2–5 Mos — sjangertrekk, den tredoble kategoriseringen, hva loven betyr for kristne, og hvordan Paulus og Jesus brukte den."
 date: 2026-09-28
-updated: 2026-09-28
+modified: 2026-09-28
 kategori: Lese og forstå Bibelen
 sub-kategori: Sjangre
 tags: [lov, Torah, 3 Mosebok, 5 Mosebok, seremoniellov, sivilllov, moralllov, lovens hensikt, Jesus og loven, Paulus og loven, ny pakt]

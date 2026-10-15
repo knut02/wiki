@@ -5,7 +5,7 @@ date: 2025-05-15
 kategori: Det gamle testamentet
 sub-kategori: Profetene
 tags: [profeter, GT, Jesaja, Jeremias, Esekiel, Amos, skriftprofeter, nabi]
-updated: 2026-07-10
+modified: 2026-07-10
 kilder: 2
 ---
 

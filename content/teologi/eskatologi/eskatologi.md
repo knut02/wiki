@@ -2,7 +2,7 @@
 title: "Eskatologi — de siste ting"
 description: "Bibelsk og teologisk innføring i eskatologi — GT-eskatologi, Jesu forkynnelse om Guds rike, mellomtilstanden, Paulus' oppstandelsesteologi, Wrights korrigering av folkelig kristendom, og eskatologiens konsekvenser for nåtidig etikk og arbeid."
 date: 2025-05-13
-updated: 2026-09-29
+modified: 2026-09-29
 kategori: Teologi
 sub-kategori: Eskatologi
 tags: [eskatologi, oppstandelse, Guds rike, ny skapelse, Wright, mellomtilstand, Åpenbaringen, dom, helvete, inaugurert eskatologi, etikk, Paulus]

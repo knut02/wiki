@@ -5,7 +5,7 @@ date: 2025-04-18
 kategori: Det nye testamentet
 sub-kategori: Oversikt
 tags: [NT, oversikt, kanon, evangeliene, Paulus, Åpenbaringen, gresk, 27 skrifter]
-updated: 2025-07-09
+modified: 2025-07-09
 kilder: 2
 ---
 

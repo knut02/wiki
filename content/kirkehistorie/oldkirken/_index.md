@@ -2,7 +2,7 @@
 title: "Oldkirken (ca. 30–500)"
 description: "Kirkens første fem århundrer — apostoliske fedre, martyriet, konsilet i Nikea, store teologer og gudstjenestens utvikling."
 date: 2026-10-13
-updated: 2026-10-13
+modified: 2026-10-13
 ---
 
 # Oldkirken (ca. 30–500)

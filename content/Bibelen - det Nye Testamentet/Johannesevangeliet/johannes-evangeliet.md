@@ -2,7 +2,7 @@
 title: "Johannesevangeliet — innføring og teologi"
 description: "Burges innføring i Johannesevangeliet — forfatterskap, datering, litterær struktur, teologiske hoveddimensjoner (Logos, «Jeg er»-utsagnene, Paraklet), og evangeliets doble formål."
 date: 2026-09-29
-updated: 2026-09-29
+modified: 2026-09-29
 kategori: Det nye testamente
 sub-kategori: Evangeliene
 tags: [Johannesevangeliet, Burge, Logos, Paraklet, Den Hellige Ånd, kristologi, inkarnasjon, dualisme, «Jeg er»-utsagn, Elskede Disippel, Tegn-bok, Herlighets-bok, Efesus]

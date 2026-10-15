@@ -2,7 +2,7 @@
 title: "Gudslæren — Guds egenskaper"
 description: "Klassisk gudslære: Guds egenskaper — allmakt, allvitenhet, allestedsnærvær, tidløshet og godhet; apofatisk og katafatisk teologi; Guds immanens og transcendens."
 date: 2026-09-08
-updated: 2026-09-08
+modified: 2026-09-08
 kategori: Teologi
 sub-kategori: Gudslære
 tags: [Gud, gudslære, egenskaper, allmakt, allvitenhet, allestedsnærvær, tidløshet, godhet, apofatisk, transcendens, immanens, de deo uno]

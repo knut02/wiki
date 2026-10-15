@@ -2,7 +2,7 @@
 title: "Etisk realisme — har etiske normer sannhetsverdi?"
 description: "Debatten om etiske normer kan være objektivt sanne — realisme vs. non-realisme, naturalisme, non-naturalisme og supernaturalisme, med Evtyfron-dilemmaet."
 date: 2026-09-27
-updated: 2026-09-27
+modified: 2026-09-27
 kategori: Teologi
 sub-kategori: Filosofi og teologi
 tags: [etikk, etisk realisme, naturalisme, non-naturalisme, supernaturalisme, Evtyfron, Moore, Hume, Platon, guddommelig befalingsetikk]

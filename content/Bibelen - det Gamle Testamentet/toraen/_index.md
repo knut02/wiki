@@ -2,7 +2,7 @@
 title: "Toraen"
 description: "Toraen — de fem Mosebøkene: skapelse, pakten, exodus og loven."
 date: 2026-10-11
-updated: 2026-10-11
+modified: 2026-10-11
 ---
 
 Toraen («undervisning» eller «lov») er de fem Mosebøkene — Bibelens fundament. Her finner vi skapelsesfortellingene, Abrahams kall, exodus fra Egypt, Sinai-pakten og de ti bud. Toraen er ikke primært et lovverk, men fortellingen om Guds pakt med sitt folk.

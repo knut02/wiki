@@ -2,7 +2,7 @@
 title: "Kirken og islam"
 description: "Det teologiske forholdet mellom kristendom og islam — tilber vi samme Gud, allmenn åpenbaring, dialog og proklamasjon, felleserklæringen om trosfrihet og om islamsk ekstremisme."
 date: 2025-05-12
-updated: 2026-09-22
+modified: 2026-09-22
 kategori: Global kristendom
 sub-kategori: Religionsdialog
 tags: [islam, muslimer, religionsdialog, allmenn åpenbaring, Hegstad, kirken og islam, trosfrihet, konvertering, A Common Word]

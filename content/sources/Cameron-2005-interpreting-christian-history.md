@@ -2,7 +2,7 @@
 title: Kilde — Cameron (2005) Interpreting Christian History
 description: Kompilert fra raw/books/Interpreting Christian History_ - Euan Cameron/
 date: 2025-05-22
-updated: 2025-05-22
+modified: 2025-05-22
 ---
 
 # Kilde: Cameron-2005-interpreting-christian-history

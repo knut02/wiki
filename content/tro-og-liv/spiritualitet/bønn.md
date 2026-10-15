@@ -2,7 +2,7 @@
 title: "Bønn"
 description: "Bønn som kristen praksis og teologi — former, Fadervår, Jesu undervisning, bønn som livsholdning, kontemplativ stillhet og bønnens teologi."
 date: 2025-04-18
-updated: 2026-09-08
+modified: 2026-09-08
 kategori: Tro og liv
 sub-kategori: Bønn og spiritualitet
 tags: [bønn, klage, forbønn, Fadervår, bønn og Guds suverenitet, kontemplasjon, stillhet, Ånden og bønn]

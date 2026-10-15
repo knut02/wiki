@@ -2,7 +2,7 @@
 title: "Bibeloversettelse — metode, ideologi og norsk historie"
 description: "Oversettelse er alltid tolkning — om de to grunnleggende oversettelsesstrategiene, norsk bibeloversettelseshistorie fra 1904 til Bibel 2011, konkrete GT-eksempler og Beckmanns analyse av kristologisk ideologi i norske oversettelser."
 date: 2025-05-15
-updated: 2026-09-29
+modified: 2026-09-29
 kategori: Lese og forstå Bibelen
 sub-kategori: Innføring
 tags: [bibeloversettelse, ekvivalens, Bibel 2011, norsk oversettelse, oversettelsesmetode, idiomatisk, konkordant, hjemliggjøring, fremmedgjøring, GT-eksempler]

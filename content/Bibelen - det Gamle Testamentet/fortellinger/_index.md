@@ -2,7 +2,7 @@
 title: "Fortellinger"
 description: "GT-fortellinger — Genesis, Abraham, Kain og Rut."
 date: 2026-10-11
-updated: 2026-10-11
+modified: 2026-10-11
 ---
 
 GT er i stor grad en samling fortellinger — ikke mytologi i nedsettende forstand, men teologisk fremstilling av historiske hendelser. Fortellingene presenterer mennesker i møte med Gud: kall, fall, troskap, svik og gjenopprettelse.

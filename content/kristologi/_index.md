@@ -2,7 +2,7 @@
 title: "Kristologi"
 description: "Hvem er Jesus Kristus — og hva sier kirkens bekjennelse om ham? Mappen spenner fra historisk Jesus-forskning og evangelienes portrett til inkarnasjonsteologien og oppstandelsen."
 date: 2026-07-10
-updated: 2026-10-13
+modified: 2026-10-13
 ---
 
 # Kristologi

@@ -5,7 +5,7 @@ date: 2025-05-04
 kategori: Tro og liv
 sub-kategori: Spiritualitet og praksis
 tags: [gudskunnskap, danning, theosis, Klemens av Alexandria, Gregor av Nyssa, vekst]
-updated: 2026-07-10
+modified: 2026-07-10
 kilder: 1
 ---
 

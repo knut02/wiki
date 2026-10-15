@@ -2,7 +2,7 @@
 title: "Global kristendom — oversikt"
 description: "Kristendommens globale utbredelse, det store tyngdepunktsskiftet fra Nord til Sør, pinsekristendommens vekst og globale kirkealliancer."
 date: 2025-05-02
-updated: 2026-09-22
+modified: 2026-09-22
 kategori: Global kristendom
 sub-kategori: Oversikt
 tags: [global kristendom, tyngdepunktsskifte, pinsebevegelse, globalt sør, Kirkenes Verdensråd, Lausanne, World Evangelical Alliance, Afrika, Asia, Latin-Amerika]

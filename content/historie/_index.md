@@ -2,7 +2,7 @@
 title: "Historie"
 description: "Den brede historiske bakgrunnen for Bibelens og kirkens verden — menneskets opprinnelse, de første sivilisasjonene i Mesopotamia og overgangen fra antikken til middelalderen. Færre artikler enn i de andre mappene; fungerer som orienterende bakgrunnsartikler."
 date: 2026-07-10
-updated: 2026-07-10
+modified: 2026-07-10
 ---
 
 # Historie

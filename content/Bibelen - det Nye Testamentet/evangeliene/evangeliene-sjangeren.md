@@ -2,7 +2,7 @@
 title: "Evangeliene — sjanger, tilblivelse og særpreg"
 description: "Innføring i de fire evangeliene — hva euangelion betyr, evangeliene som antikk biografi, det synoptiske problemet, de fire evangelistenes særpreg, og forholdet mellom evangeliene og historisk Jesus."
 date: 2025-04-18
-updated: 2026-09-29
+modified: 2026-09-29
 kategori: Det nye testamentet
 sub-kategori: Evangeliene
 tags: [evangeliene, euangelion, sjanger, synoptiske problem, Markus, Matteus, Lukas, Johannes, historisk Jesus, kanonisering]

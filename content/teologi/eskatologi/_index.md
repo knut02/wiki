@@ -2,7 +2,7 @@
 title: "Eskatologi"
 description: "De siste ting — oppstandelse, himmel, helvete, dom og inaugurert eskatologi."
 date: 2026-10-13
-updated: 2026-10-13
+modified: 2026-10-13
 ---
 
 # Eskatologi

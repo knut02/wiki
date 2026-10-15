@@ -2,7 +2,7 @@
 title: "Luthers teologi — en fordypning"
 description: "Luthers teologiske tenkning i dybden — rettferdiggjørelse, korsets teologi, sola scriptura, loven og evangeliet, nattverden, toregimentslæren og Luthers bibelteologi."
 date: 2025-05-22
-updated: 2026-09-29
+modified: 2026-09-29
 kategori: Kirkehistorie
 sub-kategori: Reformasjonstiden
 tags: [Luther, rettferdiggjørelse, korsets teologi, sola scriptura, sola fide, loven og evangeliet, nattverd, toregimentslæren, allmenne prestedømme, 95 tesene]

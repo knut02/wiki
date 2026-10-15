@@ -2,7 +2,7 @@
 title: "Kain"
 description: "Den første morderen — fortellingen om Kain og Abel i 1 Mos 4, dens teologiske tyngde, og hvordan NT og oldkirken leste den som et bilde på misunnelse, omvendelsens mulighet og martyriets blod."
 date: 2026-08-26
-updated: 2026-08-26
+modified: 2026-08-26
 kategori: Det gamle testamentet
 sub-kategori: Skapelse og tidlighistorie
 studievei: [gt, Bibelen]

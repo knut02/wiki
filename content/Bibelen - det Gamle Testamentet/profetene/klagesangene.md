@@ -2,7 +2,7 @@
 title: "Klagesangene — innføring"
 description: "Innføring i Klagesangene — fem alfabetdikt, historisk kontekst etter Jerusalems fall 587 f.Kr., de to stemmene i sangene, forholdet til deuteronomistisk teologi og Brueggemanns desorientering/nyorientering-modell."
 date: 2026-09-29
-updated: 2026-09-29
+modified: 2026-09-29
 kategori: Bibelen - det Gamle Testamentet
 sub-kategori: Poetiske bøker
 tags: [Klagesangene, Jerusalem, eksil, Babylon, 587 f.Kr., alfabetdikt, klage, datter Sion, deuteronomistisk teologi, Brueggemann, Hasselbalch]

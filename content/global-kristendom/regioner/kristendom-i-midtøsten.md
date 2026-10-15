@@ -2,7 +2,7 @@
 title: "Kristendom i Midtøsten"
 description: "Kristendommens stilling i Midtøsten — kristent eksodus, religiøs pluralisme, koptere, maronitter, det hellige land og kirkens situasjon under press."
 date: 2026-09-22
-updated: 2026-09-22
+modified: 2026-09-22
 kategori: Global kristendom
 sub-kategori: Global kristendom
 tags: [Midtøsten, koptere, maronitter, Syria, Egypt, Libanon, Palestina, Israel, kristent eksodus, hellig land, assyrisk kirke, minoritet]

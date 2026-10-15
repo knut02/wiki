@@ -5,7 +5,7 @@ date: 2025-06-13
 kategori: Tro og liv
 sub-kategori: Grunnleggende trospørsmål
 tags: [frelse, rettferdiggjørelse, forsoning, gjenløsning, fortid nåtid fremtid, NT]
-updated: 2025-06-13
+modified: 2025-06-13
 sources: 4
 ---
 

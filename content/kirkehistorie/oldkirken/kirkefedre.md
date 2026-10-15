@@ -2,7 +2,7 @@
 title: "Kirkefedre — navigasjonsoppslag"
 description: "Oversikt og navigasjonsside for kirkefadrene fra ca. 90 til 700 e.Kr. — med lenker til dybdeartikler om de viktigste skikkelsene og periodene."
 date: 2025-04-18
-updated: 2026-09-07
+modified: 2026-09-07
 kategori: Kirkehistorie
 sub-kategori: Oldkirken — Store teologer
 tags: [kirkefedre, patristikk, oldkirken, Irenaeus, Tertullian, Origen, Cyprian, Augustin, Chrysostomos, Hieronymus, apologeter]

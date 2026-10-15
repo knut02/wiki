@@ -2,7 +2,7 @@
 title: "Høytider"
 description: "Jødiske og kristne høytider i NT — pinsen, påsken og de store feiringene som former NT-fortellingen."
 date: 2026-10-11
-updated: 2026-10-11
+modified: 2026-10-11
 ---
 
 De jødiske høytidene er ikke kulisse i NT — de er teologisk grunnmur. Jesus dør under påsken, Ånden utgytes under pinsen, og Johannesevangeliet strukturerer hele Jesu tjeneste rundt høytidene. Å kjenne høytidene er å forstå NT bedre.

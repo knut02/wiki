@@ -2,7 +2,7 @@
 title: "Pakten"
 description: "Pakten som Bibelens teologiske ryggrad — fra Noahs regnbue via Abrahams løfte og Sinai til Jeremias' nye pakt og nattverdens paktsbeger. Inkluderer løftets teologi fra Gen 3:15 til 2 Kor 1:20."
 date: 2026-09-08
-updated: 2026-09-29
+modified: 2026-09-29
 kategori: Bibelen - det Gamle Testamentet
 sub-kategori: GT-teologi
 tags: [pakten, berit, covenant, Abraham, Sinai, Moses, Davids pakt, ny pakt, Jeremias, nattverden, hebreerbrevet, frelseshistorie, løfte]

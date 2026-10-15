@@ -2,7 +2,7 @@
 title: "Augustin av Hippo (354-430)"
 description: "Den vestlige kirkens største teolog — Augustins omvendelse, hans kamp mot donatister og pelagianere, og hans bidrag til nådelæren, kirkelæren og Treenigheten."
 date: 2026-08-26
-updated: 2026-08-26
+modified: 2026-08-26
 kategori: Kirkehistorie
 sub-kategori: Oldkirken — Store teologer
 studievei: [kirkehistorie, teologi, Bibelen]

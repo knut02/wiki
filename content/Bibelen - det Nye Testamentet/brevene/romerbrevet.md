@@ -2,7 +2,7 @@
 title: "Romerbrevet"
 description: "Paulus' teologiske mesterverk — evangeliet som Guds kraft til frelse for alle, rettferdiggjørelse av tro, Åndens frigjøring og Guds plan med Israel og folkeslagene."
 date: 2026-08-25
-updated: 2026-08-25
+modified: 2026-08-25
 kategori: Det nye testamentet
 sub-kategori: Paulusteologi
 studievei: [disippelskap, kristologi, Bibelen]

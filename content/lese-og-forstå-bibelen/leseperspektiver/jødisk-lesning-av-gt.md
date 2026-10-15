@@ -2,7 +2,7 @@
 title: "Jødisk lesning av GT — Talmud, Midrash og rabbinsk tradisjon"
 description: "Hvordan jødiske tolkere leser sine egne tekster — Talmud og Midrash som tolkningsformer, parshatradisjonen, Fohrman og det å lese teksten på nytt."
 date: 2026-09-28
-updated: 2026-09-28
+modified: 2026-09-28
 kategori: Lese og forstå Bibelen
 sub-kategori: Tolkningsperspektiver
 tags: [jødisk bibeltolkning, Talmud, Midrash, rabbinsk tradisjon, parsha, Fohrman, peshat, drash, PaRDeS, Torah, intertekstuell lesning]

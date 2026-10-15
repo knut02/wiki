@@ -5,7 +5,7 @@ date: 2025-04-18
 kategori: Kristologi
 sub-kategori: Jesu identitet
 tags: [Jesus, Nasaret, Messias, Guds Sønn, liv, lære, død, oppstandelse, kristologi]
-updated: 2025-07-09
+modified: 2025-07-09
 sources: 5
 ---
 

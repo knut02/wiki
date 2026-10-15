@@ -2,7 +2,7 @@
 title: "authentein — et omstridt gresk ord i 1 Tim 2:12"
 description: "Debatten om det greske ordet authentein i 1 Tim 2:12 — alle kjente forekomster i antikken, hva de faktisk betyr, og hva det betyr for oversettelsen og tolkningen av teksten."
 date: 2026-09-29
-updated: 2026-09-29
+modified: 2026-09-29
 kategori: Lese og forstå Bibelen
 sub-kategori: Bibeltekst og tekstkritikk
 tags: [authentein, 1 Timoteus 2:12, tekstkritikk, kjønn, gresk, Belleville, Schreiner, Baldwin, oversettelse, autoritet, dominere]

@@ -2,7 +2,7 @@
 title: "Religionsdialog ved kirkelige handlinger"
 description: "Bispemøtets veiledning om religionsmøte ved dåp, vigsel og gravferd — grenser for dialog, bønnsformer og praksis i en flerreligiøs kontekst."
 date: 2025-05-02
-updated: 2026-09-22
+modified: 2026-09-22
 kategori: Global kristendom
 sub-kategori: Religionsdialog
 tags: [religionsdialog, kirkelige handlinger, bønn, vigsel, gravferd, dåp, Bispemøtet, flerreligiøs, interreligiøs bønn, islam]

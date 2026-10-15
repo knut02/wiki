@@ -2,7 +2,7 @@
 title: "Arvesynd"
 description: "Arvesyndens teologi — hva det er, Augustin mot Pelagius, reformasjonens videreføring og hvordan ulike tradisjonerforstår det falne menneske i dag."
 date: 2025-04-18
-updated: 2026-09-22
+modified: 2026-09-22
 kategori: Teologi
 sub-kategori: Syndens teologi
 tags: [arvesynd, Augustin, Pelagius, Luther, Calvin, Trent, syndefall, menneskesyn, nåde, fri vilje]

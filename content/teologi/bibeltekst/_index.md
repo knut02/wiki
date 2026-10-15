@@ -2,7 +2,7 @@
 title: "Bibeltekst"
 description: "Tekstkritiske og eksegetiske artikler om spesifikke bibelpassasjer."
 date: 2026-10-13
-updated: 2026-10-13
+modified: 2026-10-13
 ---
 
 # Bibeltekst

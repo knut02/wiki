@@ -5,7 +5,7 @@ date: 2025-05-24
 kategori: Verdensreligioner og livssyn
 sub-kategori: Østlige religioner
 tags: [sikhisme, Guru Nanak, fem K-er, gurdwara, Norge, Punjab, Waheguru]
-updated: 2025-05-24
+modified: 2025-05-24
 ---
 
 # Sikher i Norge

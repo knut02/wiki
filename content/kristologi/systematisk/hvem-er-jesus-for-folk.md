@@ -2,7 +2,7 @@
 title: "Hvem er Jesus for vanlige kirkegjengere?"
 description: "Uavhengig av hva skrift og tradisjon lærer, vil vi ikke la Jesus Kristus være noe mer eller mindre enn det vi tror vi trenger for vår frelse. Ann Christies studie av ordinær kristologi, og spørsmålet om hvem man er i møtet med Jesus."
 date: 2025-05-10
-updated: 2026-09-29
+modified: 2026-09-29
 kategori: Kristologi
 sub-kategori: Jesu identitet
 tags: [hvem er Jesus, folk, kristologi, meningsmangfold, kulturell Jesus, Christie, subordinasjonisme, arianisme]

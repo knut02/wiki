@@ -2,7 +2,7 @@
 title: "Fra vedlikehold til misjon"
 description: "Hva innebærer det for Den norske kirke å gå fra vedlikehold til misjon — Hegstads ekklesiologiske analyse, Kirkemøtet 2012 og Misjon i kontekst som teologisk ramme."
 date: 2026-09-22
-updated: 2026-09-22
+modified: 2026-09-22
 kategori: Global kristendom
 sub-kategori: Misjonal kirke
 tags: [misjonal kirke, vedlikehold, misjon, folkekirke, Hegstad, Kirkemøtet 2012, Missio Dei, ekklesiologi, eskatologi, Den norske kirke]

@@ -2,7 +2,7 @@
 title: "Andre Peter og Judas"
 description: "To korte brev om falske lærere, apokalyptisk tradisjon og kallet til å holde fast på den overleverte troen — begge tett knyttet til 1 Enok og jødisk apokalyptikk."
 date: 2026-08-26
-updated: 2026-08-26
+modified: 2026-08-26
 kategori: Det nye testamentet
 sub-kategori: Katolske brev og Åpenbaringen
 studievei: [kirkehistorie, Bibelen, disippelskap]

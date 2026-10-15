@@ -2,7 +2,7 @@
 title: "Fri vilje og determinisme"
 description: "De filosofiske posisjonene i debatten om fri vilje — kompatibilisme, libertarianisme og fri vilje-skeptisisme, med innvendinger og sosiale betingelser for frihet."
 date: 2026-09-27
-updated: 2026-09-27
+modified: 2026-09-27
 kategori: Teologi
 sub-kategori: Filosofi og teologi
 tags: [fri vilje, determinisme, kompatibilisme, libertarianisme, Pereboom, Kane, Frankfurt, ansvar, hjerneforskning, sosial frihet]

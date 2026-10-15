@@ -2,7 +2,7 @@
 title: "Naturlig teologi og tros rasjonalitet"
 description: "Naturlig teologi fra Paley via Darwins utfordring til Barth–Brunner-debatten og den moderne renessansen — kan Guds eksistens begrunnes fra naturen alene?"
 date: 2026-09-08
-updated: 2026-09-08
+modified: 2026-09-08
 kategori: Teologi
 sub-kategori: Gudslære
 tags: [naturlig teologi, Paley, Darwin, Barth, Brunner, gudsbevis, design, apologetikk, rasjonalitet, Polkinghorne]

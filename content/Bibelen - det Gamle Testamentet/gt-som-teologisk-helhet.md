@@ -2,7 +2,7 @@
 title: "Det gamle testamentet — innføring og teologisk helhet"
 description: "Det gamle testamentet er ikke en samling løsrevne tekster, men ett sammenhengende vitnesbyrd om Guds handlinger i historien — fra skapelse til eksil og hjemkomst, bundet sammen av pakt, løfte og forventning."
 date: 2025-04-18
-updated: 2026-09-29
+modified: 2026-09-29
 kategori: Det gamle testamentet
 sub-kategori: Oversikt
 studievei: [gt, Bibelen, kirkehistorie]

@@ -2,7 +2,7 @@
 title: Kilde — Willard (1988) The Spirit of the Disciplines
 description: Kompilert fra raw/books/The Spirit of the Disciplines - Dallas Willard/text/
 date: 2025-05-20
-updated: 2025-05-20
+modified: 2025-05-20
 ---
 
 # Kilde: Willard-1988-spirit-of-the-disciplines

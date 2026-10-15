@@ -4,7 +4,7 @@ description: "354–430. Biskop, teolog og filosof — den mest innflytelsesrike
 date: 2025-04-18
 kategori: Personer
 sub-kategori: NT og oldkirke-personer
-updated: 2025-07-09
+modified: 2025-07-09
 sources: 4
 ---
 

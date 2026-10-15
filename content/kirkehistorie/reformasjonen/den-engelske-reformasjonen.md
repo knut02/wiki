@@ -2,7 +2,7 @@
 title: "Den engelske reformasjonen"
 description: "Den engelske reformasjonens særegne forløp — Henrik VIII og det politiske bruddet med Roma, Cranmer og de teologiske endringene, det elizabethanske kompromiss og anglikanismens fremvekst."
 date: 2026-09-08
-updated: 2026-09-08
+modified: 2026-09-08
 kategori: Kirkehistorie
 sub-kategori: Reformasjonen
 tags: [engelsk reformasjon, anglikanisme, Henrik VIII, Cranmer, Elizabeth I, Book of Common Prayer, Trettini-neun artikler, Church of England]

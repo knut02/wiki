@@ -2,7 +2,7 @@
 title: "Den kirkelige kalenderen — påske, pinse, jul og fastedager"
 description: "Oldkirkens kirkelige kalender — søndagens fremvekst, ukentlige fastedager, påskens røtter i jødisk påske, pinsetidens utvikling, julens og epifaniens opprinnelse, og helgenkalenderet."
 date: 2026-09-28
-updated: 2026-09-28
+modified: 2026-09-28
 kategori: Kirkehistorie
 sub-kategori: Oldkirkens gudstjeneste
 tags: [kirkelig kalender, påske, pinse, jul, epifania, søndag, faste, martyrer, Egeria, Quartodeciman, Lent, Advent, McGowan]

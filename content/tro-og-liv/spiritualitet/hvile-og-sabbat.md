@@ -2,7 +2,7 @@
 title: "Hvile og sabbat"
 description: "Sabbatsteologi fra skapelsesfortellingen via Mosebøkenes lov til Jesu forståelse og Hebreerbrevets eskatologiske hvile — og hva sabbat betyr for den troende i dag."
 date: 2026-09-08
-updated: 2026-09-08
+modified: 2026-09-08
 kategori: Tro og liv
 sub-kategori: Disippelskap og livsstil
 tags: [sabbat, hvile, skapelse, hviledag, shabbat, Heb 4, Jesus og sabbat, rytme, disippelskap]

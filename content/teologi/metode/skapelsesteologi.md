@@ -2,7 +2,7 @@
 title: "Skapelsesteologi"
 description: "Skapelsen som teologisk lære — ex nihilo, imago Dei, skapelsens godhet og forholdet mellom første og ny skapelse; fra oldkirken via reformasjonen til moderne debatten."
 date: 2026-09-08
-updated: 2026-09-08
+modified: 2026-09-08
 kategori: Teologi
 sub-kategori: Gudslære
 tags: [skapelse, ex nihilo, imago Dei, skapelsens godhet, gnostisisme, ny skapelse, Irenaeus, Luther, Wright]

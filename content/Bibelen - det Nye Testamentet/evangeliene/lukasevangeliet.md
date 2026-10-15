@@ -2,7 +2,7 @@
 title: "Lukasevangeliet"
 description: "Barmhjertighetens evangelium — Lukas som historiker, de utstøtte og marginaliserte, kvinner i Jesu følge, Åndens evangelium, og dobbelverket med Apostlenes gjerninger."
 date: 2025-05-06
-updated: 2026-08-25
+modified: 2026-08-25
 kategori: Det nye testamentet
 sub-kategori: Evangeliene
 studievei: [evangeliene, disippelskap, spiritualitet]

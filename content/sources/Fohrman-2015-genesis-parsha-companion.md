@@ -2,7 +2,7 @@
 title: "Kilde — Fohrman (2015) Genesis: A Parsha Companion"
 description: "Kompilert fra raw/books/Genesis_ A Parsha Companion - David Fohrman/text/"
 date: 2025-05-22
-updated: 2025-05-22
+modified: 2025-05-22
 ---
 
 # Kilde: Fohrman-2015-genesis-parsha-companion

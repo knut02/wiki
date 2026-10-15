@@ -2,7 +2,7 @@
 title: "Leseperspektiver"
 description: "Ulike perspektiver på bibellesning — feministisk, frigjøringsteoologisk, jødisk og kristen lesning av GT."
 date: 2026-10-13
-updated: 2026-10-13
+modified: 2026-10-13
 ---
 
 # Leseperspektiver

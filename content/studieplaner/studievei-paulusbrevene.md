@@ -2,7 +2,7 @@
 title: "Studievei — Paulusbrevene"
 description: "En strukturert inngang til Paulus' brev: fra biografi og historisk kontekst til de store teologiske brevene og de kortere menighetsbrevene."
 date: 2026-10-14
-updated: 2026-10-14
+modified: 2026-10-14
 kategori: Det nye testamentet
 sub-kategori: Oversikt
 tags: [studievei, Paulus, paulusbrevene, leseguide, Romerbrevet, Galaterne, Korinterbrevene, Efeserbrevet]

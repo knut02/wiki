@@ -2,7 +2,7 @@
 title: "Misjonerende folkekirke"
 description: "Harald Hegstads og Hans Raun Iversens analyse av spenningen mellom folkekirke og misjon — begrepene folkekirke/brukerkirke/kirke-i-misjon, Missio Dei, dynamisk ekklesiologi og Kirkemøtet 2012."
 date: 2025-05-02
-updated: 2026-09-29
+modified: 2026-09-29
 kategori: Global kristendom
 sub-kategori: Misjon
 tags: [misjonerende folkekirke, Den norske kirke, tilhørighet, misjon, dåp, Missio Dei, Hegstad, Iversen]

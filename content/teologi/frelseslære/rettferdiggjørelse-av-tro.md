@@ -2,7 +2,7 @@
 title: "Rettferdiggjørelse av tro"
 description: "Rettferdiggjørelse av tro som NT-teologiens og reformasjonens tyngdepunkt — Paulus' doktrine, Luthers gjennombrudd og den moderne debatten om hva rettferdiggjørelse egentlig betyr."
 date: 2026-09-08
-updated: 2026-09-08
+modified: 2026-09-08
 kategori: Teologi
 sub-kategori: Frelseslære og forsoning
 tags: [rettferdiggjørelse, sola fide, Paulus, Luther, nåde, tro, dikaiosyne, romerbrevet, galaterbrevet, ny perspektiv]

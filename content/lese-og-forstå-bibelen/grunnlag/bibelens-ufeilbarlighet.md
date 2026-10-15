@@ -2,7 +2,7 @@
 title: "Bibelens ufeilbarlighet — inerrancy og infallibility"
 description: "Læren om Bibelens ufeilbarlighet — skillet mellom inerrancy og infallibility, historisk utvikling fra reformasjonen til Chicago-erklæringen, og de viktigste innvendingene."
 date: 2026-09-28
-updated: 2026-09-28
+modified: 2026-09-28
 kategori: Lese og forstå Bibelen
 sub-kategori: Bibelens autoritet
 tags: [inerrancy, infallibility, bibelens autoritet, verbal inspirasjon, sola scriptura, Warfield, Chicago-erklæringen, skriftsyn, fundamentalisme, evangelikal]

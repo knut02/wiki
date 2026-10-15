@@ -2,7 +2,7 @@
 title: "Disippelskap"
 description: "Å følge Jesus — etikk, dyder, penger, lidelse og Guds vilje for livet."
 date: 2026-10-13
-updated: 2026-10-13
+modified: 2026-10-13
 ---
 
 # Disippelskap

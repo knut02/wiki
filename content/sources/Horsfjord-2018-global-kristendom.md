@@ -1,7 +1,7 @@
 ---
 title: "Kilde — Horsfjord m.fl. (2018) Global kristendom"
 date: 2025-05-24
-updated: 2025-05-24
+modified: 2025-05-24
 ---
 
 # Kilde: Horsfjord-2018-global-kristendom

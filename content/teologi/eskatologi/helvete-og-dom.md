@@ -2,7 +2,7 @@
 title: "Helvete og dom — evig straff, annihilasjonisme og universalisme"
 description: "De tre hovedposisjonene om dom og straff i kristen teologi — tradisjonell evig bevisst straff, annihilasjonisme og universalisme — med NT Wrights perspektiv som primær kilde."
 date: 2026-09-29
-updated: 2026-09-29
+modified: 2026-09-29
 kategori: Teologi
 sub-kategori: Eskatologi
 tags: [helvete, dom, evig straff, annihilasjonisme, universalisme, Wright, gehenna, parousia, dommens dag, eskatologi, kjærlighet og dom]

@@ -5,7 +5,7 @@ date: 2025-04-18
 kategori: Tro og liv
 sub-kategori: Grunnleggende trospørsmål
 tags: [tvil, tro, vantro, jomfrufødsel, oppstandelse, helvete, teod icé, Mark 9]
-updated: 2025-05-18
+modified: 2025-05-18
 ---
 
 > «Herre, jeg tror. Hjelp min vantro!» — Mark 9:24. En far som vil tro, men ikke klarer det helt. Jesus hjelper ham likevel.

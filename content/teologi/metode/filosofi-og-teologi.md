@@ -2,7 +2,7 @@
 title: "Filosofi og teologi — fornuftens plass i kristen tro"
 description: "Kreider og Svigels analyse av filosofiens rolle i teologisk metode — logikk, hermeneutikk, epistemologi og verdensbilde som redskaper for teologien, med Daniel i Babylon som modell."
 date: 2026-10-03
-updated: 2026-10-03
+modified: 2026-10-03
 kategori: Teologi
 sub-kategori: Teologisk metode
 tags: [filosofi, teologi, fornuft, logikk, hermeneutikk, epistemologi, verdensbilde, Kreider, Svigel, teologisk metode, Daniel, tro og fornuft]

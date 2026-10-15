@@ -2,7 +2,7 @@
 title: Kilde — Brubaker (2015)
 description: Kompilert fra raw/papers/TFF2216 - UIO/
 date: 2025-05-18
-updated: 2025-05-18
+modified: 2025-05-18
 ---
 
 # Kilde: Brubaker-2015-religious-dimensions

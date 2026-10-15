@@ -2,7 +2,7 @@
 title: "Hvordan lese apokalyptikk"
 description: "Leseguide for apokalyptisk litteratur — sjangertrekk, billedspråk, historisk kontekst og hva tekster som Daniel og Åpenbaringen faktisk gjør."
 date: 2026-09-27
-updated: 2026-09-27
+modified: 2026-09-27
 kategori: Lese og forstå Bibelen
 sub-kategori: Sjangre
 tags: [apokalyptikk, Daniel, Åpenbaringen, sjanger, billedspråk, endetid, profetilitteratur, symbolspråk, krise, trøst]

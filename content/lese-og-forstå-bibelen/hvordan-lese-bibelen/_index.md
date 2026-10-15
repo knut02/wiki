@@ -2,7 +2,7 @@
 title: "Sjangerspesifikke innføringer"
 description: "Hvordan lese ulike bibelske sjangre — narrativ, brev, profetlitteratur, apokalyptikk, visdomslitteratur og lovtekster."
 date: 2026-10-13
-updated: 2026-10-13
+modified: 2026-10-13
 ---
 
 # Sjangerspesifikke innføringer

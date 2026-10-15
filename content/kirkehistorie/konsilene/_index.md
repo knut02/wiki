@@ -2,7 +2,7 @@
 title: "Konsilene og kristologistridene"
 description: "De oldkirkelige konsilene — Nikea, Efesos, Kalkedon — og kristologistridene de avgjorde."
 date: 2026-10-13
-updated: 2026-10-13
+modified: 2026-10-13
 ---
 
 # Konsilene og kristologistridene

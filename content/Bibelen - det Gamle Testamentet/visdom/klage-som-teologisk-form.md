@@ -2,7 +2,7 @@
 title: "Klage som teologisk form"
 description: "Klage som bibelsk og teologisk form — Brueggemanns orientering/desorientering/nyorientering, klagens legitimitet i GT, Jerusalem personifisert som klagende kvinne, og klage som trospraksìs i dag."
 date: 2026-09-29
-updated: 2026-09-29
+modified: 2026-09-29
 kategori: Bibelen - det Gamle Testamentet
 sub-kategori: Teologiske temaer
 tags: [klage, lament, Brueggemann, desorientering, orientering, nyorientering, salmene, klagesalmer, Klagesangene, Job, bønn, teologi, lidelse]

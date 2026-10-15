@@ -1,7 +1,7 @@
 ---
 title: "Kilde — Nicolaisen (2018) Hinduer"
 date: 2025-05-24
-updated: 2025-05-24
+modified: 2025-05-24
 ---
 
 # Kilde: Nicolaisen-2018-hinduer

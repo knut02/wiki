@@ -2,7 +2,7 @@
 title: "Mirakler"
 description: "Miraklers teologiske status — hva er et mirakel, Humes klassiske innvending, C.S. Lewis' svar og forholdet mellom Guds handlinger i naturen og naturlovene."
 date: 2026-09-08
-updated: 2026-09-08
+modified: 2026-09-08
 kategori: Teologi
 sub-kategori: Gudslære
 tags: [mirakler, under, Hume, C.S. Lewis, naturlov, Guds inngripen, oppstandelse, helbredelse, providens, deisme]

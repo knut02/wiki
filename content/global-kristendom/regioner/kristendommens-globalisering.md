@@ -2,7 +2,7 @@
 title: "Kristendommens globalisering"
 description: "Tyngdepunktsskiftet fra Nord til Sør, pinsebevegelsens globale vekst, sekulariseringsteorien og dens begrensning, Kirkenes Verdensråd og Lausanne-bevegelsen."
 date: 2026-09-22
-updated: 2026-09-22
+modified: 2026-09-22
 kategori: Global kristendom
 sub-kategori: Global kristendom
 tags: [globalisering, tyngdepunktsskifte, pinsebevegelse, Kirkenes Verdensråd, Lausanne, sekularisering, globalt sør, karismatisk, World Evangelical Alliance]

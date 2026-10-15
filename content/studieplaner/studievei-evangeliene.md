@@ -5,7 +5,7 @@ date: 2026-07-12
 kategori: Det nye testamentet
 sub-kategori: Oversikt
 tags: [studievei, evangeliene, leseguide, Markus, Matteus, Lukas, Johannes]
-updated: 2026-07-12
+modified: 2026-07-12
 ---
 
 > «I begynnelsen var Ordet.» — Joh 1:1

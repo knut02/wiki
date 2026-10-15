@@ -2,7 +2,7 @@
 title: "Teologisk metode"
 description: "Hva teologi er, tolkningens rolle, forholdet til filosofi og vitenskap, og ulike teologiske retninger."
 date: 2026-10-13
-updated: 2026-10-13
+modified: 2026-10-13
 ---
 
 # Teologisk metode

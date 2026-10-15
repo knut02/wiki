@@ -2,7 +2,7 @@
 title: "Dåp i oldkirken — katekumenat, ritual og teologi"
 description: "Dåpens utvikling i oldkirken — fra Johannes-dåpen til 300-tallets katekumenat, salvelse, håndpåleggelse og dåpens forbindelse med påskenatt og eukaristi."
 date: 2026-09-28
-updated: 2026-09-28
+modified: 2026-09-28
 kategori: Kirkehistorie
 sub-kategori: Oldkirkens sakramenter
 tags: [dåp, oldkirken, katekumenat, salvelse, håndpåleggelse, Didake, Tertullian, Apostolisk Tradisjon, spedbarnsdåp, Augustin, Dura-Europos]

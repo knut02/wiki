@@ -2,7 +2,7 @@
 title: "Veiledning i religionsmøte (2006)"
 description: "Kirkemøtets ressursdokument fra 2006 om holdninger og praksis i møte med mennesker av annen tro — trinitarisk grunnlag, ti holdningsprinsipper, bønn og konvertering."
 date: 2026-09-22
-updated: 2026-09-22
+modified: 2026-09-22
 kategori: Global kristendom
 sub-kategori: Religionsdialog
 tags: [religionsmøte, religionsdialog, Kirkemøtet 2006, holdninger, bønn, konvertering, religionsfrihet, trinitarisk teologi, dialog, islam]

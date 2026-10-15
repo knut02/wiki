@@ -5,7 +5,7 @@ date: 2025-06-13
 kategori: Tro og liv
 sub-kategori: Kirke og fellesskap
 tags: [kirke, Guds folk, Kristi kropp, Åndens tempel, synlig og usynlig, Guds rike]
-updated: 2026-07-12
+modified: 2026-07-12
 sources: 4
 ---
 

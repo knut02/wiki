@@ -2,7 +2,7 @@
 title: "Hvem er Jesus"
 description: "Innføring i hvem Jesus Kristus er."
 date: 2026-10-13
-updated: 2026-10-13
+modified: 2026-10-13
 ---
 
 # Hvem er Jesus

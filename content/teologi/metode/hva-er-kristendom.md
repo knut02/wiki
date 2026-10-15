@@ -2,7 +2,7 @@
 title: "Hva er kristendom?"
 description: "En innføring i kristendommens kjerne — hva kristne tror, hva som skiller kristendom fra andre religioner, og hva fellesskapet av troende er."
 date: 2025-06-13
-updated: 2025-06-13
+modified: 2025-06-13
 sources: 3
 kategori: Teologi
 sub-kategori: Frelseslære og forsoning

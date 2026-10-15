@@ -2,7 +2,7 @@
 title: "Oppstandelsesdebatten"
 description: "Den moderne debatten om Jesu oppstandelse — fra Strauss og Bultmann via Barth og Pannenberg til N.T. Wright; hva som er på spill og hva de ulike posisjonene innebærer."
 date: 2026-09-27
-updated: 2026-09-27
+modified: 2026-09-27
 kategori: Kristologi
 sub-kategori: Jesu liv og tjeneste
 tags: [oppstandelse, oppstandelsesdebatten, Bultmann, Pannenberg, Wright, Strauss, historisk Jesus, mytologisering, legemlig oppstandelse, 1 Kor 15]

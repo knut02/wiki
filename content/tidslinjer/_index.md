@@ -2,7 +2,7 @@
 title: "Tidslinjer"
 description: "Kronologiske oversikter som hjelper leseren orientere seg i bibelhistoriens og kirkens lange tidsløp — fra skapelsen og GT-patriarkene til NT-tidens menigheter og kirkehistorien frem til år 2000. Nyttige referanseartikler som lenkes til fra innholdsartiklene."
 date: 2026-07-10
-updated: 2026-10-14
+modified: 2026-10-14
 ---
 
 # Tidslinjer

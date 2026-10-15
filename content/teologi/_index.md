@@ -2,7 +2,7 @@
 title: "Teologi"
 description: "Systematisk og dogmatisk teologi — de store spørsmålene om Guds natur, menneskets situasjon, frelsens innhold og historiens mål."
 date: 2026-07-10
-updated: 2026-08-26
+modified: 2026-08-26
 ---
 
 # Teologi

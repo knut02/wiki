@@ -5,7 +5,7 @@ date: 2025-05-05
 kategori: Tro og liv
 sub-kategori: Spiritualitet og praksis
 tags: [dåp, dåpsteologi, syndsforlatelse, Ånden, barnedåp, troende dåp, sakrament]
-updated: 2025-06-02
+modified: 2025-06-02
 sources: 5
 ---
 

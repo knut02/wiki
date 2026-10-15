@@ -2,7 +2,7 @@
 title: "Kilde — Ford (2013) Theology: A Very Short Introduction"
 description: "Kompilert fra raw/books/Theology_ A Very Short Introduc - David Ford/text/"
 date: 2025-05-22
-updated: 2025-05-22
+modified: 2025-05-22
 ---
 
 # Kilde: Ford-2013-theology-very-short-introduction

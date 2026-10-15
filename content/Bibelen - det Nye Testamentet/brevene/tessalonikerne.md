@@ -2,7 +2,7 @@
 title: "Første og andre Tessalonikerbrev"
 description: "Paulus' tidligste brev — skrevet til en ung menighet under press, om levende håp, Herrens dag og arbeidets verdighet."
 date: 2026-08-26
-updated: 2026-08-26
+modified: 2026-08-26
 kategori: Det nye testamentet
 sub-kategori: Paulusteologi
 studievei: [disippelskap, Bibelen, kirkehistorie]

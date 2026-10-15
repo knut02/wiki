@@ -6,7 +6,7 @@ kategori: Personer
 sub-kategori: NT og oldkirke-personer
 tags: [Jesu familie, søsken, Josef, Maria, Jakob, slekt, evangeliene]
 kilder: 2
-updated: 2026-09-29
+modified: 2026-09-29
 ---
 
 ## Foreldre

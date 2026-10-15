@@ -5,7 +5,7 @@ date: 2025-05-31
 kategori: Tro og liv
 sub-kategori: Tekstbaserte refleksjoner
 tags: [Joh 15:5, avhengighet, vintreet, uten meg, forbindelse, Kristus, disippelskap]
-updated: 2025-05-31
+modified: 2025-05-31
 sources: 4
 ---
 

@@ -5,7 +5,7 @@ date: 2025-05-24
 kategori: Verdensreligioner og livssyn
 sub-kategori: Livssyn og samfunn
 tags: [unge, nyreligiøsitet, individualisering, subjektiv vending, Stine-tro, alternativ spiritualitet]
-updated: 2025-05-24
+modified: 2025-05-24
 ---
 
 # Unge og nyreligiøsitet

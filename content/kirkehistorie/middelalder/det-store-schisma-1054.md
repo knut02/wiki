@@ -2,7 +2,7 @@
 title: "Det store schisma 1054"
 description: "Bruddet mellom østkirken og vestkirken i 1054 — de teologiske og politiske årsakene, filioque-striden, Kerullarios og Leo IX, og arven etter schismaet."
 date: 2026-09-08
-updated: 2026-09-08
+modified: 2026-09-08
 kategori: Kirkehistorie
 sub-kategori: Middelalderen
 tags: [schisma, 1054, filioque, ortodoks, katolsk, øst og vest, Konstantinopel, Roma, Kerullarios, Leo IX, pavemakt]

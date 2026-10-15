@@ -2,7 +2,7 @@
 title: "Evangeliene"
 description: "De fire evangeliene — oversiktsartikler, enkeltevangelier og sentrale tekster fra Jesu liv og undervisning."
 date: 2026-10-11
-updated: 2026-10-11
+modified: 2026-10-11
 ---
 
 De fire evangeliene — Matteus, Markus, Lukas og Johannes — er kjernen i Det nye testamentet. De er ikke biografier i moderne forstand, men teologiske fremstillinger av Jesu liv, død og oppstandelse, skrevet for konkrete menigheter med konkrete formål.

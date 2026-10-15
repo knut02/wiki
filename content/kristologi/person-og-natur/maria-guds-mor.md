@@ -5,7 +5,7 @@ date: 2025-06-02
 kategori: Kristologi
 sub-kategori: Kristologisk teologi
 tags: [Maria, theotokos, Efesos 431, jomfru, evig jomfru, Magnificat, Maria i kirken]
-updated: 2025-06-02
+modified: 2025-06-02
 sources: 2
 ---
 

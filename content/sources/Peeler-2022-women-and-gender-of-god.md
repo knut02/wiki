@@ -2,7 +2,7 @@
 title: Kilde — Peeler (2022) Women and the Gender of God
 description: Kompilert fra raw/books/Women and the Gender of God - Amy Peeler/text/
 date: 2025-05-18
-updated: 2025-05-18
+modified: 2025-05-18
 ---
 
 # Kilde: Peeler-2022-women-and-gender-of-god

@@ -2,7 +2,7 @@
 title: "Den tomme graven"
 description: "Temaartikkel om den tomme graven som historisk og teologisk kjerne i oppstandelsesberetningene — på tvers av alle fire evangelier."
 date: 2026-10-14
-updated: 2026-10-14
+modified: 2026-10-14
 kategori: Det nye testamentet
 sub-kategori: Temaartikler NT
 tags: [oppstandelse, tom-grav, Maria-Magdalena, historisk, teologi, ny-skapelse, kroppslighet]

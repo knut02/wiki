@@ -2,7 +2,7 @@
 title: "Junia i Romerne 16:7 — apostel eller ikke?"
 description: "Debatten om Junia i Rom 16:7 — var hun en kvinne, og var hun apostel? Filologisk evidens, kirkefedrenes lesning, Luthers innflytelse og moderne tekstkritisk konsensus."
 date: 2026-09-29
-updated: 2026-09-29
+modified: 2026-09-29
 kategori: Lese og forstå Bibelen
 sub-kategori: Bibeltekst og tekstkritikk
 tags: [Junia, Romerne 16:7, apostel, kvinne, tekstkritikk, Luther, Chrysostomos, Belleville, kjønn, NT]

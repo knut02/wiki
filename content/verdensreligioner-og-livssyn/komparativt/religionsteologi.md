@@ -2,7 +2,7 @@
 title: "Religionsteologi — eksklusivisme, inklusivisme og pluralisme"
 description: "De tre klassiske modellene for kristen forståelse av forholdet mellom religionene — Knitters typologi, bibelske spenninger og Den norske kirkes posisjon."
 date: 2026-09-22
-updated: 2026-09-22
+modified: 2026-09-22
 kategori: Verdensreligioner og livssyn
 sub-kategori: Religionsteologi
 tags: [religionsteologi, eksklusivisme, inklusivisme, pluralisme, Knitter, frelse, religionsdialog, Kristus og religionene, allmenn åpenbaring, KM 15/16]

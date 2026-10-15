@@ -2,7 +2,7 @@
 title: "Spiritualitet"
 description: "Bønn, faste, hvile, åndelige disipliner og åndelig formasjon."
 date: 2026-10-13
-updated: 2026-10-13
+modified: 2026-10-13
 ---
 
 # Spiritualitet

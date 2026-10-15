@@ -2,7 +2,7 @@
 title: "Novatianiststriden (ca. 250–258)"
 description: "Striden om behandlingen av de frafalne etter Decisk forfølgelse — Novatian mot Cyprian, og spørsmålet om kirken kan tilgi dem som sviktet under press."
 date: 2026-09-08
-updated: 2026-09-08
+modified: 2026-09-08
 kategori: Kirkehistorie
 sub-kategori: Oldkirken
 tags: [Novatian, Cyprian, frafalne, lapsus, buss, gjenopprettelse, kirkedisiplin, oldkirken, 250-tallet]

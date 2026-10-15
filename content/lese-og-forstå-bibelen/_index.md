@@ -2,7 +2,7 @@
 title: "Lese og forstå Bibelen"
 description: "Hvordan leser og tolker man Bibelen? Mappen gir innføring i hermeneutikk og de åtte eksgetiske metodene, norsk bibeloversettelseshistorie og ideologien bak oversettelsesvalgene, samt egne innføringsartikler for hebraisk, gresk og ulike bibelske sjangre."
 date: 2026-07-10
-updated: 2026-07-10
+modified: 2026-07-10
 ---
 
 # Lese og forstå Bibelen

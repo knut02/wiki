@@ -2,7 +2,7 @@
 title: "Middelalderen (ca. 500–1500)"
 description: "Kirken i middelalderen — schisma, korstog, klosterliv, skolastikk og mystikk."
 date: 2026-10-13
-updated: 2026-10-13
+modified: 2026-10-13
 ---
 
 # Middelalderen (ca. 500–1500)

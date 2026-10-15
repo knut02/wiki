@@ -5,7 +5,7 @@ date: 2025-05-26
 kategori: Verdensreligioner og livssyn
 sub-kategori: Østlige religioner
 tags: [buddhisme, Tibet, Mongolia, hellige tekster, bokkult, ritualer, sutra]
-updated: 2025-05-26
+modified: 2025-05-26
 sources: 2
 ---
 

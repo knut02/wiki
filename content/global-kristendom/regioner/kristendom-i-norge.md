@@ -2,7 +2,7 @@
 title: "Kristendom i Norge"
 description: "Kristendommens utvikling i Norge — fra statskirke til selvstendig folkekirke, migrantmenigheter, kristne høyre, sekularisering og kristendom som identitetspolitikk."
 date: 2026-09-22
-updated: 2026-09-22
+modified: 2026-09-22
 kategori: Global kristendom
 sub-kategori: Global kristendom
 tags: [Norge, folkekirke, statskirke, migrantmenigheter, NMS, kristne høyre, sekularisering, samisk kirke, nyreligiøsitet, KRLE]

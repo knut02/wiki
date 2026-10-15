@@ -2,7 +2,7 @@
 title: "Profetene"
 description: "GT-profetene — oversiktsartikkel og dybdeartikler om Jesaja, Jeremias, Esekiel, Amos, Daniel og klagesangene."
 date: 2026-10-11
-updated: 2026-10-11
+modified: 2026-10-11
 ---
 
 Profetene er ikke primært fremtidsforutsigere, men Guds talsmenn inn i konkrete historiske kriser — nasjonal synd, eksil, håp om gjenopprettelse. De store profetene (Jesaja, Jeremias, Esekiel) og de tolv små profetene spenner fra 800-tallet til 400-tallet f.Kr.

@@ -2,7 +2,7 @@
 title: "Bibelen"
 description: "Hva er Bibelen — dens sammensetning, hva den hevder om seg selv, kanon, manuskripter, oversettelse, sjangrer, autoritet og inspirasjon. Inkluderer praktisk veiledning om bibellesning."
 date: 2025-04-20
-updated: 2026-09-29
+modified: 2026-09-29
 kategori: Lese og forstå Bibelen
 sub-kategori: Bibelkunnskap
 tags: [Bibelen, kanon, inspirasjon, autoritet, inerrancy, infallibility, Skriften, tekstkritikk, manuskripter, Dødehavsrullene, bibliotek, sjanger]

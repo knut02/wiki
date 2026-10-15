@@ -2,7 +2,7 @@
 title: "Første Petersbrev"
 description: "Håp under press — et brev til diasporaen som lider, om identitet som Guds utvalgte folk, livet som fremmede og pilegrimer, og lidelses teologi."
 date: 2026-08-26
-updated: 2026-08-26
+modified: 2026-08-26
 kategori: Det nye testamentet
 sub-kategori: Katolske brev og Åpenbaringen
 studievei: [disippelskap, kirkehistorie, Bibelen]

@@ -2,7 +2,7 @@
 title: "Treenigheten i det 20. århundret"
 description: "Den trinitariske renessansen etter liberal teologis marginalisering av dogmet — Barths strukturelle plassering, Rahners økonomi/immanens-distinksjon og Jensons narrative trinitetsforståelse."
 date: 2026-09-08
-updated: 2026-09-08
+modified: 2026-09-08
 kategori: Teologi
 sub-kategori: Gudslære
 tags: [treenigheten, trinitarisk renessanse, Barth, Rahner, Jenson, økonomi/immanens, 1900-tall, Guds navn, trinitetslære]

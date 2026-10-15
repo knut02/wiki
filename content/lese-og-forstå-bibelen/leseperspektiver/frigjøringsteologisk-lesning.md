@@ -2,7 +2,7 @@
 title: "Frigjøringsteologisk lesning av Bibelen"
 description: "Frigjøringsteologisk bibeltolkning — de fattige som tolkningssubjekt, Exodus-motivet, den preferensielle opsjonen for de fattige, og metodens utvikling fra Latin-Amerika til global kontekst."
 date: 2026-09-28
-updated: 2026-09-28
+modified: 2026-09-28
 kategori: Lese og forstå Bibelen
 sub-kategori: Tolkningsperspektiver
 tags: [frigjøringsteologi, befrielsesteologi, Exodus, de fattige, preferensiell opsjon, basismenigheter, Latin-Amerika, dalitteologi, minjung, postkolonial tolkning]

@@ -2,7 +2,7 @@
 title: "Helliggjørelse"
 description: "Helliggjørelse som teologisk kategori — distinksjonen fra rettferdiggjørelse, luthersk og wesleyansk forståelse, og den praktiske prosessen der Guds Ånd former Kristus-likhet i den troende."
 date: 2026-09-08
-updated: 2026-09-08
+modified: 2026-09-08
 kategori: Teologi
 sub-kategori: Frelseslære og forsoning
 tags: [helliggjørelse, rettferdiggjørelse, Luther, Wesley, Melanchthon, Calvin, Ånd, disippelskap, karakterdannelse, theosis]

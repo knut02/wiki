@@ -2,7 +2,7 @@
 title: "Galaterne"
 description: "Paulus' mest lidenskapelige brev — skrevet i raseri mot dem som vil tvinge hedningkristne til omskjærelse. Frihetens evangelium mot lovens åk."
 date: 2026-08-25
-updated: 2026-08-25
+modified: 2026-08-25
 kategori: Det nye testamentet
 sub-kategori: Paulusteologi
 studievei: [disippelskap, Bibelen]

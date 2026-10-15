@@ -5,7 +5,7 @@ date: 2025-06-13
 kategori: Kirkehistorie
 sub-kategori: Oldkirken — Kristologi og treenighet
 tags: [Apollinaris, Nestorius, Kyrillos, Efesos, Kalkedon, to naturer, kristologi]
-updated: 2025-06-13
+modified: 2025-06-13
 sources: 3
 ---
 

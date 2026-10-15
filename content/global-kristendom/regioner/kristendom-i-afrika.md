@@ -2,7 +2,7 @@
 title: "Kristendom i Afrika"
 description: "Kristendommens vekst i Afrika — historisk overblikk, religiøs pluralisme, pinsebevegelsens fremvekst, kolonihistoriens ambivalens, kirken og samfunnet."
 date: 2025-05-02
-updated: 2026-09-22
+modified: 2026-09-22
 kategori: Global kristendom
 sub-kategori: Global kristendom
 tags: [Afrika, kristendom, pinsebevegelse, RCCG, befrielsesteologi, kolonimisjon, tradisjonell afrikansk religion, dalitteologi, kirke og samfunn]

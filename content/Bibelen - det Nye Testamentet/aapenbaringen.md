@@ -2,7 +2,7 @@
 title: "Åpenbaringen"
 description: "Apokalyptisk profeti til syv menigheter i Lilleasia — et motnarrativ til Romas imperium, skrevet fra Patmos av Johannes under Domitians forfølgelse."
 date: 2026-08-25
-updated: 2026-08-25
+modified: 2026-08-25
 kategori: Det nye testamentet
 sub-kategori: Katolske brev og Åpenbaringen
 studievei: [kirkehistorie, kristologi, Bibelen]

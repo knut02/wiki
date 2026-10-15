@@ -2,7 +2,7 @@
 title: "Jakobs brev"
 description: "Tro som virker i praksis — Jakobs brev er en visdomstale om fattige og rike, tungen, tålmodighet og sammenhengen mellom tro og gjerninger."
 date: 2026-08-26
-updated: 2026-08-26
+modified: 2026-08-26
 kategori: Det nye testamentet
 sub-kategori: Katolske brev og Åpenbaringen
 studievei: [disippelskap, etikk, Bibelen]

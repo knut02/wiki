@@ -5,7 +5,7 @@ date: 2025-05-24
 kategori: Lese og forstå Bibelen
 sub-kategori: Innføring
 tags: [hellige skrifter, religion, kanon, Braarvig, Justnes, kultisk funksjon]
-updated: 2025-05-24
+modified: 2025-05-24
 ---
 
 > «I svært mange religioner er det den hellige tekst som gir religionen sin grunnleggende identitet.» — Braarvig og Justnes (2011)

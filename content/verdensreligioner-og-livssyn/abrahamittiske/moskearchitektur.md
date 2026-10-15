@@ -5,7 +5,7 @@ date: 2025-05-24
 kategori: Verdensreligioner og livssyn
 sub-kategori: Abrahamittiske religioner
 tags: [moské, islam, arkitektur, mihrab, minaret, Oslo, bønnerom]
-updated: 2025-05-26
+modified: 2025-05-26
 sources: 2
 ---
 

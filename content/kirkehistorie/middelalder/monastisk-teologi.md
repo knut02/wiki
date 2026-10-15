@@ -5,7 +5,7 @@ date: 2025-06-13
 kategori: Kirkehistorie
 sub-kategori: Middelalderen
 tags: [monastisk teologi, Bernard av Clairvaux, Høysangen, kjærlighet, kontemplasjon, lectio divina]
-updated: 2025-07-09
+modified: 2025-07-09
 sources: 3
 ---
 

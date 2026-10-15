@@ -2,7 +2,7 @@
 title: "Gudsbevis og gudsargumenter — for og mot Guds eksistens"
 description: "De viktigste filosofiske argumentene for og mot Guds eksistens — kalam, fininnstilling, religiøs erfaring, bevissthet, moral og oppstandelsen — samt det ondes problem og guddommelig skjulthet."
 date: 2025-05-17
-updated: 2026-09-29
+modified: 2026-09-29
 kategori: Teologi
 sub-kategori: Gudslære og naturlig teologi
 tags: [gudsbevis, gudsargumenter, kalam, fininnstilling, det ondes problem, guddommelig skjulthet, Aquinas, Craig, Plantinga, Schellenberg, naturalisme, teisme, Søvik]

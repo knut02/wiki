@@ -2,7 +2,7 @@
 title: Kilde — Bercot (2013) What the Early Christians Believed About Salvation
 description: Kompilert fra raw/books/What the Early Christians Belie - David Bercot/text/
 date: 2025-05-22
-updated: 2025-05-22
+modified: 2025-05-22
 ---
 
 # Kilde: Bercot-2013-early-christians-salvation

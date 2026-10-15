@@ -2,7 +2,7 @@
 title: "Treenigheten"
 description: "Den kristne læren om én Gud i tre distinkte personer — Nikea, Konstantinopel, Kalkedon, østlig vs. vestlig tradisjon, kappadokierfadrene og Augustin."
 date: 2025-05-01
-updated: 2026-08-26
+modified: 2026-08-26
 sources: 4
 kategori: Teologi
 sub-kategori: Gudslære

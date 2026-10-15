@@ -2,7 +2,7 @@
 title: "Efeserbrevet"
 description: "Kirkens kosmiske kall — Guds evige plan om å samle alt i Kristus, den nye templet av jøder og hedninger, og livet som rustet Kristi kropp."
 date: 2026-08-26
-updated: 2026-08-26
+modified: 2026-08-26
 kategori: Det nye testamentet
 sub-kategori: Paulusteologi
 studievei: [disippelskap, kristologi, Bibelen]

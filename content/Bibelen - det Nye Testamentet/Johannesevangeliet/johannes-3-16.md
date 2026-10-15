@@ -2,7 +2,7 @@
 title: "Johannes 3:16 — analyse"
 description: "«For så høyt elsket Gud verden at han gav sin enbårne Sønn» — tekstanalyse, kontekst og resepsjonshistorie."
 date: 2026-07-12
-updated: 2026-07-12
+modified: 2026-07-12
 kategori: Det nye testamentet
 sub-kategori: Sentrale tekster
 studievei: [evangeliene, kristologi]

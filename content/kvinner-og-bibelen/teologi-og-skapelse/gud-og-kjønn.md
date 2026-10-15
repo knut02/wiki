@@ -2,7 +2,7 @@
 title: "Gud og kjønn — er Gud mann?"
 description: "Amy Peelers argument for at Gud-Fader ikke er mann, skapelsens imago Dei og kjønn, Gen 1 og 2, Gal 3:28 og inkarnasjonens korrektiv til gudsbilledligheten."
 date: 2026-09-27
-updated: 2026-10-13
+modified: 2026-10-13
 kategori: Kvinner og Bibelen
 sub-kategori: Gudslære og kjønn
 tags: [Gud og kjønn, Peeler, imago Dei, inkarnasjon, Maria, Fader, kjønnet gudsbilde, skapelse, Gen 1, Gal 3:28, Barth, relasjonsteologi, funksjonell tolkning]

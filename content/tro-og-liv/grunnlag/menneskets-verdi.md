@@ -2,7 +2,7 @@
 title: "Menneskets verdi — kun Gud kan definere den"
 description: "Hva gir et menneske verdi? Bibelen peker på en verdi som ikke er opptjent, ikke kan mistes og ikke kan defineres av andre mennesker — bare av Skaperen. Inkluderer kristent menneskesyn, imago Dei, kropp og sjèl."
 date: 2025-06-07
-updated: 2026-09-29
+modified: 2026-09-29
 kategori: Tro og liv
 sub-kategori: Menneskesyn og identitet
 tags: [menneskets verdi, Gud som definerer, skapt, identitet, ukrenkelig, menneskeverd, imago Dei, dikotomi, trikotomi]

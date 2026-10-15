@@ -2,7 +2,7 @@
 title: "Tolkningens rolle i teologi — fortolkeren, forforståelse og den hermeneutiske sirkel"
 description: "Kreider og Svigels analyse av tolkningens plass i teologisk metode — skillet mellom første- og andretiers autoritet, tolkningens uunngåelige begrensethet, og hva det betyr at all tolkning er situert."
 date: 2026-10-03
-updated: 2026-10-03
+modified: 2026-10-03
 kategori: Teologi
 sub-kategori: Teologisk metode
 tags: [hermeneutikk, tolkning, Skriften, bibeloversettelse, forforståelse, den hermeneutiske sirkel, Kreider, Svigel, teologisk metode, tro og forstand]

@@ -1,7 +1,7 @@
 ---
 title: "Kilde — Furseth (2015) Et religiøst landskap i endring"
 date: 2025-05-24
-updated: 2025-05-24
+modified: 2025-05-24
 ---
 
 # Kilde: Furseth-2015-religiost-landskap

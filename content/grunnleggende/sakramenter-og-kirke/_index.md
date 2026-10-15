@@ -2,7 +2,7 @@
 title: "Sakramenter og kirke"
 description: "Dåp, nattverd og menigheten som Kristi kropp."
 date: 2026-10-13
-updated: 2026-10-13
+modified: 2026-10-13
 ---
 
 # Sakramenter og kirke

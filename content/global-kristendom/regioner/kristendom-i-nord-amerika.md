@@ -2,7 +2,7 @@
 title: "Kristendom i Nord-Amerika"
 description: "Kristendommen i USA — det religiøse markedet, evangelikalisme og kulturkrig, megakirker, katolikkenes demografi, civil religion og Israels plass i amerikansk kristendom."
 date: 2026-09-22
-updated: 2026-09-22
+modified: 2026-09-22
 kategori: Global kristendom
 sub-kategori: Global kristendom
 tags: [Nord-Amerika, USA, evangelikalisme, kulturkrig, megakirker, katolisisme, civil religion, fundamentalisme, Black Lives Matter, dispensasjonalisme]

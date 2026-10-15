@@ -2,7 +2,7 @@
 title: "Bibelens kanon — hvilke bøker er med, og hvorfor?"
 description: "Hvordan Bibelens bøker ble valgt — kanonhistorien for GT og NT, apokryfene, forskjellen mellom jødisk, katolsk, ortodoks og protestantisk kanon, og hva kanon betyr for tolkning."
 date: 2026-09-27
-updated: 2026-09-27
+modified: 2026-09-27
 kategori: Lese og forstå Bibelen
 sub-kategori: Bibelens tilblivelse
 tags: [kanon, apokryfer, deuterokanoniske bøker, kanonhistorie, GT-kanon, NT-kanon, Septuaginta, Jamnia, Marcion, Athanasius, kanonkritikk, Hayes]

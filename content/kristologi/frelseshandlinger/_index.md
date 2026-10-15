@@ -2,7 +2,7 @@
 title: "Frelseshandlinger"
 description: "Korsfestelsen, oppstandelsen og debatten om oppstandelsens historisitet."
 date: 2026-10-13
-updated: 2026-10-13
+modified: 2026-10-13
 ---
 
 # Frelseshandlinger

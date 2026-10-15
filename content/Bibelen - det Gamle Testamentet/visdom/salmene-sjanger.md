@@ -2,7 +2,7 @@
 title: "Salmene som sjanger"
 description: "En innføring i Salmebokens sjangre, poetiske form og teologiske profil — fra klagesalmen til lovprisningen, fra individuell nød til kongelig liturgi, og salmene som bønnbok."
 date: 2026-08-25
-updated: 2026-08-25
+modified: 2026-08-25
 kategori: Det gamle testamentet
 sub-kategori: Poetiske og visdomsbøker
 studievei: [gt, bønn, spiritualitet]

@@ -2,7 +2,7 @@
 title: "Østlige religioner"
 description: "Hinduisme, buddhisme og sikhisme — lære, hellige tekster og grunnbegreper."
 date: 2026-10-13
-updated: 2026-10-13
+modified: 2026-10-13
 ---
 
 # Østlige religioner

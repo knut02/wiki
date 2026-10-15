@@ -2,7 +2,7 @@
 title: "Reformasjonen (ca. 1500–1600)"
 description: "Luther, Calvin og den engelske reformasjonen — teologi, bekjennelser og kirkebruddet."
 date: 2026-10-13
-updated: 2026-10-13
+modified: 2026-10-13
 ---
 
 # Reformasjonen (ca. 1500–1600)

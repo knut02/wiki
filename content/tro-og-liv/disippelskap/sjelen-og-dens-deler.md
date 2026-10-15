@@ -2,7 +2,7 @@
 title: "Sjelen og dens deler — Willards modell for det menneskelige selvet"
 description: "Dallas Willards analyse av de seks dimensjonene i det menneskelige selvet — tanke, følelse, vilje, kropp, sosial kontekst og sjel — og hva åndelig formasjon innebærer for hver av dem."
 date: 2026-09-29
-updated: 2026-09-29
+modified: 2026-09-29
 kategori: Tro og liv
 sub-kategori: Åndelig formasjon
 tags: [sjel, åndelig formasjon, Willard, tanke, følelse, vilje, kropp, hjerte, ånd, disippelskap, Renovation of the Heart]

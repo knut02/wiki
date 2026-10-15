@@ -2,7 +2,7 @@
 title: "Steder"
 description: "Bibelske og historiske steder som er sentrale i Bibelens fortelling — Jerusalem, Betania og andre steder som er mer enn geografiske punkter. Artiklene gir kulturhistorisk og teologisk bakgrunn for stedenes rolle i Skriften."
 date: 2026-07-10
-updated: 2026-07-10
+modified: 2026-07-10
 ---
 
 # Steder

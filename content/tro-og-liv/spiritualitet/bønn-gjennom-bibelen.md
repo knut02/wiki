@@ -2,7 +2,7 @@
 title: "Bønn gjennom Bibelen"
 description: "En temaartikkel om bønnens utvikling fra Abraham til Åpenbaringen — forbønn, klage, Templets liturgi, Jesu bønneundervisning og Åndens forbønn i Rom 8."
 date: 2026-08-26
-updated: 2026-08-26
+modified: 2026-08-26
 kategori: Tro og liv
 sub-kategori: Spiritualitet og praksis
 studievei: [gt, evangeliene, spiritualitet]

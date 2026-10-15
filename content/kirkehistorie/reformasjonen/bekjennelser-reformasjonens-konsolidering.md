@@ -5,7 +5,7 @@ date: 2025-05-01
 kategori: Kirkehistorie
 sub-kategori: Reformasjonen
 tags: [Confessio Augustana, Schleitheim, motreformasjon, Trent, kalvinisme, bekjennelser]
-updated: 2025-07-09
+modified: 2025-07-09
 ---
 
 > «Rettferdiggjort ved tro alene — dette er artikkelen som kirken står og faller med.» — Luther. Trentkonsilet svarte: Ved tro *og* gjerninger.

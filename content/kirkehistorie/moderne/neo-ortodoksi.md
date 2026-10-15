@@ -2,7 +2,7 @@
 title: "Neo-ortodoksi — Karl Barth og teologisk fornyelse"
 description: "Neo-ortodoksiens fremvekst som teologisk reaksjon mot liberalprotestantismen — Karl Barth, Reinhold Niebuhr, den trinitariske renessansen og bevegelsens arv og kritikk."
 date: 2025-05-21
-updated: 2026-09-29
+modified: 2026-09-29
 kategori: Kirkehistorie
 sub-kategori: Moderne teologi
 tags: [neo-ortodoksi, Karl Barth, Reinhold Niebuhr, dialektisk teologi, liberalteologi, Romerbrevet, Kirchliche Dogmatik, trinitet, åpenbaring, Emil Brunner]

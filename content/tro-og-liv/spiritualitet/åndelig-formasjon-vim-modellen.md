@@ -2,7 +2,7 @@
 title: "VIM-modellen — visjon, intensjon og midler i åndelig formasjon"
 description: "Dallas Willards VIM-modell for personlig transformasjon — visjon som griper oss, intensjon som forplikter oss, og midler (åndelige disipliner) som muliggjør forvandlingen."
 date: 2026-09-29
-updated: 2026-09-29
+modified: 2026-09-29
 kategori: Tro og liv
 sub-kategori: Åndelig formasjon
 tags: [VIM, visjon, intensjon, midler, åndelig formasjon, Willard, disipliner, transformasjon, disippelskap, Renovation of the Heart]

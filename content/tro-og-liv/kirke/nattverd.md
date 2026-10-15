@@ -2,7 +2,7 @@
 title: "Nattverd"
 description: "Nattverden som disippelskapsøvelse — institusjon, symbolikk, ulike forståelser og hva nattverden gjør med den troende og menigheten."
 date: 2026-09-08
-updated: 2026-09-08
+modified: 2026-09-08
 kategori: Tro og liv
 sub-kategori: Disippelskap og livsstil
 tags: [nattverd, eukaristi, Herrens måltid, brødets brytelse, pakt, minne, Kristus nærvær, sakrament, fellesskap, eskatologi]

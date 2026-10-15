@@ -5,7 +5,7 @@ date: 2026-07-12
 kategori: Det nye testamentet
 sub-kategori: Sentrale tekster
 tags: [dåp, fristelse, identitet, Jesu dåp, Mark 1, Matt 3-4, ørkenen]
-updated: 2026-07-12
+modified: 2026-07-12
 sources: 3
 ---
 

@@ -2,7 +2,7 @@
 title: "Jesu liv og tjeneste"
 description: "Jesu offentlige virke samlet — helbredelsenes teologi, bordfellesskapets radikalitet, konflikter med autoritetene og det som kjennetegner hans gjerning som Messias."
 date: 2026-09-08
-updated: 2026-09-08
+modified: 2026-09-08
 kategori: Kristologi
 sub-kategori: Jesu liv og tjeneste
 tags: [Jesus, helbredelse, bordfellesskap, Guds rike, tollere og syndere, profet, fariseer, tjeneste, offentlig virke, Messias]

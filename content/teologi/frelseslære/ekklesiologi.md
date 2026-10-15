@@ -2,7 +2,7 @@
 title: "Ekklesiologi — kirkens teologi"
 description: "Kirkens vesen som systematisk teologisk tema — hva konstituerer kirken, de fire modellene for kirkens struktur, usynlig og synlig kirke, Augustin og Donatiststriden, og reformasjonens kirkebegrep."
 date: 2026-09-08
-updated: 2026-09-08
+modified: 2026-09-08
 kategori: Teologi
 sub-kategori: Kirkens teologi
 tags: [ekklesiologi, kirken, notae ecclesiae, synlig og usynlig kirke, kongregasjonalisme, episkopalisme, presbyterianisme, Augustin, donatiststriden, reformasjonen]

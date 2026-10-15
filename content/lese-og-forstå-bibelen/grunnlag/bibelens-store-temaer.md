@@ -2,7 +2,7 @@
 title: "Bibelens store temaer"
 description: "En temabasert inngang til Bibelen på tvers av GT og NT — skapelse, pakt, løfte, Messias, Ånden og ny skapelse som den røde tråden gjennom frelseshistorien."
 date: 2026-09-08
-updated: 2026-09-08
+modified: 2026-09-08
 kategori: Lese og forstå Bibelen
 sub-kategori: Bibelteologi
 tags: [bibelteologi, frelseshistorie, skapelse, pakt, løfte, Messias, Ånden, ny skapelse, temaer, oversikt]

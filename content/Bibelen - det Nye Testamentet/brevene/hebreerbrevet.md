@@ -2,7 +2,7 @@
 title: "Hebreerbrevet"
 description: "NT's mest systematiske argument for Jesu overhøyhet — større enn englene, Moses, Arons presteskap og det levittiske offersystemet. Kall til utholdenhet for dem som er fristet til å vende tilbake."
 date: 2026-08-25
-updated: 2026-08-25
+modified: 2026-08-25
 kategori: Det nye testamentet
 sub-kategori: Katolske brev og Åpenbaringen
 studievei: [kristologi, kirkehistorie, Bibelen]

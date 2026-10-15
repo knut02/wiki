@@ -2,7 +2,7 @@
 title: "Dialog"
 description: "Kristent møte med islam, religionsdialog og spørsmål om rasisme og mangfold."
 date: 2026-10-13
-updated: 2026-10-13
+modified: 2026-10-13
 ---
 
 # Dialog

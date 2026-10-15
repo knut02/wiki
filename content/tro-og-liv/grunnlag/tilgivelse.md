@@ -5,7 +5,7 @@ date: 2025-05-11
 kategori: Tro og liv
 sub-kategori: Grunnleggende trospørsmål
 tags: [tilgivelse, forsoning, ubarmhjertige tjeneren, gi og ta imot, Guds tilgivelse]
-updated: 2025-06-13
+modified: 2025-06-13
 sources: 3
 ---
 

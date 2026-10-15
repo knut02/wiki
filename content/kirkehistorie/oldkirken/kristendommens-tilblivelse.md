@@ -5,7 +5,7 @@ date: 2025-04-18
 kategori: Kirkehistorie
 sub-kategori: Oldkirken — Bakgrunn og kontekst
 tags: [kristendom, tilblivelse, urkirken, Romerriket, apostler, ekspansjon]
-updated: 2025-05-18
+modified: 2025-05-18
 ---
 
 > Kristendommen oppstod ikke i et vakuum. Den ble til innenfor det jødiske folk, i en landlig palestinsk kontekst, og spredte seg lynraskt til byene i det romerske riket — der den forandret seg underveis.

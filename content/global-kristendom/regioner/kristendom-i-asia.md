@@ -2,7 +2,7 @@
 title: "Kristendom i Asia"
 description: "Kristendommen i Asia — India (Thomas-kristne, kastesystemet, dalitteologi), Kina (husmenigheter, Tre-selv-kirken) og Filippinene som Asias katolske nasjon."
 date: 2026-09-22
-updated: 2026-09-22
+modified: 2026-09-22
 kategori: Global kristendom
 sub-kategori: Global kristendom
 tags: [Asia, India, Kina, Filippinene, Thomas-kristne, kastesystem, dalitteologi, husmenigheter, Tre-selv-kirken, pinsebevegelse, kolonimisjon]

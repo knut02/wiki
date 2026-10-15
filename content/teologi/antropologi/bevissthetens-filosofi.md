@@ -2,7 +2,7 @@
 title: "Bevissthetens filosofi"
 description: "De filosofiske teoriene om bevissthet — substansdualisme, reduktiv fysikalisme, nonreduktiv fysikalisme og panpsykisme, med Descartes, Chalmers og zombie-argumentet."
 date: 2026-09-27
-updated: 2026-09-27
+modified: 2026-09-27
 kategori: Teologi
 sub-kategori: Filosofi og teologi
 tags: [bevissthet, kvalia, substansdualisme, fysikalisme, panpsykisme, Descartes, Chalmers, zombie-argument, interaksjonsproblemet, sinn og kropp]

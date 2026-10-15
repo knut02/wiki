@@ -2,7 +2,7 @@
 title: "Job"
 description: "GT's dypeste teologiske verk — en uskyldig mann som lider, tre venner med feil svar, Guds svar fra stormen, og spørsmålet om lidelsens mening."
 date: 2026-08-26
-updated: 2026-08-26
+modified: 2026-08-26
 kategori: Det gamle testamentet
 sub-kategori: Poetiske og visdomsbøker
 studievei: [gt, Bibelen, spiritualitet]

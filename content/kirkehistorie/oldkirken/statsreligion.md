@@ -2,7 +2,7 @@
 title: "Statsreligion"
 description: "Da kristendommen gikk fra forfulgt minoritet til romersk riksreligion — og hva det gjorde med kirken. Med moderne eksempler fra Russland, Polen og USA."
 date: 2025-05-06
-updated: 2026-09-22
+modified: 2026-09-22
 kategori: Kirkehistorie
 sub-kategori: Oldkirken — Forfølgelse og statsreligion
 kilder: 3

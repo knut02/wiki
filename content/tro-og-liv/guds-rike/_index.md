@@ -2,7 +2,7 @@
 title: "Guds rike"
 description: "Guds rike, evangeliet og hvem Jesus døde for."
 date: 2026-10-13
-updated: 2026-10-13
+modified: 2026-10-13
 ---
 
 # Guds rike

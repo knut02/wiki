@@ -2,7 +2,7 @@
 title: "Frelse og evangeliet"
 description: "Evangeliet, frelse, korset, nåde, omvendelse, oppstandelse, synd og tilgivelse."
 date: 2026-10-13
-updated: 2026-10-13
+modified: 2026-10-13
 ---
 
 # Frelse og evangeliet

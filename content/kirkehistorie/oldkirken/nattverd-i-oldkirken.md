@@ -5,7 +5,7 @@ date: 2025-06-02
 kategori: Kirkehistorie
 sub-kategori: Oldkirken — Teologi og spiritualitet
 tags: [nattverd, eukaristi, Didache, Justin Martyr, Ignatius, realisme, måltid]
-updated: 2026-07-12
+modified: 2026-07-12
 sources: 5
 ---
 

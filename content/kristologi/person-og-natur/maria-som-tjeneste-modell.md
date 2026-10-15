@@ -2,7 +2,7 @@
 title: "Maria som tjeneste-modell — Magnificat, Kana og Pinse"
 description: "Amy Peelers analyse av Marias tjeneste i NT — Magnificat som proklamasjon, Kana som pastoral initiativ, og Pinse som vitnetjeneste — og hva Marias multifasetterte tjeneste sier om Guds affirmering av kvinner i tjeneste."
 date: 2026-09-29
-updated: 2026-09-29
+modified: 2026-09-29
 kategori: Kristologi
 sub-kategori: Maria og tjeneste
 tags: [Maria, tjeneste, Magnificat, Kana, Pinse, proklamasjon, profeti, Peeler, kvinner i tjeneste, ånd, NT]

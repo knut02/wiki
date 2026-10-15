@@ -2,7 +2,7 @@
 title: Kilde — Bangstad & Døving (2015)
 description: Kompilert fra raw/papers/RL1016/Modernitet-og-livssyn/
 date: 2025-05-18
-updated: 2025-05-18
+modified: 2025-05-18
 ---
 
 # Kilde: Bangstad-Døving-2015-hva-er-rasisme

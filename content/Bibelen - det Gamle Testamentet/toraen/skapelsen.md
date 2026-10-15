@@ -5,7 +5,7 @@ date: 2025-05-14
 kategori: Det gamle testamentet
 sub-kategori: Skapelse og tidlighistorie
 tags: [skapelse, 1 Mosebok, imago Dei, syndefall, mesopotamia, Gen 1-3, ursaga]
-updated: 2025-07-09
+modified: 2025-07-09
 sources: 5
 ---
 

@@ -2,7 +2,7 @@
 title: "Brevene"
 description: "De nytestamentlige brevene — Paulus' brev, de alminnelige brevene og enkeltperikoper."
 date: 2026-10-11
-updated: 2026-10-11
+modified: 2026-10-11
 ---
 
 De nytestamentlige brevene er skrevet til konkrete menigheter og enkeltpersoner i det første kristne århundret, men bærer teologiske innsikter som har formet kristen tenkning i 2000 år. Samlingen dekker Paulus' brev, de alminnelige brevene (Peter, Johannes, Jakob, Judas) og Hebreerne.

@@ -2,7 +2,7 @@
 title: "Paulus"
 description: "Paulus — teologi, historisk kontekst og forholdet til Romerriket."
 date: 2026-10-11
-updated: 2026-10-11
+modified: 2026-10-11
 ---
 
 Paulus er den mest innflytelsesrike teologen i kristendommens første generasjon. Han skriver som apostel til konkrete menigheter med konkrete problemer — men brevene bærer universelle teologiske innsikter som har formet kristen tenkning i 2000 år.

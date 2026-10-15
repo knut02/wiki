@@ -2,7 +2,7 @@
 title: "Middelalderteologi — fra Augustin til skolastikken"
 description: "Middelalderens teologi fra Augustins arv via monastisk teologi og Bernard av Clairvaux til skolastikkens høydepunkt med Anselm og Thomas Aquinas, nyplatonismens rolle, og humanismens overgang."
 date: 2025-05-19
-updated: 2026-09-29
+modified: 2026-09-29
 kategori: Kirkehistorie
 sub-kategori: Middelalderen
 tags: [middelalderteologi, Augustin, nyplatonisme, monastisk teologi, Bernard av Clairvaux, skolastikk, Anselm, Thomas Aquinas, Dionysios Areopagiten, apofatisk teologi, universaliestrid]

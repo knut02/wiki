@@ -2,7 +2,7 @@
 title: "Jesaja"
 description: "Det femte evangeliet — Jesaja er det GT-skriftet som siteres mest i NT, med sine tjenersanger, trøstens bok og visjonen om den kommende skapelsen."
 date: 2026-08-26
-updated: 2026-08-26
+modified: 2026-08-26
 kategori: Det gamle testamentet
 sub-kategori: Profetene
 studievei: [gt, kristologi, Bibelen]

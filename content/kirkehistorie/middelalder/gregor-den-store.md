@@ -2,7 +2,7 @@
 title: "Gregor den store (590–604)"
 description: "Pave Gregor I som bindeleddet mellom oldkirken og middelalderen — pastoral teologi, misjonen til England, gregorisk sang, pave-keiser-forholdet og den middelalderlige kirkens grunnleggelse."
 date: 2026-09-08
-updated: 2026-09-08
+modified: 2026-09-08
 kategori: Kirkehistorie
 sub-kategori: Middelalderen
 tags: [Gregor den store, pavekirken, middelalder, misjonen til England, pastoral teologi, Augustin av Canterbury, gregorisk sang, angelsaksisk kristendom]

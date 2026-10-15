@@ -2,7 +2,7 @@
 title: "Feministisk bibeltolkning"
 description: "Feministisk bibeltolkning — hermeneutikk av mistanke, rekonstruksjon av kvinners stemmer, tekster av terror, og hovedretninger fra Elizabeth Cady Stanton til mujerista-teologi."
 date: 2026-09-28
-updated: 2026-09-28
+modified: 2026-09-28
 kategori: Lese og forstå Bibelen
 sub-kategori: Tolkningsperspektiver
 tags: [feministisk bibeltolkning, hermeneutikk av mistanke, tekster av terror, Stanton, Schüssler Fiorenza, mujerista, womanist, patriarkat, kjønn og Bibelen]

@@ -2,7 +2,7 @@
 title: "Grupper"
 description: "Jødiske og politiske grupper i NT-tid — fariseerne, jødedommen og det første århundrets religiøse landskap."
 date: 2026-10-11
-updated: 2026-10-11
+modified: 2026-10-11
 ---
 
 For å forstå evangeliene og Paulus' brev er det avgjørende å kjenne det religiøse og politiske landskapet i det første århundret. Hvem var fariseerne, sadukeerne og essenerne? Hva trodde de, og hvorfor reagerte de slik de gjorde på Jesus?

@@ -2,7 +2,7 @@
 title: "Sakkeus"
 description: "Overtoller i Jeriko, kjent for å ha klatret opp i et sykomortre for å se Jesus. Keener belyser hans sosiale posisjon, restitusjonsloven og Jesu initiativ."
 date: 2026-10-04
-updated: 2026-10-04
+modified: 2026-10-04
 kategori: Personer
 sub-kategori: NT-personer
 tags: [Sakkeus, tolloppkrever, Jeriko, omvendelse, Jesus, Lukas, rik, NT, Keener]

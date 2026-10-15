@@ -5,7 +5,7 @@ date: 2025-05-15
 kategori: Kvinner og Bibelen
 sub-kategori: Kvinner og Bibelen
 tags: [kvinner, evangeliene, Maria Magdalena, Peeler, tjeneste, disippel]
-updated: 2025-05-18
+modified: 2025-05-18
 ---
 
 > «Blant dem var Maria Magdalena, Maria som var mor til Jakob og Josef, og mor til Sebedeus-sønnene.» — Matt 27:56. Evangelienes avslutning kretser rundt kvinner som vitner.

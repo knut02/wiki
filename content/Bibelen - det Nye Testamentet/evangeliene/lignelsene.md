@@ -2,7 +2,7 @@
 title: "Jesu lignelser"
 description: "Lignelsene er ikke illustrasjoner til en lære som kan formuleres uten dem. De er selve budskapets kjerne.» — Donahue, *The Gospel in Parable* (1990)"
 date: 2025-05-11
-updated: 2026-08-25
+modified: 2026-08-25
 kategori: Det nye testamentet
 sub-kategori: Sentrale tekster
 studievei: [evangeliene, disippelskap]

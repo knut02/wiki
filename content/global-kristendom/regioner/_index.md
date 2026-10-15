@@ -2,7 +2,7 @@
 title: "Kristendom i verden"
 description: "Kristendommens utbredelse og uttrykk i ulike regioner og kulturer."
 date: 2026-10-13
-updated: 2026-10-13
+modified: 2026-10-13
 ---
 
 # Kristendom i verden

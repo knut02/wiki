@@ -2,7 +2,7 @@
 title: "Kirkehistorie"
 description: "Kirkens to tusenårige historie — fra de første kristne menighetene i Romerriket til reformasjonen og moderniteten."
 date: 2026-07-10
-updated: 2026-08-26
+modified: 2026-08-26
 ---
 
 # Kirkehistorie

@@ -2,7 +2,7 @@
 title: "Antropologi"
 description: "Teologisk menneskesyn — synd, arvesynd, fri vilje og nåde."
 date: 2026-10-13
-updated: 2026-10-13
+modified: 2026-10-13
 ---
 
 # Antropologi

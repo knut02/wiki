@@ -2,7 +2,7 @@
 title: "Puritanismen"
 description: "Puritanismen som teologisk og politisk bevegelse — reformert ortodoksi med pastoral dybde, dens engelske røtter og avgjørende innvirkning på nordamerikansk kristendom gjennom Jonathan Edwards og den store vekkelsen."
 date: 2026-09-08
-updated: 2026-09-08
+modified: 2026-09-08
 kategori: Kirkehistorie
 sub-kategori: Reformasjonen
 tags: [puritanisme, reformert ortodoksi, Jonathan Edwards, Westminster, England, New England, pastoral teologi, predestinasjon, pietisme]

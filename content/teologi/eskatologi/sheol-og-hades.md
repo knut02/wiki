@@ -2,7 +2,7 @@
 title: "Sheol og Hades — dødsriket i Bibelen"
 description: "Det hebraiske Sheol og det greske Hades — hva Bibelen sier om tilstanden etter døden før oppstandelsen, og de tre posisjonene om mellomtilstanden."
 date: 2025-05-26
-updated: 2026-09-08
+modified: 2026-09-08
 sources: 3
 kategori: Teologi
 sub-kategori: Eskatologi

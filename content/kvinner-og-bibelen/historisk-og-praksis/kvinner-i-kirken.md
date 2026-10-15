@@ -5,7 +5,7 @@ date: 2025-05-20
 kategori: Kvinner og Bibelen
 sub-kategori: Kvinner og Bibelen
 tags: [kvinner i kirken, egalitarisme, komplementarisme, 1 Tim 2, Gal 3:28, tjeneste]
-updated: 2025-05-20
+modified: 2025-05-20
 ---
 
 > «Det er ikke lenger forskjell på jøde og greker, på slave og fri, på mann og kvinne. Dere er alle én i Kristus Jesus.» — Gal 3:28

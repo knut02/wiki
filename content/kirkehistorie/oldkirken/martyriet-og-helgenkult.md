@@ -2,7 +2,7 @@
 title: "Martyriet og helgenkulten i oldkirken"
 description: "Fra martyrenes blod til helgenkultens fremvekst — forfølgelsenes historiske kontekst, martyriets teologi, martyrtekstene som sjanger, og helgenkultens sosiale funksjon i oldkirken."
 date: 2025-05-06
-updated: 2026-07-12
+modified: 2026-07-12
 sources: 6
 kategori: Kirkehistorie
 sub-kategori: Oldkirken — Forflølgelse og statsreligion

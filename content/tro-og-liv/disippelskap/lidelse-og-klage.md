@@ -2,7 +2,7 @@
 title: "Lidelse og klage"
 description: "Lidelse som teologisk tema fra den troendes perspektiv — Jobs bok, klagesalmene, Paulus om lidelse, og klagen som den ærligheten Bibelen inviterer til."
 date: 2026-09-08
-updated: 2026-09-08
+modified: 2026-09-08
 kategori: Tro og liv
 sub-kategori: Disippelskap og livsstil
 tags: [lidelse, klage, Job, klagesalmer, Paulus, teodice, håp, Gud i lidelsen, bønn, ærlighet]

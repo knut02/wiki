@@ -2,7 +2,7 @@
 title: "Gudsbilder som former troen"
 description: "Byron Parsons analyse av hvordan ulike bibelske skikkelsers gudsbilde former hele deres livsorienter — fra forakt og fordømmelse til tillit og bemyndigelse."
 date: 2026-09-28
-updated: 2026-09-28
+modified: 2026-09-28
 kategori: Tro og liv
 sub-kategori: Åndelig formasjon
 tags: [gudsbilde, Parson, Judas, Paulus, James og John, Gideon, Adam, David, Nehemia, åndelig formasjon, Guds karakter, tro og psykologi]

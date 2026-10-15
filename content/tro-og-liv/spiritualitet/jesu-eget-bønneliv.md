@@ -2,7 +2,7 @@
 title: "Jesu eget bønneliv"
 description: "Bønn som Jesu praksis — nattvakene, Getsemane og Joh 17; Lukas som primærkilde; hva det betyr at Guds Sønn ba."
 date: 2026-09-08
-updated: 2026-09-08
+modified: 2026-09-08
 kategori: Tro og liv
 sub-kategori: Bønn og spiritualitet
 tags: [Jesu bønn, Getsemane, Joh 17, Lukas, nattvake, disippelskap, bønn, forbønn, Fadervår]

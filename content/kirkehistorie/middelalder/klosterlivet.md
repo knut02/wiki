@@ -5,7 +5,7 @@ date: 2025-04-18
 kategori: Kirkehistorie
 sub-kategori: Middelalderen
 tags: [kloster, Benedikt, cisterciensere, ora et labora, klosterliv, regel, munk]
-updated: 2025-06-13
+modified: 2025-06-13
 kilder: 1
 ---
 

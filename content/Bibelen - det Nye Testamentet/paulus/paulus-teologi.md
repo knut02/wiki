@@ -2,7 +2,7 @@
 title: "Paulus — apostel, teolog og misjonær"
 description: "Innføring i Paulus — biografi, kallelse, misjonsstrategi, Romerbrevets teologi, Keeners kulturhistoriske bakgrunn og N.T. Wrights fire vinkler: verden av leed, fortellingen, et folk på tvers, og en ny dyd."
 date: 2025-05-20
-updated: 2026-09-29
+modified: 2026-09-29
 kategori: Det nye testamentet
 sub-kategori: Paulusbrevene
 tags: [Paulus, Wright, Keener, misjon, teologi, rettferdighet, keiserkult, Romerbrevet, kallelse]

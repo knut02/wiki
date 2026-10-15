@@ -2,7 +2,7 @@
 title: "Misjonshistorie"
 description: "Kristendommens misjonshistorie fra urkirken til i dag — kontekstualisering, den protestantiske misjonsbølgen, Missio Dei-begrepet og helhetlig misjon."
 date: 2025-05-02
-updated: 2026-09-22
+modified: 2026-09-22
 kategori: Global kristendom
 sub-kategori: Misjonshistorie
 tags: [misjon, misjonshistorie, kontekstualisering, Missio Dei, Edinburgh 1910, helhetlig misjon, Lausanne, NMS, pietisme, trosmisjon]

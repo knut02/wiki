@@ -2,7 +2,7 @@
 title: "Gudslæren"
 description: "Artikler om Guds vesen, egenskaper, treenigheten og Den hellige ånd."
 date: 2026-10-13
-updated: 2026-10-13
+modified: 2026-10-13
 ---
 
 # Gudslæren

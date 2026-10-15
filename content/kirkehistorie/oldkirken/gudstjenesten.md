@@ -5,7 +5,7 @@ date: 2025-06-13
 kategori: Kirkehistorie
 sub-kategori: Oldkirken — Gudstjeneste og kirkeliv
 tags: [gudstjeneste, liturgi, Didache, Justin Martyr, Tertullian, Apostoliske Konstitusjoner, stasjonsdager, eukaristi, dåp, tidebønn, struktur, historisk]
-updated: 2026-09-29
+modified: 2026-09-29
 sources: 5
 ---
 

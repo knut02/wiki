@@ -2,7 +2,7 @@
 title: "Romerne 8:28 — alt tjener til det gode"
 description: "Eksegetisk og teologisk gjennomgang av Rom 8:28 — hva verset sier, hva det ikke sier, konteksten i Romerne 8, og pastoral bruk og misbruk."
 date: 2025-05-25
-updated: 2026-08-25
+modified: 2026-08-25
 kategori: Det nye testamentet
 sub-kategori: Sentrale tekster
 studievei: [disippelskap, bønn, spiritualitet]

@@ -2,7 +2,7 @@
 title: "Esekiel"
 description: "Presten i eksil — Esekiels dramatiske visjoner om Guds herlighets avgang og retur, de tørre knokler og Åndens fornyelse, og det nye templet som GT's store eskatologiske løfte."
 date: 2026-08-26
-updated: 2026-08-26
+modified: 2026-08-26
 kategori: Det gamle testamentet
 sub-kategori: Profetene
 studievei: [gt, Bibelen, kirkehistorie]

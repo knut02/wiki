@@ -2,7 +2,7 @@
 title: "Korsfestelsen"
 description: "Jesu korsfestelse — den historiske hendelsen, romersk praksis, Golgata, de sju ord fra korset og det teologiske innholdet; korset som skam og herlighet."
 date: 2026-09-08
-updated: 2026-09-08
+modified: 2026-09-08
 kategori: Kristologi
 sub-kategori: Jesu liv og tjeneste
 tags: [korsfestelsen, Golgata, kors, lidelse, Pilatus, de sju ord, theologia crucis, 1 Kor 1:23, Salme 22, forsoning]

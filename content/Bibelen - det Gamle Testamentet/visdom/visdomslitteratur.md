@@ -5,7 +5,7 @@ date: 2025-04-18
 kategori: Det gamle testamentet
 sub-kategori: Poetiske og visdomsbøker
 tags: [visdomslitteratur, Ordsprkåkene, Job, Forkynneren, frykt for Herren, hokmah]
-updated: 2025-05-18
+modified: 2025-05-18
 ---
 
 > «Frykt for Herren er opphav til visdom; å kjenne Den Hellige er forstand.» — Ordsp 9:10

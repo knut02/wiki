@@ -2,7 +2,7 @@
 title: "Hermeneutikk"
 description: "Bibeltolkningens metoder — eksegese, tekstkritikk og intertekstualitet."
 date: 2026-10-13
-updated: 2026-10-13
+modified: 2026-10-13
 ---
 
 # Hermeneutikk

@@ -2,7 +2,7 @@
 title: "Det åndsledte livet"
 description: "Byron Parsons innføring i et liv ledet av Den Hellige Ånd — hva det betyr å høre Guds stemme, hva som hindrer oss, og Åndens karakter som trøster og veileder."
 date: 2026-09-28
-updated: 2026-09-28
+modified: 2026-09-28
 kategori: Tro og liv
 sub-kategori: Åndelig formasjon
 tags: [Den Hellige Ånd, åndsledet liv, Parson, bønn, lydighet, Guds stemme, pneumatologi, Samuel, Peter, Enok, David]

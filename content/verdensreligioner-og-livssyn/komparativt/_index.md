@@ -2,7 +2,7 @@
 title: "Komparativt og tverrfaglig"
 description: "Temaer som går på tvers av religioner — hellige skrifter, ritualer, tilbedelse, konflikt og religionsteologi."
 date: 2026-10-13
-updated: 2026-10-13
+modified: 2026-10-13
 ---
 
 # Komparativt og tverrfaglig

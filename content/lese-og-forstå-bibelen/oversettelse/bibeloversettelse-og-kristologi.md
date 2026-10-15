@@ -2,7 +2,7 @@
 title: "Bibeloversettelse og kristologi — ideologi i praksis"
 description: "Morten Beckmanns analyse av Bibelselskapets oversettelser 1959–2011: Kol 1,15 som case-studie i hvordan nikensk kristologi styrer oversettelsesvalg."
 date: 2026-09-27
-updated: 2026-09-27
+modified: 2026-09-27
 kategori: Lese og forstå Bibelen
 sub-kategori: Bibeloversettelse
 tags: [bibeloversettelse, kristologi, Beckmann, Kol 1,15, Bibel 2011, NO78, nikea, arianisme, prōtotokos, oversettelsesideologi, Bibelselskapet, Aasgaard, Johnstad]

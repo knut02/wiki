@@ -2,7 +2,7 @@
 title: "Teologi og skapelse"
 description: "Gudsbildet og kjønn — skapelsesteologi og kjønnsroller i de bibelske skapelsesberetningene."
 date: 2026-10-13
-updated: 2026-10-13
+modified: 2026-10-13
 ---
 
 # Teologi og skapelse

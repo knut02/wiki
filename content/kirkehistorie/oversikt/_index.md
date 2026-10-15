@@ -2,7 +2,7 @@
 title: "Oversikt"
 description: "Kirkehistoriens overordnede perspektiver og kronologiske oversikter."
 date: 2026-10-13
-updated: 2026-10-13
+modified: 2026-10-13
 ---
 
 # Oversikt

@@ -2,7 +2,7 @@
 title: "Person og natur"
 description: "Kristologiens kjerne — hvem Jesus er, inkarnasjonen, to-naturer-læren, jomfrufødselen og Marias rolle."
 date: 2026-10-13
-updated: 2026-10-13
+modified: 2026-10-13
 ---
 
 # Person og natur

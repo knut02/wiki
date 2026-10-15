@@ -2,7 +2,7 @@
 title: "Kjønn og skapelse — imago Dei og Gen 1:27"
 description: "Hva skapelsesfortellingene sier om kjønn og gudsbilledlighet — Gen 1:27, Gal 3:28, Barths relasjonsteologi, og Peelers argument fra inkarnasjonen."
 date: 2025-04-21
-updated: 2026-09-27
+modified: 2026-09-27
 kategori: Kvinner og Bibelen
 sub-kategori: Skapelse og kjønn
 tags: [imago Dei, kjønn, skapelse, Gen 1:27, Gal 3:28, Barth, Peeler, inkarnasjon, mannlighet, kvinnelighet]

@@ -2,7 +2,7 @@
 title: "Filipperbrevet"
 description: "Brevet om glede fra fengselet — Kristushymnen, borgerskapets teologi, og den fred som overgår all forstand."
 date: 2026-08-25
-updated: 2026-08-25
+modified: 2026-08-25
 kategori: Det nye testamentet
 sub-kategori: Paulusteologi
 studievei: [disippelskap, spiritualitet, Bibelen]

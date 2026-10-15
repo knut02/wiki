@@ -2,7 +2,7 @@
 title: "Gud og skapelse"
 description: "Bibelen som Guds ord, Den hellige ånd, skapelsens teologi og syndefallet."
 date: 2026-10-13
-updated: 2026-10-13
+modified: 2026-10-13
 ---
 
 # Gud og skapelse

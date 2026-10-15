@@ -2,7 +2,7 @@
 title: "Enkeltvers og tekster"
 description: "Dyptgående studier av enkeltvers og tekstpassasjer — særlig kontroversielle eller sentrale steder."
 date: 2026-10-13
-updated: 2026-10-13
+modified: 2026-10-13
 ---
 
 # Enkeltvers og tekster

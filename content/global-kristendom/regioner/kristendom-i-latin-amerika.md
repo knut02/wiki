@@ -2,7 +2,7 @@
 title: "Kristendom i Latin-Amerika"
 description: "Kristendommen i Latin-Amerika — katolsk dominans, pinsebevegelsens vekst, befrielsesteologien, folkelig katolicisme og kirkens rolle i samfunnet."
 date: 2025-05-02
-updated: 2026-09-22
+modified: 2026-09-22
 kategori: Global kristendom
 sub-kategori: Global kristendom
 tags: [Latin-Amerika, katolisisme, pinsebevegelse, befrielsesteologi, folkelig katolicisme, Guadalupe, inkulturasjon, IURD, Vatikanet, urbefolkning]

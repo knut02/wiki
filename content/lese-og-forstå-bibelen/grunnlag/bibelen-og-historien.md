@@ -2,7 +2,7 @@
 title: "Bibelen og historien — historisk-kritisk metode"
 description: "Hva historisk-kritisk forskning sier om Bibelens historisitet — metoden, arkeologiens bidrag, historien i og av teksten, og hva det betyr for troen."
 date: 2026-09-28
-updated: 2026-09-28
+modified: 2026-09-28
 kategori: Lese og forstå Bibelen
 sub-kategori: Bibeltolkning
 tags: [historisk-kritikk, arkeologi, historisitet, tekstkritikk, Bibelen og vitenskap, Dead Sea Scrolls, historisk Jesus, Hayes, historiografi]

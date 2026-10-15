@@ -1,7 +1,7 @@
 ---
 title: "Kilde — Horsfjord (2017) Religion i praksis"
 date: 2025-05-24
-updated: 2025-05-24
+modified: 2025-05-24
 ---
 
 # Kilde: Horsfjord-2017-religion-i-praksis

@@ -2,7 +2,7 @@
 title: "Tekstrefleksjoner"
 description: "Refleksjoner over konkrete bibeltekster og deres betydning for tro og liv."
 date: 2026-10-13
-updated: 2026-10-13
+modified: 2026-10-13
 ---
 
 # Tekstrefleksjoner

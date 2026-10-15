@@ -2,7 +2,7 @@
 title: "Kalvinisme og reformert teologi"
 description: "Calvin som teolog — Institutio, paktsteologi, predestinasjon og kirkelære — og den reformerte tradisjonens utvikling gjennom Beza og de store bekjennelsesskriftene."
 date: 2026-09-08
-updated: 2026-09-08
+modified: 2026-09-08
 kategori: Kirkehistorie
 sub-kategori: Reformasjonen
 tags: [Calvin, kalvinisme, reformert teologi, predestinasjon, paktsteologi, TULIP, Institutio, dobbel predestinasjon, Genève, Beza, Westminster]

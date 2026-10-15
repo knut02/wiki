@@ -2,7 +2,7 @@
 title: "Pinsebevegelsen"
 description: "Pinsebevegelsens fremvekst fra Azusa Street 1906 — åndsdåp, tungetale, helbredelse og global ekspansjon; teologiske særtrekk og plass i kirkehistorien."
 date: 2026-09-08
-updated: 2026-09-08
+modified: 2026-09-08
 kategori: Kirkehistorie
 sub-kategori: Nyere tid
 tags: [pinsebevegelsen, åndsdåp, tungetale, Azusa Street, karismatisk, helbredelse, global kristendom, 1900-tallet, Seymour, Parham]

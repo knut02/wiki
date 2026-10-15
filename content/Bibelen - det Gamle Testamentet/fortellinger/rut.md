@@ -2,7 +2,7 @@
 title: "Ruts bok"
 description: "En kort fortelling om troskap, kjærlighet og innlemmelse — Rut moabittinnen som velger Naomis Gud og folk, og som blir stammor til kong David."
 date: 2026-08-26
-updated: 2026-08-26
+modified: 2026-08-26
 kategori: Det gamle testamentet
 sub-kategori: Narrative bøker
 studievei: [gt, Bibelen, disippelskap]

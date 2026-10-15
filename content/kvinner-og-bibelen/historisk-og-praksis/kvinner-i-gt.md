@@ -2,7 +2,7 @@
 title: "Kvinner i GT"
 description: "GT-ets bilde av kvinner — Debora, Rut, Ester, Mirjam, Hanna og andre; profetinner, ledere, mødre og helter i frelseshistorien."
 date: 2026-09-08
-updated: 2026-09-08
+modified: 2026-09-08
 kategori: Kvinner og Bibelen
 sub-kategori: GT
 tags: [kvinner i GT, Debora, Rut, Ester, Mirjam, Hanna, Sara, Rakhel, profetinne, leder, frelseshistorie]

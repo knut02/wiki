@@ -2,7 +2,7 @@
 title: "Religionsteologi — kristendommen og de andre religionene"
 description: "Kristendommens teologiske forhold til andre religioner — de tre klassiske modellene (eksklusivisme, inklusivisme, pluralisme), akseptmodellen, sentrale tenkere og treenighet som grunnlag for religionsdialog."
 date: 2025-05-15
-updated: 2026-09-29
+modified: 2026-09-29
 kategori: Teologi
 sub-kategori: Religionsteologi
 tags: [religionsteologi, eksklusivisme, inklusivisme, pluralisme, Hick, Rahner, Barth, Kraemer, religionsdialog, treenighet, akseptmodellen, islam, jødedom, buddhisme]

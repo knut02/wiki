@@ -2,7 +2,7 @@
 title: "Studieplaner"
 description: "Veiledet leserekkefølge og studieopplegg for enkeltbøker og temaer."
 date: 2026-10-13
-updated: 2026-10-14
+modified: 2026-10-14
 ---
 
 # Studieplaner

@@ -2,7 +2,7 @@
 title: "Musikk og sang i oldkirken"
 description: "Sangtradisjonen i oldkirken — fra eukaristimåltidet og Paulus via salmene og tidlige hymner til korsang, instrumentdebatten og Oxyrhynchus-hymnen."
 date: 2026-09-28
-updated: 2026-09-28
+modified: 2026-09-28
 kategori: Kirkehistorie
 sub-kategori: Oldkirkens gudstjeneste
 tags: [musikk, sang, oldkirken, salmer, hymner, Klemens av Alexandria, Tertullian, Chrysostomos, instrumenter, Oxyrhynchus, Efraem, dans, McGowan]

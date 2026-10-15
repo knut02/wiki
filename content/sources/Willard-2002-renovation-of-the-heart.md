@@ -2,7 +2,7 @@
 title: Kilde — Willard (2002) Renovation of the Heart
 description: Kompilert fra raw/books/Renovation of the Heart_ Puttin - Dallas Willard/text/
 date: 2025-05-20
-updated: 2025-05-20
+modified: 2025-05-20
 ---
 
 # Kilde: Willard-2002-renovation-of-the-heart

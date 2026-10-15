@@ -2,7 +2,7 @@
 title: "Amos"
 description: "Hyrden fra Tekoa som talte mot sosial urettferdighet — Amos er GT's skarpeste profetstemme om fattige og rike, om fiktiv gudstjeneste og ekte rettferdighet."
 date: 2026-08-26
-updated: 2026-08-26
+modified: 2026-08-26
 kategori: Det gamle testamentet
 sub-kategori: Profetene
 studievei: [gt, etikk, Bibelen]

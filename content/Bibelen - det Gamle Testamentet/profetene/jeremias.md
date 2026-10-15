@@ -2,7 +2,7 @@
 title: "Jeremias"
 description: "Profeten som klagde og tvang seg selv til å tale — Jeremias som mislykket profet, den nye paktens forkynner og vitnet om Guds troskap gjennom Jerusalems fall."
 date: 2026-08-26
-updated: 2026-08-26
+modified: 2026-08-26
 kategori: Det gamle testamentet
 sub-kategori: Profetene
 studievei: [gt, Bibelen, spiritualitet]

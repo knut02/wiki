@@ -2,7 +2,7 @@
 title: "Apostlenes gjerninger"
 description: "Lukas-dobbelverkets andre del — Åndens bok, evangeliets ekspansjon fra Jerusalem til Roma, pinsedagen, Peter og Paulus, og Lukas som antikk historiker."
 date: 2025-05-06
-updated: 2026-08-25
+modified: 2026-08-25
 kategori: Det nye testamentet
 sub-kategori: Apostlenes gjerninger
 studievei: [evangeliene, kirkehistorie, Bibelen]

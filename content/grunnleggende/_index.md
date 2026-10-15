@@ -2,7 +2,7 @@
 title: "Grunnleggende"
 description: "Innføring i kristendommens kjernelærer — Gud, skapelse, frelse, kristenliv, sakramenter og hvem Jesus er."
 date: 2026-10-13
-updated: 2026-10-13
+modified: 2026-10-13
 ---
 
 # Grunnleggende

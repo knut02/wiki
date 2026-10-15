@@ -2,7 +2,7 @@
 title: "Frelseslære"
 description: "Forsoning, rettferdiggjørelse, helliggjørelse, sakramenter og kirke."
 date: 2026-10-13
-updated: 2026-10-13
+modified: 2026-10-13
 ---
 
 # Frelseslære

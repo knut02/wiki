@@ -2,7 +2,7 @@
 title: "Kristendom i Vest-Europa"
 description: "Kristendommens stilling i Vest- og Sentral-Europa — sekularisering, believing without belonging, kirkene som velferdsaktører, EU og kristendom, Polen og Danmark som case."
 date: 2026-09-22
-updated: 2026-09-22
+modified: 2026-09-22
 kategori: Global kristendom
 sub-kategori: Global kristendom
 tags: [Vest-Europa, sekularisering, folkekirke, believing without belonging, Grace Davie, Polen, Tyskland, Caritas, Diakonie, EU, laïcité, liberal protestantisme]

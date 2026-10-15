@@ -2,7 +2,7 @@
 title: "Grunnlag"
 description: "Troens grunnleggende elementer — Guds kjærlighet, nåde, frelse, synd, tilgivelse og menneskeverd."
 date: 2026-10-13
-updated: 2026-10-13
+modified: 2026-10-13
 ---
 
 # Grunnlag

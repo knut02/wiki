@@ -5,7 +5,7 @@ date: 2025-05-06
 kategori: Lese og forstå Bibelen
 sub-kategori: Innføring
 tags: [Bibelen, tilblivelse, kanon, kanonprosessen, inspirasjon, 66 skrifter, GT, NT]
-updated: 2026-07-10
+modified: 2026-07-10
 kilder: 3
 ---
 

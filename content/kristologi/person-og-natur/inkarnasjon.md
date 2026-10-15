@@ -5,7 +5,7 @@ date: 2025-05-03
 kategori: Kristologi
 sub-kategori: Kristologisk teologi
 tags: [inkarnasjon, Logos, Guds Sønn, to naturer, Kalkedon, Nikea, frelseteologi]
-updated: 2025-07-09
+modified: 2025-07-09
 sources: 3
 ---
 

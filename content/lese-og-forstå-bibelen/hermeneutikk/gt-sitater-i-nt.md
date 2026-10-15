@@ -2,7 +2,7 @@
 title: "GT-sitater i NT — typologi, oppfyllelse og allegori"
 description: "Hvordan NT-forfatterne bruker GT — typologi, profetisk oppfyllelse, allegori og intertekstuell lesning; metodene bak Jesu og Paulus' skriftbruk."
 date: 2026-09-28
-updated: 2026-09-28
+modified: 2026-09-28
 kategori: Lese og forstå Bibelen
 sub-kategori: Bibeltolkning
 tags: [GT i NT, typologi, oppfyllelse, allegori, pesher, midrasj, skriftbruk, intertekstualitet, Paulus, Jesus, Hebreerbrevet]

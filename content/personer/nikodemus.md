@@ -2,7 +2,7 @@
 title: "Nikodemus"
 description: "Fariseisk rådsmedlem i Jerusalem, identifisert av Keener med Nakdimon ben Gorion. Kom til Jesus om natten, forsvarte ham i Rådet og tok seg av begravelsen hans."
 date: 2026-10-04
-updated: 2026-10-04
+modified: 2026-10-04
 kategori: Personer
 sub-kategori: NT-personer
 tags: [Nikodemus, fariseer, ny fødsel, Johannes, rådet, begravelse, NT, hemmelighet, Keener]

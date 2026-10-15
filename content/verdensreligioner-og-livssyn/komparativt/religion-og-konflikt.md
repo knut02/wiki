@@ -5,7 +5,7 @@ date: 2025-05-11
 kategori: Verdensreligioner og livssyn
 sub-kategori: Livssyn og samfunn
 tags: [religion og konflikt, Brubaker, politisk vold, religionskrig, årsaker]
-updated: 2025-05-18
+modified: 2025-05-18
 ---
 
 # Religion og politisk konflikt
