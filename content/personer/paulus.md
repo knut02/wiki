@@ -7,6 +7,26 @@ sub-kategori: NT og oldkirke-personer
 tags: [Paulus, apostel, omvendelse, misjon, brevene, rettferdiggjørelse, Gal 2:20]
 modified: 2025-05-15
 kilder: 4
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Paulus av Tarsus"
+  alternateName: "Saul av Tarsus"
+  description: "Apostel, misjonær og teolog; forfatter av store deler av NT"
+  birthPlace: "Tarsus, Kilikia"
+  sameAs: "https://www.wikidata.org/wiki/Q9200"
+  relatedTo:
+    - "peter.md"
+    - "stefanus.md"
+    - "lydia.md"
+    - "krispus.md"
+    - "timoteus"
+  mentions:
+    - "romerbrevet"
+    - "galaterbrevet"
+    - "1-korinterbrevet"
+    - "2-korinterbrevet"
+    - "filipperbrevet"
 ---
 
 ## Hvem var Paulus?
