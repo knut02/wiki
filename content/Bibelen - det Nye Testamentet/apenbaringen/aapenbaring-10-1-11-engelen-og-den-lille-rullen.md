@@ -2,6 +2,24 @@
 title: "Åp 10:1–11 – Engelen og den lille rullen"
 tags: [åpenbaringen, engel, rull, profeti, syv tordener]
 source: [keener-ivp, aapenbaringen]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Åp 10:1–11 – Engelen og den lille rullen"
+  description: "Den veldige engelen med den lille rullen: Johannes spiser rullen og får kall til å profetere."
+  about:
+    "@type": "Book"
+    name: "Åpenbaringen"
+    sameAs: "https://www.wikidata.org/wiki/Q43547"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "aapenbaringen"
+    - "den-lille-rullen"
+    - "profetisk-kall"
+    - "Esekiel"
+    - "syv-tordener"
 ---
 
 # Åp 10:1–11 – Engelen og den lille rullen

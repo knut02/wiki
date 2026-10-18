@@ -2,6 +2,24 @@
 title: "Åp 6:1–17 – De syv seglene"
 tags: [åpenbaringen, dom, segl, rytterne, apokalypse]
 source: [keener-ivp, aapenbaringen]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Åp 6:1–17 – De syv seglene"
+  description: "De fire rytterne og de seks første seglene: krig, sult, død og martyrenes rop."
+  about:
+    "@type": "Book"
+    name: "Åpenbaringen"
+    sameAs: "https://www.wikidata.org/wiki/Q43547"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "aapenbaringen"
+    - "de-fire-rytterne"
+    - "seglene"
+    - "dom"
+    - "martyrer"
 ---
 
 # Åp 6:1–17 – De syv seglene

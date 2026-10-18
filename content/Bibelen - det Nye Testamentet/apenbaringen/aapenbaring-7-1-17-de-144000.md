@@ -2,6 +2,24 @@
 title: "Åp 7:1–17 – De 144 000 og den store skare"
 tags: [åpenbaringen, 144000, segl, seier, martyrer, tilbedelse]
 source: [keener-ivp, aapenbaringen]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Åp 7:1–17 – De 144 000 og den store skare"
+  description: "Mellomspill: de 144 000 forseglede fra Israel og den utallige skare fra alle nasjoner."
+  about:
+    "@type": "Book"
+    name: "Åpenbaringen"
+    sameAs: "https://www.wikidata.org/wiki/Q43547"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "aapenbaringen"
+    - "de-144000"
+    - "den-store-skare"
+    - "martyrer"
+    - "Israel"
 ---
 
 # Åp 7:1–17 – De 144 000 og den store skare

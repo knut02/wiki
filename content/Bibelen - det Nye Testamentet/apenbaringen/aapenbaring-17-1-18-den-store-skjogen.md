@@ -2,6 +2,24 @@
 title: "Åp 17:1–18 – Den store skjøgen"
 tags: [åpenbaringen, babylon, roma, keiserkult, dom, profeti]
 source: [keener-ivp, aapenbaringen]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Åp 17:1–18 – Den store skøgen"
+  description: "Babylon den store skøgen: symbol på Roma og verdens forføreriske makt – avsløring og dom."
+  about:
+    "@type": "Book"
+    name: "Åpenbaringen"
+    sameAs: "https://www.wikidata.org/wiki/Q43547"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "aapenbaringen"
+    - "Babylon"
+    - "skogen"
+    - "Roma"
+    - "keisermakt"
 ---
 
 # Åp 17:1–18 – Den store skjøgen

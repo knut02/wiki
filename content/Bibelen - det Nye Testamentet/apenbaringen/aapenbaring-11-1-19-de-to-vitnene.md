@@ -2,6 +2,24 @@
 title: "Åp 11:1–19 – De to vitnene og den syvende basunen"
 tags: [åpenbaringen, vitner, tempelet, profeter, Moses, Elias, syvende basun]
 source: [keener-ivp, aapenbaringen]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Åp 11:1–19 – De to vitnene"
+  description: "De to vitnene profeterer, drepes og oppstår – og det syvende basunstøtet løter."
+  about:
+    "@type": "Book"
+    name: "Åpenbaringen"
+    sameAs: "https://www.wikidata.org/wiki/Q43547"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "aapenbaringen"
+    - "de-to-vitnene"
+    - "tempel"
+    - "oppstandelse"
+    - "syvende-basun"
 ---
 
 # Åp 11:1–19 – De to vitnene og den syvende basunen

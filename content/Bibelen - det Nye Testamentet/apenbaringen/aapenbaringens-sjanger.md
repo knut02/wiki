@@ -7,6 +7,26 @@ kategori: Det nye testamentet
 sub-kategori: Katolske brev og Åpenbaringen
 tags: [Åpenbaringen, apokalyptikk, sjanger, symboler, tall, Daniel, Enok, keiserkult, profeti]
 sources: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Åpenbaringens sjanger — apokalyptikk, tall og symboler"
+  description: "Temaartikkel om Åpenbaringens litterære sjanger: apokalyptikk som ikke er fremtidssspådom, men symbolsk motnarrativ til Romas imperium."
+  about:
+    "@type": "Book"
+    name: "Åpenbaringen"
+    sameAs: "https://www.wikidata.org/wiki/Q43547"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "aapenbaringen"
+    - "apokalyptikk"
+    - "sjanger"
+    - "symboler"
+    - "tall"
+    - "Daniel"
+    - "keiserkult"
 ---
 
 > «Salig er den som leser opp og de som hører ordene i denne profetien.» — Åp 1:3

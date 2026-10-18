@@ -2,6 +2,24 @@
 title: "Åp 18:1–24 – Babylon er falt"
 tags: [åpenbaringen, babylon, roma, handel, dom, klagesang]
 source: [keener-ivp, aapenbaringen]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Åp 18:1–24 – Babylon er falt"
+  description: "Klagesangen over Babylons fall: handelsmenn, konger og sjeføk gjør sorg, men himmelen jubler."
+  about:
+    "@type": "Book"
+    name: "Åpenbaringen"
+    sameAs: "https://www.wikidata.org/wiki/Q43547"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "aapenbaringen"
+    - "Babylon"
+    - "dom"
+    - "handel"
+    - "klage"
 ---
 
 # Åp 18:1–24 – Babylon er falt

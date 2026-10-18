@@ -2,6 +2,24 @@
 title: "Åp 4:1–11 – Synet av himmeltronen: Den Evige på tronen"
 tags: [åpenbaringen, himmeltronen, tilbedelse, skaperteologi, serafer]
 source: [keener-ivp, aapenbaringen]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Åp 4:1–11 – Himmeltronen"
+  description: "Johannes' syn av himmeltronen: Guds majestet, de fire skapningene og de 24 eldstes tilbedelse."
+  about:
+    "@type": "Book"
+    name: "Åpenbaringen"
+    sameAs: "https://www.wikidata.org/wiki/Q43547"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "aapenbaringen"
+    - "himmeltronen"
+    - "de-fire-skapningene"
+    - "24-eldste"
+    - "tilbedelse"
 ---
 
 # Åp 4:1–11 – Synet av himmeltronen: Den Evige på tronen

@@ -2,6 +2,24 @@
 title: "Åp 21:1–8 – Det nye Jerusalem (innledning)"
 tags: [åpenbaringen, det-nye-jerusalem, ny-skapelse, håp, pakt]
 source: [keener-ivp, aapenbaringen]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Åp 21:1–8 – Det nye Jerusalem"
+  description: "En ny himmel og en ny jord: Gud bor blant menneskene, alt gammelt er borte, alt er nytt."
+  about:
+    "@type": "Book"
+    name: "Åpenbaringen"
+    sameAs: "https://www.wikidata.org/wiki/Q43547"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "aapenbaringen"
+    - "det-nye-jerusalem"
+    - "ny-skapning"
+    - "Guds-naervarer"
+    - "evig-liv"
 ---
 
 # Åp 21:1–8 – Det nye Jerusalem (innledning)

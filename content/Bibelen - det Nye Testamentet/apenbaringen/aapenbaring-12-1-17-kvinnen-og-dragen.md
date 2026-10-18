@@ -2,6 +2,24 @@
 title: "Åp 12:1–17 – Kvinnen og dragen"
 tags: [åpenbaringen, kvinner, dragen, Satan, krig, Israel, menighet]
 source: [keener-ivp, aapenbaringen]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Åp 12:1–17 – Kvinnen og dragen"
+  description: "Kvinnen som føder Messias, dragen Satan og krigen i himmelen – Guds folk på flukt."
+  about:
+    "@type": "Book"
+    name: "Åpenbaringen"
+    sameAs: "https://www.wikidata.org/wiki/Q43547"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "aapenbaringen"
+    - "dragen"
+    - "Satan"
+    - "Mikael"
+    - "himmelkrig"
 ---
 
 # Åp 12:1–17 – Kvinnen og dragen

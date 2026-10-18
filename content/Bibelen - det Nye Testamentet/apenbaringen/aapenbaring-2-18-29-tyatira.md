@@ -2,6 +2,24 @@
 title: "Åp 2:18–29 – Brev til Tyatira: Jesabel og dypets hemmeligheter"
 tags: [åpenbaringen, menigheter, tyatira, falsk-profeti, lavsguder, Jesabel]
 source: [keener-ivp, aapenbaringen]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Åp 2:18–29 – Brev til Tyatira"
+  description: "Brevet til menigheten i Tyatira: ros for kærlighet og tro, kritikk for toleranse av profetinnen Jesabel."
+  about:
+    "@type": "Book"
+    name: "Åpenbaringen"
+    sameAs: "https://www.wikidata.org/wiki/Q43547"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "aapenbaringen"
+    - "Tyatira"
+    - "menighetsbrev"
+    - "Jesabel"
+    - "avgudsmat"
 ---
 
 # Åp 2:18–29 – Brev til Tyatira: Jesabel og dypets hemmeligheter

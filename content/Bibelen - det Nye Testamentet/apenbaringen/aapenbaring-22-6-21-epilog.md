@@ -2,6 +2,24 @@
 title: "Åp 22:6–21 – Epilog"
 tags: [åpenbaringen, epilog, maranata, profeti, løfte]
 source: [keener-ivp, aapenbaringen]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Åp 22:6–21 – Epilog"
+  description: "Bokas avslutning: vitnesbyrd om åpenbaringens sannhet, Jesu snarlige komme og den avsluttende velsignelse."
+  about:
+    "@type": "Book"
+    name: "Åpenbaringen"
+    sameAs: "https://www.wikidata.org/wiki/Q43547"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "aapenbaringen"
+    - "Jesu-gjenkomst"
+    - "epilog"
+    - "maranata"
+    - "livets-tre"
 ---
 
 # Åp 22:6–21 – Epilog

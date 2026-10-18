@@ -2,6 +2,24 @@
 title: "Åp 13:1–18 – Dyret fra havet og dyret fra landet"
 tags: [åpenbaringen, dyret, keiserkult, 666, Nero, antikrist, merket]
 source: [keener-ivp, aapenbaringen]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Åp 13:1–18 – Dyret fra havet"
+  description: "Det første dyret fra havet (Roma/keisermakt) og det andre dyret fra jorden (falsk profet) – 666."
+  about:
+    "@type": "Book"
+    name: "Åpenbaringen"
+    sameAs: "https://www.wikidata.org/wiki/Q43547"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "aapenbaringen"
+    - "dyret"
+    - "keiserkult"
+    - "666"
+    - "falsk-profet"
 ---
 
 # Åp 13:1–18 – Dyret fra havet og dyret fra landet

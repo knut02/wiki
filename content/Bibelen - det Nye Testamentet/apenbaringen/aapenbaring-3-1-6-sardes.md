@@ -2,6 +2,23 @@
 title: "Åp 3:1–6 – Brev til Sardes: Du har navn for å leve, men du er død"
 tags: [åpenbaringen, menigheter, sardes, åndelig-død, hvite-klær]
 source: [keener-ivp, aapenbaringen]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Åp 3:1–6 – Brev til Sardes"
+  description: "Brevet til menigheten i Sardes: kritikk for å være åndeølg men død, oppfordring til å våkne."
+  about:
+    "@type": "Book"
+    name: "Åpenbaringen"
+    sameAs: "https://www.wikidata.org/wiki/Q43547"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "aapenbaringen"
+    - "Sardes"
+    - "menighetsbrev"
+    - "hvite-klaer"
 ---
 
 # Åp 3:1–6 – Brev til Sardes: Du har navn for å leve, men du er død

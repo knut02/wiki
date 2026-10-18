@@ -2,6 +2,23 @@
 title: "Åp 2:1–7 – Brev til Efesos: Den som har mistet sin første kjærlighet"
 tags: [åpenbaringen, menigheter, efesos, kjærlighet, livets-tre]
 source: [keener-ivp, aapenbaringen]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Åp 2:1–7 – Brev til Efesos"
+  description: "Brevet til menigheten i Efesos: ros for utholdenhet, kritikk for tapt kjærlighet."
+  about:
+    "@type": "Book"
+    name: "Åpenbaringen"
+    sameAs: "https://www.wikidata.org/wiki/Q43547"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "aapenbaringen"
+    - "Efesos"
+    - "menighetsbrev"
+    - "kjærlighet"
 ---
 
 # Åp 2:1–7 – Brev til Efesos: Den som har mistet sin første kjærlighet

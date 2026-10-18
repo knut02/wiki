@@ -2,6 +2,23 @@
 title: "Åp 1:9–20 – Den innledende synen: Menneskesønnen midt blant lysestakene"
 tags: [åpenbaringen, kristofani, patmos, menighetene, profeti]
 source: [keener-ivp, aapenbaringen]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Åp 1:9–20 – Den innledende synen: Menneskesønnen"
+  description: "Synet på Patmos: Johannes ser Menneskesønnen midt blant de sju lysestakene."
+  about:
+    "@type": "Book"
+    name: "Åpenbaringen"
+    sameAs: "https://www.wikidata.org/wiki/Q43547"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "aapenbaringen"
+    - "Menneskesønnen"
+    - "Patmos"
+    - "lysestaker"
 ---
 
 # Åp 1:9–20 – Den innledende synen: Menneskesønnen midt blant lysestakene

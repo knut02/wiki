@@ -2,6 +2,24 @@
 title: "Åp 14:1–20 – Lammet på Sion og domsinnhøstingen"
 tags: [åpenbaringen, 144000, Sion, dom, høst, Babylon, seier]
 source: [keener-ivp, aapenbaringen]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Åp 14:1–20 – Lammet på Sion"
+  description: "De 144 000 med Lammet på Sion, englenes forkynnelse og høstens dom over jorden."
+  about:
+    "@type": "Book"
+    name: "Åpenbaringen"
+    sameAs: "https://www.wikidata.org/wiki/Q43547"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "aapenbaringen"
+    - "lammet"
+    - "Sion"
+    - "de-144000"
+    - "hosten-dom"
 ---
 
 # Åp 14:1–20 – Lammet på Sion og domsinnhøstingen

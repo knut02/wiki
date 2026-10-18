@@ -2,6 +2,23 @@
 title: "Åp 2:8–11 – Brev til Smyrna: Vær trofast inntil døden"
 tags: [åpenbaringen, menigheter, smyrna, martyrium, forfølgelse, synagogen]
 source: [keener-ivp, aapenbaringen]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Åp 2:8–11 – Brev til Smyrna"
+  description: "Brevet til menigheten i Smyrna: ros for utholdenhet under forfolgelse, oppmuntring til trofasthet."
+  about:
+    "@type": "Book"
+    name: "Åpenbaringen"
+    sameAs: "https://www.wikidata.org/wiki/Q43547"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "aapenbaringen"
+    - "Smyrna"
+    - "menighetsbrev"
+    - "forfolgelse"
 ---
 
 # Åp 2:8–11 – Brev til Smyrna: Vær trofast inntil døden

@@ -2,6 +2,24 @@
 title: "Åp 3:14–22 – Brev til Laodikea: Den lunken menigheten"
 tags: [åpenbaringen, menigheter, laodikea, lunkenhet, rikdom, dør]
 source: [keener-ivp, aapenbaringen]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Åp 3:14–22 – Brev til Laodikea"
+  description: "Brevet til menigheten i Laodikea: kritikk for å være lunken, løfte om fellesskap med Kristus."
+  about:
+    "@type": "Book"
+    name: "Åpenbaringen"
+    sameAs: "https://www.wikidata.org/wiki/Q43547"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "aapenbaringen"
+    - "Laodikea"
+    - "menighetsbrev"
+    - "lunkenhet"
+    - "dor-og-banke"
 ---
 
 # Åp 3:14–22 – Brev til Laodikea: Den lunken menigheten

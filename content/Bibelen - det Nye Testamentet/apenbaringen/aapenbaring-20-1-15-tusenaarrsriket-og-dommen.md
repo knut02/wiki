@@ -2,6 +2,24 @@
 title: "Åp 20:1–15 – Tusenårsriket og dommen"
 tags: [åpenbaringen, tusenårsriket, dom, satan, oppstandelse, ildsjøen]
 source: [keener-ivp, aapenbaringen]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Åp 20:1–15 – Tusenårsriket og den store dommen"
+  description: "Satan bundet i tusen år, de helliges herredømme, Gog og Magog og den store hvite trone-dommen."
+  about:
+    "@type": "Book"
+    name: "Åpenbaringen"
+    sameAs: "https://www.wikidata.org/wiki/Q43547"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "aapenbaringen"
+    - "tusenaarrsriket"
+    - "Satan"
+    - "Gog-og-Magog"
+    - "den-store-dommen"
 ---
 
 # Åp 20:1–15 – Tusenårsriket og dommen

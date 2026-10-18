@@ -2,6 +2,24 @@
 title: "Åp 5:1–14 – Lammet og rullen: Seieren gjennom ofringen"
 tags: [åpenbaringen, lammet, seier, soningsoffer, tilbedelse, løve-av-juda]
 source: [keener-ivp, aapenbaringen]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Åp 5:1–14 – Lammet og rullen"
+  description: "Lammet som ble slaktet åpner den forseglede rullen, og all skapning tilber."
+  about:
+    "@type": "Book"
+    name: "Åpenbaringen"
+    sameAs: "https://www.wikidata.org/wiki/Q43547"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "aapenbaringen"
+    - "lammet"
+    - "rullen"
+    - "tilbedelse"
+    - "frelseshistorie"
 ---
 
 # Åp 5:1–14 – Lammet og rullen: Seieren gjennom ofringen

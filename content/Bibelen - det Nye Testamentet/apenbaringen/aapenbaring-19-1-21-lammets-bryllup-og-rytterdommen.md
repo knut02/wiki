@@ -2,6 +2,24 @@
 title: "Åp 19:1–21 – Lammets bryllup og rytterdommen"
 tags: [åpenbaringen, babylon, dom, bryllup, lammet, kristus, krig]
 source: [keener-ivp, aapenbaringen]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Åp 19:1–21 – Lammets bryllup og rytterdommen"
+  description: "Himmelens jubel over Babylons fall, Lammets bryllupsmèltí og Kristus som seirende rytter."
+  about:
+    "@type": "Book"
+    name: "Åpenbaringen"
+    sameAs: "https://www.wikidata.org/wiki/Q43547"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "aapenbaringen"
+    - "lammets-bryllup"
+    - "Kristus-rytteren"
+    - "dom"
+    - "seier"
 ---
 
 # Åp 19:1–21 – Lammets bryllup og rytterdommen

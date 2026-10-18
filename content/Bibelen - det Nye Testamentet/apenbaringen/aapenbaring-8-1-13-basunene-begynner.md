@@ -2,6 +2,24 @@
 title: "Åp 8:1–13 – Basunene begynner"
 tags: [åpenbaringen, basuner, dom, eksodus, engler, bønn]
 source: [keener-ivp, aapenbaringen]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Åp 8:1–13 – De første fire basunene"
+  description: "Det syvende seglet åpnes og de første fire basunene løter: plager over jord, hav, vann og himmel."
+  about:
+    "@type": "Book"
+    name: "Åpenbaringen"
+    sameAs: "https://www.wikidata.org/wiki/Q43547"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "aapenbaringen"
+    - "basunene"
+    - "plager"
+    - "dom"
+    - "Egypt-motiv"
 ---
 
 # Åp 8:1–13 – Basunene begynner

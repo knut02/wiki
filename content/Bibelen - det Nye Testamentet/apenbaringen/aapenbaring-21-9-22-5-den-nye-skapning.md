@@ -2,6 +2,24 @@
 title: "Åp 21:9–22:5 – Den nye skapning"
 tags: [åpenbaringen, det-nye-jerusalem, paradis, tempel, herlighet]
 source: [keener-ivp, aapenbaringen]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Åp 21:9–22:5 – Den nye skapning"
+  description: "Den hellige byens mål og herlighet: ingen tempel, ingen sol, for Gud og Lammet er dens lys."
+  about:
+    "@type": "Book"
+    name: "Åpenbaringen"
+    sameAs: "https://www.wikidata.org/wiki/Q43547"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "aapenbaringen"
+    - "det-nye-jerusalem"
+    - "livets-tre"
+    - "Guds-naervarer"
+    - "ny-skapning"
 ---
 
 # Åp 21:9–22:5 – Den nye skapning

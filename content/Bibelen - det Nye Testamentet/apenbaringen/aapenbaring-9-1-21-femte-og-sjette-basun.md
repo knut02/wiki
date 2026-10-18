@@ -2,6 +2,24 @@
 title: "Åp 9:1–21 – Femte og sjette basun: De to Ve"
 tags: [åpenbaringen, basuner, gresshopper, hærer, dom, demoner]
 source: [keener-ivp, aapenbaringen]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Åp 9:1–21 – Femte og sjette basun"
+  description: "De to vebasunene: gresshopper fra avgrunnen og det veldige rytterhæren – men menneskene omvender seg ikke."
+  about:
+    "@type": "Book"
+    name: "Åpenbaringen"
+    sameAs: "https://www.wikidata.org/wiki/Q43547"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "aapenbaringen"
+    - "basunene"
+    - "avgrunnen"
+    - "gresshopper"
+    - "omvendelse"
 ---
 
 # Åp 9:1–21 – Femte og sjette basun: De to Ve

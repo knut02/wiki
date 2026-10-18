@@ -2,6 +2,23 @@
 title: "Åp 3:7–13 – Brev til Filadelfia: Den åpne døren ingen kan stenge"
 tags: [åpenbaringen, menigheter, filadelfia, Davids-nøkkel, søyle-i-templet]
 source: [keener-ivp, aapenbaringen]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Åp 3:7–13 – Brev til Filadelfia"
+  description: "Brevet til menigheten i Filadelfia: ros uten kritikk, løfte om åpen dør og beskyttelse."
+  about:
+    "@type": "Book"
+    name: "Åpenbaringen"
+    sameAs: "https://www.wikidata.org/wiki/Q43547"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "aapenbaringen"
+    - "Filadelfia"
+    - "menighetsbrev"
+    - "Davids-nokkel"
 ---
 
 # Åp 3:7–13 – Brev til Filadelfia: Den åpne døren ingen kan stenge

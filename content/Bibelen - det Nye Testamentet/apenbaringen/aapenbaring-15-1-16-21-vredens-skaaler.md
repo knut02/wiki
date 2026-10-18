@@ -2,6 +2,24 @@
 title: "Åp 15:1–16:21 – Vredens skåler"
 tags: [åpenbaringen, vredens-skåler, eksodus, Armageddon, dom, seier]
 source: [keener-ivp, aapenbaringen]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Åp 15–16 – Vredens skåler"
+  description: "De syv siste plagene: vredens skåler helles ut over jorden, dyrkets rike og Babylon."
+  about:
+    "@type": "Book"
+    name: "Åpenbaringen"
+    sameAs: "https://www.wikidata.org/wiki/Q43547"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "aapenbaringen"
+    - "vredens-skaaler"
+    - "plager"
+    - "Harmageddon"
+    - "dom"
 ---
 
 # Åp 15:1–16:21 – Vredens skåler

@@ -2,6 +2,23 @@
 title: "Åp 1:1–8 – Prolog: «Alfa og Omega»"
 tags: [åpenbaringen, prolog, kristologi, eskatologi, keiserkult]
 source: [keener-ivp, aapenbaringen]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Åp 1:1–8 – Prolog: Alfa og Omega"
+  description: "Åpenbaringens prolog: tittel, saligprisning, trinitarisk hilsen og gudstittelen Alfa og Omega."
+  about:
+    "@type": "Book"
+    name: "Åpenbaringen"
+    sameAs: "https://www.wikidata.org/wiki/Q43547"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "aapenbaringen"
+    - "prolog"
+    - "Alfa-og-Omega"
+    - "keiserkult"
 ---
 
 # Åp 1:1–8 – Prolog: «Alfa og Omega»

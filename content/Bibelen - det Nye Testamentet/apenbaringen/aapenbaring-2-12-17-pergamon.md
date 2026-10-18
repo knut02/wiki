@@ -2,6 +2,24 @@
 title: "Åp 2:12–17 – Brev til Pergamon: Der Satan har sin trone"
 tags: [åpenbaringen, menigheter, pergamon, keiserkult, bileam, manna]
 source: [keener-ivp, aapenbaringen]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Åp 2:12–17 – Brev til Pergamon"
+  description: "Brevet til menigheten i Pergamon: ros for trofasthet, kritikk for toleranse av falsk lære."
+  about:
+    "@type": "Book"
+    name: "Åpenbaringen"
+    sameAs: "https://www.wikidata.org/wiki/Q43547"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "aapenbaringen"
+    - "Pergamon"
+    - "menighetsbrev"
+    - "Bileam"
+    - "nikolaittene"
 ---
 
 # Åp 2:12–17 – Brev til Pergamon: Der Satan har sin trone
