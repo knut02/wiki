@@ -3,6 +3,18 @@ title: "Oldkirken (ca. 30–500)"
 description: "Kirkens første fem århundrer — apostoliske fedre, martyriet, konsilet i Nikea, store teologer og gudstjenestens utvikling."
 date: 2026-10-13
 modified: 2026-10-13
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Oldkirken (ca. 30–500)"
+  description: "Kirkens første fem århundrer — apostoliske fedre, martyriet, konsilet i Nikea, store teologer og gudstjenestens utvikling."
+  about:
+    "@type": "Thing"
+    name: "History of Christianity"
+    sameAs: "https://www.wikidata.org/wiki/Q17514576"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
 ---
 
 # Oldkirken (ca. 30–500)

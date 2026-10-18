@@ -6,6 +6,21 @@ kategori: Kirkehistorie
 sub-kategori: Oldkirken — Bakgrunn og kontekst
 tags: [Didache, to veier, dåp, nattverd, faste, oldkirken, katekese]
 kilder: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Didache"
+  description: "Didache — De tolv apostlers lære — den eldste kristne katekismus og gudstjenestebeskrivelse."
+  about:
+    "@type": "Thing"
+    name: "Didache"
+    sameAs: "https://www.wikidata.org/wiki/Q190780"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "sources/ANF01-apostolic-fathers"
+    - "sources/TEOL2310-teologihistorie-oldkirken"
 ---
 
 ## Hva er Didache?

@@ -6,6 +6,20 @@ kategori: Kirkehistorie
 sub-kategori: Oldkirken — Bakgrunn og kontekst
 tags: [det annet århundre, apologetikk, gnostisisme, Irenaeus, Tertullian, forflølgelse]
 kilder: 1
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Kirkehistorie 100–200"
+  description: "Det annet århundre — apologetene, de apostoliske fedrene og de første teologiske stridene."
+  about:
+    "@type": "Thing"
+    name: "History of Christianity"
+    sameAs: "https://www.wikidata.org/wiki/Q17514576"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "kirkehistorie-100-200"
 ---
 
 ## Historisk kontekst

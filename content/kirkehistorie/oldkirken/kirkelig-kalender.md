@@ -7,6 +7,20 @@ kategori: Kirkehistorie
 sub-kategori: Oldkirkens gudstjeneste
 tags: [kirkelig kalender, påske, pinse, jul, epifania, søndag, faste, martyrer, Egeria, Quartodeciman, Lent, Advent, McGowan]
 sources: 1
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Den kirkelige kalenderen"
+  description: "Fremveksten av den kirkelige kalenderen — påske, pinse, advent og festdagenes liturgiske plass."
+  about:
+    "@type": "Thing"
+    name: "Liturgical calendar"
+    sameAs: "https://www.wikidata.org/wiki/Q1133345"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "McGowan-2014-Ancient-Christian-Worship"
 ---
 
 > «Å bebo tid var uunngåelig for de første kristne og krevde strukturer, markører og meningsindikatorer. Dersom tidens Herre var deres Herre, måtte tid selv avspeile den suverenitet.» — Andrew McGowan

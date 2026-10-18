@@ -7,6 +7,22 @@ kategori: Kirkehistorie
 sub-kategori: Oldkirken — Store teologer
 tags: [Athanasius, inkarnasjon, theosis, frelse, Logos, arvesynd, forgjengelighet, oldkirken, patristikk]
 sources: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Athanasius om inkarnasjonen"
+  description: "Athanasius' De incarnatione — inkarnasjonen som frelse, theosis og kampen mot arianismen."
+  about:
+    "@type": "Thing"
+    name: "Athanasius av Alexandria"
+    sameAs: "https://www.wikidata.org/wiki/Q153294"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "sources/ANF01-apostolic-fathers"
+    - "sources/TEOL2310-teologihistorie-oldkirken"
+    - "sources/Cameron-2005-Interpreting-Christian-History"
 ---
 
 > «Han ble menneske for at vi skulle bli guddommelige.» — Athanasius, *Om inkarnasjonen*, kap. 54

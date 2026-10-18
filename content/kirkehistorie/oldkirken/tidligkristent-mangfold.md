@@ -7,6 +7,21 @@ sub-kategori: Oldkirken — Bakgrunn og kontekst
 tags: [tidlig kristendom, ortodoksi, heterodoksi, mangfold, gnosis, Bauer]
 modified: 2025-05-14
 kilder: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Tidlig kristent mangfold — ortodoksi og heterodoksi"
+  description: "Var den tidlige kristendommen én bevegelse med avvikere — eller et mangfold der ortodoksien er én av mange? Ehrman og Kaufman i dialog."
+  about:
+    "@type": "Thing"
+    name: "History of early Christianity"
+    sameAs: "https://www.wikidata.org/wiki/Q5758124"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "Ehrman-kirkens-struktur"
+    - "TEOL2310-teologihistorie-oldkirken"
 ---
 
 ## Spørsmålet

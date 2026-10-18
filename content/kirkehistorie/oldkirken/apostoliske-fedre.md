@@ -7,6 +7,22 @@ kategori: Kirkehistorie
 sub-kategori: Oldkirken — Bakgrunn og kontekst
 tags: [apostoliske fedre, Ignatius, Klemens, Polykarp, Didache, oldkirken]
 sources: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Apostoliske fedre"
+  description: "Klemens av Roma, Ignatius av Antiokia, Polykarp og Didache — de apostoliske fedrene i oldkirken."
+  about:
+    "@type": "Thing"
+    name: "Apostoliske fedre"
+    sameAs: "https://www.wikidata.org/wiki/Q732440"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "sources/ANF01-apostolic-fathers"
+    - "sources/TEOL2310-teologihistorie-oldkirken"
+    - "sources/Pedersen-2012-oldkirken"
 ---
 
 > «Jeg er Guds hvete, og la meg males av dyrs tenner, slik at jeg kan bli funnet å være rent brød for Kristus.» — Ignatius av Antiokia, *Brev til romerne*, ca. 107 e.Kr.

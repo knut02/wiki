@@ -7,6 +7,20 @@ sub-kategori: Oldkirken — Kristologi og treenighet
 tags: [Apostolicum, Nikea-bek jennelsen, Athanasius-trosen, bek jennelser, treenighet]
 modified: 2025-05-11
 kilder: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "De tre oldkirkelige bekjennelsene"
+  description: "Apostolicum, den nikenske bekjennelsen og Athanasianum — oldkirkens tre store bekjennelsesdokumenter"
+  about:
+    "@type": "Thing"
+    name: "Kirkehistorie"
+    sameAs: "https://www.wikidata.org/wiki/Q17514576"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "studier-personlige"
 ---
 
 ## Tre bekjennelser — tre funksjoner

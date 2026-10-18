@@ -7,6 +7,20 @@ kategori: Bibelen - det Gamle Testamentet
 sub-kategori: Profetene
 tags: [profeter, mindre-profeter, GT, Nahum, Habakkuk, Sefanja, Haggai, Sakaria, Malaki, eksil, etteksil]
 sources: 1
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "De mindre profetene"
+  description: "Oversikt over de tolv mindre profetene — Nahum, Habakkuk, Sefanja, Haggai, Sakaria og Malaki"
+  about:
+    "@type": "Book"
+    name: "Det gamle testamentet"
+    sameAs: "https://www.wikidata.org/wiki/Q19"
+  isPartOf:
+    "@type": "Book"
+    name: "Det gamle testamentet"
+  mentions:
+    - "studier-personlige"
 ---
 
 ## Innledning

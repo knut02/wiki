@@ -7,6 +7,22 @@ sub-kategori: Middelalderen — Mystikk
 tags: [beginer, Hadewijch, Mechthild, Marguerite Porete, mystikk, kvinner, middelalder]
 modified: 2025-07-09
 sources: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Begine-mystikken og vernakulær teologi"
+  description: "Hadewijch av Brabant, Mechthild av Magdeburg og Marguerite Porete — middelalderens kvinner som skrev teologi på folkespråk og skapte ny mystisk litteratur utenfor klosterets kontroll."
+  about:
+    "@type": "Thing"
+    name: "Beguines"
+    sameAs: "https://www.wikidata.org/wiki/Q274473"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "McGinn-1994-eckhart-beguine-mystics"
+    - "Porete-enkle-sjelers-speil"
+    - "studier-personlige"
 ---
 
 # Begine-mystikken og vernakulær teologi

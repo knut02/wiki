@@ -7,6 +7,21 @@ sub-kategori: Middelalderen
 studievei: [kirkehistorie]
 tags: [korstogene, Urban II, Jerusalem, Saladin, middelalder, kirke og stat, islam, pilegrimsferd, ridderordener]
 sources: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Korstogene (1095-1291)"
+  description: "To hundre år med væpnede pilegrimsferder til Det hellige land — motivasjoner, forløp, konsekvenser for kirke-islam-relasjonen og korstogenes teologiske arv."
+  about:
+    "@type": "Thing"
+    name: "Crusades"
+    sameAs: "https://www.wikidata.org/wiki/Q9128"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "McGrath-Historical-Theology"
+    - "studier-personlige"
 ---
 
 > «Dieu le veut» — «Gud vil det» — slagord fra det første korstog, 1095

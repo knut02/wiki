@@ -7,6 +7,21 @@ kategori: Bibelen - det Gamle Testamentet
 sub-kategori: Poetiske bøker
 tags: [Klagesangene, Jerusalem, eksil, Babylon, 587 f.Kr., alfabetdikt, klage, datter Sion, deuteronomistisk teologi, Brueggemann, Hasselbalch]
 sources: 1
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Klagesangene"
+  description: "Klagesangene — fem dikt om Jerusalems fall og klagens teologi i GT"
+  about:
+    "@type": "Book"
+    name: "Klagesangene"
+    sameAs: "https://www.wikidata.org/wiki/Q48205"
+  isPartOf:
+    "@type": "Book"
+    name: "Det gamle testamentet"
+  mentions:
+    - "Hasselbalch-2022-klagens-abc"
+    - "studier-personlige"
 ---
 
 > «Akk! Hun sitter ensom. Byen var folkerik. Hun ble lik en enke.» — Klag 1:1

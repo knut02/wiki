@@ -6,6 +6,20 @@ kategori: Det gamle testamentet
 sub-kategori: Profetene
 tags: [Daniel, apokalyptikk, Nebukadnesar, Babylon, drømmer, syner, GT]
 kilder: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Daniels bok"
+  description: "Daniels bok — apokalyptikk, visjon og trofasthet under fremmed herredømme"
+  about:
+    "@type": "Book"
+    name: "Daniels bok"
+    sameAs: "https://www.wikidata.org/wiki/Q43457"
+  isPartOf:
+    "@type": "Book"
+    name: "Det gamle testamentet"
+  mentions:
+    - "studier-personlige"
 ---
 
 ## To deler — én bok

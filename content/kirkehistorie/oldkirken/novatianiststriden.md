@@ -7,6 +7,20 @@ kategori: Kirkehistorie
 sub-kategori: Oldkirken
 tags: [Novatian, Cyprian, frafalne, lapsus, buss, gjenopprettelse, kirkedisiplin, oldkirken, 250-tallet]
 sources: 1
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Novatianiststriden"
+  description: "Striden om behandlingen av de frafalne etter Decisk forfølgelse — Novatian mot Cyprian, og spørsmålet om kirken kan tilgi dem som sviktet under press."
+  about:
+    "@type": "Thing"
+    name: "Novatianism"
+    sameAs: "https://www.wikidata.org/wiki/Q728203"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "McGrath-Historical-Theology"
 ---
 
 > «Meningene var dypt delt, og alvorlig uenighet og spenning oppstod.» — McGrath om striden etter Decisk forfølgelse

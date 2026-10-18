@@ -7,6 +7,20 @@ kategori: Kirkehistorie
 sub-kategori: Middelalderen
 tags: [schisma, 1054, filioque, ortodoks, katolsk, øst og vest, Konstantinopel, Roma, Kerullarios, Leo IX, pavemakt]
 sources: 1
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Det store schisma 1054"
+  description: "Bruddet mellom østkirken og vestkirken i 1054 — de teologiske og politiske årsakene, filioque-striden, Kerullarios og Leo IX, og arven etter schismaet."
+  about:
+    "@type": "Thing"
+    name: "East–West Schism"
+    sameAs: "https://www.wikidata.org/wiki/Q186356"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "McGrath-Historical-Theology"
 ---
 
 > «Den endelige splittelsen mellom den katolske vest og den ortodokse øst er vanligvis datert til 1054 — selv om denne datoen er noe vilkårlig.» — Alister McGrath, *Historical Theology*

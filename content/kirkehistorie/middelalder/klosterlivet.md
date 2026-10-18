@@ -7,6 +7,20 @@ sub-kategori: Middelalderen
 tags: [kloster, Benedikt, cisterciensere, ora et labora, klosterliv, regel, munk]
 modified: 2025-06-13
 kilder: 1
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Klosterlivet i middelalderen"
+  description: "Klostervesenet som oppsto på 300-tallet som en reaksjon på kirkens statsliggjøring, og utviklet seg gjennom tre hovedfaser i middelalderen."
+  about:
+    "@type": "Thing"
+    name: "Monasticism"
+    sameAs: "https://www.wikidata.org/wiki/Q170208"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "klosterlivet"
 ---
 
 ## Opprinnelse

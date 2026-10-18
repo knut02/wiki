@@ -7,6 +7,22 @@ kategori: Kirkehistorie
 sub-kategori: Oldkirken
 tags: [frelse, oldkirken, Bercot, Athanasius, Augustin, Ireneus, nåde, theosis, arvesynd, pelagianisme, Klemens, Origenes, Tertullian, Polykarp]
 sources: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Frelse i oldkirken"
+  description: "Oldkirkens frelsesforståelse — Bercots todelte frelsessyn, Athanasius og inkarnasjonen som frelse, Augustin og nådens radikalitet."
+  about:
+    "@type": "Thing"
+    name: "Kirkehistorie"
+    sameAs: "https://www.wikidata.org/wiki/Q17514576"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "sources/Bercot-1992-salvation"
+    - "sources/Cameron-2005-Interpreting-Christian-History"
+    - "sources/TEOL2300-studier"
 ---
 
 > «Gud ble menneske for at mennesket skulle bli Gud.» — Athanasius

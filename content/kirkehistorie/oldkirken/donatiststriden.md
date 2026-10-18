@@ -7,6 +7,20 @@ kategori: Kirkehistorie
 sub-kategori: Oldkirken
 tags: [donatistene, Augustin, sakramenter, kirkens hellighet, traditor, frafalne, Nord-Afrika, ekklesiologi, oldkirken]
 sources: 1
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Donatiststriden"
+  description: "Striden om kirkens renhet og sakramentenes gyldighet etter Diokletians forfølgelse — donatistene mot Augustin."
+  about:
+    "@type": "Thing"
+    name: "Donatism"
+    sameAs: "https://www.wikidata.org/wiki/Q211505"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "McGrath-Historical-Theology"
 ---
 
 > «Kirkens gyldige tjeneste og forkynnelse avhang ikke av dens tjenesters hellighet, men av personen Jesus Kristus.» — McGrath om Augustins svar til donatistene

@@ -6,6 +6,20 @@ kategori: Kirkehistorie
 sub-kategori: Oldkirken — Kristologi og treenighet
 tags: [arianisme, Arius, homoiousios, Konstantinopel, kristologi, kjetteri]
 kilder: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Arianismen"
+  description: "Den kristologiske læren fra Arius om at Sønnen er skapt og underordnet Faderen"
+  about:
+    "@type": "Thing"
+    name: "Arianisme"
+    sameAs: "https://www.wikidata.org/wiki/Q83327"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "studier-personlige"
 ---
 
 ## Hva lærte Arius?

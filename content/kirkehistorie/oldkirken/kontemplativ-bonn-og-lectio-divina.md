@@ -6,6 +6,20 @@ kategori: Kirkehistorie
 sub-kategori: Oldkirken — Teologi og spiritualitet
 tags: [kontemplativ bønn, lectio divina, Cassian, Benedikt, ørkenfedre, Evagrius, hesychasm, stillhet, monastisisme, bønn]
 sources: 1
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Kontemplativ bønn og lectio divina"
+  description: "Den kontemplative tradisjonens røtter fra ørkenfadrene via Cassian og Benedikt til lectio divina."
+  about:
+    "@type": "Thing"
+    name: "Lectio Divina"
+    sameAs: "https://www.wikidata.org/wiki/Q912288"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "sources/TEOL2310-teologihistorie-oldkirken"
 ---
 
 > «Bønnens fullendelse er ikke å fullføre et antall formler, men å oppnå en tilstand der sjelen alltid er vendt mot Gud.» — Johannes Cassian, *Collationes* IX

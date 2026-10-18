@@ -6,6 +6,21 @@ kategori: Kirkehistorie
 sub-kategori: Middelalderen
 tags: [schisma, 1054, filioque, Roma, Konstantinopel, pave, patriark, øst-vest]
 kilder: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Kirken i øst og vest — splittelsen av kristendommen"
+  description: "Splittelsen mellom østkirken og vestkirken — keisermakt vs. pavemakt, filioque-striden, Islam og den store omfordelingen, og skismaet i 1054."
+  about:
+    "@type": "Thing"
+    name: "East–West Schism"
+    sameAs: "https://www.wikidata.org/wiki/Q186356"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "Woodhead-2004-east-west"
+    - "TEOL2310-teologihistorie-oldkirken"
 ---
 
 ## To kristendommer — én religion

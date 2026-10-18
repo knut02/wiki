@@ -7,6 +7,23 @@ sub-kategori: Oldkirken — Teologi og spiritualitet
 tags: [askese, ørkenfedre, Antonius, Evagrius, Apophthegmata, monastisisme]
 modified: 2025-07-09
 sources: 4
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Askese i oldkirken"
+  description: "Asketisme og ørkenbevegelsen i oldkirken — fra de apostoliske fedre til munkevesenets fremvekst."
+  about:
+    "@type": "Thing"
+    name: "Asketisme"
+    sameAs: "https://www.wikidata.org/wiki/Q82955"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "sources/ANF01-apostolic-fathers"
+    - "sources/TEOL2310-teologihistorie-oldkirken"
+    - "sources/Pedersen-2012-oldkirken"
+    - "sources/studier-personlige"
 ---
 
 # Askese i oldkirken

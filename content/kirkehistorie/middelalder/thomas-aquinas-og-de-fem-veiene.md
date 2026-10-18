@@ -7,6 +7,20 @@ kategori: Kirkehistorie
 sub-kategori: Middelalderen
 tags: [Aquinas, Thomas, de fem veiene, Summa Theologiae, tro og fornuft, kosmologisk argument, skolastikk, middelalderteologi, aristotelisme]
 sources: 1
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Thomas Aquinas og de fem veiene"
+  description: "Thomas Aquinas som middelalderteologiens høydepunkt — Summa Theologiae, forholdet mellom tro og fornuft, og de fem veiene til Guds eksistens analysert."
+  about:
+    "@type": "Thing"
+    name: "Thomas Aquinas"
+    sameAs: "https://www.wikidata.org/wiki/Q9438"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "McGrath-Historical-Theology"
 ---
 
 > «Tro er en handling av intellektet som gir sin tilslutning til guddommelig sannhet på grunn av viljen bevegt av Guds nåde.» — Thomas Aquinas, *Summa Theologiae*

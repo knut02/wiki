@@ -6,6 +6,22 @@ kategori: Kirkehistorie
 sub-kategori: Oldkirken — Bakgrunn og kontekst
 tags: [kristendom, tilblivelse, urkirken, Romerriket, apostler, ekspansjon]
 modified: 2025-05-18
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Kristendommens første århundrer"
+  description: "Kristendommens historiske kontekst og kronologi fra Romerriket og Galilea, gjennom grunnleggelsen og ekspansjonen, til templets fall og rekonstruksjonen."
+  about:
+    "@type": "Thing"
+    name: "Kirkehistorie"
+    sameAs: "https://www.wikidata.org/wiki/Q17514576"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "Pedersen-2012-oldkirken"
+    - "studier-kirkehistorie-0-100"
+    - "TEOL2310-teologihistorie-oldkirken"
 ---
 
 > Kristendommen oppstod ikke i et vakuum. Den ble til innenfor det jødiske folk, i en landlig palestinsk kontekst, og spredte seg lynraskt til byene i det romerske riket — der den forandret seg underveis.

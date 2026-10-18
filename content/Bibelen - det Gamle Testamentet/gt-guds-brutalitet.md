@@ -6,6 +6,20 @@ kategori: Det gamle testamentet
 sub-kategori: Profetene
 tags: [Guds brutalitet, GT, drap, straff, teodicé, vanskelige tekster, Herrem]
 kilder: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Guds brutalitet i Det gamle testamentet"
+  description: "Teologisk analyse av vold og dom i GT — folkemord, straff og Guds karakter i lys av GT-tekster"
+  about:
+    "@type": "Book"
+    name: "Det gamle testamentet"
+    sameAs: "https://www.wikidata.org/wiki/Q19"
+  isPartOf:
+    "@type": "Book"
+    name: "Det gamle testamentet"
+  mentions:
+    - "studier-personlige"
 ---
 
 ## Problemet er reelt

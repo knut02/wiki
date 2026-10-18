@@ -7,6 +7,25 @@ sources: 6
 kategori: Kirkehistorie
 sub-kategori: Oldkirken — Forflølgelse og statsreligion
 tags: [martyrium, helgenkult, forflølgelse, Perpetua, Polykarp, Tertullian, blodet]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Martyriet og helgenkulten i oldkirken"
+  description: "Fra martyrenes blod til helgenkultens fremvekst — forfølgelsenes historiske kontekst, martyriets teologi, martyrtekstene som sjanger, og helgenkultens sosiale funksjon i oldkirken."
+  about:
+    "@type": "Thing"
+    name: "Martyrdom"
+    sameAs: "https://www.wikidata.org/wiki/Q1197685"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "ANF01-apostolic-fathers"
+    - "Price-2008-martyrdom-cult-of-saints"
+    - "Harvey-2008-martyr-passions"
+    - "Musurillo-1972-acts-christian-martyrs"
+    - "TEOL2310-teologihistorie-oldkirken"
+    - "studier-personlige"
 ---
 
 > «Blodet til martyrene er Kirkens såkorn.» — Tertullian, *Apologeticum* 50

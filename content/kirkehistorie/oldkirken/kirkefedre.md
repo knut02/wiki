@@ -7,6 +7,20 @@ kategori: Kirkehistorie
 sub-kategori: Oldkirken — Store teologer
 tags: [kirkefedre, patristikk, oldkirken, Irenaeus, Tertullian, Origen, Cyprian, Augustin, Chrysostomos, Hieronymus, apologeter]
 sources: 1
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Kirkefedre"
+  description: "Oversikt og navigasjonsside for kirkefadrene fra ca. 90 til 700 e.Kr."
+  about:
+    "@type": "Thing"
+    name: "Kirkefedrene"
+    sameAs: "https://www.wikidata.org/wiki/Q272894"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "sources/ANF01-apostolic-fathers"
 ---
 
 ## Hva er kirkefedre?

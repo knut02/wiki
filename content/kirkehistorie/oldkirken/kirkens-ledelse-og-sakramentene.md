@@ -7,6 +7,22 @@ sub-kategori: Oldkirken — Gudstjeneste og kirkeliv
 tags: [kirkeledelse, sakramenter, dåp, nattverd, embete, Ignatius, karisma]
 modified: 2025-05-10
 kilder: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Kirkens ledelse og sakramentene"
+  description: "Fra karisma til institusjon — utviklingen av kirkens ledelsesstruktur og sakramentene i oldkirken."
+  about:
+    "@type": "Thing"
+    name: "Kirkehistorie"
+    sameAs: "https://www.wikidata.org/wiki/Q17514576"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "sources/Ehrman-kirkens-struktur"
+    - "sources/Kyprian-kirkens-enhet"
+    - "sources/TEOL2310-teologihistorie-oldkirken"
 ---
 
 ## De første menighetene — karismatisk struktur

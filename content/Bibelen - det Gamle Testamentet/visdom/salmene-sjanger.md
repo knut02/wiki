@@ -8,6 +8,20 @@ sub-kategori: Poetiske og visdomsbøker
 studievei: [gt, bønn, spiritualitet]
 tags: [salmene, poesi, klagesalme, lovprisning, hebraisk poesi, parallelisme, Davids salmer, bønnbok, lectio divina, tidebønn]
 sources: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Salmene — sjanger og teologi"
+  description: "Salmeboken som Israels bønnebok — sjangre, teologiske temaer og salmenes liturgiske liv"
+  about:
+    "@type": "Book"
+    name: "Salmenes bok"
+    sameAs: "https://www.wikidata.org/wiki/Q41916"
+  isPartOf:
+    "@type": "Book"
+    name: "Det gamle testamentet"
+  mentions:
+    - "studier-personlige"
 ---
 
 > «Herre, hør min bønn, lytt til mitt skrik om hjelp! Ti ikke stille når jeg gråter.» — Salme 39:13

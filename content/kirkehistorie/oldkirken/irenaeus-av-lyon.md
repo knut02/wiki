@@ -6,6 +6,20 @@ kategori: Kirkehistorie
 sub-kategori: Oldkirken — Store teologer
 tags: [Irenaeus, rekapitulasjon, anakephalaiosis, gnostisisme, apostolisk tradisjon, kanon, skapelse, frelseteologi, theosis, Lyon, andre-tredje århundre]
 sources: 1
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Irenaeus av Lyon"
+  description: "Irenaeus som oldkirkens viktigste teolog mot gnostisismen — rekapitulasjonsteorien, apostolisk tradisjon og kanon."
+  about:
+    "@type": "Thing"
+    name: "Irenaeus av Lyon"
+    sameAs: "https://www.wikidata.org/wiki/Q213913"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "sources/ANF01-apostolic-fathers"
 ---
 
 > «Guds ord ble menneske, og han som er Guds Sønn, ble menneskenes Sønn — for at mennesket, opptatt i Ordet og mottakende adopsjon, skulle bli Guds sønn.» — Irenaeus, *Mot kjetteriene* III.19.1

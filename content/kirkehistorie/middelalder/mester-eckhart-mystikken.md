@@ -7,6 +7,22 @@ sub-kategori: Middelalderen — Mystikk
 tags: [Mester Eckhart, Rhinlandsmystikk, tysk mystikk, Guds fødsel, sjelen, Tauler]
 modified: 2025-07-09
 sources: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Mester Eckhart og den tyske mystikken"
+  description: "Mester Eckhart (ca. 1260–1328) og Rhinlandsmystikken — Guds fødsel i sjelen, adskilthet, sjelens gnist, preken 52 om åndelig fattigdom, og arven til Tauler og Theologia Deutsch."
+  about:
+    "@type": "Thing"
+    name: "Meister Eckhart"
+    sameAs: "https://www.wikidata.org/wiki/Q58108"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "TEOL2310-teologihistorie-middelalder-5"
+    - "McGinn-1994-eckhart-beguine-mystics"
+    - "studier-personlige"
 ---
 
 # Mester Eckhart og den tyske mystikken

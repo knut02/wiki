@@ -7,6 +7,23 @@ sub-kategori: Oldkirken — Gudstjeneste og kirkeliv
 tags: [embete, biskop, presbyter, diakon, monepiskopat, patriarkat, paveembete]
 modified: 2025-06-02
 sources: 4
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Embetsutvikling i oldkirken"
+  description: "Fremveksten av biskop, presbyter og diakon som kirkens embetsstruktur i de første århundrene."
+  about:
+    "@type": "Thing"
+    name: "Episcopal polity"
+    sameAs: "https://www.wikidata.org/wiki/Q1131268"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "Pedersen-2012-oldkirken"
+    - "TEOL2310-teologihistorie-oldkirken"
+    - "kirkehistorie-middelalderen"
+    - "studier-personlige"
 ---
 
 # Embetsutvikling i oldkirken — frem til år 900

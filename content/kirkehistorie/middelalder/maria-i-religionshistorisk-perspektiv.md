@@ -7,6 +7,20 @@ kategori: Kirkehistorie
 sub-kategori: Marias tidlige historie
 tags: [Maria, religionshistorie, Inanna, Isis, Demeter, Afrodite, Kybele, Artemis, familielikheter, Wittgenstein, Efesos 431, theotokos, jomfru, dronning, Næss]
 sources: 1
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Maria i religionshistorisk perspektiv — gudinnenes arv"
+  description: "Maria som religionshistorisk figur — Wittgensteins familielikheter, de seks guddommelige formødrene, konsilet i Efesos 431, og Marias tre roller som jomfru, mor og dronning."
+  about:
+    "@type": "Thing"
+    name: "Mary, mother of Jesus"
+    sameAs: "https://www.wikidata.org/wiki/Q345"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "Naess-2022-maria-guds-mor"
 ---
 
 > «At kulten var så beskjeden før 431, underbygger antagelsen om at Maria-dyrkelsen ble påvirket av en statlig støttet omdannelse av kultene for Isis, Kybele, Demeter og Artemis.» — Chris Maunder

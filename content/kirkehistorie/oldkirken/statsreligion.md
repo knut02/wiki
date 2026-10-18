@@ -6,6 +6,22 @@ modified: 2026-09-22
 kategori: Kirkehistorie
 sub-kategori: Oldkirken — Forfølgelse og statsreligion
 kilder: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Statsreligion"
+  description: "Da kristendommen gikk fra forfulgt minoritet til romersk riksreligion under Theodosius i 380, og hva det gjørde med kirken."
+  about:
+    "@type": "Thing"
+    name: "State religion"
+    sameAs: "https://www.wikidata.org/wiki/Q82955"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "TEOL2310-teologihistorie-oldkirken"
+    - "batch-TEOL2310-2025-05-01"
+    - "PP-Nikolajsen"
 ---
 
 ## Fra forfølgelse til frihet: 312–313

@@ -7,6 +7,20 @@ kategori: Kirkehistorie
 sub-kategori: Oldkirken
 tags: [Gallienus, pusterommet, 260-303, oldkirken, kirkevekst, Antonius, monastisisme, Eusebios]
 sources: 1
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Pusterommet under Gallienusediktet (260–303)"
+  description: "Førti år uten forfølgelse — kirken vokser, teologien blomstrer og de første klostrene opprettes mellom Decius og Diokletian."
+  about:
+    "@type": "Thing"
+    name: "History of Christianity"
+    sameAs: "https://www.wikidata.org/wiki/Q17514576"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "McGrath-Historical-Theology"
 ---
 
 > «Kirken eksisterte ikke lenger under en belejringsmentalitet.» — McGrath om overgangen til religionsfrihet

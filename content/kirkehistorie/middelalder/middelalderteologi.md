@@ -7,6 +7,21 @@ kategori: Kirkehistorie
 sub-kategori: Middelalderen
 tags: [middelalderteologi, Augustin, nyplatonisme, monastisk teologi, Bernard av Clairvaux, skolastikk, Anselm, Thomas Aquinas, Dionysios Areopagiten, apofatisk teologi, universaliestrid]
 sources: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Middelalderteologi — fra Augustin til skolastikken"
+  description: "Middelalderens teologi fra Augustins arv via monastisk teologi og Bernard av Clairvaux til skolastikkens høydepunkt med Anselm og Thomas Aquinas."
+  about:
+    "@type": "Thing"
+    name: "Scholasticism"
+    sameAs: "https://www.wikidata.org/wiki/Q36337"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "McGrath-2013-Historical-Theology"
+    - "TEOL2300-studier"
 ---
 
 > «Vår hjerte er urolig inntil det finner hvile i deg.» — Augustin, *Bekjennelser* I.1

@@ -7,6 +7,20 @@ sub-kategori: Oldkirken — Kristologi og treenighet
 tags: [Apollinaris, Nestorius, Kyrillos, Efesos, Kalkedon, to naturer, kristologi]
 modified: 2025-06-13
 sources: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Kristologi fra Nikea til Kalkedon"
+  description: "Apollinaris, Nestorius, Kyrillos, Efesos 431 og Kalkedon 451 — kristologistriden i det 4. og 5. århundre"
+  about:
+    "@type": "Thing"
+    name: "Kalkedon-konsilet"
+    sameAs: "https://www.wikidata.org/wiki/Q172349"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "studier-personlige"
 ---
 
 # Kristologi fra Nikea til Kalkedon

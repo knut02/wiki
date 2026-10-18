@@ -8,6 +8,21 @@ sub-kategori: Oldkirken — Forflølgelse og statsreligion
 studievei: [kirkehistorie, Bibelen]
 tags: [Konstantin, Ediktet av Milano, statsreligion, forfolgelse, kirke og stat, Milvian Bridge, 313, patristikk]
 sources: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Den konstantinske vendingen"
+  description: "Konstantins omvendelse, Ediktet fra Milano og kristendommens vei til å bli statsreligion."
+  about:
+    "@type": "Thing"
+    name: "Konstantin I"
+    sameAs: "https://www.wikidata.org/wiki/Q8027"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "sources/TEOL2310-teologihistorie-oldkirken"
+    - "sources/Cameron-2005-Interpreting-Christian-History"
 ---
 
 ---

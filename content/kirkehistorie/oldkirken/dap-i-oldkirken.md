@@ -7,6 +7,20 @@ kategori: Kirkehistorie
 sub-kategori: Oldkirkens sakramenter
 tags: [dåp, oldkirken, katekumenat, salvelse, håndpåleggelse, Didake, Tertullian, Apostolisk Tradisjon, spedbarnsdåp, Augustin, Dura-Europos]
 sources: 1
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Dåp i oldkirken"
+  description: "Dåpsteologi og dåpspraksis i oldkirken — fra Didache til Tertullian og Kyprian."
+  about:
+    "@type": "Thing"
+    name: "Dåp"
+    sameAs: "https://www.wikidata.org/wiki/Q35654"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "sources/TEOL2310-teologihistorie-oldkirken"
 ---
 
 > «Vi begynner livet vårt i vannet, og er trygge bare så lenge vi er i vannet.» — Tertullian, *Om dåpen* 1.3

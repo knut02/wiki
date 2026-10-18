@@ -7,6 +7,20 @@ sub-kategori: Profetene
 tags: [profeter, GT, Jesaja, Jeremias, Esekiel, Amos, skriftprofeter, nabi]
 modified: 2026-07-10
 kilder: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "GT-profetene — oversikt"
+  description: "Oversikt over profetlitteraturen i GT — sjanger, kall, historisk kontekst og teologi"
+  about:
+    "@type": "Book"
+    name: "Det gamle testamentet"
+    sameAs: "https://www.wikidata.org/wiki/Q19"
+  isPartOf:
+    "@type": "Book"
+    name: "Det gamle testamentet"
+  mentions:
+    - "studier-personlige"
 ---
 
 > «Herrens Ånd er over meg, for han har salvet meg til å forkynne godt budskap for fattige.» — Jes 61:1

@@ -6,6 +6,20 @@ kategori: Det gamle testamentet
 sub-kategori: Poetiske og visdomsbøker
 tags: [Salme 22, klage, korsfestelse, NT-bruk, psalteret, David, forlatelse]
 kilder: 1
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Salme 22"
+  description: "Salme 22 — gudforlatthetens klage og den ultimative tillit som bakteppe for Jesu korsord"
+  about:
+    "@type": "Book"
+    name: "Salmenes bok"
+    sameAs: "https://www.wikidata.org/wiki/Q41916"
+  isPartOf:
+    "@type": "Book"
+    name: "Det gamle testamentet"
+  mentions:
+    - "studier-personlige"
 ---
 
 ## Hva er salmen?

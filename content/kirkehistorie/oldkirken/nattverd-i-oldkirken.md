@@ -7,6 +7,24 @@ sub-kategori: Oldkirken — Teologi og spiritualitet
 tags: [nattverd, eukaristi, Didache, Justin Martyr, Ignatius, realisme, måltid]
 modified: 2026-07-12
 sources: 5
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Nattverden i oldkirken"
+  description: "Fra festmåltid til sakrament — nattverdens utvikling i oldkirken."
+  about:
+    "@type": "Thing"
+    name: "Eukaristi"
+    sameAs: "https://www.wikidata.org/wiki/Q131602"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "sources/McGowan-2014-ancient-christian-worship"
+    - "sources/ANF03-tertullian"
+    - "sources/TEOL2310-teologihistorie-oldkirken-kap3"
+    - "sources/Justin-Martyr-forste-apologi"
+    - "sources/studier-personlige"
 ---
 
 > «Og de holdt fast ved apostlenes lære og ved fellesskapet, ved brødsbrytelsen og bønnene.» — Apg 2:42

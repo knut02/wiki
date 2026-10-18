@@ -7,6 +7,20 @@ kategori: Kirkehistorie
 sub-kategori: Oldkirkens gudstjeneste
 tags: [bibellesning, preken, oldkirken, synagoge, Justin Martyr, Origenes, Augustin, Chrysostomos, homilie, kanon, leksjonarium, McGowan]
 sources: 1
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Bibellesning og preken i oldkirken"
+  description: "Skriftlesning, eksegese og prekentradisjonen i oldkirkens gudstjeneste."
+  about:
+    "@type": "Thing"
+    name: "Kirkehistorie"
+    sameAs: "https://www.wikidata.org/wiki/Q17514576"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "sources/TEOL2310-teologihistorie-oldkirken"
 ---
 
 > «Lesehandlingen i de kristne og jødiske forsamlingene i den antikke verden er i sin karakter forskjellig fra moderne studium av bøker. Å høre var for de fleste den eneste måten å møte en tekst på.» — Andrew McGowan

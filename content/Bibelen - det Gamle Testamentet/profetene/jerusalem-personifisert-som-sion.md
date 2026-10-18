@@ -7,6 +7,20 @@ kategori: Bibelen - det Gamle Testamentet
 sub-kategori: Teologiske temaer
 tags: [Jerusalem, Sion, datter Sion, personifisering, Klagesangene, enke, jomfru, bat-tsijyon, Tyche, bygudinne, Hasselbalch, klage, teologi]
 sources: 1
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Jerusalem personifisert som Sion"
+  description: "Jerusalem som klagende kvinne og by-guddom — bildespråk i Klagesangene og profetene"
+  about:
+    "@type": "Book"
+    name: "Klagesangene"
+    sameAs: "https://www.wikidata.org/wiki/Q48205"
+  isPartOf:
+    "@type": "Book"
+    name: "Det gamle testamentet"
+  mentions:
+    - "studier-personlige"
 ---
 
 > «Datter Sion forlot all sin glans. Prinsene hennes ble som hjorter — de fant ikke beite, men gikk kraftløse foran forfølgeren.» — Klag 1:6

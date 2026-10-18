@@ -7,6 +7,21 @@ kategori: Bibelen - det Gamle Testamentet
 sub-kategori: GT-teologi
 tags: [pakten, berit, covenant, Abraham, Sinai, Moses, Davids pakt, ny pakt, Jeremias, nattverden, hebreerbrevet, frelseshistorie, løfte]
 sources: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Pakten"
+  description: "Pakten som Bibelens teologiske ryggrad — fra Noah og Abraham via Sinai til den nye pakten i Jeremias og NT"
+  about:
+    "@type": "Book"
+    name: "Det gamle testamentet"
+    sameAs: "https://www.wikidata.org/wiki/Q19"
+  isPartOf:
+    "@type": "Book"
+    name: "Det gamle testamentet"
+  mentions:
+    - "Keener-2014-IVP-background-commentary"
+    - "studier-personlige"
 ---
 
 > «Se, dager kommer, sier Herren, da jeg vil slutte en ny pakt med Israels hus og Judas hus — ikke som den pakten jeg sluttet med fedrene deres.» — Jer 31:31–32

@@ -7,6 +7,20 @@ sub-kategori: Middelalderen
 tags: [universalier, nominalisme, realisme, Ockham, Abelard, folkespråk, lekteologi]
 modified: 2025-05-01
 kilder: 1
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Universaliestrid og vernakulær teologi"
+  description: "Senmiddelalderens store filosofiske strid om allmennbegrepenes natur — og lekfolksteologiens fremvekst på folkespråket."
+  about:
+    "@type": "Thing"
+    name: "Problem of universals"
+    sameAs: "https://www.wikidata.org/wiki/Q193642"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "TEOL2310-teologihistorie-middelalder-4"
 ---
 
 ## Universaliestriden

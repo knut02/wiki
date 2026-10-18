@@ -7,6 +7,21 @@ sub-kategori: Middelalderen
 tags: [overgang, Romerriket, germaner, arabere, Karl Martel, middelalder, 300-750]
 modified: 2025-05-11
 kilder: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Fra oldtid til middelalder — ca. 300–750"
+  description: "Overgangen fra det dominerende romerske imperiet til middelalderens tredelte verden med vestlig kristenhet, Bysants og islamsk ekspansjon."
+  about:
+    "@type": "Thing"
+    name: "Late antiquity"
+    sameAs: "https://www.wikidata.org/wiki/Q182453"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "Bagge-2020-fra-oldtid-til-middelalder"
+    - "TEOL2310-teologihistorie-oldkirken"
 ---
 
 ## En tredelt verden

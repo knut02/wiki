@@ -8,6 +8,20 @@ sub-kategori: Profetene
 studievei: [gt, etikk, Bibelen]
 tags: [Amos, sosialetikk, rettferdighet, profeti, Israel, fattige, rike, kultskritikk, dom, Herrens dag]
 sources: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Amos"
+  description: "Amos — gjeterprofeten fra Tekoa og hans dom over Israel og værestatene"
+  about:
+    "@type": "Book"
+    name: "Amos"
+    sameAs: "https://www.wikidata.org/wiki/Q308862"
+  isPartOf:
+    "@type": "Book"
+    name: "Det gamle testamentet"
+  mentions:
+    - "studier-personlige"
 ---
 
 > «La retten velte frem som vann, rettferdigheten som en evig strøm!» — Amos 5:24

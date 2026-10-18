@@ -7,6 +7,20 @@ sub-kategori: Patriarker og pakt
 tags: [Abraham, kall, pakt, Aqedah, tro, løfte, Ur, far for mange]
 modified: 2025-07-09
 sources: 4
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Abraham"
+  description: "Abrahams kall, vandring og tro — GT's tros-patriark og grunnleggeren av paktsfolket"
+  about:
+    "@type": "Book"
+    name: "1 Mosebok"
+    sameAs: "https://www.wikidata.org/wiki/Q9337"
+  isPartOf:
+    "@type": "Book"
+    name: "Det gamle testamentet"
+  mentions:
+    - "studier-personlige"
 ---
 
 # Abraham — tro, kall og pakt

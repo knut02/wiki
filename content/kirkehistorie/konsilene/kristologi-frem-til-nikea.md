@@ -7,6 +7,20 @@ sub-kategori: Oldkirken — Kristologi og treenighet
 tags: [kristologi, adoptianisme, modalisme, Origenes, Arius, Nikea, pre-nicensk]
 modified: 2025-06-06
 sources: 4
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Kristologi frem til Nikea"
+  description: "Adoptianisme, modalisme, Origenes, Arius og veien til Nikea 325"
+  about:
+    "@type": "Thing"
+    name: "Nikea-konsilet"
+    sameAs: "https://www.wikidata.org/wiki/Q179467"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "studier-personlige"
 ---
 
 # Kristologi frem til Nikea — striden om Jesu natur

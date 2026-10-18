@@ -7,6 +7,20 @@ kategori: Bibelen - det Gamle Testamentet
 sub-kategori: Teologiske temaer
 tags: [klage, lament, Brueggemann, desorientering, orientering, nyorientering, salmene, klagesalmer, Klagesangene, Job, bønn, teologi, lidelse]
 sources: 1
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Klage som teologisk form"
+  description: "Klagetradisjonen i Bibelen — fra salmenes klagerop til Jobs protest og Jesu gudforlatthet"
+  about:
+    "@type": "Book"
+    name: "Det gamle testamentet"
+    sameAs: "https://www.wikidata.org/wiki/Q19"
+  isPartOf:
+    "@type": "Book"
+    name: "Det gamle testamentet"
+  mentions:
+    - "studier-personlige"
 ---
 
 > «Husk, Jahve, hva som har hendt oss! Se og legg merke til vår skam.» — Klag 5:1

@@ -6,6 +6,22 @@ kategori: Kirkehistorie
 sub-kategori: Oldkirken — Teologi og spiritualitet
 tags: [bønn, tidebønn, Faderr, Cassian, Evagrius, oldkirken, liturgi]
 modified: 2026-07-12
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Tidlig kristen bønnepraksis"
+  description: "Bønn i oldkirken — former, tider, kroppslige praksiser, Fadervår, monastisk bønn og Evagrius/Cassians arv."
+  about:
+    "@type": "Thing"
+    name: "Christian prayer"
+    sameAs: "https://www.wikidata.org/wiki/Q912288"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "Stewart-2008-prayer"
+    - "ANF03-tertullian"
+    - "TEOL2300-studier"
 ---
 
 # Tidlig kristen bønnepraksis

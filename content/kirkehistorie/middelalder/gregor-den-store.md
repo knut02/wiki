@@ -7,6 +7,20 @@ kategori: Kirkehistorie
 sub-kategori: Middelalderen
 tags: [Gregor den store, pavekirken, middelalder, misjonen til England, pastoral teologi, Augustin av Canterbury, gregorisk sang, angelsaksisk kristendom]
 sources: 0
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Gregor den store (590–604)"
+  description: "Pave Gregor I som bindeleddet mellom oldkirken og middelalderen — pastoral teologi, misjonen til England, gregorisk sang, pave-keiser-forholdet og den middelalderlige kirkens grunnleggelse."
+  about:
+    "@type": "Thing"
+    name: "Pope Gregory I"
+    sameAs: "https://www.wikidata.org/wiki/Q43423"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "studier-personlige"
 ---
 
 > «Det er mange som kaller seg hyrder, men lever som ulver, og forfølger flokken de hevder å vokte.» — Gregor den store, *Regula Pastoralis*

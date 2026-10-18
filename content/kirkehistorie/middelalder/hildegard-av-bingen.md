@@ -7,6 +7,21 @@ sub-kategori: Middelalderen — Mystikk
 tags: [Hildegard, Bingen, visjon, profet, musikk, abbedisse, middelalder, kvinner]
 modified: 2025-07-09
 sources: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Hildegard av Bingen — profet, teolog og visionær"
+  description: "Hildegard av Bingen (1098–1179) — abbedisse, visionær, teolog, komponist og lege. En av middelalderens mest originale kristne tenkere og en av kirkens få kvinnelige læreembeder."
+  about:
+    "@type": "Thing"
+    name: "Hildegard of Bingen"
+    sameAs: "https://www.wikidata.org/wiki/Q60743"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "Hildegard-Scivias-utdrag"
+    - "studier-personlige"
 ---
 
 # Hildegard av Bingen — profet, teolog og visionær

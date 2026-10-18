@@ -7,6 +7,21 @@ sub-kategori: Middelalderen
 studievei: [kirkehistorie]
 tags: [Karl den store, karolingisk, renessanse, Alcuin, klosterskoler, katedralskoler, middelalder, Benedikt av Nursia, skriptorium]
 sources: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Karolingisk renessanse"
+  description: "Karl den stores program for intellektuell og kirkelig fornyelse på 700-800-tallet — kloster- og katedralskoler som la grunnlaget for middelalderens teologiske blomstring."
+  about:
+    "@type": "Thing"
+    name: "Carolingian Renaissance"
+    sameAs: "https://www.wikidata.org/wiki/Q193544"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "McGrath-Historical-Theology"
+    - "studier-personlige"
 ---
 
 > «Kunnskap er det nest beste etter dyden.» — Alcuin av York

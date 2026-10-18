@@ -6,6 +6,20 @@ kategori: Kirkehistorie
 sub-kategori: Oldkirken — Store teologer
 tags: [Cyprian, Karthago, kirkens enhet, episkopat, martyrium, frafall, lapsed, skisma, Novatian, tredje århundre, ANF05]
 sources: 1
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Cyprian av Karthago"
+  description: "Cyprian som biskop, martyr og teolog for kirkens enhet og de frafalne."
+  about:
+    "@type": "Thing"
+    name: "Cyprian av Karthago"
+    sameAs: "https://www.wikidata.org/wiki/Q338348"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "sources/Kyprian-kirkens-enhet"
 ---
 
 > «Den kan ikke lenger ha Gud som sin Far, som ikke har Kirken som sin mor.» — Cyprian, *Om kirkens enhet* 6

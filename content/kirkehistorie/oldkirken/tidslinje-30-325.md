@@ -7,6 +7,18 @@ kategori: Kirkehistorie
 sub-kategori: Oversikt
 tags: [tidslinje, kirkehistorie, oldkirken, 30-325, urkirke, kristendommens tilblivelse, Nikea]
 sources: 0
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Kirkehistorie-tidslinje 30–325"
+  description: "Kronologisk oversikt over kristendommens første tre århundrer — fra Jesu korsfestelse og pinsedagen til Nikea-konsilet."
+  about:
+    "@type": "Thing"
+    name: "History of Christianity"
+    sameAs: "https://www.wikidata.org/wiki/Q17514576"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
 ---
 
 ## 30–100: Urkirken

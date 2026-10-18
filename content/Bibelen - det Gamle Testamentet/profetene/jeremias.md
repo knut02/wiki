@@ -8,6 +8,20 @@ sub-kategori: Profetene
 studievei: [gt, Bibelen, spiritualitet]
 tags: [Jeremias, ny pakt, eksil, Jerusalem, klage, Jer 31, den nye pakten, Guds hjerte, loven på hjertet]
 sources: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Jeremias"
+  description: "Jeremias — torgrets profet, den nye pakten og klagens teologi"
+  about:
+    "@type": "Book"
+    name: "Jeremias"
+    sameAs: "https://www.wikidata.org/wiki/Q48179"
+  isPartOf:
+    "@type": "Book"
+    name: "Det gamle testamentet"
+  mentions:
+    - "studier-personlige"
 ---
 
 > «Se, dager kommer, sier Herren, da jeg vil slutte en ny pakt med Israels hus og Judas hus — ikke som den pakten jeg sluttet med fedrene deres den dagen jeg tok dem i hånden og førte dem ut av Egypt.» — Jer 31:31-32

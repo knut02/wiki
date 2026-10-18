@@ -7,6 +7,21 @@ sub-kategori: Loven
 tags: [dekalogen, ti bud, lov, Sinai, etikk, GT-lov, 2 Mos 20]
 modified: 2026-07-10
 sources: 4
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "De ti bud — dekalogen"
+  description: "Analyse av de ti bud i historisk, teologisk og etisk perspektiv — fra Sinai til i dag"
+  about:
+    "@type": "Book"
+    name: "2 Mosebok"
+    sameAs: "https://www.wikidata.org/wiki/Q9342"
+  isPartOf:
+    "@type": "Book"
+    name: "Det gamle testamentet"
+  mentions:
+    - "Meyers-2005-exodus"
+    - "studier-personlige"
 ---
 
 > «Jeg er Herren din Gud, som førte deg ut av Egypt, ut av slavehuset.» — 2 Mos 20:2

@@ -7,6 +7,21 @@ kategori: Kirkehistorie
 sub-kategori: Oldkirken
 tags: [gnostisisme, Nag Hammadi, Hippolytus, Valentinus, Marcion, Basilides, Ireneus, ortodoksi, kjetteri, dualisme, pleroma, demiurg, sethianer, thomasevangeliet]
 sources: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Gnostisisme"
+  description: "Gnostisismen i oldkirken — kjennetegn, de viktigste retningene, Nag Hammadi-funnene og hva som skilte gnostikerne fra ortodoksien."
+  about:
+    "@type": "Thing"
+    name: "Gnostisisme"
+    sameAs: "https://www.wikidata.org/wiki/Q82756"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "sources/TEOL2300-studier"
+    - "sources/anf01"
 ---
 
 > «Gnosis er ikke kunnskap om Gud, men kunnskap som er Gud — kunnskap som er identisk med frelse.» — Elaine Pagels

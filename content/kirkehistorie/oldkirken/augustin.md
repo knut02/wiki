@@ -8,6 +8,21 @@ sub-kategori: Oldkirken — Store teologer
 studievei: [kirkehistorie, teologi, Bibelen]
 tags: [Augustin, nåde, arvesynd, predestinasjon, Pelagius, donatister, Bekjennelsene, Gudsstaten, patristikk]
 sources: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Augustin av Hippo"
+  description: "Augustins liv og teologi — nåde, arvesynd, predestinasjon og Gudsstaten."
+  about:
+    "@type": "Thing"
+    name: "Augustin av Hippo"
+    sameAs: "https://www.wikidata.org/wiki/Q8018"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "sources/TEOL2310-teologihistorie-oldkirken"
+    - "sources/Cameron-2005-Interpreting-Christian-History"
 ---
 
 > «Du har skapt oss til deg, og urolig er vårt hjerte inntil det finner hvile i deg.» — Augustin, *Bekjennelsene* 1.1

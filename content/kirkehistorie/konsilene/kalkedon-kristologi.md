@@ -7,6 +7,20 @@ sub-kategori: Oldkirken — Kristologi og treenighet
 tags: [Kalkedon, 451, to naturer, én person, dyofysitter, monofysitter, bek jennelse]
 modified: 2025-05-11
 kilder: 4
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Kalkedon-kristologi"
+  description: "Kalkedon-konsilet 451 — to naturer i én person, de fire negative adverbene og det varige skismaet"
+  about:
+    "@type": "Thing"
+    name: "Kalkedon-konsilet"
+    sameAs: "https://www.wikidata.org/wiki/Q172349"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "studier-personlige"
 ---
 
 ## Fra Nikea til Kalkedon: tre konsilier på 126 år

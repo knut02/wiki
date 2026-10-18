@@ -6,6 +6,21 @@ kategori: Kirkehistorie
 sub-kategori: Oldkirken — Store teologer
 tags: [Klemens av Alexandria, Origen, Logos, filosofi, allegorisk tolkning, Alexandria, Stromateis, De Principiis, katekeskolen, tredje århundre, ANF02, ANF04]
 sources: 1
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Klemens av Alexandria og Origen"
+  description: "Den alexandrinske skoles to store tenkere — Klemens og Origen — og deres integrering av gresk filosofi og kristen tro."
+  about:
+    "@type": "Thing"
+    name: "Clement of Alexandria"
+    sameAs: "https://www.wikidata.org/wiki/Q189527"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "ANF02-ante-nicene-fathers"
+    - "ANF04-ante-nicene-fathers"
 ---
 
 > «Filosofien var gitt til grekerne direkte og primært, inntil Herren skulle kalle grekerne. Den var en skolemester for å bringe den hellenske tanke til Kristus.» — Klemens av Alexandria, *Stromateis*

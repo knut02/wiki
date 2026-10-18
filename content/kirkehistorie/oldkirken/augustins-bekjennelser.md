@@ -7,6 +7,21 @@ kategori: Kirkehistorie
 sub-kategori: Oldkirken — Store teologer
 tags: [Augustin, Bekjennelsene, Confessiones, bønn, arvesynd, omvendelse, nåde, Monnica, patristikk]
 sources: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Augustins bekjennelser"
+  description: "Augustins Confessiones — selvbiografi, bønn og teologi om nåde og uro."
+  about:
+    "@type": "Thing"
+    name: "Confessiones"
+    sameAs: "https://www.wikidata.org/wiki/Q170208"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "sources/TEOL2310-teologihistorie-oldkirken"
+    - "sources/Cameron-2005-Interpreting-Christian-History"
 ---
 
 > «Du har skapt oss til deg, og urolig er vårt hjerte inntil det finner hvile i deg.» — Augustin, *Bekjennelsene* 1.1

@@ -8,6 +8,20 @@ sub-kategori: Poetiske og visdomsbøker
 studievei: [gt, Bibelen, spiritualitet]
 tags: [Job, lidelse, uskyld, visdom, Guds svar, stormen, klage, teodicé, bønn, Hebreerne 11]
 sources: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Jobs bok"
+  description: "Jobs bok — teodicé, uforklarlig lidelse og møtet med Guds overveldende storhet"
+  about:
+    "@type": "Book"
+    name: "Jobs bok"
+    sameAs: "https://www.wikidata.org/wiki/Q48208"
+  isPartOf:
+    "@type": "Book"
+    name: "Det gamle testamentet"
+  mentions:
+    - "studier-personlige"
 ---
 
 > «Herren ga, og Herren tok. Herrens navn være lovet.» — Job 1:21

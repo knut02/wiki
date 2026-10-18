@@ -8,6 +8,20 @@ sub-kategori: Profetene
 studievei: [gt, kristologi, Bibelen]
 tags: [Jesaja, profeti, Herrens tjener, Deuterojesaja, Tritojesaja, trøst, Guds hellighet, Jes 53, ny skapelse, eksil]
 sources: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Jesaja"
+  description: "Jesajas bok — dom, Herrens tjener og den nye eksodus i GT's største profetbok"
+  about:
+    "@type": "Book"
+    name: "Jesaja"
+    sameAs: "https://www.wikidata.org/wiki/Q47848"
+  isPartOf:
+    "@type": "Book"
+    name: "Det gamle testamentet"
+  mentions:
+    - "studier-personlige"
 ---
 
 > «Trøst, trøst mitt folk, sier deres Gud. Tal til Jerusalems hjerte og rop til det at dets strid er endt.» — Jes 40:1-2

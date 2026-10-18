@@ -7,6 +7,20 @@ sub-kategori: Skapelse og tidlighistorie
 tags: [skapelse, 1 Mosebok, imago Dei, syndefall, mesopotamia, Gen 1-3, ursaga]
 modified: 2025-07-09
 sources: 5
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Skapelsen"
+  description: "Skapelsesfortellingen i Genesis — teologi, literatur og forholdet til vitenskap"
+  about:
+    "@type": "Book"
+    name: "1 Mosebok"
+    sameAs: "https://www.wikidata.org/wiki/Q9337"
+  isPartOf:
+    "@type": "Book"
+    name: "Det gamle testamentet"
+  mentions:
+    - "studier-personlige"
 ---
 
 > «I begynnelsen skapte Gud himmelen og jorden.» — 1 Mos 1:1

@@ -8,6 +8,20 @@ sub-kategori: Skapelse og tidlighistorie
 studievei: [gt, Bibelen]
 tags: [Kain, Abel, 1 Mosebok, misunnelse, mord, Guds merke, forbannelse, blodet, offer, NT-bruk]
 sources: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Kain og Abel"
+  description: "Kain og Abel — broderdrapet, Guds dom og merket i Genesis"
+  about:
+    "@type": "Book"
+    name: "1 Mosebok"
+    sameAs: "https://www.wikidata.org/wiki/Q9337"
+  isPartOf:
+    "@type": "Book"
+    name: "Det gamle testamentet"
+  mentions:
+    - "studier-personlige"
 ---
 
 > «Hvor er Abel, din bror?» Han svarte: «Jeg vet ikke. Er jeg min brors vokter?» — 1 Mos 4:9

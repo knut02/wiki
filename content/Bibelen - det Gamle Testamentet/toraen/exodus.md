@@ -6,6 +6,21 @@ kategori: Det gamle testamentet
 sub-kategori: Patriarker og pakt
 tags: [Exodus, utvandringen, Moses, Sinai, dekalogen, historisitet, Egypt]
 modified: 2025-05-18
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Exodus — bok, teologi og historisitet"
+  description: "Exodus-boken i GT — struktur, nøkkeltemaer, teologisk arv og debatten om historisitet"
+  about:
+    "@type": "Book"
+    name: "2 Mosebok"
+    sameAs: "https://www.wikidata.org/wiki/Q9342"
+  isPartOf:
+    "@type": "Book"
+    name: "Det gamle testamentet"
+  mentions:
+    - "Meyers-2005-Exodus"
+    - "studier-personlige"
 ---
 
 > «Jeg er Herren din Gud, som førte deg ut av Egypt, ut av slavehuset.» — 2 Mos 20:2. Dekalogen begynner ikke med et bud, men med en identitetserklæring.

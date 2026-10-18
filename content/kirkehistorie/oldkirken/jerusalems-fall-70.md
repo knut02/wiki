@@ -7,6 +7,22 @@ kategori: Kirkehistorie
 sub-kategori: Oldkirken
 tags: [Jerusalem, tempelet, år-70, Josefus, Titus, jødisk-romersk-krig, etterapostolsk, jødedom, tidlig-kristendom]
 sources: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Jerusalems fall år 70"
+  description: "Den romerske beleiringen og ødeleggelsen av Jerusalem og tempelet i år 70 e.Kr., og dens betydning for kristendommens tilblivelse."
+  about:
+    "@type": "Thing"
+    name: "Siege of Jerusalem (70 AD)"
+    sameAs: "https://www.wikidata.org/wiki/Q46927"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "Josephus-Wars"
+    - "Josephus-Antiquities"
+    - "Pedersen-2012-oldkirken"
 ---
 
 > «Ingen ulykke som noensinne har rammet noen by, har overgått det som rammet Jerusalem.» — Josefus, *Krigen*, 5.10.5

@@ -6,6 +6,20 @@ kategori: Kirkehistorie
 sub-kategori: Oldkirken — Store teologer
 tags: [Tertullian, Apologeticum, treenighet, dåp, martyrium, montanisme, latinsk teologi, Karthago, tredje århundre, ANF03]
 sources: 1
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Tertullian — latinsk kristendoms grunnlegger"
+  description: "Tertullian som den første store latinsk-kristne teologen — Apologeticum, treenighetsformuler, dåpsteologi, martyriets teologi og montanistskiftet."
+  about:
+    "@type": "Thing"
+    name: "Tertullian"
+    sameAs: "https://www.wikidata.org/wiki/Q47524"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "ANF03-ante-nicene-fathers"
 ---
 
 > «Blodet til de kristne er et frø.» (*Sanguis martyrum semen est.*) — Tertullian, *Apologeticum* 50

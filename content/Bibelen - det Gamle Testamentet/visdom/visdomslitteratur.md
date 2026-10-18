@@ -6,6 +6,20 @@ kategori: Det gamle testamentet
 sub-kategori: Poetiske og visdomsbøker
 tags: [visdomslitteratur, Ordsprkåkene, Job, Forkynneren, frykt for Herren, hokmah]
 modified: 2025-05-18
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Visdomslitteratur — sjanger, bøker og praksis"
+  description: "Bibelsk visdom som sjanger og livspraksis — Ordspråkene, Job og Forkynneren"
+  about:
+    "@type": "Book"
+    name: "Det gamle testamentet"
+    sameAs: "https://www.wikidata.org/wiki/Q19"
+  isPartOf:
+    "@type": "Book"
+    name: "Det gamle testamentet"
+  mentions:
+    - "studier-personlige"
 ---
 
 > «Frykt for Herren er opphav til visdom; å kjenne Den Hellige er forstand.» — Ordsp 9:10

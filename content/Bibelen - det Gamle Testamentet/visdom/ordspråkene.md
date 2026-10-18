@@ -8,6 +8,20 @@ sub-kategori: Poetiske og visdomsbøker
 studievei: [gt, disippelskap, Bibelen]
 tags: [Ordspråkene, visdom, frykt for Herren, Salomo, personifisert visdom, kortform, hverdagsetikk, tunge, arbeid, vennskap]
 sources: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Ordspråkene"
+  description: "Ordspråkene — praktisk visdom, Salomos samlinger og den personifiserte Visdommen"
+  about:
+    "@type": "Book"
+    name: "Det gamle testamentet"
+    sameAs: "https://www.wikidata.org/wiki/Q19"
+  isPartOf:
+    "@type": "Book"
+    name: "Det gamle testamentet"
+  mentions:
+    - "studier-personlige"
 ---
 
 > «Frykt for Herren er opphavet til kunnskap; tåper forakter visdom og tukt.» — Ordsp 1:7

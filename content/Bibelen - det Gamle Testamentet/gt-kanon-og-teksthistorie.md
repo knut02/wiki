@@ -7,6 +7,20 @@ sub-kategori: Kanon og teksthistorie
 tags: [kanon, teksthistorie, Septuaginta, Masoretisk tekst, TANAKH, Dødehavsrullene]
 modified: 2025-05-15
 kilder: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "GT — kanon og teksthistorie"
+  description: "Hvordan GT-tekstene ble til, overlevert og kanonisert — fra muntlig tradisjon til hebraisk og gresk tekst"
+  about:
+    "@type": "Book"
+    name: "Det gamle testamentet"
+    sameAs: "https://www.wikidata.org/wiki/Q19"
+  isPartOf:
+    "@type": "Book"
+    name: "Det gamle testamentet"
+  mentions:
+    - "studier-personlige"
 ---
 
 ## GT's tredelte kanon (TaNaK)

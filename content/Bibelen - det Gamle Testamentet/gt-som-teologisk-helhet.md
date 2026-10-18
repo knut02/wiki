@@ -8,6 +8,20 @@ sub-kategori: Oversikt
 studievei: [gt, Bibelen, kirkehistorie]
 tags: [GT, teologi, pakt, løfte, Israel, skapelse, eksil, profetene, kanon, TANAKH, heilsgeschichte, oversikt]
 sources: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "GT som teologisk helhet"
+  description: "Det gamle testamentet lest som en sammenhengende teologisk enhet — frelseshistorie, pakt og løfte"
+  about:
+    "@type": "Book"
+    name: "Det gamle testamentet"
+    sameAs: "https://www.wikidata.org/wiki/Q19"
+  isPartOf:
+    "@type": "Book"
+    name: "Det gamle testamentet"
+  mentions:
+    - "studier-personlige"
 ---
 
 > «Herre, vår Herre, hvor herlig er ikke ditt navn over hele jorden!» — Sal 8:2

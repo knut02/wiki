@@ -7,6 +7,20 @@ kategori: Kirkehistorie
 sub-kategori: Middelalderen
 tags: [ortodoks, østkirke, Byzantium, theosis, ikonteologi, hesychasme, Palamas, apofatisk, tradisjon, synodalitet]
 sources: 1
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Ortodoks kristendom"
+  description: "Den østlige kristne tradisjonen — theosis som frelsens mål, ikonteologi, hesychasme og ortodoksiens særpreg i møte med vest."
+  about:
+    "@type": "Thing"
+    name: "Eastern Orthodox Church"
+    sameAs: "https://www.wikidata.org/wiki/Q188648"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "studier-personlige"
 ---
 
 > «Den østlige kirken er ikke et museum over fortiden, men et levende vitne om den udelte kirkes teologi.» — Georges Florovsky

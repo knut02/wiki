@@ -8,6 +8,20 @@ sub-kategori: Narrative bøker
 studievei: [gt, Bibelen, disippelskap]
 tags: [Rut, Naomi, Boas, troskap, hesed, innlemmelse, moabitt, David, løseren, korninntil]
 sources: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Rut"
+  description: "Ruts bok — lojalitet, fremmedhet og næsløserens forløsning"
+  about:
+    "@type": "Book"
+    name: "Ruts bok"
+    sameAs: "https://www.wikidata.org/wiki/Q134790"
+  isPartOf:
+    "@type": "Book"
+    name: "Det gamle testamentet"
+  mentions:
+    - "studier-personlige"
 ---
 
 > «Hvor du går, vil jeg gå; hvor du slår leir, vil jeg slå leir. Ditt folk er mitt folk, og din Gud er min Gud.» — Rut 1:16

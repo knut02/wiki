@@ -7,6 +7,20 @@ sub-kategori: Oldkirken — Kristologi og treenighet
 tags: [Nikea, 325, homoousios, Athanasius, Arius, bek jennelse, konsil]
 modified: 2025-05-11
 kilder: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Nikea-konsilet 325"
+  description: "Det første økumeniske konsilet — homoousios, Arius fordmmt og kirkens enhet under Konstantin"
+  about:
+    "@type": "Thing"
+    name: "Nikea-konsilet"
+    sameAs: "https://www.wikidata.org/wiki/Q179467"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "studier-personlige"
 ---
 
 ## Bakgrunn: den arianske striden

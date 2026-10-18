@@ -8,6 +8,20 @@ sub-kategori: Poetiske og visdomsbøker
 studievei: [gt, spiritualitet, Bibelen]
 tags: [Forkynneren, Qohelet, hebel, tomhet, visdom, glede, arbeid, tid, døden, frykt for Herren]
 sources: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Forkynneren (Kohelet)"
+  description: "Forkynneren — forgjengelighet, mening og frykten for Herren som svar på livets tomhet"
+  about:
+    "@type": "Book"
+    name: "Det gamle testamentet"
+    sameAs: "https://www.wikidata.org/wiki/Q19"
+  isPartOf:
+    "@type": "Book"
+    name: "Det gamle testamentet"
+  mentions:
+    - "studier-personlige"
 ---
 
 > «Tomt, bare tomt, sier Forkynneren. Tomt, bare tomt — alt er tomt.» — Fork 1:2

@@ -7,6 +7,20 @@ kategori: Kirkehistorie
 sub-kategori: Metodologi
 tags: [kirkehistorie, historisk metode, Cameron, tradisjon, mangfold, kontinuitet, essensiell kristendom, historiografi, lekmann og elite]
 sources: 1
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Kirkehistorie som disiplin"
+  description: "Cameron om kirkehistorie som fag — mangfold, kontinuitet og historisk bevissthet som troens forutsetning"
+  about:
+    "@type": "Thing"
+    name: "Kirkehistorie"
+    sameAs: "https://www.wikidata.org/wiki/Q17514576"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "Cameron-2005-Interpreting-Christian-History"
 ---
 
 > «Historisk kunnskap er ikke et valgfritt tillegg, et sidespor fra mer åpenbart presserende spørsmål. De historiske endringsprosessene er selve kjernen i den mangfoldige og kontinuerlig utfoldende kristne erfaringen.» — Euan Cameron

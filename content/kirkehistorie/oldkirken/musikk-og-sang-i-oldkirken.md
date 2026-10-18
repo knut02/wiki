@@ -7,6 +7,20 @@ kategori: Kirkehistorie
 sub-kategori: Oldkirkens gudstjeneste
 tags: [musikk, sang, oldkirken, salmer, hymner, Klemens av Alexandria, Tertullian, Chrysostomos, instrumenter, Oxyrhynchus, Efraem, dans, McGowan]
 sources: 1
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Musikk og sang i oldkirken"
+  description: "Salmesang, hymner og musikkens plass i den tidlige kristne gudstjenesten."
+  about:
+    "@type": "Thing"
+    name: "Sacred music"
+    sameAs: "https://www.wikidata.org/wiki/Q11399"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "McGowan-2014-Ancient-Christian-Worship"
 ---
 
 > «Sang er en universelt menneskelig foreteelse, men egnethet er det ikke. Tidlige kristne forfattere vier langt mer oppmerksomhet til sang enn til nesten noen annen rituell handling, kanskje fordi den bød på spesielle muligheter og spesielle farer.» — Andrew McGowan

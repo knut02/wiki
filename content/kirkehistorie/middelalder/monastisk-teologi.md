@@ -7,6 +7,22 @@ sub-kategori: Middelalderen
 tags: [monastisk teologi, Bernard av Clairvaux, Høysangen, kjærlighet, kontemplasjon, lectio divina]
 modified: 2025-07-09
 sources: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Monastisk teologi — Bernard av Clairvaux og kjærlighetens vei"
+  description: "Middelalderens monastiske teologi: Leclercqs skille mellom klosterskolen og skolastikken, Bernard av Clairvaux om kjærligheten til Gud, og Høysangen som mystikkens nøkkeltekst."
+  about:
+    "@type": "Thing"
+    name: "Bernard of Clairvaux"
+    sameAs: "https://www.wikidata.org/wiki/Q177232"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "Leclercq-1991-renewal-theology"
+    - "Bernard-av-Clairvaux-om-kjærligheten"
+    - "studier-personlige"
 ---
 
 # Monastisk teologi — Bernard av Clairvaux og kjærlighetens vei

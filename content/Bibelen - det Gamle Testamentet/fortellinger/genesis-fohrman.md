@@ -7,6 +7,20 @@ sub-kategori: Skapelse og tidlighistorie
 tags: [Genesis, Fohrman, parasja, nærlesning, jødisk tolkning, 1 Mosebok]
 modified: 2025-06-02
 sources: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Genesis — Fohrman"
+  description: "Analyse av Genesis etter Fohrmans lesning — strukturer, mønstre og teologi i 1 Mosebok"
+  about:
+    "@type": "Book"
+    name: "1 Mosebok"
+    sameAs: "https://www.wikidata.org/wiki/Q9337"
+  isPartOf:
+    "@type": "Book"
+    name: "Det gamle testamentet"
+  mentions:
+    - "studier-personlige"
 ---
 
 > «Det er ikke bare at jeg begynner å *forstå* teksten bedre. Det er noe utover det. Jeg finner meg selv i ferd med å forelske meg i denne boken.» — David Fohrman

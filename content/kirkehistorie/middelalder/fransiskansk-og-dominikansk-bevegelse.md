@@ -7,6 +7,21 @@ sub-kategori: Middelalderen
 studievei: [kirkehistorie, spiritualitet]
 tags: [Frans av Assisi, Dominikus, fransiskanere, dominikanere, tiggermunker, middelalder, fattigdom, skolastikk, Bonaventura, Aquinas]
 sources: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Fransiskansk og dominikansk bevegelse"
+  description: "To tiggermunkeordener som forvandlet middelalderkirken — Frans av Assisi og fattigdomsidealet, Dominikus og lærdomsidealet, og deres teologiske skoler."
+  about:
+    "@type": "Thing"
+    name: "Mendicant orders"
+    sameAs: "https://www.wikidata.org/wiki/Q193562"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "McGrath-Historical-Theology"
+    - "studier-personlige"
 ---
 
 > «Herre, gjør meg til et redskap for din fred.» — tilskrevet Frans av Assisi

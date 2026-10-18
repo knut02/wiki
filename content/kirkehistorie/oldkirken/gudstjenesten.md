@@ -7,6 +7,24 @@ sub-kategori: Oldkirken — Gudstjeneste og kirkeliv
 tags: [gudstjeneste, liturgi, Didache, Justin Martyr, Tertullian, Apostoliske Konstitusjoner, stasjonsdager, eukaristi, dåp, tidebønn, struktur, historisk]
 modified: 2026-09-29
 sources: 5
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Gudstjenesten i oldkirken"
+  description: "Gudstjenestens utvikling fra de første menighetsmøtene til den klassiske strukturen med ord og nattverd."
+  about:
+    "@type": "Thing"
+    name: "Christian liturgy"
+    sameAs: "https://www.wikidata.org/wiki/Q31184"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "McGowan-2014-ancient-christian-worship"
+    - "Pedersen-2012-oldkirken"
+    - "Didache-primærtekst"
+    - "anf03"
+    - "studier-personlige"
 ---
 
 > «De holdt fast ved apostlenes lære og fellesskapet, ved brødets brytelse og ved bønnene.» — Apg 2:42

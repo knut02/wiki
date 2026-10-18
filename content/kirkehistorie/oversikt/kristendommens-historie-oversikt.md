@@ -7,6 +7,20 @@ sub-kategori: Oldkirken — Bakgrunn og kontekst
 tags: [kirkehistorie, oversikt, periodisering, oldkirken, middelalder, reformasjon]
 modified: 2025-05-15
 kilder: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Kristendommens historie — oversikt"
+  description: "Navigasjonskart gjennom 2000 års kirkehistorie med nøkkeldatoer og periodisering"
+  about:
+    "@type": "Thing"
+    name: "Kirkehistorie"
+    sameAs: "https://www.wikidata.org/wiki/Q17514576"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "studier-personlige"
 ---
 
 ## Navigasjon i 2000 år

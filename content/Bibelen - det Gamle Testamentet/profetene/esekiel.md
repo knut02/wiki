@@ -8,6 +8,20 @@ sub-kategori: Profetene
 studievei: [gt, Bibelen, kirkehistorie]
 tags: [Esekiel, eksil, Guds herlighet, tørre knokler, ny ånd, nytt tempel, profeti, Babylon, Merkabah]
 sources: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Esekiel"
+  description: "Esekiels bok — syner, dom og gjenopprettelse i eksilets profeti"
+  about:
+    "@type": "Book"
+    name: "Esekiel"
+    sameAs: "https://www.wikidata.org/wiki/Q48213"
+  isPartOf:
+    "@type": "Book"
+    name: "Det gamle testamentet"
+  mentions:
+    - "studier-personlige"
 ---
 
 > «Jeg vil gi dere et nytt hjerte og legge en ny ånd i dere. Jeg vil ta steinhjertet ut av kroppen deres og gi dere et hjerte av kjøtt. Jeg vil legge min Ånd i dere.» — Esek 36:26-27

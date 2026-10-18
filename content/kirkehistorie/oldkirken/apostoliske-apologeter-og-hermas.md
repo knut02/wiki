@@ -6,6 +6,20 @@ kategori: Kirkehistorie
 sub-kategori: Oldkirken — Bakgrunn og kontekst
 tags: [apologeter, Justin Martyr, Athenagoras, Tatian, Teofilus, Hermas, Hyrden, omvendelse, det annet århundre, filosofi og kristendom, ANF02]
 sources: 1
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Apologetene og Hermas"
+  description: "Justin Martyr, Athenagoras, Tatian, Teofilus og Hermas — de apostoliske apologetene og Hermas' Hyrde i oldkirken."
+  about:
+    "@type": "Thing"
+    name: "Justin Martyr"
+    sameAs: "https://www.wikidata.org/wiki/Q134856"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "sources/ANF01-apostolic-fathers"
 ---
 
 > «Filosofer og historikere av alle slag hevdet at det eksisterer en Gud. Og vi er blitt latterliggjort fordi vi erklærer at Gud har fått et Barn. Men dere er ikke alene om å tale om Sønn til Gud.» — Justin Martyr, *Første apologi* 21

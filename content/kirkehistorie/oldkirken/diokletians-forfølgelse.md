@@ -7,6 +7,20 @@ kategori: Kirkehistorie
 sub-kategori: Oldkirken
 tags: [Diokletian, forfølgelse, 303, martyrium, Galerius, toleranseedikt, statsreligion, oldkirken]
 sources: 1
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Diokletians forfølgelse"
+  description: "Den store forfølgelsen under Diokletian 303–311 — årsaker, forløp og konsekvenser for kirken."
+  about:
+    "@type": "Thing"
+    name: "Diokletiansforfølgelsen"
+    sameAs: "https://www.wikidata.org/wiki/Q281255"
+  isPartOf:
+    "@type": "Book"
+    name: "Kirkehistorie"
+  mentions:
+    - "sources/TEOL2310-teologihistorie-oldkirken"
 ---
 
 > «Et edikt ble utstedt om at alle kristne kirker skulle jevnes med jorden og at Skriftene skulle overgis og brennes.» — Eusebios, *Kirkehistorie* VIII.2
