@@ -7,6 +7,25 @@ kategori: Det nye testamentet
 sub-kategori: Matteus
 tags: [Matteus, Johannes-martyrium, brødunder, hav, Herodes, tro, frykt, Peter, tilbedelse, profeti]
 sources: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Matt 14:1–36 — Brød og hav"
+  description: "Johannes' martyrium, to brødunder og Jesus som går på vannet. Kap. 14 beveger seg mellom politisk vold, folkemengdenes nød og disiplenes frykt og tilbedelse."
+  about:
+    "@type": "Book"
+    name: "Matteusevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q26180"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "matteus-evangeliet.md"
+    - "Johannes-martyrium"
+    - "brødunder"
+    - "Herodes"
+    - "Peter"
+    - "tilbedelse"
 ---
 
 > Rop til meg! Frykt ikke! — Matt 14:27

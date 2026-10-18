@@ -8,6 +8,23 @@ sub-kategori: Sentrale tekster
 studievei: [disippelskap, bønn, spiritualitet]
 tags: [Romerne, lidelsesteologi, predestinasjon, Guds forsett, Ånden, håp]
 sources: 4
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Romerne 8:28 — alt tjener til det gode"
+  description: "Eksegetisk gjennomgang av Rom 8:28 i kontekst — hva verset sier, hva det ikke sier, den gyldne kjeden i v. 29–30 og pastoral bruk og misbruk."
+  about:
+    "@type": "Book"
+    name: "Romerbrevet"
+    sameAs: "https://www.wikidata.org/wiki/Q43050"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "romerbrevet.md"
+    - "lidelsesteologi"
+    - "predestinasjon"
+    - "Guds forsett"
 ---
 
 > «Vi vet at alt tjener til det gode for dem som elsker Gud, dem som er kalt etter hans forsett.» — Rom 8:28

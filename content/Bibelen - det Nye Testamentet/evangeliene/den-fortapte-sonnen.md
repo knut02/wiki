@@ -7,6 +7,23 @@ sub-kategori: Sentrale tekster
 tags: [fortapte sønn, Luk 15, nåde, mottakelse, far, eldre brør, lignelse]
 modified: 2025-06-02
 sources: 4
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Lignelsen om den fortapte sønn — Lukas 15:11–32"
+  description: "Utfyllende analyse av Luk 15:11–32: tekstens oppbygning, de tre karakterene, kulturell kontekst, teologiske temaer, tolkningshistorie og lignelsens åpne slutt."
+  about:
+    "@type": "Book"
+    name: "Lukasevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q43423"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "lukasevangeliet.md"
+    - "lignelsene.md"
+    - "nåde"
+    - "æreskultur"
 ---
 
 > «Denne sønnen min var død, men er blitt levende, han var fortapt, men er funnet.» — Luk 15:24

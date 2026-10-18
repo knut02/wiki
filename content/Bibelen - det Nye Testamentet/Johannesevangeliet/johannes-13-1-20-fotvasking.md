@@ -4,6 +4,23 @@ tags: [johannes, fotvasking, tjeneste, renselse, avskjed, lidelseshistorie]
 perikope: "Joh 13:1–20"
 kapitel: 13
 evangelist: Johannes
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Johannes 13:1–20 – Fotvasking"
+  description: "Jesus vasker disiplenes føtter ved påskemiddagen – en kulturelt umulig handling som peker mot hans selvgivende kjærlighet og prefigurerer korset."
+  about:
+    "@type": "Book"
+    name: "Johannesevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q36239"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "johannes-evangeliet.md"
+    - "fotvasking"
+    - "tjeneste"
+    - "ego eimi"
 ---
 
 # Johannes 13:1–20 – Fotvasking

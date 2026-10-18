@@ -8,6 +8,23 @@ sub-kategori: Sentrale tekster
 studievei: [evangeliene, disippelskap]
 tags: [lignelser, Guds rike, fortapte sønn, barmhjertige samaritan, parabolē, Lukas 15]
 kilder: 4
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Jesu lignelser"
+  description: "Lignelsene er ikke illustrasjoner til en lære som kan formuleres uten dem — de er selve budskapets kjerne. Sjanger, kontekst og sentrale lignelser gjennomgått."
+  about:
+    "@type": "Book"
+    name: "Det nye testamentet"
+    sameAs: "https://www.wikidata.org/wiki/Q1860"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "den-fortapte-sonnen.md"
+    - "lukasevangeliet.md"
+    - "matteus-evangeliet.md"
+    - "Guds rike"
 ---
 
 ## Hva er en lignelse?

@@ -8,6 +8,24 @@ sub-kategori: Evangeliene
 studievei: [evangeliene, kristologi, Bibelen]
 tags: [Markus, Markusevangeliet, Messiashemmeligheten, disiplene, koinē, Rome, lidelse, euthys, Guds rike]
 sources: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Book"
+  name: "Markusevangeliet"
+  description: "Det eldste evangeliet — Messiashemmeligheten, disiplenes misforståelse og Menneskesønnen som tjener. Skrevet ca. 65–70 e.Kr., sannsynligvis for kristne i Roma."
+  inLanguage: "grc"
+  author:
+    "@type": "Person"
+    name: "Johannes Markus"
+  dateCreated: "0065"
+  sameAs: "https://www.wikidata.org/wiki/Q49430"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "messias"
+    - "Messiashemmeligheten"
+    - "kors"
 ---
 
 > «Menneskesønnen er ikke kommet for å la seg tjene, men for selv å tjene og gi sitt liv som løsepenge for mange.» — Mark 10:45

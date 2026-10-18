@@ -7,6 +7,21 @@ tags: [Abarim, fjell, Moab, Moses, Nebo, Jordan, GT]
 modified: 2025-04-23
 kilder: "1"
 description: "Fjellområde øst for Jordan i landet Moab, kjent som stedet der Moses fikk se Kanaanslandet"
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Place"
+  name: "Abarim"
+  description: "Fjellområde øst for Jordanelven i Moab — stedet der Moses så Kanaanslandet og døde på Nebo-toppen."
+  geo:
+    "@type": "GeoCoordinates"
+    latitude: 31.77
+    longitude: 35.72
+  sameAs: "https://www.wikidata.org/wiki/Q769025"
+  containedInPlace: "Moab"
+  mentions:
+    - "moses.md"
+    - "Nebo"
+    - "5-mosebok"
 ---
 
 ## Hva er dette?

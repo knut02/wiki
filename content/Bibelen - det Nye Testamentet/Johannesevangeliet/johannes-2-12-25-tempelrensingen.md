@@ -7,6 +7,23 @@ tags: [johannes, tempel, påske, tegn, oppstandelse, jødiske-institusjoner]
 sources:
   - "[[sources/keener-ivp-nt]]"
   - "[[sources/burge-john]]"
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Johannes 2:12-25 — Tempelrensingen"
+  description: "Jesus driver ut kjøpmenn fra tempelet og forkynner at hans eget legeme er det nye tempelet."
+  about:
+    "@type": "Book"
+    name: "Johannesevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q36239"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "johannes-evangeliet.md"
+    - "tempel"
+    - "oppstandelse"
+    - "påske"
 ---
 
 # Johannes 2:12-25 – Tempelrensingen

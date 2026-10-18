@@ -6,6 +6,23 @@ kategori: Bibelen - det Nye Testamentet
 sub-kategori: Paulusbrevene
 tags: [Paulus, imperiet, keiserkult, politisk teologi, evangelium, Kyrios, Romerriket, Wright, kontekst]
 sources: 1
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Paulus og Romerriket"
+  description: "Den politiske dimensjonen i Paulus' teologi — evangelium, Herre og frelse som keisertidens politiske begreper brukt som kontraerklæring mot keiserkulten."
+  about:
+    "@type": "Person"
+    name: "Paulus"
+    sameAs: "https://www.wikidata.org/wiki/Q9200"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "paulus-teologi.md"
+    - "keiserkult"
+    - "romerbrevet.md"
+    - "filipperbrevet.md"
 ---
 
 > «Jesus er Herre» — og ikke keiseren. Den tidligste kristne bekjennelsen var subversiv.

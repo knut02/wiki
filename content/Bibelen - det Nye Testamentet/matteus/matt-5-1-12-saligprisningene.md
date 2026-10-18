@@ -7,6 +7,25 @@ kategori: Det nye testamentet
 sub-kategori: Matteus
 tags: [Matteus, saligprisninger, Bergprekenen, fattige-i-ånd, saktmodige, barmhjertighet, fredskapere, rettferdighet, marginaliserte, himlenes-rike]
 sources: 4
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Matt 5:1–12 — Saligprisningene"
+  description: "Bergprekenens åpning: åtte (eller ni) saligprisninger som beskriver rikets mennesker. Ikke etiske krav, men en beskrivelse av hvem som allerede hører hjemme i himlenes rike."
+  about:
+    "@type": "Book"
+    name: "Matteusevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q26180"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "matteus-evangeliet.md"
+    - "saligprisninger"
+    - "Bergprekenen"
+    - "fattige-i-ånd"
+    - "himlenes-rike"
+    - "forfolgelse"
 ---
 
 > Salige er de fattige i ånd, for himlenes rike er deres. — Matt 5:3

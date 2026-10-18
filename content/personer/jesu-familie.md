@@ -7,6 +7,22 @@ sub-kategori: NT og oldkirke-personer
 tags: [Jesu familie, søsken, Josef, Maria, Jakob, slekt, evangeliene]
 kilder: 2
 modified: 2026-09-29
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Jesu familie og slekt"
+  description: "Oversikt over Jesu nærmeste familie — Josef, Maria, søsken og slektninger — slik de fremstilles i evangeliene."
+  sameAs: "https://www.wikidata.org/wiki/Q302"
+  relatedTo:
+    - "maria.md"
+    - "josef-fosterfar.md"
+    - "jakob-jesu-bror.md"
+    - "johannes-doperen.md"
+  mentions:
+    - "Josef"
+    - "Maria"
+    - "søsken"
+    - "evangeliene"
 ---
 
 ## Foreldre

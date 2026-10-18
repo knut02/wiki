@@ -8,6 +8,23 @@ sub-kategori: Sentrale tekster
 studievei: [evangeliene, kristologi]
 tags: [johannesevangeliet, Nikodemus, monogenes, evig liv, kjærlighet, verden, inkarnasjon]
 sources: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Johannes 3:16 — analyse"
+  description: "'For så høyt elsket Gud verden at han gav sin enbårne Sønn' — tekstanalyse av houtoos, monogenes og evig liv i kontekst av Nikodemussamtalen."
+  about:
+    "@type": "Book"
+    name: "Johannesevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q36239"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "johannes-evangeliet.md"
+    - "Nikodemus"
+    - "monogenes"
+    - "evig liv"
 ---
 
 > «For så høyt elsket Gud verden at han gav sin enbårne Sønn, for at hver den som tror på ham, ikke skal fortapes, men ha evig liv.» — Joh 3:16

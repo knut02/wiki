@@ -7,6 +7,26 @@ kategori: Det nye testamentet
 sub-kategori: Matteus
 tags: [Matteus, Bergprekenen, antiteser, sinne, begjær, skilsmisse, ed, hevn, fiender, lov, kjærlighet, fullkommenhet]
 sources: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Matt 5:21–48 — Antitesene"
+  description: "Seks antiteser der Jesus radikaliserer og dybdetolker loven: drap og sinne, ekteskapsbrudd og begjær, skilsmisse, ed, hevn og kjærlighet til fiender."
+  about:
+    "@type": "Book"
+    name: "Matteusevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q26180"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "matteus-evangeliet.md"
+    - "Bergprekenen"
+    - "antiteser"
+    - "sinne"
+    - "skilsmisse"
+    - "fiender"
+    - "loven"
 ---
 
 > Dere har hørt det er sagt … men jeg sier dere … — Matt 5:21–22 (refrenget)

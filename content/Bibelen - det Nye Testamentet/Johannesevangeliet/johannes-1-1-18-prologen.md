@@ -7,6 +7,23 @@ tags: [johannes-evangeliet, logos, inkarnasjon, prologen, kristologi]
 sources:
   - keener-ivp-nt
   - burge-john
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Johannes 1:1-18 — Prologen: Ordet ble menneske"
+  description: "Analyse av Johannesprologen — Logos-hymnen som introduserer Jesus som Guds evige Ord som ble kjøtt."
+  about:
+    "@type": "Book"
+    name: "Johannesevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q36239"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "johannes-evangeliet.md"
+    - "Logos"
+    - "inkarnasjon"
+    - "kristologi"
 ---
 
 # Johannes 1:1-18 – Prologen: Ordet ble menneske

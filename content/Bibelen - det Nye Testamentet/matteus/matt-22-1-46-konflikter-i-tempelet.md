@@ -7,6 +7,26 @@ kategori: Det nye testamentet
 sub-kategori: Matteus
 tags: [Matteus, bryllup, lignelse, skatten, oppstandelse, kjærlighetsbudet, sadduseerne, fariseerne, herodianerne, David]
 sources: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Matt 22:1–46 — Konflikter i tempelet"
+  description: "Bryllupslignelsen, tre teologiske fallgruver fra ulike grupper, og Jesu to-bud-sammenfatning. Alle Jesu motstandere er brakt til taushet."
+  about:
+    "@type": "Book"
+    name: "Matteusevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q26180"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "matteus-evangeliet.md"
+    - "bryllup"
+    - "skatten"
+    - "oppstandelse"
+    - "kjærlighetsbudet"
+    - "fariseerne"
+    - "sadduseerne"
 ---
 
 > Du skal elske Herren din Gud av hele ditt hjerte, av hele din sjel og av hele ditt sinn. — Matt 22:37

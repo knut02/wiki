@@ -7,6 +7,24 @@ kategori: Personer
 sub-kategori: Middelalderteologer
 tags: [Dominikus, dominikanere, middelalder, tiggermunker, teologi, forkynnelse, katarisme]
 sources: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Dominikus"
+  alternateName: "Domingo de Guzmán"
+  birthDate: "ca. 1170"
+  deathDate: "1221"
+  description: "Spansk prest og ordensstifter. Grunnla dominikanerordenen (1216). Kjent for forkynnelse, akademisk teologi og kamp mot katarismen."
+  birthPlace: "Caleruega, Castilla, Spania"
+  sameAs: "https://www.wikidata.org/wiki/Q44091"
+  relatedTo:
+    - "fransiskus-av-assisi.md"
+    - "thomas-aquinas.md"
+  mentions:
+    - "dominikanerordenen"
+    - "katarisme"
+    - "skolastikk"
+    - "fattigdom"
 ---
 
 > Tal alltid med Gud eller om Gud. — tilskrevet Dominikus

@@ -7,6 +7,23 @@ kategori: Det nye testamentet
 sub-kategori: Matteus
 tags: [Matteus, Egypt, Herodes, barnemordet, oppfyllelse, Hosea, Jeremia, nasareen, Rama, profeti, eksodus, Josef-mønster]
 sources: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Matt 2:13–23 — Flukten til Egypt og massakren i Betlehem"
+  description: "Josef flykter med familien til Egypt, Herodes dreper de mannlige barna i Betlehem, og familien vender tilbake til Nasaret. Tre komplekse oppfyllelsessitater."
+  about:
+    "@type": "Book"
+    name: "Matteusevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q26180"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "matteus-evangeliet.md"
+    - "Egypt"
+    - "Herodes"
+    - "oppfyllelsessitat"
 ---
 
 > Han reiste seg, tok barnet og moren hans om natten og dro til Egypt. Der var han til Herodes døde, for at det skulle oppfylles som Herren hadde talt gjennom profeten: «Fra Egypt kalte jeg min sønn.» — Matt 2:14–15

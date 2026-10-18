@@ -7,6 +7,23 @@ tags: [johannes-evangeliet, johannes-doeperen, guds-lam, dåpen, vitnesbyrd]
 sources:
   - keener-ivp-nt
   - burge-john
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Johannes 1:19-34 — Johannes Døperens vitnesbyrd"
+  description: "Analyse av Johannes Døperens selvfornektelse og hans identifikasjon av Jesus som Guds lam og Åndens bærer."
+  about:
+    "@type": "Book"
+    name: "Johannesevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q36239"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "johannes-evangeliet.md"
+    - "Johannes Døperen"
+    - "Guds lam"
+    - "vitnesbyrd"
 ---
 
 # Johannes 1:19-34 – Johannes Døperens vitnesbyrd

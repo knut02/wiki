@@ -8,6 +8,26 @@ sub-kategori: Paulusteologi
 studievei: [disippelskap, spiritualitet, Bibelen]
 tags: [2 Korinterbrev, svakhet, ny pakt, forsoning, tjeneste, apostolisk autoritet, torn i kjødet, ny skapelse]
 sources: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Book"
+  name: "Andre Korinterbrev"
+  description: "Paulus' mest personlige brev — apostolisk svakhet som Guds styrke, den nye pakten, forsoning og paradokset ved livet i tjeneste."
+  inLanguage: "grc"
+  author:
+    "@type": "Person"
+    name: "Paulus"
+    sameAs: "https://www.wikidata.org/wiki/Q9200"
+  dateCreated: "0056"
+  sameAs: "https://www.wikidata.org/wiki/Q47674"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "paulus.md"
+    - "den nye pakten"
+    - "forsoning"
+    - "forste-korinterbrev.md"
 ---
 
 > «Men vi har denne skatten i leirkar, for at den overveldende kraft skal være av Gud og ikke fra oss.» — 2 Kor 4:7

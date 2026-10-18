@@ -5,6 +5,23 @@ perikope: "Joh 20:19–31"
 testament: NT
 bok: Johannes
 kapittel: 20
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Johannes 20:19–31 – Jesus viser seg; Tomas' bekjennelse"
+  description: "Tomas' vei fra skepsis til bekjennelse kulminerer i 'Min Herre og min Gud!' – evangeliets kristologiske høydepunkt og inclusio med prologen."
+  about:
+    "@type": "Book"
+    name: "Johannesevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q36239"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "johannes-evangeliet.md"
+    - "Tomas"
+    - "oppstandelse"
+    - "ny skapelse"
 ---
 
 # Johannes 20:19–31 – Jesus viser seg; Tomas' bekjennelse

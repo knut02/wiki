@@ -4,6 +4,23 @@ tags: [johannes, kjærlighet, nytt-bud, peter, fornektelse, herliggjøring, avsk
 perikope: "Joh 13:31–38"
 kapitel: 13
 evangelist: Johannes
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Johannes 13:31–38 – Det nye budet og Peters fornektelse forutsagt"
+  description: "Etter Judas' utgang erklærer Jesus herliggjøringen som allerede innledet og gir det nye budet om gjensidig kjærlighet, før han varsler Peters fornektelse."
+  about:
+    "@type": "Book"
+    name: "Johannesevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q36239"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "johannes-evangeliet.md"
+    - "kjærlighet"
+    - "herliggjøring"
+    - "Peter"
 ---
 
 # Johannes 13:31–38 – Det nye budet og Peters fornektelse forutsagt

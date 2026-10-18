@@ -7,6 +7,23 @@ kategori: Det nye testamentet
 sub-kategori: Matteus
 tags: [Matteus, dåp, Jordan, Hellige-Ånd, Guds-Sønn, Jesaja-42, Salme-2, treenighet, himmelrøst, Herrens-tjener]
 sources: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Matt 3:13–17 — Jesu dåp"
+  description: "Jesus lar seg døpe av Johannes i Jordan. Himmelen åpner seg, Ånden daler ned som en due, og en stemme fra himmelen proklamerer Jesu identitet som Guds Sønn og Herrens tjener."
+  about:
+    "@type": "Book"
+    name: "Matteusevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q26180"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "matteus-evangeliet.md"
+    - "dåp"
+    - "Guds-Sønn"
+    - "Herrens-tjener"
 ---
 
 > Da Jesus var blitt døpt, steg han straks opp av vannet. Og se, himmelen åpnet seg, og han så Guds Ånd dale ned som en due og komme over ham. Og en røst fra himmelen sa: «Dette er min Sønn, den elskede, i ham har jeg velbehag.» — Matt 3:16–17

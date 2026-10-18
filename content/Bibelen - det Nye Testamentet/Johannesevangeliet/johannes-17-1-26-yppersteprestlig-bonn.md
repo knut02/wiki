@@ -6,6 +6,23 @@ tags: [johannesevangeliet, avskjedstale, bønn, enhet, herlighet, yppersteprestl
 sources:
   - Keener, Craig S. *The IVP Bible Background Commentary: New Testament*. IVP, 1993.
   - Burge, Gary M. *John. The NIV Application Commentary*. Zondervan, 2000.
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Johannes 17:1–26 – Den yppersteprestlige bønnen"
+  description: "Jesus ber for seg selv, for disiplene og for den fremtidige kirken: om herlighet, enhet og helliggjøring – avskjedstalens avsluttende høydepunkt."
+  about:
+    "@type": "Book"
+    name: "Johannesevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q36239"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "johannes-evangeliet.md"
+    - "enhet"
+    - "herlighet"
+    - "yppersteprestlig-bønn"
 ---
 
 # Johannes 17:1–26 – Den yppersteprestlige bønnen

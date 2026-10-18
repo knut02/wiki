@@ -7,6 +7,25 @@ kategori: Det nye testamentet
 sub-kategori: Matteus
 tags: [Matteus, Bergprekenen, salt, lys, loven, profetene, fullende, plēroō, rettferdighet, fariseerne, skriftlærde]
 sources: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Matt 5:13–20 — Salt, lys og loven"
+  description: "Disiplene som jordens salt og verdens lys. Dernest Jesu programmatiske lovutsagn: han er ikke kommet for å oppheve, men for å fullende."
+  about:
+    "@type": "Book"
+    name: "Matteusevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q26180"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "matteus-evangeliet.md"
+    - "Bergprekenen"
+    - "salt"
+    - "lys"
+    - "loven"
+    - "fullende"
 ---
 
 > Dere er jordens salt. Men hvis saltet mister sin kraft, hva skal det da saltes med? — Matt 5:13

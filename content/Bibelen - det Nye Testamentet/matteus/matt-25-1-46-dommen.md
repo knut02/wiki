@@ -7,6 +7,26 @@ kategori: Det nye testamentet
 sub-kategori: Matteus
 tags: [Matteus, brudepiker, talenter, dom, de-minste, Menneskesønnen, sauer-og-geiter, beredskap, eskatologi, Matt-25]
 sources: 4
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Matt 25:1–46 — Beredskap og dom"
+  description: "Tre eskatologiske tekster: de ti brudepikene, de betrodde talentene, og verdensdommen. Matteus avslutter den femte talen med Jesu skarpeste bilde av endelig ansvar."
+  about:
+    "@type": "Book"
+    name: "Matteusevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q26180"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "matteus-evangeliet.md"
+    - "brudepiker"
+    - "talenter"
+    - "dom"
+    - "de-minste"
+    - "Menneskesønnen"
+    - "eskatologi"
 ---
 
 > Det dere gjorde mot én av disse mine minste brødre, det gjorde dere mot meg. — Matt 25:40

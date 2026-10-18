@@ -7,6 +7,23 @@ tags: [johannes, tegn, tro, helbredelse, galilea, embedsmann, kapernaum, kana]
 sources:
   - "[[sources/keener-ivp-nt]]"
   - "[[sources/burge-john]]"
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Johannes 4:43-54 – Den kongelige embedsmannens sønn"
+  description: "Jesu andre tegn i Galilea: helbredelse på avstand av en kongelig embedsmanns sønn, og spørsmålet om tro uten tegn."
+  about:
+    "@type": "Book"
+    name: "Johannesevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q36239"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "johannes-evangeliet.md"
+    - "tegn"
+    - "tro"
+    - "helbredelse"
 ---
 
 # Johannes 4:43-54 – Den kongelige embedsmannens sønn

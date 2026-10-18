@@ -7,6 +7,23 @@ tags: [johannes, johannes-doperen, vitnesbyrd, brudgom, åpenbaring, himmel-og-j
 sources:
   - "[[sources/keener-ivp-nt]]"
   - "[[sources/burge-john]]"
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Johannes 3:22-36 – Johannes Døperens siste vitnesbyrd"
+  description: "Brudgommens venn trer tilbake: Johannes Døperens ord om brudgommen og brudgommens venn, og evangelistens teologiske avslutning av kapittel 3."
+  about:
+    "@type": "Book"
+    name: "Johannesevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q36239"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "johannes-evangeliet.md"
+    - "Johannes Døperen"
+    - "brudgom"
+    - "realisert eskatologi"
 ---
 
 # Johannes 3:22-36 – Johannes Døperens siste vitnesbyrd

@@ -4,6 +4,23 @@ description: "Latinsk teolog fra Karthago (ca. 160–225), grunnlegger av latins
 date: 2026-10-13
 kategori: Personer
 tags: [Tertullian, oldkirken, kirkefedre, latinsk teologi, treenighet, dåp, martyrium, montanisme, Karthago, tredje århundre]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Tertullian"
+  birthDate: "160"
+  deathDate: "225"
+  description: "Latinsk kirkefar; grunnla teologisk terminologi (trinitas, persona, substantia); montanist"
+  birthPlace: "Karthago, Nord-Afrika"
+  sameAs: "https://www.wikidata.org/wiki/Q48440"
+  relatedTo:
+    - "augustin.md"
+    - "irenaeus-av-lyon.md"
+    - "cyprian-av-karthago.md"
+  mentions:
+    - "treenighet"
+    - "montanisme"
+    - "martyrium"
 ---
 
 ## Liv og bakgrunn

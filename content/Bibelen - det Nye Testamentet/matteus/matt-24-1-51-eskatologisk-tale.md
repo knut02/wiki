@@ -7,6 +7,26 @@ kategori: Det nye testamentet
 sub-kategori: Matteus
 tags: [Matteus, eskatologi, tempel, Jerusalem, dommedag, Menneskesønnen, våke, femte-tale, parousia, trengsel]
 sources: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Matt 24:1–51 — Den eskatologiske talen (del 1)"
+  description: "Den femte store talen starter: templets ødeleggelse, tegn på tidens ende, forfølgelse, og formaningen om å våke. Kap. 24 dekker historisk og eskatologisk perspektiv."
+  about:
+    "@type": "Book"
+    name: "Matteusevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q26180"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "matteus-evangeliet.md"
+    - "eskatologi"
+    - "tempel"
+    - "Jerusalem"
+    - "dommedag"
+    - "Menneskesønnen"
+    - "våke"
 ---
 
 > Himmel og jord skal forgå, men mine ord skal aldri forgå. — Matt 24:35

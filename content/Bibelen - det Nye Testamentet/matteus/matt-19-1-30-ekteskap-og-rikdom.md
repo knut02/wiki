@@ -7,6 +7,25 @@ kategori: Det nye testamentet
 sub-kategori: Matteus
 tags: [Matteus, ekteskap, skilsmisse, sølibat, rikdom, barn, frelse, disippelskap, kamel, grønt-eid]
 sources: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Matt 19:1–30 — Ekteskap, rikdom og riket"
+  description: "Spørsmål om skilsmisse og sølibat, velsignelse av barn, den rike unge mannen, og kamelsayingen. Hvem kan bli frelst — og hva lover Jesus de som har forlatt alt?"
+  about:
+    "@type": "Book"
+    name: "Matteusevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q26180"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "matteus-evangeliet.md"
+    - "ekteskap"
+    - "skilsmisse"
+    - "rikdom"
+    - "barn"
+    - "disippelskap"
 ---
 
 > For Gud er alle ting mulig. — Matt 19:26

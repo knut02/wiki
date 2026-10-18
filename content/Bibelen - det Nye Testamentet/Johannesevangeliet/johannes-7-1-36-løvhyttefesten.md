@@ -7,6 +7,23 @@ tags: [johannes, løvhyttefesten, tabernakler, sukkot, jerusalem, autoritet, mes
 sources:
   - "[[sources/keener-ivp-nt]]"
   - "[[sources/burge-john]]"
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Johannes 7:1-36 – Løvhyttefesten (del 1)"
+  description: "Jesus ankommer Jerusalem i skjul under Løvhyttefesten og underviser i tempelet – tre spørsmål om hans autoritet, bakgrunn og fremtid avdekker progressivt hvem han er."
+  about:
+    "@type": "Book"
+    name: "Johannesevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q36239"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "johannes-evangeliet.md"
+    - "Løvhyttefesten"
+    - "autoritet"
+    - "rettssak"
 ---
 
 # Johannes 7:1-36 – Løvhyttefesten (del 1)

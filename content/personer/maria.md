@@ -6,6 +6,23 @@ kategori: Personer
 sub-kategori: NT og oldkirke-personer
 tags: [Maria, Jesu mor, Magnificat, bebudelsen, theotokos, jomfru, Luk 1]
 modified: 2025-05-18
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Maria av Nasaret"
+  alternateName: "Jomfru Maria"
+  description: "Jesu mor; theotokos; Magnificat; sentral i katolsk og ortodoks fromhet"
+  birthPlace: "Nasaret, Galilea"
+  sameAs: "https://www.wikidata.org/wiki/Q345"
+  relatedTo:
+    - "jesus.md"
+    - "johannes-doperen.md"
+    - "jakob-jesu-bror.md"
+  mentions:
+    - "Magnificat"
+    - "theotokos"
+    - "bebudelsen"
+    - "inkarnasjon"
 ---
 
 > «Se, jeg er Herrens tjenerinne. La det skje meg slik du har sagt.» — Luk 1:38

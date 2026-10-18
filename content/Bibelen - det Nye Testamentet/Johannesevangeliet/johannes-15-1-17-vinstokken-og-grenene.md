@@ -5,6 +5,23 @@ testament: NT
 bok: Johannes
 kapitel: 15
 perikope: "15:1–17"
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Johannes 15:1–17 – Vinstokken og grenene"
+  description: "Jesus er den sanne vinstokken og Faderen vingårdsmannen. Å bli i Jesus (‘menō’) er betingelsen for fruktbæring, kjærlighet og vennskap med Gud."
+  about:
+    "@type": "Book"
+    name: "Johannesevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q36239"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "johannes-evangeliet.md"
+    - "vinstokken"
+    - "menō"
+    - "kjærlighet"
 ---
 
 # Johannes 15:1–17 – Vinstokken og grenene

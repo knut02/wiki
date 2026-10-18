@@ -7,6 +7,26 @@ kategori: Det nye testamentet
 sub-kategori: Matteus
 tags: [Matteus, fariseerne, hyklere, verop, Jerusalem, dom, tempel, profeter, klage, autoritet]
 sources: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Matt 23:1–39 — De sju veropene"
+  description: "Jesu syvfoldige fordommølse av skriftlærde og fariseere: hykleri, byrder, tittler og ære, og blodskyld. Avsluttet med klagesangen over Jerusalem."
+  about:
+    "@type": "Book"
+    name: "Matteusevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q26180"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "matteus-evangeliet.md"
+    - "fariseerne"
+    - "hyklere"
+    - "verop"
+    - "Jerusalem"
+    - "dom"
+    - "profeter"
 ---
 
 > Jerusalem, Jerusalem, du som dreper profetene og steiner dem som er sendt til deg! — Matt 23:37

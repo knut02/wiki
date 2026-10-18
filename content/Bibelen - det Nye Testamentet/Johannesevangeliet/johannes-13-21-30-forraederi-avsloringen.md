@@ -4,6 +4,23 @@ tags: [johannes, judas, forræderi, natt, mørke, brøddyppingen]
 perikope: "Joh 13:21–30"
 kapitel: 13
 evangelist: Johannes
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Johannes 13:21–30 – Forræderiet avsløres"
+  description: "Jesus avslører forræderen gjennom brøddyppingen – en gest av ære, ikke straff. Judas går ut i natten, og mørket er både historisk og kosmisk."
+  about:
+    "@type": "Book"
+    name: "Johannesevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q36239"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "johannes-evangeliet.md"
+    - "Judas"
+    - "forræderi"
+    - "natt"
 ---
 
 # Johannes 13:21–30 – Forræderiet avsløres

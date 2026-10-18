@@ -4,6 +4,21 @@ description: "Barnløs kvinne fra Efraim hvis bønn i tempelet og sang etter Sam
 date: 2026-10-13
 kategori: Personer
 tags: [Hanna, Samuel, bønn, sang, barnløs, Magnificat, GT, 1 Samuel]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Hanna"
+  description: "Barnløs kvinne fra Efraim hvis bønn og sang etter Samuels fødsel er blant GT's mektigste tekster og forelegg for Marias Magnificat."
+  sameAs: "https://www.wikidata.org/wiki/Q201419"
+  relatedTo:
+    - "maria.md"
+    - "debora.md"
+    - "miriam.md"
+  mentions:
+    - "bønn"
+    - "Magnificat"
+    - "Samuel"
+    - "1-samuelsbok"
 ---
 
 ## Hvem er Hanna?

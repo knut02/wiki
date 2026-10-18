@@ -5,6 +5,23 @@ testament: NT
 bok: Johannes
 kapitel: 15
 perikope: "15:18–27"
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Johannes 15:18–27 – Verden hater, Parakleten vitner"
+  description: "Verden hater disiplene av samme grunn som den hatet Jesus. Parakleten trer inn som forsvarsadvokat og vitne i denne juridiske konflikten."
+  about:
+    "@type": "Book"
+    name: "Johannesevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q36239"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "johannes-evangeliet.md"
+    - "Paraklet"
+    - "forfølgelse"
+    - "vitnesbyrd"
 ---
 
 # Johannes 15:18–27 – Verden hater, Parakleten vitner

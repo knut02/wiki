@@ -4,6 +4,24 @@ description: "Hildegard av Bingen (1098–1179) — abbedisse, visionær, teolog
 date: 2026-10-13
 kategori: Person
 tags: [Hildegard, Bingen, visjon, profet, musikk, abbedisse, Scivias, viriditas, middelalder, kvinner, Doctor Ecclesiae]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Hildegard av Bingen"
+  birthDate: "1098"
+  deathDate: "1179"
+  description: "Tysk abbedisse, visionær, teolog, komponist og lege. Doctor Ecclesiae. Grunnfigur i rhinlandsk kristen mystikk og middelalderens mest originale kristne tenkere."
+  birthPlace: "Bermersheim vor der Höhe, Rhinland"
+  sameAs: "https://www.wikidata.org/wiki/Q70115"
+  relatedTo:
+    - "mester-eckhart.md"
+    - "thomas-aquinas.md"
+    - "fransiskus-av-assisi.md"
+  mentions:
+    - "Scivias"
+    - "viriditas"
+    - "visjon"
+    - "musikk"
 ---
 
 # Hildegard av Bingen (1098–1179)

@@ -5,6 +5,21 @@ date: 2026-10-04
 kategori: Personer
 sub-kategori: GT-personer
 tags: [Elia, profet, Akab, Isebel, Karmel, Horeb, Elisa, GT, ild]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Elia"
+  description: "GT-profet fra Tisbé; Karmel-konfrontasjonen; flukten til Horeb; tatt til himmelen; Johannes Døperens forbilde"
+  birthPlace: "Tisbé, Gilead"
+  sameAs: "https://www.wikidata.org/wiki/Q133560"
+  relatedTo:
+    - "johannes-doperen.md"
+    - "moses.md"
+    - "jesaja.md"
+  mentions:
+    - "Karmel"
+    - "Horeb"
+    - "messias"
 ---
 
 Elia er en av GT-profetenes mest dramatiske skikkelser. Han kommer og forsvinner brått, taler med autoritet og faller i dyp depresjon — og han er en av de to eneste i GT som tas til himmelen uten å dø.

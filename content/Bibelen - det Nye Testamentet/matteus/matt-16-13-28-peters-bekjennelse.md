@@ -7,6 +7,26 @@ kategori: Det nye testamentet
 sub-kategori: Matteus
 tags: [Matteus, Peters-bekjennelse, Messias, kirken, nøkler, kors, disippelskap, vendepunkt, Menneskesønnen, lidelse]
 sources: 4
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Matt 16:13–28 — Peters bekjennelse og korsets vei"
+  description: "Vendepunktet i Matteus: Peters bekjennelse av Jesus som Messias og Guds Sønn, Kirkens grunnleggelse, første lidelsesforutsigelse, og hva det vil si å ta opp korset."
+  about:
+    "@type": "Book"
+    name: "Matteusevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q26180"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "matteus-evangeliet.md"
+    - "Peters-bekjennelse"
+    - "Messias"
+    - "kirken"
+    - "kors"
+    - "disippelskap"
+    - "Menneskesønnen"
 ---
 
 > Du er Messias, den levende Guds Sønn! — Matt 16:16

@@ -7,6 +7,23 @@ kategori: Det nye testamentet
 sub-kategori: Temaartikler NT
 tags: [oppstandelse, tom-grav, Maria-Magdalena, historisk, teologi, ny-skapelse, kroppslighet]
 sources: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Den tomme graven"
+  description: "Temaartikkel om den tomme graven som historisk og teologisk kjerne i oppstandelsesberetningene — på tvers av alle fire evangelier."
+  about:
+    "@type": "Book"
+    name: "Det nye testamentet"
+    sameAs: "https://www.wikidata.org/wiki/Q1860"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "johannes-evangeliet.md"
+    - "oppstandelse"
+    - "Maria Magdalena"
+    - "ny skapelse"
 ---
 
 > «De har tatt Herren ut av graven, og vi vet ikke hvor de har lagt ham.» — Joh 20:2

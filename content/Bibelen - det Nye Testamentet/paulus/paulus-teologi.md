@@ -7,6 +7,23 @@ kategori: Det nye testamentet
 sub-kategori: Paulusbrevene
 tags: [Paulus, Wright, Keener, misjon, teologi, rettferdighet, keiserkult, Romerbrevet, kallelse]
 sources: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Paulus — apostel, teolog og misjonær"
+  description: "Innføring i Paulus — biografi, kallelse, misjonsstrategi, Romerbrevets teologi, Keeners bakgrunn og N.T. Wrights fire vinkler på paulinsk teologi."
+  about:
+    "@type": "Person"
+    name: "Paulus"
+    sameAs: "https://www.wikidata.org/wiki/Q9200"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "romerbrevet.md"
+    - "galaterne.md"
+    - "paulus-og-romerriket.md"
+    - "gal-2-20.md"
 ---
 
 > «Det er ikke lenger jeg som lever, men Kristus lever i meg.» — Gal 2:20

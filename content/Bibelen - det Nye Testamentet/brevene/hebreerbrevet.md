@@ -8,6 +8,22 @@ sub-kategori: Katolske brev og Åpenbaringen
 studievei: [kristologi, kirkehistorie, Bibelen]
 tags: [Hebreerbrevet, yppersteprest, Melkisedek, pakt, tabernaklet, tro, utholdenhet, skygge]
 sources: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Book"
+  name: "Hebreerbrevet"
+  description: "NT's mest systematiske argument for Jesu overhøyhet — større enn englene, Moses og Arons presteskap. Melkisedek-prestedømmet, den nye pakten og trosheltenes katalog."
+  inLanguage: "grc"
+  dateCreated: "0068"
+  sameAs: "https://www.wikidata.org/wiki/Q205653"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "Melkisedek"
+    - "yppersteprest"
+    - "den nye pakten"
+    - "tro og utholdenhet"
 ---
 
 > «Jesus Kristus er den samme i går og i dag og til evig tid.» — Heb 13:8

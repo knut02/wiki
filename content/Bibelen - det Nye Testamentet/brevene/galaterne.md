@@ -8,6 +8,26 @@ sub-kategori: Paulusteologi
 studievei: [disippelskap, Bibelen]
 tags: [Galaterne, frihet, omskjærelse, rettferdiggjørelse, Abraham, loven, Ånden, kjødet]
 sources: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Book"
+  name: "Galaterbrevet"
+  description: "Paulus' mest lidenskapelige brev — frihetens evangelium mot lovens åk, Abraham-argumentet og Åndens frukt."
+  inLanguage: "grc"
+  author:
+    "@type": "Person"
+    name: "Paulus"
+    sameAs: "https://www.wikidata.org/wiki/Q9200"
+  dateCreated: "0049"
+  sameAs: "https://www.wikidata.org/wiki/Q47123"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "paulus.md"
+    - "Abraham"
+    - "rettferdiggjørelse"
+    - "romerbrevet.md"
 ---
 
 > «Kristus har frigjort oss til frihet. Stå derfor fast, og la dere ikke igjen legge under trelldommens åk.» — Gal 5:1

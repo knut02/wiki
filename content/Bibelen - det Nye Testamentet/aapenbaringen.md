@@ -8,6 +8,26 @@ sub-kategori: Katolske brev og Åpenbaringen
 studievei: [kirkehistorie, kristologi, Bibelen]
 tags: [Åpenbaringen, apokalyptikk, keiserkult, Babylon, Lammet, ny Jerusalem, syv menigheter, Domitian]
 sources: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Book"
+  name: "Åpenbaringen"
+  description: "Apokalyptisk profeti til syv menigheter i Lilleasia — et motnarrativ til Romas imperium, skrevet fra Patmos av Johannes under Domitians forfølgelse."
+  inLanguage: "grc"
+  author:
+    "@type": "Person"
+    name: "Johannes apostelen"
+    sameAs: "https://www.wikidata.org/wiki/Q44015"
+  dateCreated: "0095"
+  sameAs: "https://www.wikidata.org/wiki/Q101680"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "keiserkult"
+    - "apokalyptikk"
+    - "Babylon"
+    - "det nye Jerusalem"
 ---
 
 > «Jeg er Alfa og Omega, den første og den siste, begynnelsen og enden.» — Åp 22:13

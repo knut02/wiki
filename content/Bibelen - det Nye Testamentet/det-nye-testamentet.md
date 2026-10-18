@@ -7,6 +7,18 @@ sub-kategori: Oversikt
 tags: [NT, oversikt, kanon, evangeliene, Paulus, Åpenbaringen, gresk, 27 skrifter]
 modified: 2025-07-09
 kilder: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Book"
+  name: "Det nye testamentet"
+  description: "Samling av 27 skrifter på gresk fra det første kristne århundret — evangeliene, Apostlenes gjerninger, brevene og Åpenbaringen."
+  inLanguage: "grc"
+  numberOfPages: 260
+  sameAs: "https://www.wikidata.org/wiki/Q1860"
+  mentions:
+    - "evangeliene-sjangeren.md"
+    - "nt-kanon.md"
+    - "apostlenes-gjerninger.md"
 ---
 
 > «Se, jeg er med dere alle dager inntil verdens ende.» — Matt 28:20

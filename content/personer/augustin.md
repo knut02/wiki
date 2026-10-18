@@ -6,6 +6,24 @@ kategori: Personer
 sub-kategori: NT og oldkirke-personer
 modified: 2025-07-09
 sources: 4
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Augustin av Hippo"
+  birthDate: "354"
+  deathDate: "430"
+  description: "Biskop, teolog og filosof; den mest innflytelsesrike vestlige kirkefar"
+  birthPlace: "Thagaste, Nord-Afrika"
+  sameAs: "https://www.wikidata.org/wiki/Q8018"
+  relatedTo:
+    - "origenes.md"
+    - "thomas-aquinas.md"
+    - "martin-luther.md"
+  mentions:
+    - "bekjennelsene"
+    - "gudsstaten"
+    - "arvesynd"
+    - "nådelæren"
 ---
 
 # Augustin av Hippo

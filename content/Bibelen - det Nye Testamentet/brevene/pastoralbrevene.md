@@ -8,6 +8,33 @@ sub-kategori: Paulusteologi
 studievei: [kirkehistorie, disippelskap, Bibelen]
 tags: [pastoralbrev, Timoteus, Titus, menighetsledelse, eldste, diakon, sund lære, falsk lære, Efesos, Kreta]
 sources: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Pastoralbrevene — 1-2 Timoteus og Titus"
+  description: "Tre brev til Paulus' medarbeidere om menighetsledelse, sund lære og trofast forvalting av apostolisk tradisjon under press fra falsk undervisning."
+  author:
+    "@type": "Person"
+    name: "Paulus"
+    sameAs: "https://www.wikidata.org/wiki/Q9200"
+  about:
+    - "@type": "Book"
+      name: "Første Timoteusbrev"
+      sameAs: "https://www.wikidata.org/wiki/Q47552"
+    - "@type": "Book"
+      name: "Andre Timoteusbrev"
+      sameAs: "https://www.wikidata.org/wiki/Q47553"
+    - "@type": "Book"
+      name: "Titusbrevet"
+      sameAs: "https://www.wikidata.org/wiki/Q47556"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "paulus.md"
+    - "menighetsledelse"
+    - "sund lære"
+    - "efeserbrevet.md"
 ---
 
 > «All Skrift er innåndet av Gud og nyttig til lærdom, til overbevisning, til rettledning, til oppdragelse i rettferdighet.» — 2 Tim 3:16

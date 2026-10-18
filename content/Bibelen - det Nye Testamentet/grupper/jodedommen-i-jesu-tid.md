@@ -7,6 +7,23 @@ sub-kategori: Bakgrunn og kontekst
 tags: [jødedommen, Jesu tid, fariseere, saddukeere, essenes, selotene, Palestina]
 modified: 2026-07-12
 sources: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Jødedommen i Jesu tid — de religiøse grupperingene"
+  description: "Fariseere, sadukeere, essenes og selotene: de fire store religiøse og politiske grupperingene i det første århundrets Palestina — og hva de betyr for å forstå evangeliene."
+  about:
+    "@type": "Book"
+    name: "Det nye testamentet"
+    sameAs: "https://www.wikidata.org/wiki/Q1860"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "fariseerne.md"
+    - "jerusalem.md"
+    - "Qumran"
+    - "messiasforventning"
 ---
 
 > «Hvem er størst i himmelriket?» — Matt 18:1. Spørsmålet var ikke abstrakt. Det var politisk, religiøst og sosialt ladet i en verden der fire konkurrerenede bevegelser hadde svært ulike svar.

@@ -6,6 +6,29 @@ kategori: Bibelen - det Nye Testamentet
 sub-kategori: Jesu undervisning
 tags: [kors, selvfornektelse, disippelskap, martyrdom, Markus, Matteus, Lukas, etterfølgelse, lidelse]
 sources: 1
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Å ta opp sitt kors — fornektelse og etterfølgelse"
+  description: "Alle tekststedene der Jesus kaller til selvfornektelse og å bære sitt kors, deres historiske bakgrunn og tolkningshistorie."
+  about:
+    - "@type": "Book"
+      name: "Markusevangeliet"
+      sameAs: "https://www.wikidata.org/wiki/Q45895"
+    - "@type": "Book"
+      name: "Matteusevangeliet"
+      sameAs: "https://www.wikidata.org/wiki/Q26180"
+    - "@type": "Book"
+      name: "Lukasevangeliet"
+      sameAs: "https://www.wikidata.org/wiki/Q43423"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "markusevangeliet.md"
+    - "disippelskap"
+    - "martyrdom"
+    - "peters-bekjennelse.md"
 ---
 
 > «Den som vil følge meg, må fornekte seg selv og ta sitt kors opp og følge meg.» — Mark 8:34

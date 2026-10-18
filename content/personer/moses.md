@@ -5,6 +5,20 @@ kategori: Personer
 sub-kategori: GT-personer
 tags: [Moses, befrier, Sinai, loven, profet, exodus, Herren ansikt til ansikt]
 kilder: 1
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Moses"
+  description: "Israels sentrale profet og leder; mottok Guds lov på Sinai og ledet folket ut av Egypt"
+  sameAs: "https://www.wikidata.org/wiki/Q9077"
+  relatedTo:
+    - "miriam.md"
+    - "samuel.md"
+    - "jesaja.md"
+  mentions:
+    - "exodus"
+    - "5-mosebok"
+    - "sinai"
 ---
 
 # Moses

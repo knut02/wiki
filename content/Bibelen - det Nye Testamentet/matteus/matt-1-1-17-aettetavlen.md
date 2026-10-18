@@ -7,6 +7,23 @@ kategori: Det nye testamentet
 sub-kategori: Matteus
 tags: [Matteus, ættetavle, genealogi, Messias, David, Abraham, kvinner, oppfyllelse]
 sources: 4
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Matt 1:1–17 — Ættetavlen"
+  description: "Jesu slektstavle som teologisk program: 14×3-strukturen, David-koblingen, og de fire kvinnene som peker mot universell frelse."
+  about:
+    "@type": "Book"
+    name: "Matteusevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q26180"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "matteus-evangeliet.md"
+    - "messias"
+    - "Davidssønn"
+    - "Abraham"
 ---
 
 > «Jesu Kristi, Davids sønns, Abrahams sønns ættetavle.» — Matt 1:1

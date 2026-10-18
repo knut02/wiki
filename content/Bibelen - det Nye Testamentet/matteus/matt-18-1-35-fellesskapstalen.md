@@ -7,6 +7,26 @@ kategori: Det nye testamentet
 sub-kategori: Matteus
 tags: [Matteus, fellesskap, ydmykhet, tilgivelse, villsau, menighet, kirkedisiplin, Petrus, fjerde-tale, binde-og-løse]
 sources: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Matt 18:1–35 — Fellesskapstalen"
+  description: "Den fjerde store talen: om å være stor i riket, om villsauen, om konflikthåndtering i menigheten, og om tilgivelsens grenseøshet. Fellesskap bygget på ydmykhet og gjensidig omsorg."
+  about:
+    "@type": "Book"
+    name: "Matteusevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q26180"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "matteus-evangeliet.md"
+    - "fellesskap"
+    - "ydmykhet"
+    - "tilgivelse"
+    - "villsau"
+    - "menighet"
+    - "kirkedisiplin"
 ---
 
 > Om din bror synder mot deg, gå og si ham det mellom deg og ham alene. — Matt 18:15

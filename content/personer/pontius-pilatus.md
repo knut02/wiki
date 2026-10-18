@@ -6,6 +6,23 @@ kategori: Personer
 sub-kategori: NT og oldkirke-personer
 tags: [Pontius Pilatus, prefekt, dom, korsfestelse, Jesus, romersk styre, Judea]
 modified: 2025-05-11
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Pontius Pilatus"
+  birthDate: "ukjent"
+  deathDate: "ukjent"
+  description: "Romersk prefekt over Judea ca. 26–36/37 e.Kr. Dømte Jesus til korsfestelse. Hans eksistens er bekreftet av Pilatus-inskripsjonen funnet i 1961."
+  birthPlace: "Roma, Italia (antatt)"
+  sameAs: "https://www.wikidata.org/wiki/Q180748"
+  relatedTo:
+    - "johannes-doperen.md"
+    - "maria.md"
+  mentions:
+    - "korsfestelse"
+    - "Pilatus-inskripsjonen"
+    - "Judea"
+    - "romersk styre"
 ---
 
 ## Hvem var Pontius Pilatus?

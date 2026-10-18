@@ -8,6 +8,26 @@ sub-kategori: Apostlenes gjerninger
 studievei: [evangeliene, kirkehistorie, Bibelen]
 tags: [Apostlenes gjerninger, Lukas, pinsen, Ånden, misjon, Peter, Paulus, Areopagen, juridisk apologetikk]
 sources: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Book"
+  name: "Apostlenes gjerninger"
+  description: "Lukas-dobbelverkets andre del — Åndens bok, evangeliets ekspansjon fra Jerusalem til Roma, pinsedagen, Peter og Paulus."
+  inLanguage: "grc"
+  author:
+    "@type": "Person"
+    name: "Lukas"
+    sameAs: "https://www.wikidata.org/wiki/Q128267"
+  dateCreated: "0080"
+  sameAs: "https://www.wikidata.org/wiki/Q45465"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "lukasevangeliet.md"
+    - "paulus.md"
+    - "Pinsen"
+    - "Den Hellige Ånd"
 ---
 
 > «Men dere skal få kraft når Den Hellige Ånd kommer over dere, og dere skal være mine vitner i Jerusalem og i hele Judea og Samaria og til jordens ende.» — Apg 1:8

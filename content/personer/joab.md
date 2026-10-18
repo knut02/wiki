@@ -5,6 +5,19 @@ kategori: Personer
 sub-kategori: GT-personer
 tags: [Joab, hærfører, David, loyalitet, drap, 2 Sam, politikk]
 kilder: 1
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Joab"
+  description: "Davids hærfører, Davids nevø, kjent for politisk drablighet og lojalitet til David — men på egne premisser."
+  sameAs: "https://www.wikidata.org/wiki/Q313220"
+  relatedTo:
+    - "kong-david.md"
+    - "abner.md"
+  mentions:
+    - "hærfører"
+    - "2-samuelsbok"
+    - "hevn"
 ---
 
 # Joab

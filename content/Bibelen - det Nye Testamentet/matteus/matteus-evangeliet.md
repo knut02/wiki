@@ -6,6 +6,25 @@ kategori: Det nye testamentet
 sub-kategori: Evangeliene
 tags: [Matteus, jødisk, bergprekenen, oppfyllelsessitater, misjonsbefalingen, fem taler]
 modified: 2025-05-18
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Book"
+  name: "Matteusevangeliet"
+  description: "Det mest jødiske evangeliet — ættetavlen, oppfyllelsessitater, Bergprekenen og misjonsbefalingen. Skrevet ca. 80–90 e.Kr., trolig for en jødekristent menighet i Syria."
+  inLanguage: "grc"
+  author:
+    "@type": "Person"
+    name: "Matteus apostelen"
+    sameAs: "https://www.wikidata.org/wiki/Q43444"
+  dateCreated: "0085"
+  sameAs: "https://www.wikidata.org/wiki/Q26180"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "bergprekenen.md"
+    - "messias"
+    - "misjonsbefalingen"
 ---
 
 > «Jesus Kristus, Davids sønn, Abrahams sønn.» — Matt 1:1. Første setning i Matteus er allerede en fullstendig kristologi.

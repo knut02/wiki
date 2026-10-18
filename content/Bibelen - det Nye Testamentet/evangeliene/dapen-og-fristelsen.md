@@ -7,6 +7,26 @@ sub-kategori: Sentrale tekster
 tags: [dåp, fristelse, identitet, Jesu dåp, Mark 1, Matt 3-4, ørkenen]
 modified: 2026-07-12
 sources: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Jesu dåp og fristelse — Mark 1:9-13 / Matt 3:13-4:11"
+  description: "Dåpen og fristelsen er NT-s dobbelte identitetsetablering for Jesus — hvem han er (Sønn) og hva han ikke vil gjøre (bruke makt på egne premisser)."
+  about:
+    - "@type": "Book"
+      name: "Markusevangeliet"
+      sameAs: "https://www.wikidata.org/wiki/Q45895"
+    - "@type": "Book"
+      name: "Matteusevangeliet"
+      sameAs: "https://www.wikidata.org/wiki/Q26180"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "markusevangeliet.md"
+    - "matteus-evangeliet.md"
+    - "johannes-doperen.md"
+    - "identitet"
 ---
 
 > «Og det kom en røst fra himmelen: Du er min Sønn, den elskede; i deg har jeg velbehag.» — Mark 1:11

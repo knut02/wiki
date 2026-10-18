@@ -5,6 +5,23 @@ testament: NT
 bok: Johannes
 kapitel: 14
 perikope: "14:1–14"
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Johannes 14:1–14 – Vei, sannhet og liv"
+  description: "Jesus svarer Thomas og Filip med det klassiske ego eimi-utsagnet: han er den eneste veien til Faderen, og å ha sett Jesus er å ha sett Faderen."
+  about:
+    "@type": "Book"
+    name: "Johannesevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q36239"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "johannes-evangeliet.md"
+    - "ego eimi"
+    - "avskjedstale"
+    - "bønn"
 ---
 
 # Johannes 14:1–14 – Vei, sannhet og liv

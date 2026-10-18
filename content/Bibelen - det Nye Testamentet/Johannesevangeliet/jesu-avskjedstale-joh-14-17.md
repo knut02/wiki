@@ -7,6 +7,23 @@ sub-kategori: Sentrale tekster
 tags: [avskjedstale, Joh 14-17, Talsmannen, Parakletos, kjærlighetsbud, enhet]
 modified: 2026-07-12
 sources: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Jesu avskjedstale – Joh 14–17"
+  description: "Oversiktsartikkel over Jesu avskjedstale i Johannes 14–17: Paraklet-løftene, vinstokk-metaforen, verdens hat og den yppersteprestlige bønnen."
+  about:
+    "@type": "Book"
+    name: "Johannesevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q36239"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "johannes-evangeliet.md"
+    - "Paraklet"
+    - "avskjedstale"
+    - "enhet"
 ---
 
 > «Jeg er veien, sannheten og livet.» — Joh 14:6

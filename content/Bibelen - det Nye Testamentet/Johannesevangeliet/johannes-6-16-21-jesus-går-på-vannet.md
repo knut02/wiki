@@ -7,6 +7,23 @@ tags: [johannes, ego-eimi, epifani, hav, storm, frykt, mose, exodus, festivalene
 sources:
   - "[[sources/keener-ivp-nt]]"
   - "[[sources/burge-john]]"
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Johannes 6:16-21 – Jesus går på vannet"
+  description: "Jesus kommer til disiplene på det oprørte havet – et epifanisk tegn der det guddommelige ego eimi møter stormen og den menneskelige frykten."
+  about:
+    "@type": "Book"
+    name: "Johannesevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q36239"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "johannes-evangeliet.md"
+    - "ego eimi"
+    - "epifani"
+    - "exodus"
 ---
 
 # Johannes 6:16-21 – Jesus går på vannet

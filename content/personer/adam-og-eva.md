@@ -6,6 +6,21 @@ kategori: Personer
 sub-kategori: GT-personer
 tags: [Adam, Eva, skapelse, syndefall, Edens hage, 1 Mosebok, imago Dei]
 kilder: 1
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Adam og Eva"
+  description: "De første menneskene i bibelsk tradisjon, skapt av Gud og plassert i Paradis — og utvist etter syndefallet."
+  sameAs: "https://www.wikidata.org/wiki/Q70899"
+  relatedTo:
+    - "kain.md"
+    - "abel.md"
+    - "augustin.md"
+  mentions:
+    - "skapelse"
+    - "syndefall"
+    - "Edens hage"
+    - "imago Dei"
 ---
 
 ## Hvem var de?

@@ -7,6 +7,23 @@ kategori: Det nye testamentet
 sub-kategori: Matteus
 tags: [Matteus, vismenn, magi, Betlehem, Herodes, stjerne, oppfyllelse, Mika, tilbedelse, hedninger]
 sources: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Matt 2:1–12 — Vismennene fra øst"
+  description: "Magiene fra øst følger stjernen til Betlehem. Kontrasten mellom Herodes' uro og hedningenes tilbedelse — og det tredje oppfyllelsessitatet."
+  about:
+    "@type": "Book"
+    name: "Matteusevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q26180"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "matteus-evangeliet.md"
+    - "Herodes"
+    - "oppfyllelsessitat"
+    - "hedninger"
 ---
 
 > Da de kom inn i huset, så de barnet og Maria, hans mor. De falt ned og tilbad ham, og åpnet sine skattkister og la frem gaver: gull, røkelse og myrra. — Matt 2:11

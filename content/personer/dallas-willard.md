@@ -7,6 +7,23 @@ kategori: Personer
 sub-kategori: Moderne teologer
 tags: [Dallas-Willard, åndelig-formasjon, disippelskap, guds-rike, Bergprekenen, askese, apologetikk, filosofi]
 sources: 4
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Dallas Willard"
+  birthDate: "1935"
+  deathDate: "2013"
+  description: "Amerikansk filosof og teolog. Professor i filosofi ved University of Southern California. Kjent for åndelig formasjon, disippelskap og Guds rikes realitet."
+  birthPlace: "Buffalo, Missouri, USA"
+  sameAs: "https://www.wikidata.org/wiki/Q5213157"
+  relatedTo:
+    - "nt-wright.md"
+    - "jurgen-moltmann.md"
+  mentions:
+    - "åndelig formasjon"
+    - "disippelskap"
+    - "Guds rike"
+    - "Bergprekenen"
 ---
 
 > Åndelig formasjon handler ikke om å prøve hardere. Det handler om å trene smartere. — Dallas Willard

@@ -7,6 +7,23 @@ tags: [johannes, blindhet, lys, sabbat, synet, siloam, sukkot, løvhyttefesten, 
 sources:
   - "[[sources/keener-ivp-nt]]"
   - "[[sources/burge-john]]"
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Johannes 9:1–41 – Mannen født blind"
+  description: "Jesus gir synet til en mann som har vært blind fra fødselen – et tegn som spiller ut hans proklamasjon om å være verdens lys, og som avdekker den åndelige blindheten hos dem som hevder å se."
+  about:
+    "@type": "Book"
+    name: "Johannesevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q36239"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "johannes-evangeliet.md"
+    - "blindhet"
+    - "Siloam"
+    - "sabbat"
 ---
 
 ## Teksten

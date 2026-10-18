@@ -8,6 +8,26 @@ sub-kategori: Katolske brev og Åpenbaringen
 studievei: [kirkehistorie, Bibelen, disippelskap]
 tags: [2 Peter, Judas, falske lærere, apokalyptikk, 1 Enok, falne engler, Herrens dag, troens kamp, spotterne]
 sources: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Andre Peter og Judas — apokalyptiske brev mot falsk lære"
+  description: "To korte apokalyptiske brev om falske lærere, 1 Enok-tradisjonen og kallet til å holde fast på den overleverte troen."
+  about:
+    - "@type": "Book"
+      name: "Andre Petersbrev"
+      sameAs: "https://www.wikidata.org/wiki/Q201322"
+    - "@type": "Book"
+      name: "Judasbrevet"
+      sameAs: "https://www.wikidata.org/wiki/Q261527"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "apokalyptikk"
+    - "falske lærere"
+    - "1 Enok"
+    - "Herrens dag"
 ---
 
 > «Kjære venner, mens jeg var svært ivrig etter å skrive til dere om vår felles frelse, fant jeg det nødvendig å skrive og formane dere til å kjempe for den tro som én gang for alle er overlevert til de hellige.» — Jud 3

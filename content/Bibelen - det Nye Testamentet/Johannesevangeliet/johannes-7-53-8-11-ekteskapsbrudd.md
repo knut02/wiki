@@ -7,6 +7,23 @@ tags: [johannes, ekteskapsbrudd, tekstkritikk, tilgivelse, loven, tovitneregelre
 sources:
   - "[[sources/keener-ivp-nt]]"
   - "[[sources/burge-john]]"
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Johannes 7:53–8:11 – Kvinnen grepet i ekteskapsbrudd"
+  description: "En perikope utenfor den opprinnelige johannesteksten, men med sterk historisk autentisitet: Jesus møter en kvinne brakt til ham som en felle – og hans respons avvæpner anklagerne og gir henne en ny start."
+  about:
+    "@type": "Book"
+    name: "Johannesevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q36239"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "johannes-evangeliet.md"
+    - "ekteskapsbrudd"
+    - "tekstkritikk"
+    - "tilgivelse"
 ---
 
 ## Teksten

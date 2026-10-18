@@ -1,5 +1,5 @@
 ---
-title: "Filemonsbrevetemen"
+title: "Filemonsbrevet"
 description: "NT's korteste brev — et mesterstykke i retorisk overtalelse der Paulus ber slaveeieren Filemon ta imot den rømte slaven Onesimus som en bror."
 date: 2026-08-26
 modified: 2026-08-26
@@ -8,6 +8,26 @@ sub-kategori: Paulusteologi
 studievei: [disippelskap, kirkehistorie, Bibelen]
 tags: [Filemon, slaveri, Onesimus, anbefalingsbrev, retorisk overtalelse, broderskap, Paulus, frihet]
 sources: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Book"
+  name: "Filemonsbrevet"
+  description: "NT's korteste brev — et mesterstykke i retorisk overtalelse der Paulus ber slaveeieren Filemon ta imot den rømte slaven Onesimus som en bror."
+  inLanguage: "grc"
+  author:
+    "@type": "Person"
+    name: "Paulus"
+    sameAs: "https://www.wikidata.org/wiki/Q9200"
+  dateCreated: "0062"
+  sameAs: "https://www.wikidata.org/wiki/Q332443"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "paulus.md"
+    - "Onesimus"
+    - "slaveri"
+    - "kolosserbrevet.md"
 ---
 
 > «Kanskje ble han skilt fra deg for en tid, for at du skulle få ham tilbake for alltid — ikke lenger som en slave, men mer enn en slave, som en kjær bror.» — Filem 15-16

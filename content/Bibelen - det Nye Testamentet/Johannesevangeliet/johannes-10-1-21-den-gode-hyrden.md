@@ -7,6 +7,23 @@ tags: [johannes, hyrden, sauer, ego-eimi, liv, sukkot, løvhyttefesten, eskatolo
 sources:
   - "[[sources/keener-ivp-nt]]"
   - "[[sources/burge-john]]"
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Johannes 10:1–21 – Den gode hyrden"
+  description: "Jesus presenterer seg som den gode hyrde som kjenner sine sauer ved navn, gir sitt liv for dem, og samler én flokk – en tale som fortsetter Løvhyttefestens motiver og speiler GT-profetiene om Guds hyrdeansvar."
+  about:
+    "@type": "Book"
+    name: "Johannesevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q36239"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "johannes-evangeliet.md"
+    - "hyrden"
+    - "ego eimi"
+    - "selvofring"
 ---
 
 ## Teksten

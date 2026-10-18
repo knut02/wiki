@@ -2,6 +2,20 @@
 title: Johannesevangeliet
 tags: [bibel, NT, johannes, evangelium, indeks]
 created: 2026-10-10
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Johannesevangeliet — indeks"
+  description: "Oversikt og navigasjonsindeks for alle perikoper og artikler om Johannesevangeliet."
+  about:
+    "@type": "Book"
+    name: "Johannesevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q36239"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "johannes-evangeliet.md"
 ---
 
 # Johannesevangeliet

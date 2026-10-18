@@ -7,6 +7,25 @@ kategori: Det nye testamentet
 sub-kategori: Matteus
 tags: [Matteus, lignelser, himlenes-rike, såmannen, ugress, sennepskorn, gjær, skatt, perle, not, tredje-tale]
 sources: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Matt 13:1–52 — Lignelsestalen"
+  description: "Den tredje store talen: sju lignelser om himlenes rike. Riket er skjult og voksende, verdifullt og sorterende. Kun de som har ører å høre, forstår."
+  about:
+    "@type": "Book"
+    name: "Matteusevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q26180"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "matteus-evangeliet.md"
+    - "lignelser"
+    - "himlenes-rike"
+    - "såmannen"
+    - "ugress"
+    - "sennepskorn"
 ---
 
 > Den som har ører, han høre! — Matt 13:9

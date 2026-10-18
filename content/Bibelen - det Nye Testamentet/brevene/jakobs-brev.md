@@ -8,6 +8,25 @@ sub-kategori: Katolske brev og Åpenbaringen
 studievei: [disippelskap, etikk, Bibelen]
 tags: [Jakobs brev, tro, gjerninger, visdom, tunge, fattige, rike, tålmodighet, Jakob, brev-essay]
 sources: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Book"
+  name: "Jakobs brev"
+  description: "Tro som virker i praksis — visdomstale om fattige og rike, tungen, tålmodighet og sammenhengen mellom tro og gjerninger."
+  inLanguage: "grc"
+  author:
+    "@type": "Person"
+    name: "Jakob, Herrens bror"
+    sameAs: "https://www.wikidata.org/wiki/Q44015"
+  dateCreated: "0060"
+  sameAs: "https://www.wikidata.org/wiki/Q106370"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "tro og gjerninger"
+    - "visdom"
+    - "fattige og rike"
 ---
 
 > «Men vær ordets gjørere, ikke bare dets hørere — ellers bedrar dere dere selv.» — Jak 1:22

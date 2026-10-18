@@ -7,6 +7,26 @@ kategori: Det nye testamentet
 sub-kategori: Matteus
 tags: [Matteus, helbredelse, synagoge, blødende-kvinne, blinde, stum, Davids-sønn, medfølelse, høst, arbeidere, splanknizomai]
 sources: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Matt 9:18–38 — Fem undere og kallet til høst"
+  description: "Synagogelederen og den blødende kvinnen, to blinde, en stum besatt — og avslutningen av underkompendiet med høstarbeidernes kall. Jesu medFølelse og Israels hyrde."
+  about:
+    "@type": "Book"
+    name: "Matteusevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q26180"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "matteus-evangeliet.md"
+    - "helbredelse"
+    - "blødende-kvinne"
+    - "blinde"
+    - "Davids-sønn"
+    - "medFølelse"
+    - "høst"
 ---
 
 > Da han så folkemengdene, fikk han inderlig medfølelse med dem, for de var medtatte og hjelpeløse, som sauer uten hyrde. — Matt 9:36

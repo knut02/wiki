@@ -5,6 +5,23 @@ date: 2026-10-04
 kategori: Personer
 sub-kategori: GT-personer
 tags: [Salomo, visdom, tempelet, Ordspråkene, Forkynneren, Høysangen, GT, konger]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Salomo"
+  birthDate: "ca. 990 f.Kr."
+  deathDate: "ca. 930 f.Kr."
+  description: "Israels tredje og siste store konge, kjent for visdom, tempelet i Jerusalem og tradisjonsforfatteren av Ordspråkene, Forkynneren og Høysangen."
+  birthPlace: "Jerusalem Israel"
+  sameAs: "https://www.wikidata.org/wiki/Q41370"
+  relatedTo:
+    - "kong-david.md"
+    - "abraham.md"
+  mentions:
+    - "visdom"
+    - "tempelet"
+    - "kongedømmet"
+    - "visdomslitteratur"
 ---
 
 Salomo er Davids sønn og Israels tredje og siste store konge. Han regjerte ca. 970–930 f.Kr. og er mest kjent for tre ting: den enestående visdommen, tempelet i Jerusalem og — til sist — svikten.

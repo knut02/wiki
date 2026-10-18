@@ -7,6 +7,23 @@ tags: [johannes, helbredelse, sabbat, betesda, festivalene-i-jødedommen, dom, r
 sources:
   - "[[sources/keener-ivp-nt]]"
   - "[[sources/burge-john]]"
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Johannes 5:1-18 – Helbredelse ved Betesda"
+  description: "Jesus helbreder en syk mann ved Betesda-bassenget på sabbaten, og konflikten som oppstår åpenbarer hans unike forhold til Faderen."
+  about:
+    "@type": "Book"
+    name: "Johannesevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q36239"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "johannes-evangeliet.md"
+    - "sabbat"
+    - "Betesda"
+    - "helbredelse"
 ---
 
 # Johannes 5:1-18 – Helbredelse ved Betesda

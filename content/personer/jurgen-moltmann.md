@@ -4,6 +4,24 @@ description: "Jürgen Moltmann (f. 1926) — håpets teologi, den lidende og kor
 date: 2026-10-13
 kategori: Person
 tags: [Moltmann, håpets teologi, den korsfestede Gud, eskatologi, lidelse, trinitarisk lidelsesteologi, Ernst Bloch]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Jürgen Moltmann"
+  birthDate: "1926"
+  deathDate: "2024"
+  description: "Tysk protestantisk teolog. En av det 20. århundrets viktigste teologer. Kjent for håpets teologi og den korsfestede Gud. Professor i Tübingen."
+  birthPlace: "Hamburg, Tyskland"
+  sameAs: "https://www.wikidata.org/wiki/Q75563"
+  relatedTo:
+    - "nt-wright.md"
+    - "wolfhart-pannenberg.md"
+    - "schleiermacher.md"
+  mentions:
+    - "håpets teologi"
+    - "den korsfestede Gud"
+    - "eskatologi"
+    - "lidelsesteologi"
 ---
 
 # Jürgen Moltmann (f. 1926)

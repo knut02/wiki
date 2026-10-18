@@ -4,6 +4,23 @@ tags: [johannes, greskerne, timen, herlighet, lidelse, hvetekornet, doxa]
 perikope: "Joh 12:20–36"
 kapitel: 12
 evangelist: Johannes
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Johannes 12:20–36 – Greskerne og timens ankomst"
+  description: "Greskernes ankomst markerer vendepunktet: timen er kommet, Jesus proklamerer at han må løftes opp fra jorden – og gjennom korset vil han dra alle til seg."
+  about:
+    "@type": "Book"
+    name: "Johannesevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q36239"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "johannes-evangeliet.md"
+    - "hvetekornet"
+    - "herliggjøring"
+    - "opphøyelse"
 ---
 
 # Johannes 12:20–36 – Greskerne og timens ankomst

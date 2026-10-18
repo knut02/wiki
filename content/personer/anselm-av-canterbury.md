@@ -4,6 +4,23 @@ description: "Anselm av Canterbury (1033–1109) — skolastikkens far, det onto
 date: 2026-10-13
 kategori: Person
 tags: [Anselm, Canterbury, ontologisk gudsbevis, Proslogion, skolastikk, middelalder, fides quaerens intellectum]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Anselm av Canterbury"
+  birthDate: "1033"
+  deathDate: "1109"
+  description: "Middelalderbiskop og teolog, erkebiskop av Canterbury. Kjent for det ontologiske gudsbevis og fides quaerens intellectum. Regnes som skolastikkens far."
+  birthPlace: "Aosta, Italia"
+  sameAs: "https://www.wikidata.org/wiki/Q153007"
+  relatedTo:
+    - "thomas-aquinas.md"
+    - "augustin.md"
+  mentions:
+    - "ontologisk gudsbevis"
+    - "Proslogion"
+    - "skolastikk"
+    - "fides quaerens intellectum"
 ---
 
 # Anselm av Canterbury (1033–1109)

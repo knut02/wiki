@@ -4,6 +4,22 @@ description: "Søster av Marta og Lasarus i Betania — kjent for å sitte ved J
 date: 2026-10-13
 kategori: Personer
 tags: [Maria av Betania, Marta, Lasarus, salving, Betania, disippel, NT, Johannes-evangeliet]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Maria av Betania"
+  description: "Søster av Marta og Lasarus i Betania, kjent for å sitte ved Jesu føtter og lytte, og for å salve ham med kostbar nard."
+  birthPlace: "Betania Judea"
+  sameAs: "https://www.wikidata.org/wiki/Q234842"
+  relatedTo:
+    - "maria-magdalena.md"
+    - "nikodemus.md"
+    - "johannes-doperen.md"
+  mentions:
+    - "salving"
+    - "Betania"
+    - "Lasarus"
+    - "johannesevangeliet"
 ---
 
 ## Hvem er Maria av Betania?

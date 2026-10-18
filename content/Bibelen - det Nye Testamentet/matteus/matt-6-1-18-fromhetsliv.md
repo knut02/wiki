@@ -7,6 +7,25 @@ kategori: Det nye testamentet
 sub-kategori: Matteus
 tags: [Matteus, Bergprekenen, fromhet, almisser, bønn, faste, Fadervår, hyklere, lønn, hemmelig, Far-i-himmelen]
 sources: 4
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Matt 6:1–18 — Fromhetslivet: almisser, bønn og faste"
+  description: "Tre fromhetsøvelser — almisser, bønn og faste — med samme grunnprinsipp: gjøres de for å sees av mennesker, er lønnen allerede mottatt. Fadervår som midtpunkt."
+  about:
+    "@type": "Book"
+    name: "Matteusevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q26180"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "matteus-evangeliet.md"
+    - "Bergprekenen"
+    - "almisser"
+    - "bønn"
+    - "faste"
+    - "Fadervår"
 ---
 
 > Men når du ber, gå inn i ditt kammer og lukk døren og be til din Far som er i det skjulte. Og din Far, som ser i det skjulte, skal lønne deg. — Matt 6:6

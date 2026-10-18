@@ -7,6 +7,25 @@ kategori: Det nye testamentet
 sub-kategori: Matteus
 tags: [Matteus, helbredelse, spedalsk, høvedsmannen, Peters-svigermor, tro, Jesaja-53, undere, ren-uren, hedning, kvinne]
 sources: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Matt 8:1–17 — Tre helbredelser: den spedalske, høvedsmannens tjener, Peters svigermor"
+  description: "Bergprekenens avslutning etterfølges av tre konkrete helbredelsesscener. Jødisk, hedensk og kvinne. Mønsteret er bevisst: riket inkluderer alle."
+  about:
+    "@type": "Book"
+    name: "Matteusevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q26180"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "matteus-evangeliet.md"
+    - "helbredelse"
+    - "spedalsk"
+    - "høvedsmannen"
+    - "tro"
+    - "Jesaja-53"
 ---
 
 > Han tok på seg våre svakheter og bar våre sykdommer. — Matt 8:17 (sitat fra Jes 53:4)

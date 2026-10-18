@@ -7,6 +7,25 @@ kategori: Det nye testamentet
 sub-kategori: Matteus
 tags: [Matteus, renhet, kanaaneisk-kvinne, tro, hedninger, brødunder, tradisjon, hjerte, Israel]
 sources: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Matt 15:1–39 — Rent og urent"
+  description: "Konflikt om renhetsregler, den kanaaneiske kvinnen, og nytt brødunder. Kap. 15 utvider Jesu oppdrag mot hedningene og radikaliserer renhetens indre dimensjon."
+  about:
+    "@type": "Book"
+    name: "Matteusevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q26180"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "matteus-evangeliet.md"
+    - "renhet"
+    - "kanaaneisk-kvinne"
+    - "hedninger"
+    - "tradisjon"
+    - "Israel"
 ---
 
 > Kvinne, din tro er stor! Det skal skje deg som du ønsker. — Matt 15:28

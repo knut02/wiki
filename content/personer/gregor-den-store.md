@@ -4,6 +4,25 @@ description: "Pave Gregor I (ca. 540–604) — bindeleddet mellom oldkirken og 
 date: 2026-10-13
 kategori: Person
 tags: [Gregor den store, pavekirken, middelalder, pastoral teologi, Regula Pastoralis, misjonen til England, Augustin av Canterbury, gregorisk sang, kirkefader]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Gregor den store"
+  alternateName: "Pave Gregor I"
+  birthDate: "ca. 540"
+  deathDate: "604"
+  description: "Pave fra 590 til 604. Den siste kirkefaderen og den første middelalderlige paven. Kjent for Regula Pastoralis, misjonen til England og gregorisk sang."
+  birthPlace: "Roma, Italia"
+  sameAs: "https://www.wikidata.org/wiki/Q170288"
+  relatedTo:
+    - "augustin.md"
+    - "thomas-aquinas.md"
+    - "antonius-den-store.md"
+  mentions:
+    - "Regula Pastoralis"
+    - "gregorisk sang"
+    - "pavekirken"
+    - "pastoral teologi"
 ---
 
 # Gregor den store (ca. 540–604)

@@ -4,6 +4,23 @@ tags: [johannes, tegn, oppvekkelse, lasarus, ego-eimi, kristologi, passion]
 perikope: "Joh 11:1–57"
 kapitel: 11
 evangelist: Johannes
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Johannes 11:1–57 – Lasarus' oppvekkelse"
+  description: "Det syvende og klimaktiske tegnet i Johannesevangeliet: Jesus vekkjer Lasarus opp fra de døde etter fire dager, proklamerer seg som oppstandelsen og livet – og dette tegnet utløser drapsplanen mot ham."
+  about:
+    "@type": "Book"
+    name: "Johannesevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q36239"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "johannes-evangeliet.md"
+    - "oppstandelse"
+    - "Lasarus"
+    - "ego eimi"
 ---
 
 # Johannes 11:1–57 – Lasarus' oppvekkelse

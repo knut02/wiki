@@ -4,6 +4,23 @@ tags: [johannes, palmesøndag, messias, sakkaria, politisk, inntog]
 perikope: "Joh 12:12–19"
 kapitel: 12
 evangelist: Johannes
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Johannes 12:12–19 – Det triumferende inntog"
+  description: "Jesus rir inn i Jerusalem til folkets jubel, men velger eselet fremfor hesten – en bevisst refortolkning av messiasforventningene basert på Sakkaria 9:9."
+  about:
+    "@type": "Book"
+    name: "Johannesevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q36239"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "johannes-evangeliet.md"
+    - "palmegrener"
+    - "messias"
+    - "Sakkaria"
 ---
 
 # Johannes 12:12–19 – Det triumferende inntog

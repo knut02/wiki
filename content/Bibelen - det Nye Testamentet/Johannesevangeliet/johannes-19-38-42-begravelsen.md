@@ -5,6 +5,23 @@ perikope: "Joh 19:38–42"
 testament: NT
 bok: Johannes
 kapittel: 19
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Johannes 19:38–42 – Begravelsen"
+  description: "Josef fra Arimatea og Nikodemus – de skjulte disiplene – trer modige frem ved korset og gir Jesus en kongelig begravelse."
+  about:
+    "@type": "Book"
+    name: "Johannesevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q36239"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "johannes-evangeliet.md"
+    - "Josef fra Arimatea"
+    - "Nikodemus"
+    - "pasjon"
 ---
 
 # Johannes 19:38–42 – Begravelsen

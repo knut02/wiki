@@ -8,6 +8,26 @@ sub-kategori: Paulusteologi
 studievei: [disippelskap, kristologi, Bibelen]
 tags: [Efeserbrevet, kirken, Guds rustning, mysteriet, jøde og hedning, åndsmakter, Kristus kropp, hustavlen]
 sources: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Book"
+  name: "Efeserbrevet"
+  description: "Kirkens kosmiske kall — Guds evige plan om å samle alt i Kristus, jøde og hedning som étt tempel, og Guds fulle rustning."
+  inLanguage: "grc"
+  author:
+    "@type": "Person"
+    name: "Paulus"
+    sameAs: "https://www.wikidata.org/wiki/Q9200"
+  dateCreated: "0062"
+  sameAs: "https://www.wikidata.org/wiki/Q47559"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "paulus.md"
+    - "åndsmakter"
+    - "kirken som Kristi kropp"
+    - "filipperbrevet.md"
 ---
 
 > «For av nåde er dere frelst, ved tro. Det er ikke av dere selv, det er Guds gave.» — Ef 2:8

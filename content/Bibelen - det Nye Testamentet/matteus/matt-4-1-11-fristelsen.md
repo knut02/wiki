@@ -7,6 +7,23 @@ kategori: Det nye testamentet
 sub-kategori: Matteus
 tags: [Matteus, fristelse, ørken, djevelen, Israel, 5-Mosebok, Deuteronomium, førti-dager, Moses, rekapitulasjon, Guds-Sønn]
 sources: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Matt 4:1–11 — Fristelsen i ørkenen"
+  description: "Ånden fører Jesus ut i ørkenen der han fristes av djevelen i førti dager. Tre fristelser, tre GT-svar — Jesus rekapitulerer Israels ørkenvandring og seirer der Israel falt."
+  about:
+    "@type": "Book"
+    name: "Matteusevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q26180"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "matteus-evangeliet.md"
+    - "fristelse"
+    - "ørken"
+    - "Israel"
 ---
 
 > Da ble Jesus ført av Ånden ut i ørkenen for å fristes av djevelen. Han fastet i førti dager og førti netter, og etterpå sultet han. — Matt 4:1–2

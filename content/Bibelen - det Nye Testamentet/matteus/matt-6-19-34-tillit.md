@@ -7,6 +7,26 @@ kategori: Det nye testamentet
 sub-kategori: Matteus
 tags: [Matteus, Bergprekenen, skatter, mammon, øyet, bekymring, liljer, fugler, tillit, himlenes-rike, søk-først]
 sources: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Matt 6:19–34 — Skatter, øyet og bekymringer"
+  description: "Tre sammenvevde avsnitt om tillit kontra angst: skatter i himmelen vs. på jorden, øyet som kroppens lys, og forbudet mot bekymring — illustrert med liljene og fuglene."
+  about:
+    "@type": "Book"
+    name: "Matteusevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q26180"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "matteus-evangeliet.md"
+    - "Bergprekenen"
+    - "skatter"
+    - "mammon"
+    - "bekymring"
+    - "tillit"
+    - "himlenes-rike"
 ---
 
 > Søk da først Guds rike og hans rettferdighet, så skal dere få alt dette i tillegg. — Matt 6:33

@@ -8,6 +8,23 @@ sub-kategori: Sentrale tekster
 studievei: [evangeliene, disippelskap, spiritualitet]
 tags: [Johannes, vintreet, ménō, kjærlighet, vennskap, Paraklētos, avskjedstalen]
 sources: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Johannes 15 – vintreet, kjærligheten og verden"
+  description: "Eksegetisk gjennomgang av Joh 15: det sanne vintreet, å bli i Jesus, kjærlighetsbudet, vennskapets teologi og verdens hat."
+  about:
+    "@type": "Book"
+    name: "Johannesevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q36239"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "johannes-evangeliet.md"
+    - "vinstokken"
+    - "menō"
+    - "Paraklet"
 ---
 
 > «Jeg er det sanne vintreet, og min Far er vingårdsmannen.» — Joh 15:1

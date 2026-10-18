@@ -8,6 +8,26 @@ sub-kategori: Paulusteologi
 studievei: [kristologi, disippelskap, Bibelen]
 tags: [Kolosserbrevet, Kristushymnen, skapelse, pleroma, fullhet, åndsmakter, visdom, filosofi, Kolossai]
 sources: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Book"
+  name: "Kolosserbrevet"
+  description: "Kristus som universets midtpunkt — Kristushymnen, mot falsk visdom og engledyrkelse, og det nye livet skjult med Kristus i Gud."
+  inLanguage: "grc"
+  author:
+    "@type": "Person"
+    name: "Paulus"
+    sameAs: "https://www.wikidata.org/wiki/Q9200"
+  dateCreated: "0062"
+  sameAs: "https://www.wikidata.org/wiki/Q47572"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "paulus.md"
+    - "Kristushymnen"
+    - "åndsmakter"
+    - "efeserbrevet.md"
 ---
 
 > «Han er bildet av den usynlige Gud, den førstefødte fremfor all skapning.» — Kol 1:15

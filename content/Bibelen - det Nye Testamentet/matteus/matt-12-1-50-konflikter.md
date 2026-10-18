@@ -7,6 +7,25 @@ kategori: Det nye testamentet
 sub-kategori: Matteus
 tags: [Matteus, sabbat, Beelzebul, Den-hellige-ånd, tegn, familie, skillelinje, fariseerne, Menneskesønnen]
 sources: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Matt 12:1–50 — Konflikter og skillelinje"
+  description: "Sabbatskonflikter, Beelzebul-anklagen og Jesus' ekte familie. Kapitlet tegner en skarp skillelinje mellom de som avviser Jesus og de som gjør Faderens vilje."
+  about:
+    "@type": "Book"
+    name: "Matteusevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q26180"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "matteus-evangeliet.md"
+    - "sabbat"
+    - "Beelzebul"
+    - "Den-hellige-ånd"
+    - "fariseerne"
+    - "Menneskesønnen"
 ---
 
 > Den som ikke er med meg, er imot meg, og den som ikke samler med meg, sprer. — Matt 12:30

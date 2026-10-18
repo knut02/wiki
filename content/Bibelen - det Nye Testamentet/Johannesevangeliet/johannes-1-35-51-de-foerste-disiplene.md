@@ -7,6 +7,24 @@ tags: [johannes-evangeliet, disipler, peter, natanael, filippus, andres, disippe
 sources:
   - keener-ivp-nt
   - burge-john
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Johannes 1:35-51 – De første disiplene"
+  description: "Analyse av de første disciples møte med Jesus – Andrew, Peter, Filip og Natanael, og den fjerdedelte disipplingsstrukturen"
+  about:
+    "@type": "Book"
+    name: "Johannesevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q36239"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "johannes-evangeliet.md"
+    - "disippelskap"
+    - "Peter"
+    - "Natanael"
+    - "menneskesønnen"
 ---
 
 # Johannes 1:35-51 – De første disiplene

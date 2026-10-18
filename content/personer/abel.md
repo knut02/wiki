@@ -6,6 +6,20 @@ kategori: Personer
 sub-kategori: GT-personer
 tags: [Abel, offeret, Kain, rettferdighet, 1 Mos 4, Hebreerne, martyr]
 kilder: 1
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Abel"
+  description: "Andre sønn av Adam og Eva, drept av sin bror Kain — den første martyren i bibelsk tradisjon og et nytestamentlig forbilde på tro."
+  sameAs: "https://www.wikidata.org/wiki/Q179049"
+  relatedTo:
+    - "adam-og-eva.md"
+    - "kain.md"
+  mentions:
+    - "offer"
+    - "martyr"
+    - "tro"
+    - "1-mosebok"
 ---
 
 ## Hvem var han?

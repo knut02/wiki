@@ -7,6 +7,25 @@ kategori: Det nye testamentet
 sub-kategori: Matteus
 tags: [Matteus, disippelskap, storm, Gennesaret, Gadara, besatte, demoner, griser, tro, frykt, Menneskesønnen]
 sources: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Matt 8:18–34 — Disippelskap, stormen og de besatte i Gadara"
+  description: "Tre perikoper: krav til disippelskap, stillningen av stormen på sjøen, og de to besatte mennene i Gadarenernes land."
+  about:
+    "@type": "Book"
+    name: "Matteusevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q26180"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "matteus-evangeliet.md"
+    - "disippelskap"
+    - "storm"
+    - "Gadara"
+    - "besatte"
+    - "Menneskesønnen"
 ---
 
 > Og mennene undret seg og sa: «Hvem er vel denne, som til og med vinder og hav lyder ham?» — Matt 8:27

@@ -5,6 +5,23 @@ perikope: "Joh 19:17–37"
 testament: NT
 bok: Johannes
 kapittel: 19
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Johannes 19:17–37 – Korsfestelsen"
+  description: "Korsfestelsen som teologisk kulmination: titulus som ufrivillig profeti, testamentet fra korset, 'tetelestai', og blod og vann som tegn på frelse og Ånd."
+  about:
+    "@type": "Book"
+    name: "Johannesevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q36239"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "johannes-evangeliet.md"
+    - "påskelammet"
+    - "tetelestai"
+    - "pasjon"
 ---
 
 # Johannes 19:17–37 – Korsfestelsen

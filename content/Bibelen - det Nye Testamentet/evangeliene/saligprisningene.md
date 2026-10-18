@@ -7,6 +7,23 @@ sub-kategori: Sentrale tekster
 tags: [saligprisningene, bergprekenen, Matt 5, Willard, Guds rike, annonsering]
 modified: 2026-07-10
 sources: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Saligprisningene (Matt 5:3–12)"
+  description: "De åtte saligprisningene i Bergprekenen — Willards lesning av dem som annonseringer fremfor krav, Keeners kulturhistoriske bakgrunn, og saligprisningene som Bergprekenens nøkkel."
+  about:
+    "@type": "Book"
+    name: "Matteusevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q26180"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "bergprekenen.md"
+    - "matteus-evangeliet.md"
+    - "Guds rike"
+    - "messiasforventning"
 ---
 
 > «Salige er de fattige i ånden, for himlenes rike er deres.» — Matt 5:3

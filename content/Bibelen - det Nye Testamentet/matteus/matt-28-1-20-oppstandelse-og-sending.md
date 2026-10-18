@@ -7,6 +7,26 @@ kategori: Det nye testamentet
 sub-kategori: Matteus
 tags: [Matteus, oppstandelse, tom-grav, misjonsbefalingen, misjon, Treenighet, dåp, alle-folkeslag, Israel, hedninger, slutt]
 sources: 4
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Matt 28:1–20 — Oppstandelse og misjonsbefalingen"
+  description: "Det tomme grav, Jesu tilsynekomst for kvinnene, vaktsoldatenes bestikkelse og den store misjonsbefalingen. Matteus-evangeliet avsluttes med et universelt mandat."
+  about:
+    "@type": "Book"
+    name: "Matteusevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q26180"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "matteus-evangeliet.md"
+    - "oppstandelse"
+    - "tom-grav"
+    - "misjonsbefalingen"
+    - "misjon"
+    - "alle-folkeslag"
+    - "Treenighet"
 ---
 
 > Jeg har fått all makt i himmelen og på jorden. Gå derfor og gjør alle folkeslag til disipler. — Matt 28:18–19

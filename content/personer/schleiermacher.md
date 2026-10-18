@@ -4,6 +4,25 @@ description: "Friedrich Schleiermacher (1768–1834) — grunnleggeren av modern
 date: 2026-10-13
 kategori: Person
 tags: [Schleiermacher, liberal protestantisme, romantikk, avhengighetsfølelse, moderne teologi, Barth, Tillich, kulturteologi]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Friedrich Schleiermacher"
+  alternateName: "Friedrich Daniel Ernst Schleiermacher"
+  birthDate: "1768"
+  deathDate: "1834"
+  description: "Tysk protestantisk teolog og filosof. Grunnlegger av moderne teologi og liberal protestantisme. Kjent for religion som avhengighetsgjørelse."
+  birthPlace: "Breslau, Preussen (nå Wroclaw, Polen)"
+  sameAs: "https://www.wikidata.org/wiki/Q76649"
+  relatedTo:
+    - "jurgen-moltmann.md"
+    - "wolfhart-pannenberg.md"
+    - "martin-luther.md"
+  mentions:
+    - "liberal protestantisme"
+    - "avhengighetsgjørelse"
+    - "romantikk"
+    - "moderne teologi"
 ---
 
 # Friedrich Schleiermacher (1768–1834)

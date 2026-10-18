@@ -5,6 +5,23 @@ perikope: "Joh 20:1–18"
 testament: NT
 bok: Johannes
 kapittel: 20
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Johannes 20:1–18 – Den tomme graven og Maria Magdalena"
+  description: "Maria Magdalena er første vitne til den tomme graven og den oppstandne Herre – gjenkjent på stemmen, sendt som første budbringer."
+  about:
+    "@type": "Book"
+    name: "Johannesevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q36239"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "johannes-evangeliet.md"
+    - "Maria Magdalena"
+    - "oppstandelse"
+    - "tom grav"
 ---
 
 # Johannes 20:1–18 – Den tomme graven og Maria Magdalena

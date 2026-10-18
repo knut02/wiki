@@ -7,6 +7,25 @@ kategori: Det nye testamente
 sub-kategori: Evangeliene
 tags: [Johannesevangeliet, Burge, Logos, Paraklet, Den Hellige Ånd, kristologi, inkarnasjon, dualisme, «Jeg er»-utsagn, Elskede Disippel, Tegn-bok, Herlighets-bok, Efesus]
 sources: 1
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Book"
+  name: "Johannesevangeliet"
+  description: "Det teologisk dypeste evangeliet — Logos-kristologi, syv tegn, syv \"Jeg er\"-utsagn og Paraklet-læren. Skrevet ca. 90–100 e.Kr., trolig i Efesus."
+  inLanguage: "grc"
+  author:
+    "@type": "Person"
+    name: "Johannes apostelen"
+    sameAs: "https://www.wikidata.org/wiki/Q44015"
+  dateCreated: "0090"
+  sameAs: "https://www.wikidata.org/wiki/Q36239"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "Logos"
+    - "Paraklet"
+    - "Den Hellige Ånd"
 ---
 
 > «Ingen bok i Bibelen har påvirket kristendommens liv og tenkning slik som Johannesevangeliet. Her har kristne funnet et portrett av Kristus som har vært dypt tilfredsstillende.» — Gary Burge

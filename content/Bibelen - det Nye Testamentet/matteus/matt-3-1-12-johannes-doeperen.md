@@ -7,6 +7,23 @@ kategori: Det nye testamentet
 sub-kategori: Matteus
 tags: [Matteus, Johannes-Døperen, omvendelse, dåp, Jordan, fariseerne, sadduseerne, Jesaja, ørken, Elias, dom, Åndens-dåp]
 sources: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Matt 3:1–12 — Johannes Døperen"
+  description: "Johannes trer frem i ørkenen, forkynner omvendelse og døper i Jordan. Konfrontasjonen med fariseerne og sadduseerne, og profetien om ham som kommer etter."
+  about:
+    "@type": "Book"
+    name: "Matteusevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q26180"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "matteus-evangeliet.md"
+    - "Johannes-Døperen"
+    - "omvendelse"
+    - "dåp"
 ---
 
 > Han er den det er talt om gjennom profeten Jesaja: «En røst roper i ørkenen: Rydd Herrens vei, gjør hans stier rette!» — Matt 3:3

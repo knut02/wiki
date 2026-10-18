@@ -5,6 +5,23 @@ kategori: Personer
 sub-kategori: NT og oldkirke-personer
 tags: [Maria Magdalena, oppstandelsesvitne, disippel, Magdala, evangeliene, kvinner]
 kilder: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Maria Magdalena"
+  birthDate: "ca. 1 e.Kr."
+  description: "Jødisk kvinne fra Magdala ved Galileasjøen. Tilhenger av Jesus. Det første oppstandelsesvitnet ifølge Johannesevangeliet."
+  birthPlace: "Magdala, Galilea"
+  sameAs: "https://www.wikidata.org/wiki/Q63070"
+  relatedTo:
+    - "maria.md"
+    - "maria-av-betania.md"
+    - "peter.md"
+  mentions:
+    - "oppstandelsesvitne"
+    - "Magdala"
+    - "korsfestelse"
+    - "kvinner i evangeliene"
 ---
 
 # Maria Magdalena

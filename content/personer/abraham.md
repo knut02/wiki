@@ -4,6 +4,21 @@ description: "Trosfar og patriark (ca. 2000 f.Kr.) — den som svarte på Guds k
 date: 2026-10-13
 kategori: Personer
 tags: [Abraham, patriark, pakt, kall, Aqedah, tro, GT, tros-far]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Abraham"
+  alternateName: "Abram"
+  description: "Patriark og trosfar; kallet fra Ur; Abrahamspakten; Aqedah"
+  birthPlace: "Ur i Kaldea"
+  sameAs: "https://www.wikidata.org/wiki/Q9205"
+  relatedTo:
+    - "moses.md"
+    - "kong-david.md"
+  mentions:
+    - "pakt"
+    - "Aqedah"
+    - "messias"
 ---
 
 ## Hvem er Abraham?

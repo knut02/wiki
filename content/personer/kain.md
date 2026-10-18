@@ -8,6 +8,21 @@ sub-kategori: GT-personer
 studievei: [gt, kristologi, disippelskap]
 tags: [Kain, Abel, 1 Mosebok, misunnelse, mord, Guds merke, forbannelse, blodet, offer, NT-bruk, typologi, etterslekt, Lamek, Adam og Eva]
 sources: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Kain"
+  description: "Første sønn av Adam og Eva — den første morderen i Bibelen, hvis fortelling er arketypen for misunnelse, synd som makt og Guds nydige nAde mot den skyldige."
+  sameAs: "https://www.wikidata.org/wiki/Q104916"
+  relatedTo:
+    - "abel.md"
+    - "adam-og-eva.md"
+  mentions:
+    - "misunnelse"
+    - "mord"
+    - "Guds merke"
+    - "1-mosebok"
+    - "typologi"
 ---
 
 > «Hvor er Abel, din bror?» Han svarte: «Jeg vet ikke. Er jeg min brors vokter?» — 1 Mos 4:9

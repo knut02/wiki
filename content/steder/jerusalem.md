@@ -7,6 +7,23 @@ sub-kategori: Bibelske steder
 tags: [Jerusalem, David, tempel, Salomo, profetene, Jesus, pinsen, GT, NT]
 modified: 
 kilder: 2*
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "City"
+  name: "Jerusalem"
+  description: "Sentral by i Bibelen — Davids by, stedet for Salomos tempel, og byen der Jesus ble korsfestet og oppstod."
+  geo:
+    "@type": "GeoCoordinates"
+    latitude: 31.7683
+    longitude: 35.2137
+  sameAs: "https://www.wikidata.org/wiki/Q1218"
+  containedInPlace: "Judea"
+  mentions:
+    - "kong-david.md"
+    - "salomo.md"
+    - "jesus.md"
+    - "Tempelet"
+    - "Pinsen"
 ---
 
 ## Geografi og beliggenhet

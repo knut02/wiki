@@ -5,6 +5,24 @@ date: 2026-10-04
 kategori: Personer
 sub-kategori: GT-personer
 tags: [Jesaja, profet, Jerusalem, kallet, Herrens tjener, Emanuel, GT, eskatologi]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Jesaja"
+  birthDate: "ca. 765 f.Kr."
+  deathDate: "ca. 700 f.Kr."
+  description: "Hebraisk profet i Jerusalem under kongene Ussia, Jotam, Akas og Hiskia (ca. 740–700 f.Kr.). Forfatter av Jesajaboken, GT-ets lengste profetbok."
+  birthPlace: "Jerusalem, Juda"
+  sameAs: "https://www.wikidata.org/wiki/Q93423"
+  relatedTo:
+    - "jeremias.md"
+    - "kong-david.md"
+    - "moses.md"
+  mentions:
+    - "Herrens tjener"
+    - "Emanuel"
+    - "ny skapning"
+    - "profeti"
 ---
 
 Jesaja er GT-profetenes prins. Boken som bærer hans navn er den lengste profetboken, siteres hyppigst i NT og inneholder noen av Bibelens vakreste og dypeste tekster.

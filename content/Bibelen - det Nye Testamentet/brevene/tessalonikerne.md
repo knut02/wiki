@@ -8,6 +8,30 @@ sub-kategori: Paulusteologi
 studievei: [disippelskap, Bibelen, kirkehistorie]
 tags: [Tessalonikerne, eskatologi, Herrens dag, håp, oppstandelse, lovløshetens menneske, arbeid, forfølgelse]
 sources: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Første og andre Tessalonikerbrev"
+  description: "Paulus' tidligste brev — til en ung menighet under press, om levende håp og de dødes skjebne, Herrens dag som en tyv og arbeidets verdighet."
+  author:
+    "@type": "Person"
+    name: "Paulus"
+    sameAs: "https://www.wikidata.org/wiki/Q9200"
+  about:
+    - "@type": "Book"
+      name: "Første Tessalonikerbrev"
+      sameAs: "https://www.wikidata.org/wiki/Q47536"
+    - "@type": "Book"
+      name: "Andre Tessalonikerbrev"
+      sameAs: "https://www.wikidata.org/wiki/Q47543"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "paulus.md"
+    - "eskatologi"
+    - "lovløshetens menneske"
+    - "romerbrevet.md"
 ---
 
 > «Men vi vil ikke at dere skal være uvitende om dem som er sovnet inn, brødre, slik at dere ikke sørger som de andre, de som ikke har noe håp.» — 1 Tess 4:13

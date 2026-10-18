@@ -7,6 +7,25 @@ kategori: Det nye testamentet
 sub-kategori: Matteus
 tags: [Matteus, Galilea, disippler, kallet, Simon, Andreas, Jakob, Johannes, Jesaja-9, himlenes-rike, fiskere, undervisning, helbredelse]
 sources: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Matt 4:12–25 — Jesus begynner sin tjeneste i Galilea"
+  description: "Jesus trekker seg til Galilea etter Johannes' arrestasjon, kaller de fire første disiplene, og begynner en bred undervisnings- og helbredelsestjeneste. Oppfyllelsen av Jesaja 9."
+  about:
+    "@type": "Book"
+    name: "Matteusevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q26180"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "matteus-evangeliet.md"
+    - "Galilea"
+    - "disippler"
+    - "kallet"
+    - "Jesaja-9"
+    - "himlenes-rike"
 ---
 
 > Fra den tid begynte Jesus å forkynne: «Vend om, for himlenes rike er nær!» — Matt 4:17

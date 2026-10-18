@@ -7,6 +7,23 @@ kategori: Det nye testamentet
 sub-kategori: Matteus
 tags: [Matteus, unnfangelse, Josef, jomfrufødselen, Immanuel, oppfyllelsessitat, Jesaja]
 sources: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Matt 1:18–25 — Unnfangelsen og Immanuel"
+  description: "Josef får vite at Maria er med barn av Den Hellige Ånd. Matteus' første oppfyllelsessitat: Jes 7:14 og Immanuel-motivet som rammer inn hele evangeliet."
+  about:
+    "@type": "Book"
+    name: "Matteusevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q26180"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "matteus-evangeliet.md"
+    - "Immanuel"
+    - "oppfyllelsessitat"
+    - "jomfrufødselen"
 ---
 
 > «Se, jomfruen skal bli med barn og føde en sønn, og de skal gi ham navnet Immanuel» — det betyr: Gud med oss. — Matt 1:23 (siterer Jes 7:14)

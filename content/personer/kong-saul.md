@@ -5,6 +5,25 @@ kategori: Personer
 sub-kategori: GT-personer
 tags: [Saul, første kongen, Israel, avvisning, ånd, 1 Sam, Filisterene]
 kilder: 1
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Kong Saul"
+  birthDate: "ca. 1079 f.Kr."
+  deathDate: "ca. 1010 f.Kr."
+  description: "Israëls første konge, salvet av Samuel, hvis fall baner vei for kong David."
+  birthPlace: "Gibeah Benjamin"
+  sameAs: "https://www.wikidata.org/wiki/Q42520"
+  relatedTo:
+    - "kong-david.md"
+    - "samuel.md"
+    - "abner.md"
+    - "joab.md"
+  mentions:
+    - "kongedømmet"
+    - "salving"
+    - "filistrene"
+    - "1-samuelsbok"
 ---
 
 # Kong Saul

@@ -4,6 +4,23 @@ description: "Biskop i Lyon (ca. 130–202), oldkirkens viktigste apologet mot g
 date: 2026-10-13
 kategori: Personer
 tags: [Irenaeus, oldkirken, kirkefedre, gnostisisme, rekapitulasjon, apostolisk tradisjon, Lyon, andre-tredje århundre]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Irenaeus av Lyon"
+  birthDate: "130"
+  deathDate: "202"
+  description: "Biskop i Lyon; Mot kjetteriene; rekapitulasjonsteorien; forsvar for apostolisk tradisjon"
+  birthPlace: "Smyrna, Lilleasia"
+  sameAs: "https://www.wikidata.org/wiki/Q150812"
+  relatedTo:
+    - "athanasius.md"
+    - "tertullian.md"
+    - "origenes.md"
+  mentions:
+    - "gnostisisme"
+    - "rekapitulasjon"
+    - "apostolisk-tradisjon"
 ---
 
 ## Liv og bakgrunn

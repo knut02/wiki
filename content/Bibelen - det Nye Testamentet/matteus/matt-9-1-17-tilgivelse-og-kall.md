@@ -7,6 +7,26 @@ kategori: Det nye testamentet
 sub-kategori: Matteus
 tags: [Matteus, tilgivelse, lam, Matteus-kallet, toll, syndere, faste, ny-vin, Menneskesønnen, synd, brudgom]
 sources: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Matt 9:1–17 — Tilgivelse, kall og fastespørsmål"
+  description: "Den lammede helbredes med tilgivelse som tegn. Matteus kalles fra tollboden. Spørsmålet om faste og de nye klærne og vinsekken."
+  about:
+    "@type": "Book"
+    name: "Matteusevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q26180"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "matteus-evangeliet.md"
+    - "tilgivelse"
+    - "Matteus-kallet"
+    - "toll"
+    - "faste"
+    - "ny-vin"
+    - "Menneskesønnen"
 ---
 
 > «Vær frimodig, barn! Dine synder er tilgitt.» — Matt 9:2

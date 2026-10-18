@@ -6,6 +6,25 @@ kategori: Bibelen - det Nye Testamentet
 sub-kategori: Bergprekenen
 tags: [Bergprekenen, bekymring, merimna, fugler, liljer, Guds forsørgelse, tillit, Matt 6, Keener]
 sources: 1
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Matt 6:25-34 — fuglene, liljene og bekymringens tomhet"
+  description: "Analyse av Jesu undervisning om bekymring i Bergprekenen — greske nøkkelord, historisk kontekst, tolkningshistorie og teologisk innhold."
+  about:
+    "@type": "Book"
+    name: "Matteusevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q26180"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "matteus-evangeliet.md"
+    - "Bergprekenen"
+    - "bekymring"
+    - "fugler"
+    - "liljer"
+    - "tillit"
 ---
 
 > «Bekymre dere derfor ikke for morgendagen. Den dagen har nok med sine egne plager.» — Matt 6:34

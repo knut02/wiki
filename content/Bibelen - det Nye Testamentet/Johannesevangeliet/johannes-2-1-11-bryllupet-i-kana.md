@@ -7,6 +7,23 @@ tags: [johannes, tegn, mesias, vin, bryllup, jødiske-institusjoner]
 sources:
   - "[[sources/keener-ivp-nt]]"
   - "[[sources/burge-john]]"
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Johannes 2:1-11 — Bryllupet i Kana"
+  description: "Jesu første tegn: vann til vin ved et brøllup i Kana, og hva dette avslerer om ham som Messias."
+  about:
+    "@type": "Book"
+    name: "Johannesevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q36239"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "johannes-evangeliet.md"
+    - "tegn"
+    - "messiansk overflod"
+    - "inkarnasjon"
 ---
 
 # Johannes 2:1-11 – Bryllupet i Kana

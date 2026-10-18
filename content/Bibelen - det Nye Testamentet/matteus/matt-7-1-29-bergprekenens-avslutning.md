@@ -7,6 +7,26 @@ kategori: Det nye testamentet
 sub-kategori: Matteus
 tags: [Matteus, Bergprekenen, dom, bønn, gyldne-regel, to-veier, falske-profeter, huset-på-klippen, fullmakt, avslutning]
 sources: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Matt 7:1–29 — Bergprekenens avslutning"
+  description: "Dømming, bedeperlen, Den gyldne regel, to veier, falske profeter, og huset på fjellet og sanden. Bergprekenens avsluttende appell."
+  about:
+    "@type": "Book"
+    name: "Matteusevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q26180"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "matteus-evangeliet.md"
+    - "Bergprekenen"
+    - "dom"
+    - "gyldne-regel"
+    - "to-veier"
+    - "falske-profeter"
+    - "huset-på-klippen"
 ---
 
 > Enhver som hører disse ordene mine og gjør etter dem, kan sammenlignes med en klok mann som bygde huset sitt på fjell. — Matt 7:24

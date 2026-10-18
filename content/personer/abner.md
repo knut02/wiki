@@ -6,6 +6,20 @@ kategori: Personer
 sub-kategori: GT-personer
 tags: [Abner, hærfører, Saul, David, Joab, 2 Sam, drap]
 kilder: 1
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Abner"
+  description: "Israëls hærfører under kong Saul, later alliert med David, drept av Joab som hevn."
+  sameAs: "https://www.wikidata.org/wiki/Q334983"
+  relatedTo:
+    - "kong-saul.md"
+    - "kong-david.md"
+    - "joab.md"
+  mentions:
+    - "hærfører"
+    - "2-samuelsbok"
+    - "hevn"
 ---
 
 ## Hvem var han?

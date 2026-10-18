@@ -8,6 +8,23 @@ sub-kategori: Sentrale tekster
 studievei: [evangeliene, disippelskap, etikk]
 tags: [bergprekenen, saligprisningene, antitesene, Guds rike, Matt 5-7, fiendekjærlighet, Fadervår, fromhet, bekymring]
 sources: 4
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Bergprekenen — Matt 5–7"
+  description: "Bergprekenen er Jesu fremste undervisning — en sammenhengende tale om det livet som er mulig i Guds rike, ikke en ny lov men en invitasjon til en radikal omforming av sinnet."
+  about:
+    "@type": "Book"
+    name: "Matteusevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q26180"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "matteus-evangeliet.md"
+    - "saligprisningene.md"
+    - "Guds rike"
+    - "antitesene"
 ---
 
 > «Salige er de fattige i ånden, for himmelriket er deres.» — Matt 5:3

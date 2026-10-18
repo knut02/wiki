@@ -5,6 +5,24 @@ kategori: Personer
 sub-kategori: NT og oldkirke-personer
 tags: [Jakob, Jesu bror, Jerusalem, martyrium, Jakobs brev, oldkirken]
 kilder: 1
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Jakob (Jesu bror)"
+  alternateName: "Jakobus den rettferdige"
+  deathDate: "ca. 62 e.Kr."
+  description: "Bror av Jesus, ledende skikkelse i urkirken i Jerusalem og tradisjonell forfatter av Jakobs brev."
+  birthPlace: "Nasaret Galilea"
+  sameAs: "https://www.wikidata.org/wiki/Q128267"
+  relatedTo:
+    - "peter.md"
+    - "paulus.md"
+    - "maria.md"
+  mentions:
+    - "urkirken"
+    - "Jerusalem"
+    - "Jakobs brev"
+    - "martyrium"
 ---
 
 # Jakob (Jesu bror)

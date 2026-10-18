@@ -7,6 +7,26 @@ kategori: Det nye testamentet
 sub-kategori: Matteus
 tags: [Matteus, korsfestelse, Pilatus, Judas, Golgata, død, tempel-forheng, oppstandelse, soldater, segl]
 sources: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Matt 27:1–66 — Korsfestelsen"
+  description: "Pilatusforhøret, Judas' ende, Jesu korsfestelse og død, jordskjelvet og oppstandelsenes tegn, og forsegling av graven. Matteus' lidelseshistorie avsluttet."
+  about:
+    "@type": "Book"
+    name: "Matteusevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q26180"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "matteus-evangeliet.md"
+    - "korsfestelse"
+    - "Pilatus"
+    - "Judas"
+    - "Golgata"
+    - "død"
+    - "tempel-forheng"
 ---
 
 > Fra den sjette til den niende time ble det mørkt over hele landet. — Matt 27:45

@@ -4,6 +4,23 @@ description: "Thomas Aquinas (ca. 1225–1274) — middelalderteologiens høydep
 date: 2026-10-13
 kategori: Person
 tags: [Aquinas, Thomas, Summa Theologiae, de fem veiene, tro og fornuft, skolastikk, dominikanerne, middelalder, aristotelisme]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Thomas Aquinas"
+  birthDate: "1225"
+  deathDate: "1274"
+  description: "Middelalderteologiens høydepunkt; Summa Theologiae, tro og fornuft, de fem veiene"
+  birthPlace: "Aquino, Italia"
+  sameAs: "https://www.wikidata.org/wiki/Q9438"
+  relatedTo:
+    - "augustin.md"
+    - "anselm-av-canterbury.md"
+    - "mester-eckhart.md"
+  mentions:
+    - "Summa-Theologiae"
+    - "de-fem-veiene"
+    - "aristotelisme"
 ---
 
 # Thomas Aquinas (ca. 1225–1274)

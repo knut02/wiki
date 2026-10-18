@@ -7,6 +7,26 @@ kategori: Det nye testamentet
 sub-kategori: Matteus
 tags: [Matteus, inntog, Jerusalem, tempel, tempelrensing, Sak 9, Davidssønn, lignelse, vingård, profeter]
 sources: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Matt 21:1–46 — Inntog og tempel"
+  description: "Palmessøndag-inntoget, tempelrensingen og konfliktlignelsene i Jerusalem. Jesus konfronterer Israels ledere med profetisk handling og to skarpe lignelser."
+  about:
+    "@type": "Book"
+    name: "Matteusevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q26180"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "matteus-evangeliet.md"
+    - "inntog"
+    - "Jerusalem"
+    - "tempel"
+    - "tempelrensing"
+    - "Davidssønn"
+    - "lignelse"
 ---
 
 > Hosianna Davids Sønn! Velsignet er han som kommer i Herrens navn! — Matt 21:9

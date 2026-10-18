@@ -5,6 +5,23 @@ perikope: "Joh 21:15–25"
 testament: NT
 bok: Johannes
 kapittel: 21
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Johannes 21:15–25 – Peter gjenopprettes; 'elsker du meg?'"
+  description: "Peters tredobbelte gjenopprettelse speiler fornektelsens triade. Jesus gir hyrdemandatet og martyriumprofetien: 'Følg meg!'."
+  about:
+    "@type": "Book"
+    name: "Johannesevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q36239"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "johannes-evangeliet.md"
+    - "Peter"
+    - "hyrde"
+    - "martyrium"
 ---
 
 # Johannes 21:21–25 – Peter gjenopprettes; «elsker du meg?»

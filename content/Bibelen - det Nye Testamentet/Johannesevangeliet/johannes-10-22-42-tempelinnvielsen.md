@@ -7,6 +7,23 @@ tags: [johannes, hanukkah, tempelinnvielsen, messias, gud, enhet, faderen, stein
 sources:
   - "[[sources/keener-ivp-nt]]"
   - "[[sources/burge-john]]"
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Johannes 10:22–42 – Tempelinnvielsen og Faderens verk"
+  description: "Under Hanukkah – festen som feirer tempelets rededikasjon – konfronterer Jerusalem-jødene Jesus med et ultimatum om messiasidentiteten. Hans svar kulminerer i det sterkeste enhetsutsagnet i evangeliet: «Jeg og Faderen er étt.»"
+  about:
+    "@type": "Book"
+    name: "Johannesevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q36239"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "johannes-evangeliet.md"
+    - "Hanukkah"
+    - "enhet"
+    - "messias"
 ---
 
 ## Teksten

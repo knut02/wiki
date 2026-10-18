@@ -7,6 +7,26 @@ kategori: Det nye testamentet
 sub-kategori: Matteus
 tags: [Matteus, pasjon, Judas, nattverd, Getsemane, pågripelse, Peters-fornektelse, forhør, salvning, lidelse]
 sources: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Matt 26:1–75 — Pasjonens start"
+  description: "Komplottet, salvingen i Betania, det siste måltidet, Getsemane, pågripelse, forhør hos yppersteprestene og Peters fornektelse. Lidelseshistoriens første del."
+  about:
+    "@type": "Book"
+    name: "Matteusevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q26180"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "matteus-evangeliet.md"
+    - "pasjon"
+    - "Judas"
+    - "nattverd"
+    - "Getsemane"
+    - "Peters-fornektelse"
+    - "lidelse"
 ---
 
 > Min sjel er dypt bedrøvet, like til døden. — Matt 26:38

@@ -7,6 +7,21 @@ tags: [Betania, landsby, Oljeberget, Lasarus, Maria, Marta, Jesus]
 modified: 2025-04-23
 description: "Liten landsby øst for Oljeberget, nær Jerusalem — et av Jesu hyppigste oppholdsstedene."
 kilder: 1*
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Place"
+  name: "Betania"
+  description: "Liten landsby øst for Oljeberget, ca. 2 km fra Jerusalem — hjemsted for Marta, Maria og Lasarus og et av Jesu faste tilholdssted."
+  geo:
+    "@type": "GeoCoordinates"
+    latitude: 31.7714
+    longitude: 35.2636
+  sameAs: "https://www.wikidata.org/wiki/Q193517"
+  containedInPlace: "Judea"
+  mentions:
+    - "maria-av-betania.md"
+    - "johannes-doperen.md"
+    - "jerusalem.md"
 ---
 
 ## Hva er dette?

@@ -4,6 +4,23 @@ description: "Johannes Calvin (1509–1564) — reformasjonens systematiker, Ins
 date: 2026-10-13
 kategori: Person
 tags: [Calvin, kalvinisme, reformert teologi, Institutio, predestinasjon, paktsteologi, TULIP, Genève, presbyterial]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Johannes Calvin"
+  birthDate: "1509"
+  deathDate: "1564"
+  description: "Reformasjonens systematiker; Institutio, predestinasjon og paktsteologi"
+  birthPlace: "Noyon, Frankrike"
+  sameAs: "https://www.wikidata.org/wiki/Q37577"
+  relatedTo:
+    - "martin-luther.md"
+    - "john-wesley.md"
+    - "thomas-aquinas.md"
+  mentions:
+    - "Institutio-Christianae-Religionis"
+    - "predestinasjon"
+    - "paktsteologi"
 ---
 
 # Johannes Calvin (1509–1564)

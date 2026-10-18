@@ -8,6 +8,26 @@ sub-kategori: Evangeliene
 studievei: [evangeliene, disippelskap, spiritualitet]
 tags: [Lukas, Lukasevangeliet, fattige, kvinner, bønn, Ånden, samaritaner, historieskriving, Teofilus]
 sources: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Book"
+  name: "Lukasevangeliet"
+  description: "Barmhjertighetens evangelium — de utstytte og marginaliserte, kvinner i Jesu følge, Åndens evangelium og dobbelverket med Apostlenes gjerninger."
+  inLanguage: "grc"
+  author:
+    "@type": "Person"
+    name: "Lukas"
+    sameAs: "https://www.wikidata.org/wiki/Q128267"
+  dateCreated: "0080"
+  sameAs: "https://www.wikidata.org/wiki/Q42822"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "apostlenes-gjerninger.md"
+    - "fattige"
+    - "Den Hellige Ånd"
+    - "kvinner-i-evangeliene"
 ---
 
 > «Den Hellige Ånd er over meg, for han har salvet meg til å forkynne godt budskap for fattige.» — Luk 4:18

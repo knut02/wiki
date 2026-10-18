@@ -7,6 +7,23 @@ sub-kategori: Sentrale tekster
 tags: [Johannes-prologen, Logos, Joh 1:1-18, inkarnasjon, lys, mørke, Ordet]
 modified: 2026-07-12
 sources: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Johannesprologen — Joh 1:1-18"
+  description: "I begynnelsen var Ordet — Johannes’ åpning er teologiens tetteste tekst: Logos som guddommelig fornuft og personlig vesen, inkarnasjonens paradoks, og lys som skinner i mørke."
+  about:
+    "@type": "Book"
+    name: "Johannesevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q36239"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "johannes-evangeliet.md"
+    - "Logos"
+    - "inkarnasjon"
+    - "lys"
 ---
 
 > «I begynnelsen var Ordet, og Ordet var hos Gud, og Ordet var Gud.» — Joh 1:1

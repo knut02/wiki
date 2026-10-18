@@ -5,6 +5,23 @@ perikope: "Joh 21:1–14"
 testament: NT
 bok: Johannes
 kapittel: 21
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Johannes 21:1–14 – Det store fisket ved Tiberias-sjøen"
+  description: "Epilogens første scene: det mirakuløse fisket som symboliserer kirkens misjon, og kullmåltidet som forbereder Peters gjenoppretting."
+  about:
+    "@type": "Book"
+    name: "Johannesevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q36239"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "johannes-evangeliet.md"
+    - "Peter"
+    - "oppstandelse"
+    - "misjon"
 ---
 
 # Johannes 21:1–14 – Det store fisket ved Tiberias-sjøen

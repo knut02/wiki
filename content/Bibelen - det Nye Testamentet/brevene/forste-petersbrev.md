@@ -8,6 +8,26 @@ sub-kategori: Katolske brev og Åpenbaringen
 studievei: [disippelskap, kirkehistorie, Bibelen]
 tags: [1 Peter, diaspora, fremmed, håp, lidelse, kongelig presteskap, dåp, underordning, Babylon]
 sources: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Book"
+  name: "Første Petersbrev"
+  description: "Håp under press — til diasporaen som lider, om identitet som Guds utvalgte folk, livet som fremmede og pilegrimer, og lidelsens teologi."
+  inLanguage: "grc"
+  author:
+    "@type": "Person"
+    name: "Peter"
+    sameAs: "https://www.wikidata.org/wiki/Q33923"
+  dateCreated: "0064"
+  sameAs: "https://www.wikidata.org/wiki/Q97614"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "peter.md"
+    - "diaspora"
+    - "kongelig presteskap"
+    - "lidelsens teologi"
 ---
 
 > «Lovet være Gud, vår Herre Jesu Kristi Far, som i sin store barmhjertighet har gjenfødt oss til et levende håp ved Jesu Kristi oppstandelse fra de døde.» — 1 Pet 1:3

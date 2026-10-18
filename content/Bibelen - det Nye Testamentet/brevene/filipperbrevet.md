@@ -8,6 +8,26 @@ sub-kategori: Paulusteologi
 studievei: [disippelskap, spiritualitet, Bibelen]
 tags: [Filipperbrevet, glede, Kristushymnen, kenosis, borgerskap, fred, enhet, fengsel]
 sources: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Book"
+  name: "Filipperbrevet"
+  description: "Brevet om glede fra fengselet — Kristushymnen om Kristi nedstigning og opphøyelse, borgerskapets teologi og den fred som overgår all forstand."
+  inLanguage: "grc"
+  author:
+    "@type": "Person"
+    name: "Paulus"
+    sameAs: "https://www.wikidata.org/wiki/Q9200"
+  dateCreated: "0062"
+  sameAs: "https://www.wikidata.org/wiki/Q47437"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "paulus.md"
+    - "Kristushymnen"
+    - "glede"
+    - "efeserbrevet.md"
 ---
 
 > «Gled dere i Herren alltid! Igjen vil jeg si: Gled dere!» — Fil 4:4

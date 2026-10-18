@@ -6,6 +6,24 @@ kategori: Personer
 sub-kategori: NT og oldkirke-personer
 tags: [Gregor av Nyssa, kappadokier, epektasis, mystikk, treenighet, 335-395]
 kilder: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Gregor av Nyssa"
+  birthDate: "335"
+  deathDate: "395"
+  description: "Kappadokisk biskop og mystiker; epektasis; negativ teologi; Vita Mosis"
+  birthPlace: "Neokaisareia, Kappadokia"
+  sameAs: "https://www.wikidata.org/wiki/Q205459"
+  relatedTo:
+    - "klemens-av-alexandria.md"
+    - "athanasius.md"
+    - "origenes.md"
+    - "mester-eckhart.md"
+  mentions:
+    - "epektasis"
+    - "theosis"
+    - "apofatisk-teologi"
 ---
 
 > Kappadokisk biskop og mystiker — den mest dyptloddende av de tre kappadokiske fedre. Arkitekten bak epektasis-tanken og den kristne mystikkens negative teologi.

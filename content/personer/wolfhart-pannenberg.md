@@ -4,6 +4,23 @@ description: "Wolfhart Pannenberg (1928–2014) — åpenbaring som historie, op
 date: 2026-10-13
 kategori: Person
 tags: [Pannenberg, åpenbaring, historie, oppstandelse, kristologi, teologi og vitenskap, epistemologi, prolepsis]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Wolfhart Pannenberg"
+  birthDate: "1928"
+  deathDate: "2014"
+  description: "Tysk luthersk teolog. Professor i München. Kjent for åpenbaring som historie, oppstandelsesteologi og teologi som vitenskapelig disiplin."
+  birthPlace: "Stettin, Tyskland (nå Szczecin, Polen)"
+  sameAs: "https://www.wikidata.org/wiki/Q57092"
+  relatedTo:
+    - "jurgen-moltmann.md"
+    - "schleiermacher.md"
+  mentions:
+    - "åpenbaring som historie"
+    - "oppstandelse"
+    - "prolepsis"
+    - "epistemologi"
 ---
 
 # Wolfhart Pannenberg (1928–2014)

@@ -4,6 +4,23 @@ tags: [johannes, salvingen, betania, maria, judas, begravelse, tegn]
 perikope: "Joh 12:1–11"
 kapitel: 12
 evangelist: Johannes
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Johannes 12:1–11 – Salvingen i Betania"
+  description: "Maria salver Jesu føtter med kostbar nardussalve – en profetisk handling som peker mot hans begravelse, mens Judas' reaksjon avslører forræderens karakter."
+  about:
+    "@type": "Book"
+    name: "Johannesevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q36239"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "johannes-evangeliet.md"
+    - "salvingen"
+    - "Lasarus"
+    - "Judas"
 ---
 
 # Johannes 12:1–11 – Salvingen i Betania

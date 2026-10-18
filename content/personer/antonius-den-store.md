@@ -6,6 +6,25 @@ kategori: Personer
 sub-kategori: NT og oldkirke-personer
 tags: [Antonius, ørkenfar, askese, Egypt, monastisisme, Athanasius, 251-356]
 kilder: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Antonius av Egypt"
+  alternateName: "Antonius den store"
+  birthDate: "ca. 251"
+  deathDate: "356"
+  description: "Egyptisk kristen eremitt og grunnlegger av det kristne eremittlivet. Regnes som monastikkens far. Levde i ørkenen i Egypt i radikal askese."
+  birthPlace: "Koma, Egypt"
+  sameAs: "https://www.wikidata.org/wiki/Q170491"
+  relatedTo:
+    - "athanasius.md"
+    - "augustin.md"
+    - "origenes.md"
+  mentions:
+    - "askese"
+    - "monastisisme"
+    - "Vita Antonii"
+    - "demonkamp"
 ---
 
 ## Hvem var Antonius?

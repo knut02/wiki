@@ -5,6 +5,22 @@ kategori: Personer
 sub-kategori: NT og oldkirke-personer
 tags: [Josef, Jesu fosterfar, snekker, drømmer, Nasaret, Matt 1-2, Davids ætt]
 kilder: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Josef (Jesu fosterfar)"
+  description: "Håndverker fra Nasaret, juridisk far til Jesus etter jødisk lov og etterkommer av kong David."
+  birthPlace: "Betlehem Juda"
+  sameAs: "https://www.wikidata.org/wiki/Q128276"
+  relatedTo:
+    - "maria.md"
+    - "jakob-jesu-bror.md"
+    - "jesu-familie.md"
+  mentions:
+    - "Davids ætt"
+    - "drømmesyn"
+    - "Egypt"
+    - "matteusevangeliet"
 ---
 
 # Josef (Jesu fosterfar)

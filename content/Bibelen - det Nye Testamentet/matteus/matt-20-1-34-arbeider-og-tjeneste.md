@@ -7,6 +7,25 @@ kategori: Det nye testamentet
 sub-kategori: Matteus
 tags: [Matteus, nåde, tjeneste, storhet, lederskap, blind, Davidssønn, misforståelse, lidelse, kors]
 sources: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Matt 20:1–34 — Arbeidere, tjeneste og syn"
+  description: "Arbeiderne i vinggården illustrerer nådens logikk. Jakobs og Johannes' mors bønn avdekker disippelenes misforståelse av storhet. Jesus gir syn til to blinde ved Jeriko."
+  about:
+    "@type": "Book"
+    name: "Matteusevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q26180"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "matteus-evangeliet.md"
+    - "nåde"
+    - "tjeneste"
+    - "storhet"
+    - "Davidssønn"
+    - "lidelse"
 ---
 
 > Den som vil bli stor blant dere, skal være deres tjener. — Matt 20:26

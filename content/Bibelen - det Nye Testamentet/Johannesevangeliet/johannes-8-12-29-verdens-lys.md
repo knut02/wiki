@@ -7,6 +7,23 @@ tags: [johannes, lys, ego-eimi, sukkot, løvhyttefesten, vitnesmål, opphøyelse
 sources:
   - "[[sources/keener-ivp-nt]]"
   - "[[sources/burge-john]]"
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Johannes 8:12–29 – Verdens lys og vitnesbyrdets legitimitet"
+  description: "Jesus proklamerer seg som verdens lys midt i lysseremonien ved Løvhyttefesten, utfordres på sin juridiske legitimitet, og peker frem mot sin opphøyelse som det ultimate bevisets øyeblikk."
+  about:
+    "@type": "Book"
+    name: "Johannesevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q36239"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "johannes-evangeliet.md"
+    - "ego eimi"
+    - "Løvhyttefesten"
+    - "opphøyelse"
 ---
 
 ## Teksten

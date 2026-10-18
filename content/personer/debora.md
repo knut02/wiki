@@ -4,6 +4,20 @@ description: "Dommer, profetinne og krigsgeneral i Israel — den mest politisk 
 date: 2026-10-13
 kategori: Personer
 tags: [Debora, dommer, profetinne, Barak, Sisera, lederskap, GT, Dommernes bok]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Debora"
+  description: "Dommer, profetinne og krigsgeneral i Israel — den mest politisk og militært mektige kvinnen i GT."
+  sameAs: "https://www.wikidata.org/wiki/Q221016"
+  relatedTo:
+    - "miriam.md"
+    - "hanna.md"
+  mentions:
+    - "dommer"
+    - "profetinne"
+    - "lederskap"
+    - "Dommernes-bok"
 ---
 
 ## Hvem er Debora?

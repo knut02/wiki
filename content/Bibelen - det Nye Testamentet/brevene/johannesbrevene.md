@@ -8,6 +8,29 @@ sub-kategori: Katolske brev og Åpenbaringen
 studievei: [evangeliene, disippelskap]
 tags: [Johannesbrevene, kjærlighet, doketisme, antikrist, Diotrefes, inkarnasjon, fellesskap, gjestfrihet, Burge, Keener, menighetskonflikt, Cerinthus]
 sources: 4
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Johannesbrevene — 1., 2. og 3. Johannes"
+  description: "Tre brev fra den johanneiske tradisjonen: splittelsen i Johannesgruppa, de tre testene i 1 Joh, Gud er kjærlighet, antikrist-begrepet og Diotrefes-konflikten."
+  about:
+    - "@type": "Book"
+      name: "Første Johannesbrev"
+      sameAs: "https://www.wikidata.org/wiki/Q190553"
+    - "@type": "Book"
+      name: "Andre Johannesbrev"
+      sameAs: "https://www.wikidata.org/wiki/Q394921"
+    - "@type": "Book"
+      name: "Tredje Johannesbrev"
+      sameAs: "https://www.wikidata.org/wiki/Q395261"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "johannes-evangeliet.md"
+    - "doketisme"
+    - "kjærlighet"
+    - "antikrist"
 ---
 
 > «Kjære, la oss elske hverandre, for kjærligheten er fra Gud, og den som elsker, er født av Gud og kjenner Gud. Den som ikke elsker, kjenner ikke Gud, for Gud er kjærlighet.» — 1 Joh 4:7–8

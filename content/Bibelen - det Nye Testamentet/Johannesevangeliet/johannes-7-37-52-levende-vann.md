@@ -7,6 +7,23 @@ tags: [johannes, løvhyttefesten, levende-vann, ånd, profet, tempel, nikodemus,
 sources:
   - "[[sources/keener-ivp-nt]]"
   - "[[sources/burge-john]]"
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Johannes 7:37-52 – Levende vann på festens siste dag"
+  description: "På Løvhyttefestens klimaks proklamerer Jesus seg som kilden til levende vann – og Åndens gave knyttes for første gang eksplisitt til hans forherligelse."
+  about:
+    "@type": "Book"
+    name: "Johannesevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q36239"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "johannes-evangeliet.md"
+    - "levende vann"
+    - "Ånden"
+    - "Løvhyttefesten"
 ---
 
 # Johannes 7:37-52 – Levende vann på festens siste dag

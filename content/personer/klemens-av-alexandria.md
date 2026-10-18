@@ -6,6 +6,23 @@ kategori: Personer
 sub-kategori: NT og oldkirke-personer
 tags: [Klemens, Alexandria, filosofi, gnosis, Paidagogos, kristen dannelse, 150-215]
 kilder: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Klemens av Alexandria"
+  birthDate: "150"
+  deathDate: "215"
+  description: "Aleksandrinsk teolog; gresk filosofi som veiberedelse for Kristus; sann gnosis; apofatisk teologi"
+  birthPlace: "Athen (muligens)"
+  sameAs: "https://www.wikidata.org/wiki/Q156027"
+  relatedTo:
+    - "origenes.md"
+    - "gregor-av-nyssa.md"
+    - "justin-martyr.md"
+  mentions:
+    - "apofatisk-teologi"
+    - "theosis"
+    - "gnostisisme"
 ---
 
 ## Biografi

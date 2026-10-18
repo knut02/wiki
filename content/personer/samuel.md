@@ -5,6 +5,22 @@ date: 2026-10-04
 kategori: Personer
 sub-kategori: GT-personer
 tags: [Samuel, profet, dommer, Saul, David, kongedømme, Silo, GT]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Samuel"
+  description: "Profet, dommer og kongemaker — overgangsfiguren mellom dommertiden og kongedømmet som salvet både Saul og David."
+  birthPlace: "Rama Efraim"
+  sameAs: "https://www.wikidata.org/wiki/Q191499"
+  relatedTo:
+    - "kong-saul.md"
+    - "kong-david.md"
+    - "hanna.md"
+  mentions:
+    - "profet"
+    - "dommer"
+    - "salving"
+    - "1-samuelsbok"
 ---
 
 Samuel er en av GT-historiens nøkkelfigurer — den siste av de store dommerne og den første av profetene i det nye kongedømmets tid. Han er bindeleddet mellom to epoker.

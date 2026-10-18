@@ -4,6 +4,19 @@ description: "Den første kristne martyren — en av de sju diakonene i Jerusale
 date: 2026-10-13
 kategori: Personer
 tags: [Stefanus, martyr, diakon, tale, Rådet, steining, Paulus, NT, Apostlenes gjerninger]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Stefanus"
+  description: "Kirkens første martyr; diakon i Jerusalem; tale for Rådet; steinet mens Saulus ser på"
+  sameAs: "https://www.wikidata.org/wiki/Q154751"
+  relatedTo:
+    - "paulus.md"
+    - "peter.md"
+  mentions:
+    - "martyrium"
+    - "diakon"
+    - "Apostlenes-gjerninger"
 ---
 
 ## Hvem er Stefanus?

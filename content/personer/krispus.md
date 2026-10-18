@@ -5,6 +5,21 @@ kategori: Personer
 sub-kategori: NT og oldkirke-personer
 tags: [Krispus, synagogeforstander, Korint, Paulus, dåp, Apg 18, omvendelse]
 kilder: 1
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Krispus"
+  description: "Synagogeforstander i Korint, omvendt til kristendommen av Paulus og en av de få Paulus døpte personlig."
+  birthPlace: "Korint Hellas"
+  sameAs: "https://www.wikidata.org/wiki/Q1378792"
+  relatedTo:
+    - "paulus.md"
+    - "lydia.md"
+  mentions:
+    - "synagoge"
+    - "dåp"
+    - "Korint"
+    - "apostlenes-gjerninger"
 ---
 
 # Krispus

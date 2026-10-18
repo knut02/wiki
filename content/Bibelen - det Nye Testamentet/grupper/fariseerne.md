@@ -7,6 +7,23 @@ kategori: Bibelen - det Nye Testamentet
 sub-kategori: Jesu undervisning
 tags: [fariseerne, Matt 23, ve-rop, hykleri, religiøs prestasjon, dobbeltmoral, filaktérier, Jesus og fariseerne, religionskritikk]
 sources: 1
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Fariseerne — hvem var de, og hva holdt Jesus mot dem?"
+  description: "Fariseernes historiske bakgrunn, Jesu sju ve-rop i Matt 23, mønstrene Jesus angriper og hvordan de samme feilsporene viser seg i dag."
+  about:
+    "@type": "Book"
+    name: "Matteusevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q26180"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "jodedommen-i-jesu-tid.md"
+    - "matt-23-1-39-verop.md"
+    - "hykleri"
+    - "religiøs prestasjon"
 ---
 
 > «Ve dere, skriftlærde og fariseere, hyklere! Dere er som kalkede graver, vakre utenpå, men inni fulle av dødningeben og all slags urenhet.» — Matt 23:27

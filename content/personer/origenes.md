@@ -4,6 +4,23 @@ description: "Alexandrinsk teolog (ca. 185–254), oldkirkens mest produktive og
 date: 2026-10-13
 kategori: Personer
 tags: [Origenes, oldkirken, kirkefedre, Alexandria, allegorisk tolkning, De Principiis, apokatastasis, tredje århundre]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Origenes"
+  birthDate: "185"
+  deathDate: "254"
+  description: "Alexandrinsk teolog; De Principiis; Hexapla; allegorisk bibeltolkning; apokatastasis"
+  birthPlace: "Alexandria, Egypt"
+  sameAs: "https://www.wikidata.org/wiki/Q46523"
+  relatedTo:
+    - "athanasius.md"
+    - "irenaeus-av-lyon.md"
+    - "klemens-av-alexandria.md"
+  mentions:
+    - "allegorisk-tolkning"
+    - "apokatastasis"
+    - "Hexapla"
 ---
 
 ## Liv og bakgrunn

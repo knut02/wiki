@@ -7,6 +7,23 @@ tags: [johannes, påske, tegn, moses, manna, profet, brød, kongstilbud, festiva
 sources:
   - "[[sources/keener-ivp-nt]]"
   - "[[sources/burge-john]]"
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Johannes 6:1-15 – Brødunderet"
+  description: "Jesus metter fem tusen mennesker med fem brød og to fisker ved påsketid – et nytt Moses-tegn som avslarer hvem Jesus er og hva slags Messias han vil være."
+  about:
+    "@type": "Book"
+    name: "Johannesevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q36239"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "johannes-evangeliet.md"
+    - "påske"
+    - "manna"
+    - "Moses"
 ---
 
 # Johannes 6:1-15 – Brødunderet

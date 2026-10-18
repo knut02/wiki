@@ -4,6 +4,21 @@ description: "Moabittinsk kvinne som valgte Naomis folk og Naomis Gud, og som bl
 date: 2026-10-13
 kategori: Personer
 tags: [Rut, moabitt, Naomi, Boas, hesed, David, innlemmelse, GT]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Rut"
+  description: "Moabittinsk kvinne som valgte Naomis folk og Guds, og ble stammor til kong David og del av Jesu slægtstavle."
+  sameAs: "https://www.wikidata.org/wiki/Q190900"
+  relatedTo:
+    - "kong-david.md"
+    - "hanna.md"
+    - "maria.md"
+  mentions:
+    - "hesed"
+    - "Naomi"
+    - "stammor"
+    - "Ruts-bok"
 ---
 
 ## Hvem er Rut?

@@ -7,6 +7,26 @@ kategori: Det nye testamentet
 sub-kategori: Matteus
 tags: [Matteus, forklaring, fjellet, Moses, Elias, Sønnen, Faderen, tro, demon, lidelse, tempel-skatt]
 sources: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Matt 17:1–27 — Forklarelsen på fjellet"
+  description: "Jesus forklares på fjellet for Peter, Jakob og Johannes. Moses og Elias bekrefter. Faderens røst stadfester Sønnen. Deretter demonhelbredelse og ny lidelsesforutsigelse."
+  about:
+    "@type": "Book"
+    name: "Matteusevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q26180"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "matteus-evangeliet.md"
+    - "forklaring"
+    - "Moses"
+    - "Elias"
+    - "Faderen"
+    - "lidelse"
+    - "tempel-skatt"
 ---
 
 > Dette er min elskede Sønn, som jeg har behag i. Hør ham! — Matt 17:5

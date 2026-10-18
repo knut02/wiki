@@ -7,6 +7,21 @@ sub-kategori: NT og oldkirke-personer
 tags: [apostlene, tolv, Peter, Johannes, kall, misjon, disippelskap]
 modified: 2025-05-13
 kilder: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Apostlene — de tolv"
+  description: "De tolv mennene Jesus kalte til sin nærmeste krets, sendt ut som representanter for evangeliet."
+  sameAs: "https://www.wikidata.org/wiki/Q34636"
+  relatedTo:
+    - "peter.md"
+    - "paulus.md"
+    - "jakob-jesu-bror.md"
+  mentions:
+    - "disippelskap"
+    - "misjon"
+    - "urkirken"
+    - "apostlenes-gjerninger"
 ---
 
 ## Hvem var apostlene?

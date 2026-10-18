@@ -8,6 +8,26 @@ sub-kategori: Paulusteologi
 studievei: [disippelskap, kristologi, Bibelen]
 tags: [Romerbrevet, rettferdiggjørelse, nåde, Ånden, Abraham, Israel, hedninger, frelse]
 sources: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Book"
+  name: "Romerbrevet"
+  description: "Paulus' teologiske mesterverk — evangeliet som Guds kraft til frelse for alle, rettferdiggjørelse av tro, Åndens frigjøring og Guds plan med Israel og folkeslagene."
+  inLanguage: "grc"
+  author:
+    "@type": "Person"
+    name: "Paulus"
+    sameAs: "https://www.wikidata.org/wiki/Q9200"
+  dateCreated: "0057"
+  sameAs: "https://www.wikidata.org/wiki/Q43050"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "paulus.md"
+    - "rettferdiggjørelse"
+    - "Israel"
+    - "romerne-8-28.md"
 ---
 
 > «For i evangeliet åpenbares Guds rettferdighet av tro til tro, som det er skrevet: Den rettferdige skal leve ved tro.» — Rom 1:17

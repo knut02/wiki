@@ -7,6 +7,21 @@ kategori: Det nye testamentet
 sub-kategori: Evangeliene
 tags: [evangeliene, euangelion, sjanger, synoptiske problem, Markus, Matteus, Lukas, Johannes, historisk Jesus, kanonisering]
 sources: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Evangeliene — sjanger, tilblivelse og særpreg"
+  description: "Innføring i de fire evangeliene som antikk biografi, det synoptiske problemet og de fire evangelistenes særpreg."
+  about:
+    "@type": "Book"
+    name: "Evangeliene"
+    sameAs: "https://www.wikidata.org/wiki/Q1571"
+  mentions:
+    - "markusevangeliet.md"
+    - "lukasevangeliet.md"
+    - "nt-kanon.md"
+    - "Synoptisk problem"
+    - "euangelion"
 ---
 
 > «Begynnelsen på evangeliet om Jesus Kristus, Guds Sønn.» — Mark 1:1

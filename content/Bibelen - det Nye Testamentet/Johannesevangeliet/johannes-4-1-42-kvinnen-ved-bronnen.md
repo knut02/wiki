@@ -7,6 +7,23 @@ tags: [johannes, samaria, samaritaner, levende-vann, tilbedelse, ånd, profet, j
 sources:
   - "[[sources/keener-ivp-nt]]"
   - "[[sources/burge-john]]"
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Johannes 4:1-42 – Kvinnen ved brønnen"
+  description: "Jesu samtale med den samaritanske kvinnen ved Jakobs brønn: levende vann, tilbedelse i Ånd og sannhet, og den første misjonsutstrekningen utenfor Israel."
+  about:
+    "@type": "Book"
+    name: "Johannesevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q36239"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "johannes-evangeliet.md"
+    - "Samaria"
+    - "levende vann"
+    - "tilbedelse i Ånd og sannhet"
 ---
 
 # Johannes 4:1-42 – Kvinnen ved brønnen

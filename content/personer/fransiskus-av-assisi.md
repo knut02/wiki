@@ -7,6 +7,25 @@ kategori: Personer
 sub-kategori: Middelalderteologer
 tags: [Fransiskus, Frans-av-Assisi, fransiskanere, fattigdom, middelalder, tiggermunker, skaperverk, klosterlivet]
 sources: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Fransiskus av Assisi"
+  alternateName: "Francesco di Bernardone"
+  birthDate: "ca. 1181"
+  deathDate: "1226"
+  description: "Italiensk munk og ordensstifter. Grunnla fransiskanerordenen ca. 1209. Kjent for radikalt fattigdomsideal, Laudato Si og etterfølgelse av den historiske Jesus."
+  birthPlace: "Assisi, Umbria, Italia"
+  sameAs: "https://www.wikidata.org/wiki/Q676"
+  relatedTo:
+    - "dominikus.md"
+    - "thomas-aquinas.md"
+    - "anselm-av-canterbury.md"
+  mentions:
+    - "fattigdom"
+    - "Laudato Si"
+    - "fransiskanerordenen"
+    - "skaperverk"
 ---
 
 > Herre, gjør meg til et redskap for din fred. — tilskrevet Fransiskus av Assisi

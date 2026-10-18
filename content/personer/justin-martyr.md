@@ -7,6 +7,23 @@ sub-kategori: NT og oldkirke-personer
 tags: [Justin Martyr, apologet, Logos-teologi, filosofi, martyr, 100-165, Dialog med Tryfo]
 modified: 2026-07-12
 sources: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Justin Martyr"
+  birthDate: "100"
+  deathDate: "165"
+  description: "Første store kristne apologet; Logos-teologi; bro mellom gresk filosofi og kristen tro"
+  birthPlace: "Neapolis, Samaria"
+  sameAs: "https://www.wikidata.org/wiki/Q154802"
+  relatedTo:
+    - "klemens-av-alexandria.md"
+    - "irenaeus-av-lyon.md"
+    - "tertullian.md"
+  mentions:
+    - "Logos-teologi"
+    - "apologetikk"
+    - "inkarnasjon"
 ---
 
 > «Hva Platon var på leting etter, fant han i Jesus fra Nasaret.» — om Justin Martyrs omvendelse

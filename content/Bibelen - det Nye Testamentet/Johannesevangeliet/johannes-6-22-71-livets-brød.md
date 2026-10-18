@@ -7,6 +7,23 @@ tags: [johannes, manna, brød-fra-himmelen, visdom, eukaristi, tro, apostasi, na
 sources:
   - "[[sources/keener-ivp-nt]]"
   - "[[sources/burge-john]]"
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Johannes 6:22-71 – Livets brød"
+  description: "Den store diskursen i Kapernaums synagoge: Jesus som det himmelske brød fra Faderen, eukaristiske overtoner, og den første store splittelsen blant disiplene."
+  about:
+    "@type": "Book"
+    name: "Johannesevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q36239"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "johannes-evangeliet.md"
+    - "manna"
+    - "eukaristi"
+    - "apostasi"
 ---
 
 # Johannes 6:22-71 – Livets brød

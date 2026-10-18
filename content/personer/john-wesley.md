@@ -4,6 +4,22 @@ description: "John Wesley (1703–1791) — metodismens grunnlegger, Aldersgate-
 date: 2026-10-13
 kategori: Person
 tags: [Wesley, metodisme, helliggjørelse, Aldersgate, vekkelse, arminiansk, sosial omsorg, pietisme]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "John Wesley"
+  birthDate: "1703"
+  deathDate: "1791"
+  description: "Metodismens grunnlegger; Aldersgate-omvendelsen; helliggjørelsesteologi; arminiansk"
+  birthPlace: "Epworth, England"
+  sameAs: "https://www.wikidata.org/wiki/Q43533"
+  relatedTo:
+    - "martin-luther.md"
+    - "johannes-calvin.md"
+  mentions:
+    - "helliggjørelse"
+    - "metodisme"
+    - "arminiansk-teologi"
 ---
 
 # John Wesley (1703–1791)

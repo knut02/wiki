@@ -7,6 +7,21 @@ kategori: Personer
 sub-kategori: NT-personer
 tags: [Sakkeus, tolloppkrever, Jeriko, omvendelse, Jesus, Lukas, rik, NT, Keener]
 sources: 1
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Sakkeus"
+  description: "Overtoller i Jeriko som klatret opp i et sykomortre for å se Jesus, og ble omvendt ved Jesu besøk i hans hus."
+  birthPlace: "Jeriko Judea"
+  sameAs: "https://www.wikidata.org/wiki/Q463484"
+  relatedTo:
+    - "nikodemus.md"
+    - "lydia.md"
+  mentions:
+    - "tolloppkrever"
+    - "omvendelse"
+    - "Jeriko"
+    - "lukasevangeliet"
 ---
 
 Sakkeus har bare en scene i Bibelen — Luk 19:1-10. Men den er komplett: et menneske som søker, blir sett, og forandres.

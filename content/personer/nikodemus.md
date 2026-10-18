@@ -7,6 +7,21 @@ kategori: Personer
 sub-kategori: NT-personer
 tags: [Nikodemus, fariseer, ny fødsel, Johannes, rådet, begravelse, NT, hemmelighet, Keener]
 sources: 1
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Nikodemus"
+  description: "Fariseisk rådsmedlem i Jerusalem som kom til Jesus om natten, forsvarte ham i Rådet og tok seg av begravelsen hans."
+  birthPlace: "Jerusalem Judea"
+  sameAs: "https://www.wikidata.org/wiki/Q202420"
+  relatedTo:
+    - "johannes-doperen.md"
+    - "maria-av-betania.md"
+  mentions:
+    - "fariseer"
+    - "Rådet"
+    - "ny fødsel"
+    - "johannesevangeliet"
 ---
 
 Nikodemus er en av Johannesevangeliets mest fascinerende bifigurer — en mann som beveger seg fra nattlig hemmelighet til åpen handling, uten at vi noen gang får vite det fulle av det som foregår i ham.

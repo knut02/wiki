@@ -7,6 +7,26 @@ kategori: Det nye testamentet
 sub-kategori: Matteus
 tags: [Matteus, apostler, utsending, misjon, forfølgelse, Israel, frykt, bekjennelse, kors, liv-og-død, andre-tale]
 sources: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Matt 10:1–42 — Utsendingstalen"
+  description: "Den andre store talen: tolv apostler sendes ut. Instrukser for oppdraget, advarsler om forfølgelse, og det paradoksale om å miste og finne livet."
+  about:
+    "@type": "Book"
+    name: "Matteusevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q26180"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "matteus-evangeliet.md"
+    - "apostler"
+    - "utsending"
+    - "misjon"
+    - "forfølgelse"
+    - "Israel"
+    - "bekjennelse"
 ---
 
 > En disippel er ikke over sin mester, og en tjener ikke over sin herre. — Matt 10:24

@@ -5,6 +5,23 @@ testament: NT
 bok: Johannes
 kapitel: 14
 perikope: "14:15–31"
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Johannes 14:15–31 – Paraklet og Jesu fred"
+  description: "Jesus lover Parakleten – sannhetens Ånd – som en annen talsmann, og gir disiplene sin fred som er av en helt annen karakter enn verdens fred."
+  about:
+    "@type": "Book"
+    name: "Johannesevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q36239"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "johannes-evangeliet.md"
+    - "Paraklet"
+    - "fred"
+    - "avskjedstale"
 ---
 
 # Johannes 14:15–31 – Paraklet og Jesu fred

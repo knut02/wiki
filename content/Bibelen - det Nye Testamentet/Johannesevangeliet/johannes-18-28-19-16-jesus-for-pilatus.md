@@ -5,6 +5,23 @@ perikope: "Joh 18:28–19:16"
 testament: NT
 bok: Johannes
 kapittel: [18, 19]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Johannes 18:28–19:16 – Jesus for Pilatus"
+  description: "Chiasmens syv stansa med koronasjonen i sentrum: Jesus er faktisk kronet mens Pilatus på tross av seg selv kunngjør sannheten om Guds kongedømme."
+  about:
+    "@type": "Book"
+    name: "Johannesevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q36239"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "johannes-evangeliet.md"
+    - "Pilatus"
+    - "kongedømme"
+    - "pasjon"
 ---
 
 # Johannes 18:28–19:16 – Jesus for Pilatus

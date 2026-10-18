@@ -4,6 +4,25 @@ description: "Mester Eckhart (ca. 1260–1328) — dominikanermystiker, Guds fø
 date: 2026-10-13
 kategori: Person
 tags: [Mester Eckhart, Rhinlandsmystikk, tysk mystikk, Guds fødsel, sjelens gnist, adskilthet, Tauler, dominikanerne, middelalder]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Mester Eckhart"
+  alternateName: "Eckhart von Hochheim"
+  birthDate: "ca. 1260"
+  deathDate: "1328"
+  description: "Tysk dominikanermystiker og teolog. Grunnfigur i Rhinlandsmystikken. Kjent for læren om Guds fødsel i sjelen og adskilthet."
+  birthPlace: "Hochheim, Thüringen"
+  sameAs: "https://www.wikidata.org/wiki/Q57975"
+  relatedTo:
+    - "hildegard-av-bingen.md"
+    - "thomas-aquinas.md"
+    - "dominikus.md"
+  mentions:
+    - "Rhinlandsmystikk"
+    - "Guds fødsel i sjelen"
+    - "adskilthet"
+    - "Seelengrund"
 ---
 
 # Mester Eckhart (ca. 1260–1328)

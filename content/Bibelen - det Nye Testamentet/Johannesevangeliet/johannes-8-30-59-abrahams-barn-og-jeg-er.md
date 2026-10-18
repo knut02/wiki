@@ -7,6 +7,23 @@ tags: [johannes, abraham, ego-eimi, frihet, sannhet, djevel, guddommelig-navn, l
 sources:
   - "[[sources/keener-ivp-nt]]"
   - "[[sources/burge-john]]"
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Johannes 8:30–59 – Abrahams barn og «Jeg er»"
+  description: "Konfrontasjonen i tempelet eskalerer fra trosprekjennelse til steiningsforsøk: Jesus og Jerusalem-lederskapet kjemper om hvem som er Abrahams ekte barn – og Jesus avslutter med det sterkeste guddomskravet i evangeliet: «Før Abraham ble til, er jeg.»"
+  about:
+    "@type": "Book"
+    name: "Johannesevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q36239"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "johannes-evangeliet.md"
+    - "ego eimi"
+    - "Abraham"
+    - "blasfemi"
 ---
 
 ## Teksten

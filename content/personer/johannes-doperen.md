@@ -7,6 +7,22 @@ sub-kategori: NT og oldkirke-personer
 tags: [Johannes Døperen, dåp, profet, forløper, Elias, Herodes, martyrium]
 modified: 2026-07-10
 sources: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Johannes Døperen"
+  description: "Jesu forløper; profet; dåpspraksis; Elias-skikkelse; martyr under Herodes Antipas"
+  birthPlace: "Judea"
+  sameAs: "https://www.wikidata.org/wiki/Q40662"
+  relatedTo:
+    - "paulus.md"
+    - "peter.md"
+    - "maria.md"
+    - "elia.md"
+  mentions:
+    - "messias"
+    - "dåp"
+    - "Elias"
 ---
 
 > «Se, jeg sender min budbærer foran deg, han skal rydde veien for deg.» — Mal 3:1, sitert om Johannes i Matt 11:10

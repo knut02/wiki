@@ -4,6 +4,24 @@ description: "Martin Luther (1483–1546) — reformasjonens far, rettferdiggjø
 date: 2026-10-13
 kategori: Person
 tags: [Luther, reformasjon, rettferdiggjørelse, sola fide, sola scriptura, korsets teologi, nattverd, toregimentslæren, 95 tesene]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Martin Luther"
+  birthDate: "1483"
+  deathDate: "1546"
+  description: "Reformasjonens far; læren om rettferdighet ved tro alene og sola scriptura"
+  birthPlace: "Eisleben, Tyskland"
+  sameAs: "https://www.wikidata.org/wiki/Q9554"
+  relatedTo:
+    - "augustin.md"
+    - "johannes-calvin.md"
+    - "john-wesley.md"
+  mentions:
+    - "95-tesene"
+    - "rettferdiggjørelse"
+    - "sola-fide"
+    - "sola-scriptura"
 ---
 
 # Martin Luther (1483–1546)

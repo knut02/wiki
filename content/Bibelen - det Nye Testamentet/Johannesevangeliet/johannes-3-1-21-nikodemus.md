@@ -7,6 +7,23 @@ tags: [johannes, nikodemus, ånd, gjenfødelse, frelse, lys-og-mørke, jødiske-
 sources:
   - "[[sources/keener-ivp-nt]]"
   - "[[sources/burge-john]]"
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Johannes 3:1-21 — Samtalen med Nikodemus"
+  description: "Jesus lærer den fremste rabbineren i Jerusalem at man må fødes ovenfra av Ånd for å se Guds rike — og gir en av Bibelens mest kjente vers."
+  about:
+    "@type": "Book"
+    name: "Johannesevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q36239"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "johannes-evangeliet.md"
+    - "gjenfødelse"
+    - "Nikodemus"
+    - "lys og mørke"
 ---
 
 # Johannes 3:1-21 – Samtalen med Nikodemus

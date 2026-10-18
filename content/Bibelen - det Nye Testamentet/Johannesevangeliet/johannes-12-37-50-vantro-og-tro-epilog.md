@@ -4,6 +4,23 @@ tags: [johannes, vantro, jesaja, herdiggjøring, dom, lys, epilog]
 perikope: "Joh 12:37–50"
 kapitel: 12
 evangelist: Johannes
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Johannes 12:37–50 – Vantro og tro: epilog til Tegnenes bok"
+  description: "Evangelisten reflekterer over vantroens mysterium med Jesaja-sitater og oppsummerer Jesu sentrale kristologiske erklæringer – Tegnenes bok avsluttes."
+  about:
+    "@type": "Book"
+    name: "Johannesevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q36239"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "johannes-evangeliet.md"
+    - "vantro"
+    - "Jesaja"
+    - "lys"
 ---
 
 # Johannes 12:37–50 – Vantro og tro: epilog til Tegnenes bok

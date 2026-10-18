@@ -7,6 +7,22 @@ kategori: Det nye testamentet
 sub-kategori: Kanon og tekst
 tags: [NT-kanon, kanonprosessen, apokryfer, Ireneus, Muratorifragmentet, Athanasius, Peters evangelium, Diatessaron, Jakobs protoevangelium]
 sources: 4
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "NT-kanon — tilblivelse, kriterier og apokryfer"
+  description: "Kanonprosessens tre århundrer — fra Ireneus og Muratorifragmentet via Origenes og Eusebius til Athanasius 367, pluss skriftene som ikke kom med og kriteriene som avgjorde."
+  about:
+    "@type": "Book"
+    name: "Det nye testamentet"
+    sameAs: "https://www.wikidata.org/wiki/Q1860"
+  mentions:
+    - "Ireneus av Lyon"
+    - "Athanasius av Alexandria"
+    - "Muratorifragmentet"
+    - "Peters evangelium"
+    - "Jakobs protoevangelium"
+    - "apokryfe-skrifter-og-nt-kanon.md"
 ---
 
 ## Hvordan ble det Nye Testamentet til?

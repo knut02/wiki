@@ -6,6 +6,23 @@ tags: [johannesevangeliet, avskjedstale, paraklet, sorg-til-glede, eskatologi]
 sources:
   - Keener, Craig S. *The IVP Bible Background Commentary: New Testament*. IVP, 1993.
   - Burge, Gary M. *John. The NIV Application Commentary*. Zondervan, 2000.
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Johannes 16:5–33 – Ånden som talsmann og «jeg har overvunnet verden»"
+  description: "Det fjerde Paraklet-løftet utdypes: Ånden overbeviserer verden om synd, rettferdighet og dom, mens Jesus avslutter avskjedstalen med seiersropet 'Jeg har overvunnet verden'."
+  about:
+    "@type": "Book"
+    name: "Johannesevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q36239"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "johannes-evangeliet.md"
+    - "Paraklet"
+    - "avskjedstale"
+    - "sorg-til-glede"
 ---
 
 # Johannes 16:5–33 – Ånden som talsmann og «jeg har overvunnet verden»

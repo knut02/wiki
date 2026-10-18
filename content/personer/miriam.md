@@ -4,6 +4,21 @@ description: "Profetinne og søster av Moses og Aron — en av de tre lederne Gu
 date: 2026-10-13
 kategori: Personer
 tags: [Miriam, profetinne, eksodus, Moses, Aron, sang, lederskap, GT]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Miriam"
+  description: "Profetinne og søster av Moses og Aron — en av de tre lederne Gud sendte foran Israel under eksodus."
+  sameAs: "https://www.wikidata.org/wiki/Q234498"
+  relatedTo:
+    - "moses.md"
+    - "debora.md"
+    - "hanna.md"
+  mentions:
+    - "profetinne"
+    - "eksodus"
+    - "lederskap"
+    - "sang"
 ---
 
 ## Hvem er Miriam?

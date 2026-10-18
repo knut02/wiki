@@ -7,6 +7,21 @@ kategori: Personer
 sub-kategori: NT-personer
 tags: [Lydia, Filippi, purpur, husmenighet, Paulus, Europa, kvinner, Apg, NT, Keener]
 sources: 1
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Lydia"
+  description: "Purpurhandler fra Tyatira, den første europeiske kristne og husmenighetsvert i Filippi."
+  birthPlace: "Tyatira Lilleasia"
+  sameAs: "https://www.wikidata.org/wiki/Q220378"
+  relatedTo:
+    - "paulus.md"
+    - "krispus.md"
+  mentions:
+    - "purpurhandel"
+    - "husmenighet"
+    - "Filippi"
+    - "apostlenes-gjerninger"
 ---
 
 Lydia er nevnt i bare noen få vers i Apostlenes gjerninger — men hun er historisk viktig: den første navngitte personen som tok imot evangeliet i Europa.

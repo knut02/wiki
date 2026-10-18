@@ -4,6 +4,22 @@ description: "Apostel, leder av de tolv og den første som bekjenner Jesus som M
 date: 2026-10-13
 kategori: Personer
 tags: [Peter, apostel, Simon, Kefas, bekjennelse, fornektelse, NT, urkirken]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Peter"
+  alternateName: ["Simon", "Kefas", "Petros"]
+  description: "Apostel og leder av de tolv; den første som bekjenner Jesus som Messias"
+  birthPlace: "Betsaida"
+  sameAs: "https://www.wikidata.org/wiki/Q33923"
+  relatedTo:
+    - "paulus.md"
+    - "johannes-doperen.md"
+    - "jesu-familie.md"
+  mentions:
+    - "1-peterbrev"
+    - "2-peterbrev"
+    - "apostlenes-gjerninger"
 ---
 
 ## Hvem er Peter?

@@ -7,6 +7,25 @@ kategori: Det nye testamentet
 sub-kategori: Matteus
 tags: [Matteus, Johannes-døperen, visdom, Menneskesønnen, Elias, himlenes-rike, hvile, åk, skjult-og-åpenbart]
 sources: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Matt 11:1–30 — Johannes, visdom og hvile"
+  description: "Jesus bekrefter Johannes' rolle, konfronterer vantro byer, og avslutter med den store innbydelsen. Spørsmål om hvem Jesus er, og hvem som forstår det."
+  about:
+    "@type": "Book"
+    name: "Matteusevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q26180"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "matteus-evangeliet.md"
+    - "Johannes-døperen"
+    - "visdom"
+    - "Menneskesønnen"
+    - "hvile"
+    - "åk"
 ---
 
 > Kom til meg, alle dere som strever og bærer tunge byrder, og jeg vil gi dere hvile. — Matt 11:28

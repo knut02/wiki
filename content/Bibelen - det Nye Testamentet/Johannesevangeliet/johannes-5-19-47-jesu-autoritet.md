@@ -7,6 +7,23 @@ tags: [johannes, faderens-sønn, dom, oppstandelse, evigtt-liv, vitnesbyrd, mose
 sources:
   - "[[sources/keener-ivp-nt]]"
   - "[[sources/burge-john]]"
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Johannes 5:19-47 – Jesu autoritet og vitnesbyrdene"
+  description: "Jesu doktrinale forsvar etter sabbatskonflikten: hans relasjon til Faderen, myndighet til å gi liv og dømme, og de fire vitnene som bekrefter hvem han er."
+  about:
+    "@type": "Book"
+    name: "Johannesevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q36239"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "johannes-evangeliet.md"
+    - "dom"
+    - "realisert eskatologi"
+    - "Faderen og Sønnen"
 ---
 
 # Johannes 5:19-47 – Jesu autoritet og vitnesbyrdene

@@ -7,6 +7,25 @@ sub-kategori: NT og oldkirke-personer
 tags: [Perpetua, martyr, Kartago, dagbok, 203 e.Kr, fengsel, kvinner, Felicitas]
 modified: 2025-07-09
 kilder: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Perpetua"
+  alternateName: "Vibia Perpetua"
+  birthDate: "ca. 181"
+  deathDate: "203"
+  description: "Romersk kristen aristokrat og martyr i Karthago. Henrettet 7. mars 203. Hennes fengselsdagbok er den eldste bevarte tekst av en kristen kvinne."
+  birthPlace: "Karthago, Nord-Afrika"
+  sameAs: "https://www.wikidata.org/wiki/Q237820"
+  relatedTo:
+    - "tertullian.md"
+    - "augustin.md"
+    - "cyprian-av-karthago.md"
+  mentions:
+    - "martyrium"
+    - "Passio Perpetuae"
+    - "Felicitas"
+    - "visjon"
 ---
 
 # Perpetua

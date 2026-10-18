@@ -4,6 +4,24 @@ description: "Biskop og martyr i Karthago (ca. 200–258), oldkirkens viktigste 
 date: 2026-10-13
 kategori: Personer
 tags: [Cyprian, Karthago, oldkirken, kirkefedre, kirkens enhet, episkopat, martyrium, frafall, tredje århundre]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Cyprian av Karthago"
+  birthDate: "ca. 200"
+  deathDate: "258"
+  description: "Biskop av Karthago og kirkefar. Oldkirkens viktigste kirketeolog. Martyr under Valerian-forfølgelsen. Kjent for læren om kirkens enhet og episkopatet."
+  birthPlace: "Karthago, Nord-Afrika"
+  sameAs: "https://www.wikidata.org/wiki/Q154986"
+  relatedTo:
+    - "tertullian.md"
+    - "augustin.md"
+    - "athanasius.md"
+  mentions:
+    - "kirkens enhet"
+    - "episkopat"
+    - "lapsi"
+    - "martyrium"
 ---
 
 ## Liv og bakgrunn

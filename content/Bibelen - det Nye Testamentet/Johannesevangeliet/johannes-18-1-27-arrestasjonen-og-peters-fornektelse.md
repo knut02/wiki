@@ -5,6 +5,23 @@ perikope: "Joh 18:1–27"
 testament: NT
 bok: Johannes
 kapittel: 18
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Johannes 18:1–27 – Arrestasjonen og Peters fornektelse"
+  description: "Jesus overleverer seg suverent med 'ego eimi' og soldatene faller, mens Peter fornekter med 'ouk eimi' – pasjonens doble ironi."
+  about:
+    "@type": "Book"
+    name: "Johannesevangeliet"
+    sameAs: "https://www.wikidata.org/wiki/Q36239"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "johannes-evangeliet.md"
+    - "ego eimi"
+    - "Peters fornektelse"
+    - "pasjon"
 ---
 
 # Johannes 18:1–27 – Arrestasjonen og Peters fornektelse

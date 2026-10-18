@@ -5,6 +5,22 @@ kategori: Personer
 sub-kategori: GT-personer
 tags: [David, Israel, konge, salmer, Batseba, Messias-stamtre, pakt, Davids by]
 kilder: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Kong David"
+  description: "Israels andre konge; Messias-løftet; salmist; forfader til Jesus av Nasaret"
+  birthPlace: "Betlehem"
+  sameAs: "https://www.wikidata.org/wiki/Q41370"
+  relatedTo:
+    - "kong-saul.md"
+    - "jesus.md"
+    - "josef-fosterfar.md"
+    - "abner.md"
+  mentions:
+    - "messias"
+    - "salme-22"
+    - "Davids-pakten"
 ---
 
 # Kong David

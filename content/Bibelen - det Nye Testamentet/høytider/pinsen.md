@@ -8,6 +8,23 @@ sub-kategori: Sentrale tekster
 studievei: [evangeliene, kirkehistorie, gt]
 tags: [pinsen, Ånden, Peter, Joel, Babel, tungetale, dåp, Apg 2, pinsedagens teologi]
 sources: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Article"
+  name: "Pinsen — Apg 2"
+  description: "Pinsedagen er NT's store overgangsbegivenhet — Ånden utgyttes, folkemengden forsto på sine egne språk, og kirken ble til. En gjennomgang av symbolene, Peters tale og teologien."
+  about:
+    "@type": "Book"
+    name: "Apostlenes gjerninger"
+    sameAs: "https://www.wikidata.org/wiki/Q45465"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "apostlenes-gjerninger.md"
+    - "Babel"
+    - "Joel"
+    - "dåp"
 ---
 
 > «Da pinsedagen kom, var de alle samlet på samme sted. Og plutselig lød det fra himmelen som et veldig vindkast, og det fylte hele huset der de satt.» — Apg 2:1-2

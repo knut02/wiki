@@ -7,6 +7,24 @@ kategori: Personer
 sub-kategori: Moderne teologer
 tags: [NT-Wright, Paulus, oppstandelse, ny-skapelse, eskatologi, ny-paulinsk-perspektiv, håp, imperial-teologi]
 sources: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "N.T. Wright"
+  alternateName: "Nicholas Thomas Wright"
+  birthDate: "1948"
+  description: "Britisk nytestamentler og anglikansk biskop. Professor ved Oxford, Cambridge og St Andrews. Kjent for ny-paulinsk perspektiv og teologi om oppstandelse og ny skapelse."
+  birthPlace: "Morpeth, Northumberland, England"
+  sameAs: "https://www.wikidata.org/wiki/Q921705"
+  relatedTo:
+    - "paulus.md"
+    - "jurgen-moltmann.md"
+    - "dallas-willard.md"
+  mentions:
+    - "ny-paulinsk perspektiv"
+    - "oppstandelse"
+    - "ny skapelse"
+    - "eskatologi"
 ---
 
 > Oppstandelse er ikke livet etter døden — det er livet etter livet etter døden. — N.T. Wright

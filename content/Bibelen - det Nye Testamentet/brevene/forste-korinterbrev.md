@@ -8,6 +8,26 @@ sub-kategori: Paulusteologi
 studievei: [disippelskap, kirkehistorie, Bibelen]
 tags: [1 Korinterbrev, Korint, korset, visdom, åndsgaver, kjærlighet, oppstandelse, nattverd, enhet]
 sources: 2
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Book"
+  name: "Første Korinterbrev"
+  description: "Paulus' pastoral krisehåndtering av en splittet menighet — korsets dårskap mot verdens visdom, åndsgavene, kjærlighetens vei og oppstandelsens teologi."
+  inLanguage: "grc"
+  author:
+    "@type": "Person"
+    name: "Paulus"
+    sameAs: "https://www.wikidata.org/wiki/Q9200"
+  dateCreated: "0054"
+  sameAs: "https://www.wikidata.org/wiki/Q47535"
+  isPartOf:
+    "@type": "Book"
+    name: "Det nye testamentet"
+  mentions:
+    - "paulus.md"
+    - "åndsgaver"
+    - "oppstandelsen"
+    - "nattverd"
 ---
 
 > «For Guds dårskap er visere enn menneskenes visdom, og Guds svakhet er sterkere enn menneskenes styrke.» — 1 Kor 1:25

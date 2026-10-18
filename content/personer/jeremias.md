@@ -5,6 +5,24 @@ date: 2026-10-04
 kategori: Personer
 sub-kategori: GT-personer
 tags: [Jeremias, profet, Jerusalem, klage, ny pakt, Babylon, eksil, GT, lidelse]
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Jeremias"
+  birthDate: "ca. 650 f.Kr."
+  deathDate: "ca. 580 f.Kr."
+  description: "Hebraisk profet, kalt under kong Josias (627 f.Kr.). Kjent som gråteprofeten. Forkynte dom over Jerusalem og overlevde byens fall i 587 f.Kr."
+  birthPlace: "Anatot, Benjamin"
+  sameAs: "https://www.wikidata.org/wiki/Q42261"
+  relatedTo:
+    - "jesaja.md"
+    - "moses.md"
+    - "kong-david.md"
+  mentions:
+    - "ny pakt"
+    - "klagesanger"
+    - "Babylon"
+    - "eksil"
 ---
 
 Jeremias kalles gjerne «gråteprofeten» — ikke fordi han var svak, men fordi han var ærlig. Han er den profeten vi kjenner best innenfra: hans tvil, hans klager til Gud, hans utmattelse og hans ufravikelige troskap.

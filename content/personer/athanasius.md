@@ -7,6 +7,23 @@ sub-kategori: NT og oldkirke-personer
 tags: [Athanasius, Nikea, homoousios, arianisme, eksil, Alexandria, 296-373]
 modified: 2025-05-10
 kilder: 3
+jsonld:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  name: "Athanasius av Alexandria"
+  birthDate: "296"
+  deathDate: "373"
+  description: "Forsvarer av Nikea-bekjennelsen; homoousios; fem eksiler; De Incarnatione"
+  birthPlace: "Alexandria, Egypt"
+  sameAs: "https://www.wikidata.org/wiki/Q170603"
+  relatedTo:
+    - "augustin.md"
+    - "origenes.md"
+    - "antonius-den-store.md"
+  mentions:
+    - "inkarnasjon"
+    - "arianisme"
+    - "theosis"
 ---
 
 ## Biografi
